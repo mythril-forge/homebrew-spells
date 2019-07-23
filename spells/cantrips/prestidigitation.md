@@ -1,33 +1,39 @@
 # Prestidigitation
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
 **Casting Time:** action
 
-**Duration:** 1 hour
+**Duration:** instantaneous
 
-**Range:** 10 feet
+**Range:** 30 feet
 
-**Tags:** verbal, somatic
+**Tags:** verbal, somatic, material
+
+**Verbal Components:** ancient arcane words
+
+**Somatic Components:** twirling and tapping with a wand
+
+**Material Components:** a wooden wand or stick
 
 ---
 
 ## Description
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
-- You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
-- You instantaneously light or snuff out a candle, a torch, or a small campfire.
-- You instantaneously clean or soil an object no larger than 1 cubic foot.
-- You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-- You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
-- You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+- You create a tiny sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+- You chill, heat, soil, clean, color, or flavor up to 1-cubic foot of material.
+- You materialize small mark or symbol onto an object or a surface.
+- You transform the shape of one simple, nonmagical trinket that can fit in your hand into another.
+- You have a subdued power over the elements. For example, you can instantly light or snuff out a candle, a torch, or a small campfire.
+- You magically open or close an unlocked door or container within range.
 
-If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+> Prestidigitation is a powerful roleplaying tool in that the spell's scope is not limited by its description, but instead your imagination.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard, artificer (revisited)
+**Classes:** bard, sorcerer, warlock, wizard, artificer
 
 **Subclasses:** arcane archer fighter
 

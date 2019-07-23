@@ -1,29 +1,33 @@
 # Thaumaturgy
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** 1 minute
+**Duration:** instantaneous
 
 **Range:** 30 feet
 
 **Tags:** verbal
 
+**Verbal Component:** any powerfully spoken phrase
+
 ---
 
 ## Description
 You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
-- Your voice booms up to three times as loud as normal for 1 minute.
-- You cause flames to flicker, brighten, dim, or change color for 1 minute.
-- You cause harmless tremors in the ground for 1 minute.
-- You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
-- You instantaneously cause an unlocked door or window to fly open or slam shut.
-- You alter the appearance of your eyes for 1 minute.
+- Your voice temporarily booms up to three times as loud as normal, or the appearance of your eyes is strangely altered.
+- You affect small objects around you, such as causing unlocked containers, doors, and windows to fly open and slam shut.
+- You call upon a sound and supernatural&mdash;forces reciprocate, producing rumbles of thunder, cries of a raven, ominous whispers, light footsteps and more.
+- You cause strange, minor anomolies in the laws of physics&mdash;briefly affecting gravity, time, space, and other phenomena.
+- You have a subdued power over the elements. For example, you can conjure a tuft of flame, cause harmless tremors in the ground, or attain a freezing touch.
+- You cause flames to flicker, brighten, dim, or change color.
 
-If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
+These effects are normally quite brief, but can last longer (at the DM's discretion), depending on the nature of the spell's specific casting.
+
+> Thaumaturgy is a powerful roleplaying tool in that the spell's scope is not limited by its description, but instead your imagination.
 
 ---
 
