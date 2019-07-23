@@ -1,6 +1,6 @@
 # Acid Splash
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level conjuration***
 
@@ -8,19 +8,28 @@
 
 **Duration:** instantaneous
 
-**Range:** 60 feet
+**Range:** 30 feet
+
+**Shape:** sphere
+
+**Radius:** 5 feet
 
 **Tags:** verbal, somatic
+
+**Verbal Components:** sounds of slithering
+
+**Somatic Components:** a flick of the wrist
 
 ---
 
 ## Description
-You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take `1d6` acid damage.
+You hurl a bubble of acid at a point you choose within range, which then splatters on impact. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity saving throw. A target must succeed on a Dexterity saving throw or take `1d6` acid damage.
 
-This spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th level (`3d6`), and 17th level (`4d6`).
+## At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d6` for each slot level.
 
 ---
 
-**Classes:** sorcerer, wizard, artificer (revisited)
+**Classes:** sorcerer, wizard, artificer
 
 **Source:** PHB, page 211
