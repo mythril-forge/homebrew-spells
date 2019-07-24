@@ -1,29 +1,33 @@
 # Mage Hand
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level conjuration***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** indefinate
 
 **Range:** 30 feet
 
 **Tags:** verbal, somatic
 
+**Verbal Components:** a basic command
+
+**Somatic Components:** gestures that mimic the hand's commands
+
 ---
 
 ## Description
-A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it exceeds the spell's range from you or if you cast this spell again.
 
-You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+When you cast the spell, you can control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. As an action on your turn, you can control the hand again for further usage. You can move the hand up to 30 feet each time you use it.
 
-The hand can't attack, activate magic items, or carry more than 10 pounds.
+The hand can't attack, cast spells, activate magic items, or carry more than 10 pounds. It also cannot handle complex tasks that would require an ability check.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard, artificer (revisited)
+**Classes:** bard, sorcerer, warlock, wizard, artificer
 
 **Subraces:** gith (githyanki), gith (githzerai), gith (githyanki), gith (githzerai), tiefling (mammon), tiefling (mephistopheles), tiefling (mammon), tiefling (mephistopheles)
 

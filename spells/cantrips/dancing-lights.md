@@ -1,29 +1,35 @@
 # Dancing Lights
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level evocation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** 1 minute
+**Duration:** indefinate
 
 **Range:** 120 feet
 
+**Instances:** 6
+
 **Tags:** verbal, somatic, material, concentration
+
+**Verbal Components:** an intentful whisper
+
+**Somatic Components:** gently waving in a circular motion
 
 **Material Components:** a bit of phosphorus or wychwood, or a glowworm
 
 ---
 
 ## Description
-You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
+You create up to six torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air. You can also combine the six lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
 
-As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
+As a bonus action on your turn, you can move each of the lights up to a distance of 120 feet. A light winks out if it exceeds the spell's range.
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer (revisited)
+**Classes:** bard, ranger, sorcerer, wizard, artificer
 
 **Subraces:** elf (drow), half-elf (drow descent), tiefling (abyssal)
 
