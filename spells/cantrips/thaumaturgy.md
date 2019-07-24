@@ -27,7 +27,7 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 These effects are normally quite brief, but can last longer (at the DM's discretion), depending on the nature of the spell's specific casting.
 
-> Thaumaturgy is a powerful roleplaying tool in that the spell's scope is not limited by its description, but instead your imagination.
+> *Thaumaturgy* is a powerful roleplaying tool in that the spell's scope is not limited by its description, but instead your imagination.
 
 ---
 

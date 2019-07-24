@@ -29,7 +29,7 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 - You have a subdued power over the elements. For example, you can instantly light or snuff out a candle, a torch, or a small campfire.
 - You magically open or close an unlocked door or container within range.
 
-> Prestidigitation is a powerful roleplaying tool in that the spell's scope is not limited by its description, but instead your imagination.
+> *Prestidigitation* is a powerful roleplaying tool in that the spell's scope is not limited by its description, but instead your imagination.
 
 ---
 

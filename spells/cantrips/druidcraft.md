@@ -29,7 +29,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 The environment you effect returns to its natural order briefly after casting this spell.
 
-> Druidcraft is a powerful roleplaying tool in that the spell's scope is not so limited by its description, but instead your imagination.
+> *Druidcraft* is a powerful roleplaying tool in that the spell's scope is not so limited by its description, but instead your imagination.
 
 ---
 
