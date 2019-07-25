@@ -1,21 +1,24 @@
 # Mind Fist
 
-- [ ] Homebrew
+- [x] Homebrew
 
-***0th-level psionic***
+***0th-level evocation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
 **Duration:** instantaneous
 
-**Range:** 60 feet
+**Range:** 30 feet
 
 ---
 
 ## Description
-You point at one creature you can see within range and project a focused beam of telekinetic power at it. The target must succeed on a Strength saving throw or take `1d6` bludgeoning damage and be pushed up to 15 feet away from you.
+You point yourself at one creature you can see within range and project a focused beam of telekinetic power at it. The target must succeed on a Strength saving throw or take `1d4` bludgeoning damage.
 
-This spell's damage increases by one die when you reach 5th level (`2d6`), 11th level (`3d6`), and 17th level (`4d6`).
+If the target you hit is Large or smaller, it can also be pushed up to 10 feet away from you.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d4` for each slot level.
 
 ---
 
