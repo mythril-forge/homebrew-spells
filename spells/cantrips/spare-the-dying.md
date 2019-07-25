@@ -1,6 +1,6 @@
 # Spare the Dying
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level necromancy***
 
@@ -12,14 +12,18 @@
 
 **Tags:** verbal, somatic
 
+**Verbal Components:** an infernal incantation
+
+**Somatic Components:** touching the target with your hand
+
 ---
 
 ## Description
-You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+You touch a living creature that has 0 hit points. The creature becomes stable and gains `1d4` temporary hit points.
 
 ---
 
-**Classes:** cleric, artificer (revisited)
+**Classes:** cleric, paladin, artificer
 
 **Subraces:** elf (shadar-kai), tiefling (abyssal)
 
