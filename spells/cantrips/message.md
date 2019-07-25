@@ -31,4 +31,4 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 **Subraces:** tiefling (abyssal)
 
-**Source:** PHB, page 259
+**Sources:** PHB, page 259

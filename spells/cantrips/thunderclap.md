@@ -30,4 +30,4 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Classes:** bard, druid, sorcerer, warlock, wizard, artificer
 
-**Source:** XGE, page 168
+**Sources:** XGE, page 168

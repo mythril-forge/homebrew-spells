@@ -28,4 +28,4 @@ When you cast this spell using a spell slot of 1st level or higher, the spell pr
 
 **Classes:** warlock
 
-**Source:** PHB, page 237
+**Sources:** PHB, page 237

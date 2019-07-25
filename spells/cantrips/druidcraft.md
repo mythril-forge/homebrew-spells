@@ -37,4 +37,4 @@ The environment you effect returns to its natural order briefly after casting th
 
 **Subclasses:** arcane archer fighter
 
-**Source:** PHB, page 236
+**Sources:** PHB, page 236

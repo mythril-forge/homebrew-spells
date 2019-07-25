@@ -25,4 +25,4 @@ You extend your hand and trace a sigil of warding in the air. You have resistanc
 
 **Classes:** bard, sorcerer, warlock, wizard
 
-**Source:** PHB, page 218
+**Sources:** PHB, page 218

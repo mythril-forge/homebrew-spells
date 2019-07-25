@@ -32,4 +32,4 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Classes:** sorcerer, wizard, artificer
 
-**Source:** PHB, page 211
+**Sources:** PHB, page 211

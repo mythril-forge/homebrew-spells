@@ -35,4 +35,4 @@ These effects are normally quite brief, but can last longer (at the DM's discret
 
 **Subraces:** elf (shadar-kai), tiefling (zariel), tiefling (variant), tiefling (variant), tiefling (asmodeus), tiefling (baalzebul), tiefling, tiefling (zariel), tiefling (asmodeus), tiefling (baalzebul), tiefling (dispater), tiefling (dispater)
 
-**Source:** PHB, page 282
+**Sources:** PHB, page 282

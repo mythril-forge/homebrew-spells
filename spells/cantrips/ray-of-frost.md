@@ -34,6 +34,6 @@ When you cast this spell using a spell slot of 1st level or higher, the spell pr
 
 **Subraces:** tiefling (levistus), tiefling (levistus)
 
-**Source:** PHB, page 271; XGE, page 156
+**Sources:** PHB, page 271; XGE, page 156
 
-**Spell References:** ray of frost, frostbite
+**Referenced Spells:** ray of frost, frostbite

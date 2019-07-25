@@ -32,6 +32,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Subraces:** elf (eladrin), elf (shadar-kai), elf (zendikar) (mul daya nation)
 
-**Source:** PHB, page 221
+**Sources:** PHB, page 221
 
-**Referenced Spell:** chill touch
+**Referenced Spells:** chill touch

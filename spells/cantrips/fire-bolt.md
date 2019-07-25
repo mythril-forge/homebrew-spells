@@ -32,4 +32,4 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Subraces:** elf (eladrin)
 
-**Source:** PHB, page 242
+**Sources:** PHB, page 242

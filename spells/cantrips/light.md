@@ -33,4 +33,4 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 **Subraces:** aasimar (fallen), aasimar (protector), aasimar (scourge), tiefling (abyssal)
 
-**Source:** PHB, page 255
+**Sources:** PHB, page 255

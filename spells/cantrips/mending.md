@@ -29,4 +29,4 @@ This spell can physically repair a magic item or construct, but the spell can't 
 
 **Classes:** bard, cleric, druid, sorcerer, wizard, artificer
 
-**Source:** PHB, page 259
+**Sources:** PHB, page 259

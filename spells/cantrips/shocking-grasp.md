@@ -32,4 +32,4 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Subclasses:** giant soul (ua) sorcerer
 
-**Source:** PHB, page 275
+**Sources:** PHB, page 275

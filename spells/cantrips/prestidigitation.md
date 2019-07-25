@@ -39,4 +39,4 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 
 **Subraces:** tiefling (abyssal)
 
-**Source:** PHB, page 267
+**Sources:** PHB, page 267
