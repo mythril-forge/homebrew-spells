@@ -1,6 +1,6 @@
 # Ray of Frost
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level evocation***
 
@@ -8,23 +8,32 @@
 
 **Duration:** instantaneous
 
-**Range:** 60 feet
+**Range:** 90 feet
 
 **Tags:** verbal, somatic
+
+**Verbal Components:** a primordial word for frost
+
+**Somatic Components:** pointing with your index finger
 
 ---
 
 ## Description
-A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes `1d8` cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes `1d6` cold damage as numbing frost and even chunks of ice form on its body. Until the end of your next turn, the target's movement speed is reduced by 10 feet.
 
-The spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th level (`3d8`), and 17th level (`4d8`).
+If the target you hit is Large or smaller, it also has disadvantage on all ranged weapon attacks until the end of your next turn. A creature who is resistant to cold damage ignores secondary effects caused by this spell.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the spell produces one additional beam for each slot level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 ---
 
-**Classes:** sorcerer, wizard, artificer (revisited)
+**Classes:** sorcerer, wizard, artificer
 
 **Subclasses:** giant soul (ua) sorcerer
 
 **Subraces:** tiefling (levistus), tiefling (levistus)
 
-**Source:** PHB, page 271
+**Source:** PHB, page 271; XGE, page 156
+
+**Spell References:** ray of frost, frostbite
