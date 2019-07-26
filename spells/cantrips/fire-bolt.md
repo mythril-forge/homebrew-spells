@@ -19,7 +19,7 @@
 ---
 
 ## Description
-You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `1d8` fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `1d8` fire damage.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d8` for each slot level.

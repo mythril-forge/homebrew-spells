@@ -12,7 +12,7 @@
 
 **Tags:** verbal
 
-**Verbal Component:** any powerfully spoken phrase
+**Verbal Components:** any powerfully spoken phrase
 
 ---
 
