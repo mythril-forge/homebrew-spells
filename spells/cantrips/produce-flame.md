@@ -1,25 +1,32 @@
 # Produce Flame
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level conjuration***
 
 **Casting Time:** action
 
-**Duration:** 10 minutes
+**Duration:** instantaneous
 
-**Range:** self
+**Range:** 30 feet
 
 **Tags:** verbal, somatic
+
+**Verbal Components:** the word "fire" spoken in ancient druidic
+
+**Somatic Components:** clenching your fist tightly
 
 ---
 
 ## Description
-A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.
+A flickering flame appears in one of your hands, and you hurl the flame at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `1d10` fire damage.
 
-You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes `1d8` fire damage.
+You can also hold onto the flame instead of attacking with it immediately. When you do so, the flame lingers harmlessly in your hand for up to 1 day, and sheds bright light in a 10-foot radius. You can take a bonus action to hurl the flame on a later turn, although doing so ends the spell. Likewise, you can end the spell if you choose to dismiss it (no action required).
 
-This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th level (`3d8`), and 17th level (`4d8`).
+If you have two or more hands, you can maintain an instance of this spell in each of your hands.
+
+### At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d10` for each slot level.
 
 ---
 
