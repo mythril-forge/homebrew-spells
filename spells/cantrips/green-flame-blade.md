@@ -1,25 +1,30 @@
-# Green-Flame Blade
+# Green-Flame Curse
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level evocation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** instantaneous
+**Duration:** 1 round
 
-**Range:** 5 feet
+**Range:** self
 
 **Tags:** verbal, material
+
+**Verbal Components:** the word "burn" spoken in abyssal
 
 **Material Components:** a weapon
 
 ---
 
 ## Description
-As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and green fire leaps from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier.
+Choose a weapon that you are holding. The weapon is shrouded in green, flaming energy until the end of your next turn. The first time a creature makes a melee weapon attack with this weapon before then, it unleashes its energy upon its target, and the spell ends. If the attack hits, the target takes `1d10` fire damage and suffers the attack's normal effects.
 
-This spell's damage increases when you reach higher levels. At 5th level, the melee attack deals an extra `1d8` fire damage to the target, and the fire damage to the second creature increases to `1d8` + your spellcasting ability modifier. Both damage rolls increase by `1d8` at 11th level and 17th level.
+If you let go of the weapon, its curse dissipates, and the spell ends.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d10` for each slot level.
 
 ---
 
