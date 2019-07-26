@@ -1,23 +1,29 @@
 # Primal Savagery
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** instantaneous
+**Duration:** indefinate
 
 **Range:** self
 
 **Tags:** somatic
 
+**Somatic Components:** forcing your teeth or nails to grow
+
 ---
 
 ## Description
-You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes `1d10` acid damage. After you make the attack, your teeth or fingernails return to normal.
+You channel primal magic to cause your teeth or fingernails to sharpen. Your unarmed strikes are ready for a series of feral attacks&mdash;tooth and claw:
+- You become proficient with unarmed strikes while this spell is active.
+- Your unarmed strikes deal `1d4` damage unless they already do more.
+- Your unarmed strikes deal magical bludgeoning, slashing, or piercing damage (your choice).
+- Your unarmed strikes have a bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded up).
 
-The spell's damage increases by `1d10` when you reach 5th level (`2d10`), 11th level (`3d10`), and 17th level (`4d10`).
+You can end this spell at any time (no action required).
 
 ---
 

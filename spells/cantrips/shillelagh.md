@@ -6,7 +6,7 @@
 
 **Casting Time:** bonus action
 
-**Duration:** 1 day
+**Duration:** indefinate
 
 **Range:** touch
 
@@ -25,7 +25,7 @@ You take a wooden branch, club, or staff that you are holding, and either hold i
 - The quarterstaff deals magical bludgeoning damage.
 - The quarterstaff has a bonus to attack and damage rolls made with this weapon equal to half your wisdom modifier (rounded up).
 
-If you let go of the quarterstaff, the magic dissipates, and the staff reverts to the original shape as the spell ends.
+If you let go of the quarterstaff, the magic dissipates, and the spell ends as the staff reverts to its original shape.
 
 ---
 

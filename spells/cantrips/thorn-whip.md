@@ -4,9 +4,9 @@
 
 ***0th-level transmutation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** 1 day
+**Duration:** indefinate
 
 **Range:** 30 feet
 
