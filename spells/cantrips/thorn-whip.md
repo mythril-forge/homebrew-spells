@@ -30,6 +30,6 @@ If you let go of the whip or cast this spell again, it disappears, and the spell
 
 ---
 
-**Classes:** bard, druid, ranger, artificer
+**Classes:** druid, ranger, artificer
 
 **Sources:** PHB, page 282
