@@ -1,24 +1,28 @@
 # Guidance
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level divination***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** touch
 
 **Tags:** verbal, somatic, concentration
 
+**Verbal Components:** a gentle excerpt of wisdom
+
+**Somatic Components:** touching the target with your hand
+
 ---
 
 ## Description
-You touch one willing creature. Once before the spell ends, the target can roll a `d4` and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+You touch one willing creature granting it a mote of divine energy. Once before the spell ends, the target can use this mote of energy when they make an attack roll or ability check once before the spell ends. Doing so grants them a bonus `1d4` to their roll. The spell then ends.
 
 ---
 
-**Classes:** cleric, druid, artificer (revisited)
+**Classes:** cleric, druid, artificer
 
 **Sources:** PHB, page 248
