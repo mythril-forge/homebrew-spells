@@ -1,12 +1,12 @@
 # Shape Water
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** special
+**Duration:** instantaneous
 
 **Range:** 30 feet
 
@@ -16,16 +16,18 @@
 
 **Tags:** somatic
 
+**Somatic Components:** arcane primordial gestures
+
 ---
 
 ## Description
 You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
-- You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn't have enough force to cause damage.
-- You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.
-- You change the water's color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
-- You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
-
-If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+- You can command the water to lash out at a target creature within range, if there is a pool of water within 30 feet of the target. That creature must make a Dexterity saving throw or take `1d6` bludgeoning damage.
+- You instantaneously move the water, depositing it up to 30 feet away in any direction to a point within range.
+- You change the flow of the water as you direct within the spell's area.
+- You can cause water to freeze, and ice to melt.
+- You change the water's color or opacity. The water must be changed in the same way throughout the spell's area. The water's flow may disperse this effect at the end of your next turn.
+- You cause the water to form into simple shapes&mdash;such as the vague form of a creature, an inanimate object, or a location&mdash;and animate as you like until the end of your next turn.
 
 ---
 
