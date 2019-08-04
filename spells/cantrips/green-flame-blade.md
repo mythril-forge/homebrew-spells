@@ -1,4 +1,4 @@
-# Green-Flame Curse
+# Green-Flame Blade
 
 - [x] Homebrew
 
@@ -19,12 +19,11 @@
 ---
 
 ## Description
-Choose a weapon that you are holding. The weapon is shrouded in green, flaming energy until the end of your next turn. The first time a creature makes a melee weapon attack with this weapon before then, it unleashes its energy upon its target, and the spell ends. If the attack hits, the target takes `1d10` fire damage and suffers the attack's normal effects.
+Choose a weapon that you are holding. The weapon is shrouded in green, flaming energy until the end of your next turn. The first time you make a melee weapon attack with this weapon before then, it unleashes its burning energy upon its target, and the spell ends. If the attack hits, the target takes an extra `2d4` fire damage in addition to the weapon's normal damage and effects. 
 
-If you let go of the weapon, its curse dissipates, and the spell ends.
+If you roll the same numbers on both `d4`s, the flaming energy leaps from the target to a different creature of your choice within 5 feet of it. Make a new melee weapon attack roll against the new target, and make a new damage roll, which could cause the flaming energy to leap again. The weapon's normal damage and effects only apply to the first target. A creature can be targeted only once by each casting of this spell.
 
-## At Higher Levels
-When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d10` for each slot level.
+If you let go of the weapon, its charm dissipates, and the spell ends.
 
 ---
 
