@@ -1,6 +1,6 @@
 # Cure Wounds
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level evocation***
 
@@ -15,16 +15,16 @@
 ---
 
 ## Description
-A creature you touch regains a number of hit points equal to `1d8` + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature you touch regains `3d8` hit points. This spell has no effect on undead or constructs.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `1d8` for each slot level above 1st.
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, ranger, artificer, artificer (revisited)
+**Classes:** bard, cleric, druid, paladin, ranger, artificer,
 
-**Subclasses:** life cleric, celestial (ua) warlock, celestial warlock, divine soul sorcerer
+**Subclasses:** life cleric, celestial warlock, celestial warlock, divine soul sorcerer
 
 **Subraces:** tiefling (abyssal)
 

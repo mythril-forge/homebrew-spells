@@ -1,6 +1,6 @@
 # Goodberry
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level transmutation***
 
@@ -12,14 +12,14 @@
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** a sprig of mistletoe
+**Material Components:** a sprig of mistletoe, and a bounty of dried berries worth atleast 25 cp, which the spell consumes
 
 ---
 
 ## Description
-Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.
+Up to `1d10` berries in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores `1d4` hit point, and the berry provides enough nourishment to be comparable to one full meal.
 
-The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
+The berries lose their potency quickly, and rot if they have not been consumed within 1 hour of the casting of this spell.
 
 ---
 

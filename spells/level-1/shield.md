@@ -1,6 +1,6 @@
 # Shield
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level abjuration***
 
@@ -21,8 +21,8 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 **Classes:** sorcerer, wizard
 
-**Subclasses:** forge (ua) cleric, hexblade (ua) warlock, hexblade warlock, redemption (ua) paladin, artillerist artificer (revisited)
+**Subclasses:** forge cleric, hexblade warlock, hexblade warlock, redemption paladin, artillerist artificer
 
-**Subraces:** gith (githzerai), gith (githzerai)
+**Subraces:** gith (githzerai)
 
 **Sources:** PHB, page 275

@@ -1,6 +1,6 @@
 # Identify
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level divination***
 
@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material, ritual
 
-**Material Components:** a pearl worth at least 100 gp and an owl feather
+**Material Components:** a pearl worth at least 500 sp and an owl feather
 
 ---
 

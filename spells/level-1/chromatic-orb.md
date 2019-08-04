@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** a diamond worth at least 50 gp
+**Material Components:** a diamond worth at least 300 sp
 
 ---
 

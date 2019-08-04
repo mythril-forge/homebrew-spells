@@ -1,14 +1,14 @@
 # False Life
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level necromancy***
 
 **Casting Time:** action
 
-**Duration:** 1 hour
+**Duration:** 12 hours
 
-**Range:** self
+**Range:** touch
 
 **Tags:** verbal, somatic, material
 
@@ -17,15 +17,15 @@
 ---
 
 ## Description
-Bolstering yourself with a necromantic facsimile of life, you gain `1d4 + 4` temporary hit points for the duration.
+You touch a creature and bolster them with a necromantic facsimile of life. The target gains `3d4` temporary hit points.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
+When you cast this spell using a spell slot of 2nd level or higher, the target gains `2d4` additional temporary hit points for each slot level above 1st.
 
 ---
 
-**Classes:** sorcerer, wizard, artificer, artificer (revisited)
+**Classes:** sorcerer, wizard, artificer
 
-**Subclasses:** death cleric, undying warlock, grave (ua) cleric, raven queen (ua) warlock, grave cleric
+**Subclasses:** death cleric, undying warlock, grave cleric, raven queen warlock, grave cleric
 
 **Sources:** PHB, page 239

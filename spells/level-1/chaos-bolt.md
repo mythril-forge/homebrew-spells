@@ -1,6 +1,6 @@
 # Chaos Bolt
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level evocation***
 
@@ -25,8 +25,6 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 | 4    | Fire                               |
 | 5    | Cold                               |
 | 6    | Lightning                          | 
-
-
 
 If you roll two of the same numbers on any pair of `d6`s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again. A creature can be targeted only once by each casting of this spell.
 

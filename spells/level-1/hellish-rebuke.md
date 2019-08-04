@@ -1,6 +1,6 @@
 # Hellish Rebuke
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level evocation***
 
