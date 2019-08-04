@@ -1,12 +1,12 @@
 # Alarm
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level abjuration***
 
-**Casting Time:** 1 minute
+**Casting Time:** 5 minutes
 
-**Duration:** 8 hours
+**Duration:** 12 hours
 
 **Range:** 30 feet
 
@@ -25,10 +25,10 @@ You set an alarm against unwanted intrusion. Choose a door, a window, or an area
 
 A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.
 
-An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
+An audible alarm produces the sound of a hand bell for 10 seconds. You choose the sound of the bell, which can range in volume from a gentle tinkle to a raucous dong.
 
 ---
 
-**Classes:** ranger, wizard, artificer, artificer (revisited)
+**Classes:** ranger, wizard, artificer
 
 **Sources:** PHB, page 211

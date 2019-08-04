@@ -1,6 +1,6 @@
 # Magic Missile
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level evocation***
 

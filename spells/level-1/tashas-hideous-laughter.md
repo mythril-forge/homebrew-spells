@@ -1,12 +1,12 @@
 # Tasha's Hideous Laughter
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level enchantment***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 30 feet
 

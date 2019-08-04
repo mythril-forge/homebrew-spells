@@ -1,6 +1,6 @@
 # Arms of Hadar
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level conjuration***
 
@@ -10,7 +10,7 @@
 
 **Range:** self
 
-**Shape:** sphere
+**Shape:** aura
 
 **Radius:** 10 feet
 
