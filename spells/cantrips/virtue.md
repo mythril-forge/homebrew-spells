@@ -19,7 +19,7 @@
 ---
 
 ## Description
-You touch one willing creature, imbuing it with vitality. If the target has at least 1 hit point, it gains `4d4` temporary hit points. The temporary hit points are lost when the spell ends.
+You touch one willing creature, imbuing it with vitality. If the target has at least 1 hit point, it gains `3d4` temporary hit points. The temporary hit points are lost when the spell ends.
 
 ---
 

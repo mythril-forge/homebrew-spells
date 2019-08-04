@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** a primordial word for frost
+**Verbal Components:** the word "frost", spoken in primordial
 
 **Somatic Components:** pointing with your index finger
 

@@ -12,7 +12,7 @@
 
 **Tags:** verbal, material
 
-**Verbal Components:** the word "burn" spoken in abyssal
+**Verbal Components:** the word "burn", spoken in abyssal
 
 **Material Components:** a weapon
 

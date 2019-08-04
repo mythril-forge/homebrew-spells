@@ -1,5 +1,4 @@
-# Important Base Differences
-## Bonus Actions
+## Core Homebrew
 > ### Your Turn - Bonus Actions
 > Various class features, spells, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.
 > 

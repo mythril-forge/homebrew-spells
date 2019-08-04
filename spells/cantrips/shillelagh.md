@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material
 
-**Verbal Components:** the word "wood" spoken in ancient druidic
+**Verbal Components:** the word "wood", spoken in ancient druidic
 
 **Somatic Components:** holding a staff to the earth or sky
 

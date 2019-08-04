@@ -19,7 +19,7 @@
 ---
 
 ## Description
-You cause a cloud of mites, fleas, and other parasites to appear on one creature you can see within range. The target must succeed on a Constitution saving throw. On a failure, it takes `1d6` poison damage, and the target can't take any reactions until the end of your next turn, when the insects disperse. For each point of damage that the target takes from this spell, it moves 5 feet in a random cardinal direction.
+You cause a cloud of mites, fleas, and other parasites to swarm upon one creature you can see within range. The target must succeed on a Constitution saving throw. On a failure, it takes `1d6` poison damage, and the target can't take the dash action or any reactions until the end of your next turn, when the insects disperse. For each point of damage that the target takes from this spell, it moves 5 feet in a random cardinal direction.
 
 ---
 

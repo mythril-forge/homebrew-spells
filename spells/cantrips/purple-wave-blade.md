@@ -13,7 +13,7 @@
 
 **Tags:** verbal, material
 
-**Verbal Components:** the word "stop" spoken in infernal
+**Verbal Components:** the word "stop", spoken in infernal
 
 **Material Components:** a weapon
 
