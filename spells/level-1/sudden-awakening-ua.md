@@ -1,6 +1,6 @@
 # Sudden Awakening (UA)
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level enchantment***
 
@@ -8,14 +8,14 @@
 
 **Duration:** instantaneous
 
-**Range:** 10 feet
+**Range:** 30 feet
 
 **Tags:** verbal
 
 ---
 
 ## Description
-Each sleeping creature you choose within range awakens, and then each **prone** creature within range can stand up without expending any movement.
+Each sleeping creature you choose within range awakens. Then, each **prone** creature within range can immediately stand up without expending any movement.
 
 ---
 
