@@ -1,4 +1,4 @@
-# Remote Access (UA)
+# Remote Access
 
 - [x] Homebrew
 
