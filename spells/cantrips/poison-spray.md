@@ -16,10 +16,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** dramaticized exhalation
-
-**Somatic Components:** fanning out your fingers
-
 ---
 
 ## Description

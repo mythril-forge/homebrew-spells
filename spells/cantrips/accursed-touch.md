@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** vulgar gibberish
-
-**Somatic Components:** touching or grabbing your target
-
 ---
 
 ## Description

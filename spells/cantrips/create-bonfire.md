@@ -16,10 +16,6 @@
 
 **Tags:** verbal, somatic, concentration
 
-**Verbal Components:** the word "create", spoken in ignan
-
-**Somatic Components:** a flourish of the hand
-
 ---
 
 ## Description

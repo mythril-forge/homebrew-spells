@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic, material
 
-**Verbal Components:** ancient arcane words
-
-**Somatic Components:** twirling and tapping with a wand
-
 **Material Components:** a wooden wand or stick
 
 ---

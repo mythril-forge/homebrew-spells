@@ -12,8 +12,6 @@
 
 **Tags:** somatic
 
-**Somatic Components:** arcane primordial gestures
-
 ---
 
 ## Description

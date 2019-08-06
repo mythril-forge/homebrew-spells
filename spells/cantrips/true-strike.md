@@ -12,8 +12,6 @@
 
 **Tags:** somatic, concentration
 
-**Somatic Components:** pointing towards your target
-
 ---
 
 ## Description

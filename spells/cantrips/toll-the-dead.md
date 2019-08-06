@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic, material
 
-**Verbal Components:** a poem or hymn of death
-
-**Somatic Components:** ringing a bell
-
 **Material Components:** a hand bell
 
 ---

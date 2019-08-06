@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** the word "frost", spoken in primordial
-
-**Somatic Components:** pointing with your index finger
-
 ---
 
 ## Description

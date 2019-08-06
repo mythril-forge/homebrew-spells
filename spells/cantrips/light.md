@@ -12,8 +12,6 @@
 
 **Tags:** verbal, material
 
-**Verbal Components:** any synonym of the world light, enunciated clearly
-
 **Material Components:** a firefly or phosphorescent moss
 
 ---

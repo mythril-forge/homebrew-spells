@@ -12,8 +12,6 @@
 
 **Tags:** verbal
 
-**Verbal Components:** any powerfully spoken phrase
-
 ---
 
 ## Description

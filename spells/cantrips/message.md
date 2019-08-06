@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic, material
 
-**Verbal Components:** a whisper of your message
-
-**Somatic Components:** pointing your finger towards your target
-
 **Material Components:** a short piece of copper wire
 
 ---

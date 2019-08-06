@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic, material, concentration
 
-**Verbal Components:** a word of protection, spoken in sylvan
-
-**Somatic Components:** touching the target with your hand
-
 **Material Components:** a miniature shield or cloak
 
 ---

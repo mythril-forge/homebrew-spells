@@ -16,8 +16,6 @@
 
 **Tags:** verbal
 
-**Verbal Components:** an ancient dwarven word
-
 ---
 
 ## Description

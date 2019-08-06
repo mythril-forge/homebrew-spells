@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic, concentration
 
-**Verbal Components:** a cause for righteousness
-
-**Somatic Components:** touching the target with your hand
-
 ---
 
 ## Description

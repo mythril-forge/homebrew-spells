@@ -16,8 +16,6 @@
 
 **Tags:** verbal, material
 
-**Verbal Components:** a divine word, spoken in celestial
-
 **Material Components:** a holy symbol
 
 ---

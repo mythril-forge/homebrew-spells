@@ -12,8 +12,6 @@
 
 **Tags:** somatic, material
 
-**Somatic Components:** blowing gently
-
 **Material Components:** a living flea
 
 ---

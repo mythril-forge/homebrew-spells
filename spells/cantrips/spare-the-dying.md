@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** an infernal incantation
-
-**Somatic Components:** touching the target with your hand
-
 ---
 
 ## Description

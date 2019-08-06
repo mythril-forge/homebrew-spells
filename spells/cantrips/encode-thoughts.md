@@ -12,8 +12,6 @@
 
 **Tags:** somatic
 
-**Somatic Components:** placing a finger on your head
-
 ---
 
 ## Description

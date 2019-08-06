@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** a unique word of power
-
-**Somatic Components:** outstretching your arm
-
 ---
 
 ## Description

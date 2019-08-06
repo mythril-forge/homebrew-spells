@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** an arcane, single-syllabic shout in primordial
-
-**Somatic Components:** pointing your palm towards your target
-
 ---
 
 ## Description

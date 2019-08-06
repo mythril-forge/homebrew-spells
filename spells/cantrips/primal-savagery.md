@@ -12,8 +12,6 @@
 
 **Tags:** somatic
 
-**Somatic Components:** forcing your teeth or nails to grow
-
 ---
 
 ## Description

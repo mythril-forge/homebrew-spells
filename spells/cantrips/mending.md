@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic, material
 
-**Verbal Components:** a repetetive incantation
-
-**Somatic Components:** pressing the broken or torn objects together
-
 **Material Components:** two lodestones
 
 ---

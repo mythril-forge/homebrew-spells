@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** various clicks and chirps
-
-**Somatic Components:** wiggling the ends of your fingers
-
 ---
 
 ## Description

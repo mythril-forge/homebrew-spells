@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** the word on or off
-
-**Somatic Components:** flicking your index finger up or down
-
 ---
 
 ## Description

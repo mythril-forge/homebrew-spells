@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** a basic command
-
-**Somatic Components:** gestures that mimic the hand's commands
-
 ---
 
 ## Description

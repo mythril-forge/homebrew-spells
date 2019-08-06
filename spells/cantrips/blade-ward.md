@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic, concentration
 
-**Verbal Components:** an elvish word of protection
-
-**Somatic Components:** tracing hand gestures
-
 ---
 
 ## Description

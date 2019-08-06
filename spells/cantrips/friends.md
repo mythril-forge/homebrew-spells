@@ -12,8 +12,6 @@
 
 **Tags:** somatic, material, concentration
 
-**Somatic Components:** applying makeup to the face
-
 **Material Components:** a small amount of makeup
 
 ---

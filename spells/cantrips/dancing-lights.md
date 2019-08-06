@@ -14,10 +14,6 @@
 
 **Tags:** verbal, somatic, material, concentration
 
-**Verbal Components:** an intentful whisper
-
-**Somatic Components:** gently waving in a circular motion
-
 **Material Components:** a bit of phosphorus or wychwood, or a glowworm
 
 ---

@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic, material
 
-**Verbal Components:** the word "stone", spoken in ancient druidic
-
-**Somatic Components:** tossing a stone into the air
-
 **Material Components:** up to three stones
 
 ---

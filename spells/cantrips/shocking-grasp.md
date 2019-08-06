@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** a primordial word for electricity
-
-**Somatic Components:** grabbing or hitting your target
-
 ---
 
 ## Description

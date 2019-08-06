@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** the word "fire", spoken in ancient druidic
-
-**Somatic Components:** clenching your fist tightly
-
 ---
 
 ## Description

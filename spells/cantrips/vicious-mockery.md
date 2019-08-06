@@ -12,8 +12,6 @@
 
 **Tags:** verbal
 
-**Verbal Components:** a string of insults
-
 ---
 
 ## Description

@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic, material
 
-**Verbal Components:** the word "grow", spoken in ancient druidic
-
-**Somatic Components:** placing your hand out in front of you
-
 **Material Components:** the stem of a plant with thorns
 
 ---

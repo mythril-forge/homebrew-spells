@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** a holy demand
-
-**Somatic Components:** facing the sky with a grasping hand raised
-
 ---
 
 ## Description

@@ -16,10 +16,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** sounds of slithering
-
-**Somatic Components:** a flick of the wrist
-
 ---
 
 ## Description

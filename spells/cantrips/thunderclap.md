@@ -16,8 +16,6 @@
 
 **Tags:** somatic
 
-**Somatic Components:** tracing a symbol, then slamming your hand on something (usually your other hand)
-
 ---
 
 ## Description

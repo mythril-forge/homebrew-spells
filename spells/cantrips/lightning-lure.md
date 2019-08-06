@@ -12,10 +12,6 @@
 
 **Tags:** verbal, somatic
 
-**Verbal Components:** a strange primordial word of power
-
-**Somatic Components:** grabbing the air in front of you
-
 ---
 
 ## Description
