@@ -1,6 +1,6 @@
 # Chromatic Orb
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level evocation***
 

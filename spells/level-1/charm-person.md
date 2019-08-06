@@ -1,6 +1,6 @@
 # Charm Person
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level enchantment***
 

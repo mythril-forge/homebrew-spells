@@ -1,6 +1,6 @@
 # Healing Word
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level evocation***
 
