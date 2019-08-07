@@ -37,19 +37,47 @@ This above rule has been dropped and modified in this homebrew package. In this 
 
 Apart from these changes, the *Dual Wielder* feat and the *Two-Weapon Fighting* fighting style has been similarly modified in other sections.
 
-> ### `brewed` Attacking with Light Weapons
-> You can use a bonus action to make one attack with a light weapon. You add your ability modifier to the damage of the bonus attack.
+> ### `brewed` Two Weapon Fighting
+> If you are holding a *light*, *one-handed* weapon in both hands, you can use a bonus action to make one additional weapon attack using one of those weapons. You add your ability modifier to the damage of this bonus attack.
 > 
-> You can't make this bonus attack if you have already made an attack with a weapon that is not light on your turn. You also can't make this bonus attack if you are holding any other object that does not have the light  property, such as a shield or a magic staff.
+> You can't take this bonus attack if you have already made an attack with a weapon that is neither *light* nor *one-handed*. Once you take this bonus attack, you can only use *light*, *one-handed* weapons to make weapon attacks until the end of your turn.
 > 
-> Once you take this bonus attack, you can only use light weapons to make attacks until the end of your turn.
+> Furthermore, neither the bonus attack nor any other attacks on your turn may be *heavy*, even if more specific rules remove prior limitations about *light* weapons.
 
 > ### `brewed` Attacking with Swift Weapons
 > This homebrew package comes with a new weapon tag: *swift*. Shortbows and blowguns now have this property.
 > 
-> When you make an attack with a swift weapon on your turn, you can use a bonus action to make one additional attack with that weapon. You can't make this bonus attack if you have already made an attack with any other weapon on your turn.
+> Once you make an attack with a *swift* weapon on your turn, you can use a bonus action to make one additional weapon attack using this weapon. You add your ability modifier to the damage of this bonus attack.
 > 
-> Once you take this bonus attack, you can only use the weapon you attacked with to make attacks until the end of your turn.
+> You can't take this bonus attack if you have already made an attack with any other weapon on your turn. Once you take this bonus attack, you can only use the weapon you attacked with to make weapon attacks until the end of your turn.
+
+## Two-Weapon Fighting Style and Dual Wielder Feat
+
+> ### Fighting Style - Two-Weapon Fighting
+> When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+> 
+> &mdash; [PHB, page 72](https://5etools.com/classes.html#fighter_phb,f:fighting%20style%201)
+
+> ### Feat - Dual Wielder
+> You master fighting with two weapons, gaining the following benefits:
+> - You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
+> - You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.
+> - You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
+> 
+> &mdash; [PHB, page 165](https://5etools.com/feats.html#dual%20wielder_phb)
+
+The above two features have been deprecated, and replaced with two of greater caliber. These bits are some of the greatest buffs to dual wielding and gish fighters in general. Because of the enormous differences in mechanics between this particular ruleset, this needs more playtesting at the moment.
+
+> ### `brewed` Fighting Style - Swift-Handed
+> When you make a weapon attack with a bonus action, you get one additional weapon attack. This additional attack has the same weapon restrictions and limitations as your initial attack.
+> 
+> You also get two weapon attacks whenever you make an attack of opportunity if you are holding two *one-handed* weapons.
+
+> ### `brewed` Feat - Ambidextrous Warrior
+> You become ambidextrous if you are not already, able to control either hand with equal splendor. As a warrior, this grants you greater control in the frey, giving you the following benefits:
+> - You can draw or stow four weapons when you would normally be able to draw or stow only one.
+> - When you make a weapon attack using a bonus action, the weapon no longer has to be *light* if that was a limitation for you. Other weapon attacks made on your turn have this restriction lifted for you as well.
+> - While you are holding two *one-handed* weapons that aren't *heavy*, attacks targeting you cannot have advantage.
 
 ## Cantrips
 > ### Cantrips
@@ -71,4 +99,4 @@ These rules above have been dropped and modified in this homebrew package. In th
 > 
 > Cantrips can be learned and prepared alongside normal spells of 1st-level or higher. Damaging cantrips like *fire bolt* no longer increase in power automatically as you gain character levels. Some cantrips can now be overcharged and upcast to higher levels if cast using a spell slot of 1st-level or higher.
 > 
-> Some spellcasting classes, like *Ranger* and *Paladin*, now have access to cantrips. A small selection of cantrips have been added to their respective spell lists.
+> Spellcating classes like *Ranger* and *Paladin* now have access to cantrips. A small selection of cantrips have been added to their respective spell lists.
