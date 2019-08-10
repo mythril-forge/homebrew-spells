@@ -1,6 +1,6 @@
 # Find Familiar
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level conjuration***
 
@@ -8,28 +8,32 @@
 
 **Duration:** instantaneous
 
-**Range:** 10 feet
+**Range:** touch
 
 **Tags:** verbal, somatic, material, ritual
 
-**Material Components:** 10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier
+**Material Components:** 50 sp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier
 
 ---
 
 ## Description
-You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+You gain the service of a familiar, a spirit that hails from another plane of existance. Typically, familiars come from the Feywild, the Nine Hells, or Elysium. When you cast this spell for the very first time, this immortal entity is mystically selected and bonded to you.
 
-Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
+You channel this familiar into a friendly, willing beast that you hold or touch for the spell's casting duration. This spell can only affect limited selection of animals: bats, cats, crabs, frogs or toads, hawks, lizards, octopuses, owls, snakes, fish or quippers, rats, ravens, sea horses, spiders, and weasels. When the spell completes, it fuses this familiar entity with the animal's body. Your companion keeps the statistics of its form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
 
-When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again.
+A mystic symbiosis forms, amplifying the animal's self-awareness, and gifting the familiar with a new mortal form. These two entities share the same mind and body. When your companion drops to 0 hit points, the animal dies, and your familiar drifts to its home plane until you cast this spell again.
 
-While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.
+While your familiar is within 120 feet of you, a telepathic link is active. Through the link, your familiar can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you.
 
-As an action, you can temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you.
+While the link is active, you can issue commands to your familiar on your turn, and it obeys your commands loyally. It takes its turn directly after you on your initiative count. You can use your bonus action to telepathically command it to move and otherwise act until the beginning of its next turn. Otherwise, your familiar acts on its own, focusing on protecting itself and you.
 
-You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.
+Additionally, as an action, you can see through your familiar's eyes and hear what it hears until you choose to exit its perspective with an action, gaining the benefits of any special senses that the familiar has. During this time, you are **blinded**, **deafened**, and **stunned** as your body reels from temporarily shutting down.
 
-Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
+As an action, you can cause your familiar to teleport to any unoccupied space within 5 feet of you.
+
+You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you can transfer your familiar to the new target, causing it to adopt a new form.
+
+Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 120 feet of you, and it must use its action to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
 
 ---
 
