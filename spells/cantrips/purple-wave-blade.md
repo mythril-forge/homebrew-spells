@@ -27,4 +27,5 @@ If you let go of the weapon, its charm dissipates, and the spell ends.
 **Classes:** sorcerer, warlock, wizard
 
 **Sources:** SCAG, page 142
-<!-- WARNING: rewording necessary. Similar mechanic: green-flame blade. -->
+
+**Referenced Spells:** booming blade
