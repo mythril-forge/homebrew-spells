@@ -1,6 +1,6 @@
 # Color Spray
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level illusion***
 
