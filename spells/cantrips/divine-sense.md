@@ -1,4 +1,26 @@
 # Divine Sense
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
 
-You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+***0th-level divination***
+
+**Casting Time:** action
+
+**Duration:** 1 round
+
+**Range:** self
+
+**Shape:** aura
+
+**Radius:** 60 feet
+
+**Tags:** verbal, concentration
+
+---
+
+## Description
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. When you cast this spell, you open your awareness to detect such forces. Until the end of your next turn, you sense the presence of any celestial, fiend, or undead within 60 feet of you, but not their location or identity. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the **hallow** spell.
+
+The spell can penetrate most barriers, but it is blocked by 3 feet of wood, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or magical silence.
+
+---
+
+**Classes:** paladin
