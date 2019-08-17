@@ -10,6 +10,10 @@
 
 **Range:** 30 feet
 
+**Shape:** cube
+
+**Length:** 5 feet
+
 **Tags:** somatic, material
 
 **Material Components:** a bit of fleece
@@ -35,13 +39,13 @@ When a visual dynamic is animated, you can create a disjointed farce of motion, 
 ### Sound
 If you create a sound, it originates at full volume from within a 5-foot cube. Its volume can range from a whisper to a scream. It can sound like your voice, someone else's voice, a roaring lion, a beating of drums, or any other simple, repetetive sound you choose. The sound continues unabated throughout the spell's duration, although the repetetive nature of these sounds do not necessarily loop over themselves in an obvious fashion.
 
-When an audible dynamic is animated, the spell can mimic spoken words, intricate music, and many other ambiwnt details.
+When an audible dynamic is animated, the spell can mimic spoken words, intricate music, and many other ambient details.
 
 ### Smell
 If you create a scent, it generates at its chosen intensity from within a 5-foot cube, and slowly wafts outwards from there. The odor's intensity can range from a mild aroma to a pungent tang. You instruct how pleasent or repulsive the odor is. The smell disappears completely when the spell ends.
 
 ### Taste
-If you create a flavor, you designate all its delectable intricacies. It effects all items within a 5-foot cube for the duration. Each affected item shares the same flavor, and retains the flavor even if it is removed from the cube. If cast on a dinner table spread, this spell could affect non-edible cutlery as well as food items themselves, potentially revealing the flavor's illusionary nature.
+If you create a flavor, you designate all its delectable intricacies. It effects all items within a 5-foot cube for the duration. Each affected item shares the same flavor, and retains the flavor even if it is removed from the cube. If cast on a dinner table spread, this spell could affect non-edible cutlery as well as food items themselves, potentially revealing the flavor's illusory nature.
 
 ### Touch
 If you create a texture, it effects liquids and hard surfaces within a 5-foot cube for the duration. Each affected item shares the same texture, and retains the texture even if it is removed from the cube.
@@ -52,6 +56,6 @@ If you create a texture, it effects liquids and hard surfaces within a 5-foot cu
 
 **Subclasses:** giant soul sorcerer
 
-**Subraces:** elf (eladrin), gnome (forest), tiefling (glasya), tiefling (glasya)
+**Subraces:** elf (eladrin), gnome (forest), tiefling (glasya)
 
 **Sources:** PHB, page 260
