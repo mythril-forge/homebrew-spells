@@ -1,12 +1,12 @@
 # Jump
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level transmutation***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** touch
 
@@ -17,11 +17,14 @@
 ---
 
 ## Description
-You touch a creature. The creature's jump distance is tripled until the spell ends.
+You touch a creature. The creature's jump distance is tripled until the spell ends. Also, each foot you clear with a jump now costs only six inches of movement.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 2nd level or higher, the jump distance multiplier is incremented by one for each slot level.
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer, artificer (revisited)
+**Classes:** druid, ranger, sorcerer, warlock, wizard, artificer, artificer (revisited)
 
 **Subclasses:** seeker (ua) warlock, lolth (twitter) warlock
 

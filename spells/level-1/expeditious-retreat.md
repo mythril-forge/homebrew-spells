@@ -1,12 +1,12 @@
 # Expeditious Retreat
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level transmutation***
 
 **Casting Time:** bonus action
 
-**Duration:** 10 minutes
+**Duration:** 15 minutes
 
 **Range:** self
 
@@ -19,8 +19,8 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 
 ---
 
-**Classes:** sorcerer, warlock, wizard, artificer, artificer (revisited)
+**Classes:** sorcerer, warlock, wizard, artificer
 
-**Subclasses:** treachery (ua) paladin
+**Subclasses:** treachery paladin
 
 **Sources:** PHB, page 238

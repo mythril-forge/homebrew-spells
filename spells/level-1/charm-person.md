@@ -24,7 +24,7 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 **Classes:** bard, druid, sorcerer, warlock, wizard
 
-**Subclasses:** trickery cleric, treachery (ua) paladin, beauty (twitter) cleric
+**Subclasses:** trickery cleric, treachery paladin, beauty cleric
 
 **Subraces:** tiefling (variant), tiefling (abyssal), tiefling (fierna), tiefling (fierna)
 

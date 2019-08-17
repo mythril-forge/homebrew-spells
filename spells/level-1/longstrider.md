@@ -1,12 +1,12 @@
 # Longstrider
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level transmutation***
 
 **Casting Time:** action
 
-**Duration:** 1 hour
+**Duration:** 12 hours
 
 **Range:** touch
 
