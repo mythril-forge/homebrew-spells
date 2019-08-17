@@ -1,8 +1,8 @@
 # Fog Cloud
 
-- [ ] Homebrew
+- [x] Homebrew
 
-***1st-level conjuration***
+***1st-level transmutation***
 
 **Casting Time:** action
 

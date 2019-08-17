@@ -1,12 +1,12 @@
 # Grease
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level conjuration***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 60 feet
 
@@ -21,12 +21,12 @@
 ---
 
 ## Description
-Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.
+Slick grease covers surfaces in a 10-foot cube centered on a point within range and turns it into difficult terrain for the duration.
 
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall **prone**. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall **prone**.
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall **prone**. A creature that moves through the area or ends its turn there must also succeed on a Dexterity saving throw or fall **prone**.
 
 ---
 
-**Classes:** wizard, artificer (revisited)
+**Classes:** wizard, artificer
 
 **Sources:** PHB, page 246

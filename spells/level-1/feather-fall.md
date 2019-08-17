@@ -1,12 +1,12 @@
 # Feather Fall
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level transmutation***
 
 **Casting Time:** reaction (which you take when you or a creature within 60 feet of you falls)
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 60 feet
 

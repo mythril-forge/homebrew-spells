@@ -27,9 +27,9 @@ While your familiar is within 120 feet of you, a telepathic link is active. Thro
 
 While the link is active, you can issue commands to your familiar on your turn, and it obeys your commands loyally. It takes its turn directly after you on your initiative count. You can use your bonus action to telepathically command it to move and otherwise act until the beginning of its next turn. Otherwise, your familiar acts on its own, focusing on protecting itself and you.
 
-Additionally, as an action, you can see through your familiar's eyes and hear what it hears until you choose to exit its perspective with an action, gaining the benefits of any special senses that the familiar has. During this time, you are **blinded**, **deafened**, and **stunned** as your body reels from temporarily shutting down.
+As an action, you can see through your familiar's eyes and hear what it hears until you choose to exit its perspective with an action, gaining the benefits of any special senses that the familiar has. During this time, you are **blinded**, **deafened**, and **stunned** as your body reels from temporarily shutting down.
 
-As an action, you can cause your familiar to teleport to any unoccupied space within 5 feet of you.
+Also as an action, you can cause your familiar to teleport to any unoccupied space within 5 feet of you, or to a safe location that you are both familiar with.
 
 You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you can transfer your familiar to the new target, causing it to adopt a new form.
 

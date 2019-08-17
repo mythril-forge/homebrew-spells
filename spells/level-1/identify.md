@@ -4,7 +4,7 @@
 
 ***1st-level divination***
 
-**Casting Time:** 1 minute
+**Casting Time:** 5 minutes
 
 **Duration:** instantaneous
 

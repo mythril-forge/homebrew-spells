@@ -1,6 +1,6 @@
 # Purify Food and Drink
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level transmutation***
 
@@ -10,21 +10,21 @@
 
 **Range:** 10 feet
 
-**Shape:** sphere
+**Shape:** cube
 
-**Radius:** 5 feet
+**length:** 10 feet
 
 **Tags:** verbal, somatic, ritual
 
 ---
 
 ## Description
-All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
+All nonmagical food and drink in a 10-foot cube within range is purified and rendered free of poison and disease.
 
 ---
 
 **Classes:** cleric, druid, paladin
 
-**Subclasses:** alchemist artificer (revisited)
+**Subclasses:** alchemist artificer 
 
 **Sources:** PHB, page 270
