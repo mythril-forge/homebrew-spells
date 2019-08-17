@@ -6,7 +6,7 @@
 
 **Casting Time:** action
 
-**Duration:** 15 minutes
+**Duration:** 1 hour
 
 **Range:** self
 
