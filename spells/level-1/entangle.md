@@ -1,12 +1,12 @@
 # Entangle
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level conjuration***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 90 feet
 
@@ -19,16 +19,16 @@
 ---
 
 ## Description
-Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
+Grasping weeds and vines sprout from solid ground in a 20-foot cube originating from a point within range. The vines reach upwards and outwards 5 feet. For the duration, these plants turn the ground in the area into difficult terrain.
 
-A creature in the area when you cast the spell must succeed on a Strength saving throw or be **restrained** by the entangling plants until the spell ends. A creature **restrained** by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+When you cast the spell, each creature in the area must succeed on a Strength saving throw or be **restrained** by the entangling plants for the duration. As a action on your turn, you can command the area of plants to ensnare its occupants once again. A creature **restrained** by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
 
-When the spell ends, the conjured plants wilt away.
+When the spell ends, the conjured plants greatly retract into the earth and root themselves there as ordinary foliage.
 
 ---
 
 **Classes:** druid
 
-**Subclasses:** primeval guardian (ua) ranger, primeval guardian (ua) ranger (revised), giant soul (ua) sorcerer
+**Subclasses:** primeval guardian ranger, giant soul sorcerer
 
 **Sources:** PHB, page 238

@@ -1,24 +1,28 @@
 # Hail of Thorns
 
-- [ ] Homebrew
+- [x] Homebrew
 
-***1st-level conjuration***
+***1st-level transmutation***
 
 **Casting Time:** bonus action
 
-**Duration:** 1 minute
+**Duration:** 1 round
 
 **Range:** self
 
-**Tags:** verbal, concentration
+**Tags:** verbal, material
+
+**Material Components:** a weapon and a rose seed
 
 ---
 
 ## Description
-The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes `1d10` piercing damage on a failed save, or half as much damage on a successful one.
+Choose a weapon that you are holding. The weapon is bathed in magic, sprouting enchanted stems and leaves that last until the end of your next turn. The first time you make a ranged weapon attack with this weapon before then, it unleashes a rain of thorns that sprout from your weapon or ammunition. Hit or miss, each creature within a 10-foot-radius sphere centered on the attack's point of impact must succeed on a Dexterity saving throw. On a failed save, a creature takes `3d4` damage of the original attack's type. On a successful save, the creature takes half as much damage.
+
+If you let go of the weapon, its charm dissipates, and the spell ends.
 
 ## At Higher Levels
-If you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d10` for each slot level above 1st (to a maximum of `6d10`).
+If you cast this spell using a spell slot of 2nd level or higher, the damage increases by `2d4` for each slot level above 1st.
 
 ---
 

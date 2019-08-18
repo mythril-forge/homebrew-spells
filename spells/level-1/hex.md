@@ -6,7 +6,7 @@
 
 **Casting Time:** bonus action
 
-**Duration:** 5 minutes
+**Duration:** 1 hour
 
 **Range:** 90 feet
 
@@ -29,7 +29,6 @@ When you cast this spell using a higher level spell slot, you can maintain your 
 #### Enhanced Spell Duration
 | Level | Duration   | Requires Concentration |
 |-------|------------|------------------------|
-| 0     | 5 minutes  | Yes                    |
 | 1     | 1 hour     | Yes                    |
 | 2     | 12 hours   | Yes                    |
 | 3     | 3 days     | No                     |
