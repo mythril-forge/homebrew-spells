@@ -1,12 +1,12 @@
 # Faerie Fire
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level evocation***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 60 feet
 
@@ -25,7 +25,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 ---
 
-**Classes:** bard, druid, artificer (revisited)
+**Classes:** bard, druid, artificer
 
 **Subclasses:** light cleric, archfey warlock, lolth (twitter) warlock
 

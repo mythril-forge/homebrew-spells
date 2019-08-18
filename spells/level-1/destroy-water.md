@@ -1,0 +1,44 @@
+# Destroy Water
+
+- [x] Homebrew
+
+***1st-level transmutation***
+
+**Casting Time:** action
+
+**Duration:** instantaneous
+
+**Range:** 60 feet
+
+**Shape:** special
+
+**Tags:** verbal, somatic, material
+
+**Material Components:** a grain of sand
+
+---
+
+## Description
+You can destroy water in one of its many forms.
+
+### Destroy Liquid Water
+You destroy up to 50 gallons of liquid water within range in an open container.
+
+### Destroy Gaseous Water (Steam)
+You destroy any fog, steam, or humidity in a 40-foot cube within range.
+
+### Destroy Solid Water (Ice)
+You destroy up to seven chunks of ice or snow within range. Each chunk of ice must fit within a 1-foot cube.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 2nd level or higher, you destroy 50 additional gallons of water for each slot level above 1st. In addition, you can destroy seven more cubes of ice for each additional slot level. The size of the cube in which you can destroy fog and steam also increases by 40 feet in length for each slot level above 1st.
+
+---
+
+**Classes:** cleric, druid
+
+**Subclasses:** kraken warlock
+
+**Subraces:** genasi (water)
+
+**Sources:** PHB, page 229
