@@ -23,6 +23,6 @@ Whenever this spell ends, you can immediately cast it again (no action required)
 
 **Classes:** paladin
 
-**Subclasses:** hexblade warlock, hexblade warlock, stone sorcerer, destruction cleric
+**Subclasses:** hexblade warlock, stone sorcerer, destruction cleric
 
 **Sources:** PHB, page 289
