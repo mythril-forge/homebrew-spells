@@ -1,14 +1,14 @@
 # Sanctuary
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level abjuration***
 
 **Casting Time:** bonus action
 
-**Duration:** 1 minute
+**Duration:** 15 minutes
 
-**Range:** 30 feet
+**Range:** 60 feet
 
 **Tags:** verbal, somatic, material
 
@@ -17,14 +17,14 @@
 ---
 
 ## Description
-You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a [*fireball*](./fireball).
+You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must choose a new target or lose the attack or spell. This spell protects the warded creature from area affects by granting it advantage on all saving throws.
 
-If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
+If the warded creature makes an attack, casts a spell that affects a hostile creature, or deals damage to another creature, this spell ends.
 
 ---
 
-**Classes:** cleric, artificer, artificer (revisited)
+**Classes:** cleric, artificer
 
-**Subclasses:** devotion paladin, redemption paladin, raven queen (ua) warlock
+**Subclasses:** devotion paladin, redemption paladin, raven queen warlock
 
 **Sources:** PHB, page 272

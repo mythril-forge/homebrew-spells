@@ -1,16 +1,16 @@
 # Shield of Faith
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***1st-level abjuration***
 
 **Casting Time:** bonus action
 
-**Duration:** 10 minutes
+**Duration:** 15 minutes
 
 **Range:** 60 feet
 
-**Tags:** verbal, somatic, material, concentration
+**Tags:** verbal, somatic, material
 
 **Material Components:** a small parchment with a bit of holy text written on it
 
@@ -23,6 +23,6 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 **Classes:** cleric, paladin, artificer
 
-**Subclasses:** war cleric, strength (psa) cleric
+**Subclasses:** war cleric, strength cleric
 
 **Sources:** PHB, page 275

@@ -12,7 +12,7 @@
 
 **Tags:** verbal, material
 
-**Material Components:** a weapon and a rose seed
+**Material Components:** a weapon and a cactus seed
 
 ---
 
