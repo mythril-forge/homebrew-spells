@@ -6,7 +6,7 @@
 
 **Casting Time:** action
 
-**Duration:** 12 hours
+**Duration:** 1 hour
 
 **Range:** 60 feet
 

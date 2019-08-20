@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material, concentration
 
-**Material Components:** holy water or powdered silver and iron, which the spell consumes
+**Material Components:** a vial of holy water or powdered silver and iron worth atleast 50 sp, which the spell consumes
 
 ---
 
