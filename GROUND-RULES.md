@@ -69,13 +69,13 @@ Apart from these changes, the *Dual Wielder* feat and the *Two-Weapon Fighting* 
 The above two features have been deprecated, and replaced with two of greater caliber. These bits are some of the greatest buffs to dual wielding and gish fighters in general. Because of the enormous differences in mechanics between this particular ruleset, this needs more playtesting at the moment.
 
 > ### `brewed` Fighting Style - Swift-Handed
-> When you make a weapon attack with a bonus action, you get one additional weapon attack. This additional attack has the same weapon restrictions and limitations as your initial attack.
+> If you use both your action and bonus action to make attacks with **one-handed** weapons, you get one additional weapon attack on your turn. This additional attack has the same weapon restrictions and limitations as your initial attacks.
 > 
 > You also get two weapon attacks whenever you make an attack of opportunity if you are holding two *one-handed* weapons.
 
 > ### `brewed` Feat - Ambidextrous Warrior
 > You become ambidextrous if you are not already, able to control either hand with equal splendor. As a warrior, this grants you greater control in the frey, giving you the following benefits:
-> - You can draw or stow four weapons when you would normally be able to draw or stow only one.
+> - You can draw or stow up to six weapons when you would normally be able to draw or stow only one.
 > - When you make a weapon attack using a bonus action, the weapon no longer has to be *light* if that was a limitation for you. Other weapon attacks made on your turn have this restriction lifted for you as well.
 > - While you are holding two *one-handed* weapons that aren't *heavy*, attacks targeting you cannot have advantage.
 
