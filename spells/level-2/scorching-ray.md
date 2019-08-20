@@ -1,6 +1,6 @@
 # Scorching Ray
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level evocation***
 
@@ -8,7 +8,7 @@
 
 **Duration:** instantaneous
 
-**Range:** 120 feet
+**Range:** 90 feet
 
 **Effect Instances:** 3
 
@@ -28,6 +28,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you create o
 
 **Classes:** sorcerer, wizard
 
-**Subclasses:** light cleric, fiend warlock, artillerist artificer (revisited)
+**Subclasses:** light cleric, fiend warlock, artillerist artificer
 
 **Sources:** PHB, page 273

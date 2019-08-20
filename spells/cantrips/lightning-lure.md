@@ -2,7 +2,7 @@
 
 - [x] Homebrew
 
-***0th-level conjuration***
+***0th-level evocation***
 
 **Casting Time:** bonus action
 
