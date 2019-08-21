@@ -1,6 +1,6 @@
 # Lesser Restoration
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level abjuration***
 
@@ -15,13 +15,14 @@
 ---
 
 ## Description
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be **blinded**, **deafened**, **paralyzed**, or **poisoned**.
+You touch a creature and can end either one disease or one condition afflicting it. The condition can be **blinded**, **deafened**, **paralyzed**, or **poisoned**. Alternatively, you can reduce the target’s **exhaustion** level by one.
+
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, ranger, artificer, artificer (revisited)
+**Classes:** bard, cleric, druid, paladin, ranger, artificer
 
-**Subclasses:** life cleric, devotion paladin, celestial (ua) warlock, celestial warlock
+**Subclasses:** life cleric, devotion paladin, celestial warlock
 
 **Races:** aasimar
 

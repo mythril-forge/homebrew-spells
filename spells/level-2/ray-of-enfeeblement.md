@@ -1,28 +1,29 @@
 # Ray of Enfeeblement
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level necromancy***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** instantaneous
 
-**Range:** 60 feet
+**Range:** 90 feet
 
-**Tags:** verbal, somatic, concentration
+**Tags:** verbal, somatic
 
 ---
 
 ## Description
-A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.
+A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `2d4` necrotic damage and must make a Constitution saving throw. On a failed save, it becomes **stunned** until the end of your next turn and gains one level of **exhaustion**.
 
-At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
+## At Higher Levels
+When you cast this spell using a spell slot of 2nd level or higher, the spell produces one additional beam for each slot level above 1st. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 ---
 
 **Classes:** warlock, wizard
 
-**Subclasses:** death cleric, grave (ua) cleric, ambition (psa) cleric, grave cleric, redemption (ua) paladin, spores (ua) druid
+**Subclasses:** death cleric, grave cleric, ambition cleric, redemption paladin, spores druid
 
 **Sources:** PHB, page 271

@@ -1,6 +1,6 @@
 # Misty Step
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level conjuration***
 
@@ -21,7 +21,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 **Classes:** sorcerer, warlock, wizard
 
-**Subclasses:** land druid, ancients paladin, vengeance paladin, horizon walker ranger, horizon walker ranger (revised)
+**Subclasses:** land druid, ancients paladin, vengeance paladin, horizon walker ranger
 
 **Subraces:** elf (eladrin; dmg), gith (githyanki), gith (githyanki)
 

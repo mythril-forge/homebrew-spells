@@ -1,12 +1,12 @@
 # Gentle Repose
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level necromancy***
 
 **Casting Time:** action
 
-**Duration:** 10 days
+**Duration:** 2 weeks
 
 **Range:** touch
 
@@ -25,6 +25,6 @@ The spell also effectively extends the time limit on raising the target from the
 
 **Classes:** cleric, wizard
 
-**Subclasses:** grave (ua) cleric, grave cleric, spores druid, spores (ua) druid
+**Subclasses:** grave cleric, spores druid
 
 **Sources:** PHB, page 245

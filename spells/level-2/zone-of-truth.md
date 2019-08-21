@@ -1,12 +1,12 @@
 # Zone of Truth
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level enchantment***
 
 **Casting Time:** action
 
-**Duration:** 10 minutes
+**Duration:** 15 minutess
 
 **Range:** 60 feet
 
@@ -27,6 +27,6 @@ An affected creature is aware of the spell and can thus avoid answering question
 
 **Classes:** bard, cleric, paladin
 
-**Subclasses:** devotion paladin, crown paladin, monster slayer (ua) ranger, monster slayer ranger, monster slayer (ua) ranger (revised), monster slayer ranger (revised), order cleric
+**Subclasses:** devotion paladin, crown paladin, monster slayer ranger, order cleric
 
 **Sources:** PHB, page 289

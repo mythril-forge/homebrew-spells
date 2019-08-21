@@ -1,10 +1,10 @@
 # Augury
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level divination***
 
-**Casting Time:** 1 minute
+**Casting Time:** 5 minutes
 
 **Duration:** instantaneous
 
@@ -12,12 +12,12 @@
 
 **Tags:** verbal, somatic, material, ritual
 
-**Material Components:** specially marked sticks, bones, or similar tokens worth at least 25 gp
+**Material Components:** specially marked sticks, bones, or similar tokens worth at least 25 sp
 
 ---
 
 ## Description
-By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens:
+By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next hour. The DM chooses from the following possible omens:
 - Weal, for good results
 - Woe, for bad results
 - Weal and woe, for both good and bad results
@@ -25,12 +25,12 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
-If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
+If you cast the spell two or more times before completing your next long rest, there is a cumulative `25%` chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
 ---
 
 **Classes:** cleric
 
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, kraken (stream) warlock, ancestral guardian barbarian
+**Subclasses:** knowledge cleric, kraken warlock, ancestral guardian barbarian
 
 **Sources:** PHB, page 215

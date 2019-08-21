@@ -1,6 +1,6 @@
 # Continual Flame
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level evocation***
 
@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** ruby dust worth 50 gp, which the spell consumes
+**Material Components:** ruby dust worth 50 sp, which the spell consumes
 
 ---
 
@@ -21,6 +21,6 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 
 ---
 
-**Classes:** cleric, wizard, artificer, artificer (revisited)
+**Classes:** cleric, wizard, artificer, artificer
 
 **Sources:** PHB, page 227

@@ -1,6 +1,6 @@
 # See Invisibility
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level divination***
 
@@ -21,6 +21,6 @@ For the duration, you see **invisible** creatures and objects as if they were vi
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer (revisited)
+**Classes:** bard, sorcerer, wizard, artificer
 
 **Sources:** PHB, page 274

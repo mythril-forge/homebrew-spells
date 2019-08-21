@@ -1,12 +1,12 @@
 # Silence
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level illusion***
 
 **Casting Time:** action
 
-**Duration:** 10 minutes
+**Duration:** 15 minutess
 
 **Range:** 120 feet
 
@@ -25,6 +25,6 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 **Classes:** bard, cleric, ranger
 
-**Subclasses:** land druid, undying warlock, raven queen (ua) warlock
+**Subclasses:** land druid, undying warlock, raven queen warlock
 
 **Sources:** PHB, page 275
