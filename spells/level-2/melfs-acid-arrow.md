@@ -1,14 +1,14 @@
-# Melf's Acid Arrow
+# Melf's Acid Shot
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level evocation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** instantaneous
+**Duration:** 5 minutes
 
-**Range:** 90 feet
+**Range:** touch
 
 **Tags:** verbal, somatic, material
 
@@ -17,15 +17,12 @@
 ---
 
 ## Description
-A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes `4d4` acid damage immediately and `2d4` acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
-
-## At Higher Levels
-When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by `1d4` for each slot level above 2nd.
+You touch a piece of ammunition. A shimmering green energy envelops the item. When shot, it streaks toward its target and bursts in a spray of acid. On a hit, the target takes `4d4` extra acid damage. Hit or miss, each creature within a 10-foot-radius sphere centered on the attack's point of impact must succeed on a Dexterity saving throw or take `2d8` acid damage.
 
 ---
 
 **Classes:** wizard
 
-**Subclasses:** land druid, alchemist artificer (revisited)
+**Subclasses:** land druid, alchemist artificer
 
 **Sources:** PHB, page 259
