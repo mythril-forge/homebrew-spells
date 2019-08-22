@@ -1,6 +1,6 @@
 # Barkskin
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level transmutation***
 
@@ -10,14 +10,14 @@
 
 **Range:** touch
 
-**Tags:** verbal, somatic, material, concentration
+**Tags:** verbal, somatic, material
 
 **Material Components:** a handful of oak bark
 
 ---
 
 ## Description
-You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
+You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance. The target's base AC becomes `13 + your Dexterity modifier`. In addition, the target gains a damage threshold of `5`, and has resistance to nonmagical bludgeoning, piercing, and slashing damage for the spell's duration.
 
 ---
 

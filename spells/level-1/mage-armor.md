@@ -17,7 +17,7 @@
 ---
 
 ## Description
-You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 12 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes `12 + your Dexterity modifier`. The spell ends if the target dons armor or if you dismiss the spell as an action.
 
 ---
 

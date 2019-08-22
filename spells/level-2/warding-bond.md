@@ -1,6 +1,6 @@
 # Warding Bond
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level abjuration***
 
@@ -12,19 +12,21 @@
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration
+**Material Components:** a pair of platinum rings worth at least 50 sp each, which you and the target must wear for the duration
 
 ---
 
 ## Description
-This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
+This spell creates a warding connection between you and a willing creature you touch. It creates a mystic connection between you two until the spell ends. Until the spell ends, you both gain a `+1` bonus to AC and saving throws, and have resistance to all damage&mdash;but recieve half healing, rounded up. Also, each time either of you take damage or recieve healing, the other takes the same amount of damage and heals the same amount of hit points.
 
-The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
+As an action, an affected creature can transfer any amount of hit points to their linked companion.
+
+The spell ends if either of you drop to 0 hit points or if you and the target become separated by more than 120 feet. It also ends if the spell is cast again on either of the connected creatures.
 
 ---
 
 **Classes:** cleric
 
-**Subclasses:** crown paladin, solidarity (psa) cleric, battle smith artificer (revisited)
+**Subclasses:** crown paladin, solidarity cleric, battle smith artificer
 
 **Sources:** PHB, page 287

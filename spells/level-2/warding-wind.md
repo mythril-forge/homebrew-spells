@@ -1,28 +1,36 @@
 # Warding Wind
 
-- [ ] Homebrew
+- [x] Homebrew
 
-***2nd-level evocation***
+***2nd-level abjuration***
 
 **Casting Time:** action
 
-**Duration:** 10 minutes
+**Duration:** 5 minutes
 
 **Range:** self
+
+**Shape:** aura
+
+**Radius:** 10 feet
 
 **Tags:** verbal, concentration
 
 ---
 
 ## Description
-A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration.
+A strong wind (60 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration.
 
 The wind has the following effects:
-- It **deafens** you and other creatures in its area.
+- It lightly obscures the area with dust and debris.
+- It **deafens** you and all other creatures in its area.
 - It extinguishes unprotected flames in its area that are torch-sized or smaller.
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
-- The area is difficult terrain for creatures other than you.
-- The attack rolls of ranged weapon attacks have disadvantage if the attacks pass in or out of the wind.
+- Friendly creatures have advantage on Strength and Dexterity ability checks and saving throws when within the warding wind.
+- Friendly creatures who target creatures within or past the warding wind with an attack have advantage on their roll.
+- Hostile creatures treat the area as difficult terrain.
+- Hostile creatures who target creatures within or past the warding wind with an attack have disadvantage on their roll.
+- Hostile creatures who move through the wind or end their turn there must make a Strength saving throw. The creature falls prone on a failure.
 
 ---
 
