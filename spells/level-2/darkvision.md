@@ -1,12 +1,12 @@
 # Darkvision
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level transmutation***
 
 **Casting Time:** action
 
-**Duration:** 8 hours
+**Duration:** 12 hours
 
 **Range:** touch
 
@@ -17,10 +17,10 @@
 ---
 
 ## Description
-You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.
+You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision.
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer, artificer (revisited)
+**Classes:** druid, ranger, sorcerer, wizard, artificer
 
 **Sources:** PHB, page 230

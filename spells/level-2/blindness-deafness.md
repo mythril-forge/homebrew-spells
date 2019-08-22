@@ -1,12 +1,12 @@
 # Blindness/Deafness
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level necromancy***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 30 feet
 
@@ -24,6 +24,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 **Classes:** bard, cleric, sorcerer, wizard
 
-**Subclasses:** death cleric, fiend warlock, undying warlock, darkness (twitter) cleric, spores (ua) druid
+**Subclasses:** death cleric, fiend warlock, undying warlock, darkness cleric, spores druid
 
 **Sources:** PHB, page 219
