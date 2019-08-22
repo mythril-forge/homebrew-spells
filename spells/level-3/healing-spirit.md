@@ -2,11 +2,11 @@
 
 - [ ] Homebrew
 
-***2nd-level conjuration***
+***3rd-level conjuration***
 
 **Casting Time:** bonus action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 60 feet
 

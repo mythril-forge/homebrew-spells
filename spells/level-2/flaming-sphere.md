@@ -12,7 +12,7 @@
 
 **Shape:** sphere
 
-**Radius:** 5 feet
+**Radius:** 2½ feet
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -21,7 +21,7 @@
 ---
 
 ## Description
-A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that moves through the sphere or ends its turn within 5 feet of it must make a Dexterity save. It takes `2d6` fire damage on a fail, or half damage on a success.
+A 5-foot-diameter sphere of fire appears in an unoccupied space on the ground of your choice within range and lasts for the duration. Any creature that moves through the sphere or ends its turn within 5 feet of it must make a Dexterity save. It takes `2d6` fire damage on a fail, or half damage on a success.
 
 As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the saving throw against the sphere's damage, and the sphere stops moving this turn.
 
@@ -34,6 +34,6 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 
 **Classes:** druid, wizard
 
-**Subclasses:** light cleric, celestial (ua) warlock, undying light (ua) warlock, celestial warlock, giant soul (ua) sorcerer
+**Subclasses:** light cleric, celestial warlock, undying light warlock, giant soul sorcerer
 
 **Sources:** PHB, page 242

@@ -2,7 +2,7 @@
 
 - [x] Homebrew
 
-***1st-level abjuration***
+***2nd-level abjuration***
 
 **Casting Time:** action
 
@@ -17,9 +17,9 @@
 ---
 
 ## Description
-Until the spell ends, one willing creature you touch is protected against one type of creature of your choice from the following: aberrations, celestials, elementals, fey, fiends, and undead.
+Until the spell ends, one object or willing creature you touch is protected against one type of creature of your choice from the following: aberrations, celestials, elementals, fey, fiends, and undead.
 
-The protection grants several benefits. When the target is affected by an attack, spell, or ability by a creature of the chosen type, they must flip a coin. On a tails, the target is affected as normal. On a heads, the target is protected from the action, and is not affected. The target also can't be **charmed**, **frightened**, or possessed by them. If the target is already **charmed**, **frightened**, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+The protection grants several benefits. When a creature of the chosen type targets this spell's recipient with an attack, spell, or ability, they must flip a coin. On a tails, the target is not affected by the action. If the target is a creature, they can't be **charmed**, **frightened**, or possessed by them. If the target is already **charmed**, **frightened**, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
 ---
 

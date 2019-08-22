@@ -1,6 +1,6 @@
 # Rope Trick
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level transmutation***
 
@@ -27,8 +27,8 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 ---
 
-**Classes:** wizard, artificer, artificer (revisited)
+**Classes:** wizard, artificer
 
-**Subclasses:** deep stalker (ua) ranger, gloom stalker ranger, deep stalker conclave ranger (revised), gloom stalker ranger (revised)
+**Subclasses:** deep stalker ranger, gloom stalker ranger
 
 **Sources:** PHB, page 272

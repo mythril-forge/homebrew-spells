@@ -1,6 +1,6 @@
 # Skywrite
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level transmutation***
 
