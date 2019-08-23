@@ -28,6 +28,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 **Classes:** warlock
 
-**Subclasses:** darkness (twitter) cleric
+**Subclasses:** darkness cleric
 
 **Sources:** PHB, page 215

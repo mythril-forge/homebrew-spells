@@ -28,6 +28,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 **Classes:** cleric, paladin
 
-**Subclasses:** life cleric, solidarity (psa) cleric, divine soul sorcerer
+**Subclasses:** life cleric, solidarity cleric, divine soul sorcerer
 
 **Sources:** PHB, page 219

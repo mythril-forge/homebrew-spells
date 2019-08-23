@@ -28,7 +28,7 @@ When you cast this spell using a spell slot of 2nd level or higher, the radius o
 
 **Classes:** druid, ranger, sorcerer, wizard
 
-**Subclasses:** tempest cleric, giant soul (ua) sorcerer
+**Subclasses:** tempest cleric, giant soul sorcerer
 
 **Races:** triton
 

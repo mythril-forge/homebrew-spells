@@ -1,4 +1,4 @@
-# Sudden Awakening (UA)
+# Sudden Awakening
 
 - [x] Homebrew
 

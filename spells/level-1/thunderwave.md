@@ -30,7 +30,7 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 **Classes:** bard, druid, sorcerer, wizard
 
-**Subclasses:** tempest cleric, kraken (stream) warlock, giant soul (ua) sorcerer, artillerist artificer (revisited)
+**Subclasses:** tempest cleric, kraken warlock, giant soul sorcerer, artillerist artificer
 
 **Subraces:** tiefling (abyssal)
 

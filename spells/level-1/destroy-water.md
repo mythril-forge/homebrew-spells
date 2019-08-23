@@ -31,7 +31,7 @@ You destroy any fog, steam, or humidity in a 40-foot cube within range.
 You destroy up to seven chunks of ice or snow within range. Each chunk of ice must fit within a 1-foot cube.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 2nd level or higher, you destroy 50 additional gallons of water for each slot level above 1st. In addition, you can destroy seven more cubes of ice for each additional slot level. The size of the cube in which you can destroy fog and steam also increases by 40 feet in length for each slot level above 1st.
+When you cast this spell using a spell slot of 2nd level or higher, you effectively gain the benefits of casting it one additional time at 1st level for each slot level above 1st.
 
 ---
 

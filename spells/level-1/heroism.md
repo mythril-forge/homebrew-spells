@@ -24,6 +24,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 **Classes:** bard, paladin
 
-**Subclasses:** order (ua) cleric, giant soul (ua) sorcerer, beauty (twitter) cleric, order cleric, battle smith artificer (revisited)
+**Subclasses:** order cleric, giant soul sorcerer, beauty cleric, battle smith artificer
 
 **Sources:** PHB, page 250

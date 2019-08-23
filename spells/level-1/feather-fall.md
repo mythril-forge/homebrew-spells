@@ -23,8 +23,8 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer (revisited)
+**Classes:** bard, sorcerer, wizard, artificer
 
-**Subclasses:** seeker (ua) warlock
+**Subclasses:** seeker warlock
 
 **Sources:** PHB, page 239

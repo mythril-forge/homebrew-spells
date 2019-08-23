@@ -24,9 +24,9 @@ When you cast this spell using a spell slot of 2nd level or higher, the jump dis
 
 ---
 
-**Classes:** druid, ranger, sorcerer, warlock, wizard, artificer, artificer (revisited)
+**Classes:** druid, ranger, sorcerer, warlock, wizard, artificer
 
-**Subclasses:** seeker (ua) warlock, lolth (twitter) warlock
+**Subclasses:** seeker warlock, lolth warlock
 
 **Subraces:** gith (githyanki), gith (githyanki)
 
