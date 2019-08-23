@@ -1,12 +1,12 @@
 # Hold Person
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level enchantment***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 60 feet
 
@@ -26,6 +26,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 **Classes:** bard, cleric, druid, sorcerer, warlock, wizard
 
-**Subclasses:** land druid, vengeance paladin, conquest (ua) paladin, conquest v2 (ua) paladin, conquest paladin, redemption (ua) paladin, redemption paladin, order (ua) cleric, giant soul (ua) sorcerer, order cleric
+**Subclasses:** land druid, vengeance paladin, conquest paladin, redemption paladin, order cleric, giant soul sorcerer
 
 **Sources:** PHB, page 251

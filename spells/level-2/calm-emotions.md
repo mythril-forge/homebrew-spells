@@ -1,12 +1,12 @@
 # Calm Emotions
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level enchantment***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 60 feet
 

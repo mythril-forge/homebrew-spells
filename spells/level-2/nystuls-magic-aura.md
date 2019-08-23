@@ -1,6 +1,6 @@
 # Nystul's Magic Aura
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level illusion***
 

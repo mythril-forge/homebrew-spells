@@ -4,7 +4,7 @@
 
 ***2nd-level evocation***
 
-**Casting Time:** 15 minutess
+**Casting Time:** 15 minutes
 
 **Duration:** instantaneous
 

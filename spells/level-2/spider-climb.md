@@ -1,6 +1,6 @@
 # Spider Climb
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level transmutation***
 
@@ -21,9 +21,9 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 ---
 
-**Classes:** sorcerer, warlock, wizard, artificer, artificer (revisited)
+**Classes:** sorcerer, warlock, wizard, artificer
 
-**Subclasses:** land druid, land druid, land druid
+**Subclasses:** land druid
 
 **Subraces:** tiefling (abyssal)
 

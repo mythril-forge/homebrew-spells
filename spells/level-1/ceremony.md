@@ -19,7 +19,7 @@
 ## Description
 You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting. A creature can only have one lasting benefit from this spell at a time.
 
-If you or the target of this spell does anything that might disrespect or corrupt the purpose of this sacred ritual, divine retribution may be cast upon you and any targets of this spell. Such divine retribution can be in any form (at the DM's discretion), and usually lasts for 7 days.
+If you or the target of this spell does anything that clearly disrespects or corrupts the purpose of this sacred ritual, divine retribution may be cast upon you and any targets of this spell. Such divine retribution can take any form (at the DM's discretion) and lasts 7 days.
 
 ### Atonement
 You touch one willing creature and make a DC 20 Wisdom check. On a successful check, you shift the target's alignment by one degree in one direction of your choice.

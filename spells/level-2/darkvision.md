@@ -6,7 +6,7 @@
 
 **Casting Time:** action
 
-**Duration:** 12 hours
+**Duration:** 1 day
 
 **Range:** touch
 
