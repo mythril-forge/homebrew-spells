@@ -19,6 +19,6 @@ You cause up to ten words to form in a part of the sky you can see. The words ap
 
 ---
 
-**Classes:** bard, druid, wizard, artificer (revisited)
+**Classes:** bard, druid, wizard, artificer
 
 **Sources:** XGE, page 165

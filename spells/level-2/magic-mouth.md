@@ -25,6 +25,6 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 ---
 
-**Classes:** bard, wizard, artificer (revisited)
+**Classes:** bard, wizard, artificer
 
 **Sources:** PHB, page 257

@@ -19,7 +19,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 ---
 
-**Classes:** sorcerer, wizard, artificer, artificer (revisited)
+**Classes:** sorcerer, wizard, artificer
 
 **Subclasses:** land druid, hexblade warlock
 

@@ -24,7 +24,7 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard, artificer, artificer (revisited)
+**Classes:** bard, sorcerer, warlock, wizard, artificer
 
 **Subclasses:** land druid, treachery paladin, giant soul sorcerer
 
