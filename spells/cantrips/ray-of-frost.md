@@ -26,7 +26,7 @@ When you cast this spell using a spell slot of 1st level or higher, the spell pr
 
 **Classes:** sorcerer, wizard, artificer
 
-**Subclasses:** giant soul (ua) sorcerer
+**Subclasses:** giant soul sorcerer
 
 **Subraces:** tiefling (levistus), tiefling (levistus)
 

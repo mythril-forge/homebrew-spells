@@ -27,6 +27,6 @@ If you let go of the quarterstaff, the magic dissipates, and the spell ends as t
 
 **Classes:** druid
 
-**Subclasses:** giant soul (ua) sorcerer
+**Subclasses:** giant soul sorcerer
 
 **Sources:** PHB, page 275

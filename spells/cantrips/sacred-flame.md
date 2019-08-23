@@ -25,6 +25,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Classes:** cleric
 
-**Subclasses:** undying light (ua) warlock, celestial warlock
+**Subclasses:** celestial warlock
 
 **Sources:** PHB, page 272

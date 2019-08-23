@@ -23,6 +23,6 @@ You touch one willing creature. A soft light bathes the creature for a moment, g
 
 **Classes:** cleric, druid, paladin, artificer
 
-**Subclasses:** giant soul (ua) sorcerer
+**Subclasses:** giant soul sorcerer
 
 **Sources:** PHB, page 272

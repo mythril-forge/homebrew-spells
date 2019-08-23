@@ -24,7 +24,7 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Classes:** sorcerer, wizard, artificer
 
-**Subclasses:** giant soul (ua) sorcerer
+**Subclasses:** giant soul sorcerer
 
 **Subraces:** elf (eladrin)
 
