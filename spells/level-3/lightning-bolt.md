@@ -1,6 +1,6 @@
 # Lightning Bolt
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level evocation***
 
@@ -12,9 +12,9 @@
 
 **Shape:** line
 
-**Width:** 5 feet
+**Width:** 15 feet
 
-**Length:** 100 feet
+**Length:** 180 feet
 
 **Tags:** verbal, somatic, material
 
@@ -23,7 +23,7 @@
 ---
 
 ## Description
-A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes `8d6` lightning damage on a failed save, or half as much damage on a successful one.
+A stroke of lightning forming a line 180 feet long and 15 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes `8d6` lightning damage on a failed save, or half as much damage on a successful one.
 
 The lightning ignites flammable objects in the area that aren't being worn or carried.
 
@@ -34,6 +34,6 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 **Classes:** sorcerer, wizard
 
-**Subclasses:** land druid, city (ua) cleric, destruction (twitter) cleric
+**Subclasses:** land druid, city cleric, destruction cleric
 
 **Sources:** PHB, page 255

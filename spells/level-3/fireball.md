@@ -1,6 +1,6 @@
 # Fireball
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level evocation***
 
@@ -8,7 +8,7 @@
 
 **Duration:** instantaneous
 
-**Range:** 150 feet
+**Range:** 120 feet
 
 **Shape:** sphere
 
@@ -32,6 +32,6 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 **Classes:** sorcerer, wizard
 
-**Subclasses:** light cleric, fiend warlock, zeal (psa) cleric, destruction (twitter) cleric, artillerist artificer (revisited)
+**Subclasses:** light cleric, fiend warlock, zeal cleric, destruction cleric, artillerist artificer
 
 **Sources:** PHB, page 241
