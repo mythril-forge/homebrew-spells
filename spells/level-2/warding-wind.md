@@ -30,7 +30,7 @@ The wind has the following effects:
 - Friendly creatures who target creatures within or past the warding wind with an attack have advantage on their roll.
 - Hostile creatures treat the area as difficult terrain.
 - Hostile creatures who target creatures within or past the warding wind with an attack have disadvantage on their roll.
-- Hostile creatures who move through the wind or end their turn there must make a Strength saving throw. The creature falls prone on a failure.
+- Hostile creatures who move through the wind or end their turn there must make a Strength saving throw. The creature falls **prone** on a failure.
 
 ---
 

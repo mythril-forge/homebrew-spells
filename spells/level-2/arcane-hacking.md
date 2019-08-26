@@ -1,6 +1,6 @@
-# Arcane Hacking (UA)
+# Arcane Hacking
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level transmutation***
 
@@ -26,6 +26,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can atte
 
 **Classes:** warlock, sorcerer, wizard
 
-**Subclasses:** ghost in the machine (ua) warlock
+**Subclasses:** ghost in the machine warlock
 
 **Sources:** UA-MM, page 5
