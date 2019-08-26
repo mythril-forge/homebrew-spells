@@ -1,12 +1,12 @@
 # Suggestion
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level enchantment***
 
 **Casting Time:** action
 
-**Duration:** 8 hours
+**Duration:** 12 hours
 
 **Range:** 30 feet
 
@@ -29,10 +29,10 @@ If you or any of your companions damage the target, the spell ends.
 
 **Classes:** bard, sorcerer, warlock, wizard
 
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, beauty (twitter) cleric
+**Subclasses:** knowledge cleric, beauty cleric
 
 **Races:** yuan-ti pureblood
 
-**Subraces:** tiefling (fierna), tiefling (fierna)
+**Subraces:** tiefling (fierna)
 
 **Sources:** PHB, page 279

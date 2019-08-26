@@ -1,6 +1,6 @@
 # Web
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level conjuration***
 
@@ -35,7 +35,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 **Classes:** sorcerer, wizard
 
-**Subclasses:** land druid, lolth (twitter) warlock, alchemist artificer (revisited)
+**Subclasses:** land druid, lolth warlock, alchemist artificer
 
 **Subraces:** tiefling (mephistopheles)
 

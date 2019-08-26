@@ -17,15 +17,15 @@
 ---
 
 ## Description
-You gain the service of a familiar, a spirit that hails from another plane of existance. Typically, familiars come from the Feywild, the Nine Hells, or Elysium. When you cast this spell for the very first time, this immortal entity is mystically selected and bonded to you.
+You gain the service of a familiar, a divine spirit that hails from another plane of existance. Typically, familiars come from the Feywild, the Nine Hells, or Elysium. When you cast this spell for the very first time, this immortal entity is mystically selected and bonded to you.
 
-You channel this familiar into a friendly, willing beast that you hold or touch for the spell's casting duration. This spell can only affect limited selection of animals: bats, cats, crabs, frogs or toads, hawks, lizards, octopuses, owls, snakes, fish or quippers, rats, ravens, sea horses, spiders, and weasels. When the spell completes, it fuses this familiar entity with the animal's body. Your companion keeps the statistics of its form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+You channel this familiar into a friendly, willing beast that you hold or touch for the spell's casting duration. This spell can only affect limited selection of animals: bats, cats, crabs, frogs or toads, hawks, lizards, octopuses, owls, snakes, fish or quippers, rats, ravens, sea horses, spiders, and weasels. (Your DM might allow other animals to be summoned as familiars.) When the spell completes, it fuses this familiar entity with the animal's body. Your companion keeps the statistics of its form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
 
 A mystic symbiosis forms, amplifying the animal's self-awareness, and gifting the familiar with a new mortal form. These two entities share the same mind and body. When your companion drops to 0 hit points, the animal dies, and your familiar drifts to its home plane until you cast this spell again.
 
 While your familiar is within 120 feet of you, a telepathic link is active. Through the link, your familiar can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you.
 
-While the link is active, you can issue commands to your familiar on your turn, and it obeys your commands loyally. It takes its turn directly after you on your initiative count. You can use your bonus action to telepathically command it to move and otherwise act until the beginning of its next turn. Otherwise, your familiar acts on its own, focusing on protecting itself and you.
+While the link is active, you can issue commands to your familiar on your turn, and it obeys your commands loyally. It takes its turn directly after you on your initiative count. You can use your bonus action to telepathically command it to move and otherwise act until the beginning of your next turn. Otherwise, your familiar acts on its own, focusing on protecting itself and you.
 
 You can use your action to see through your familiar's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. During this time, you gain the benefits of any special senses possessed by your familiar, though you are **blinded**, **deafened**, and **stunned** as your body reels from temporarily shutting down.
 
