@@ -1,6 +1,6 @@
 # Protection from Poison
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***2nd-level abjuration***
 
@@ -15,14 +15,14 @@
 ---
 
 ## Description
-You touch a creature. If it is **poisoned**, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
+You touch a creature. If it is **poisoned**, you neutralize the poison. If more than one poison afflicts the target, you neutralize them all.
 
-For the duration, the target has advantage on saving throws against being **poisoned**, and it has resistance to poison damage.
+For the duration, the target has advantage on saving throws against poison, and it has resistance to poison damage.
 
 ---
 
-**Classes:** cleric, druid, paladin, ranger, artificer, artificer (revisited)
+**Classes:** cleric, druid, paladin, ranger, artificer
 
-**Subclasses:** strength (psa) cleric, protection (ua) cleric
+**Subclasses:** strength cleric, protection cleric
 
 **Sources:** PHB, page 270
