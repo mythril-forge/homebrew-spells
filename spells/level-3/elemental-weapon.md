@@ -1,6 +1,6 @@
 # Elemental Weapon
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level transmutation***
 
@@ -10,20 +10,29 @@
 
 **Range:** touch
 
-**Tags:** verbal, somatic, concentration
+**Tags:** verbal, somatic
 
 ---
 
 ## Description
-A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: acid, cold, fire, lightning, or thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra `1d4` damage of the chosen type when it hits.
+A nonmagical weapon you touch becomes wreathed in magic. Choose one of the following damage types: acid, cold, fire, lightning, thunder, or force. For the duration, the weapon has a `+1` bonus to attack rolls and deals an extra `1d6` damage of the chosen type when it hits.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to `2d4`. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to `3d4`.
+This spell has variable damage and bonuses when it is cast at higher levels, as shown in the Enhanced Effects table.
+
+#### Enhanced Effects
+| slot level | magic bonus | extra elemental damage |
+|------------|-------------|------------------------|
+| 3          | `+1`        | `2d6`                  |
+| 4          | `+1`        | `3d6`                  |
+| 5          | `+2`        | `3d6`                  |
+| 6          | `+2`        | `4d6`                  |
+| 7+         | `+3`        | `4d6`                  |
 
 ---
 
-**Classes:** paladin, artificer (revisited)
+**Classes:** paladin, artificer
 
-**Subclasses:** forge (ua) cleric, hexblade (ua) warlock, hexblade warlock, stone (ua) sorcerer, stone (ua) sorcerer, forge cleric
+**Subclasses:** arcana cleric, forge cleric, war cleric, hexblade warlock, stone sorcerer, zeal cleric
 
 **Sources:** PHB, page 237

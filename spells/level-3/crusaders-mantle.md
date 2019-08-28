@@ -1,16 +1,16 @@
 # Crusader's Mantle
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level evocation***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** self
 
-**Shape:** sphere
+**Shape:** aura
 
 **Radius:** 30 feet
 
@@ -25,6 +25,6 @@ Holy power radiates from you in an aura with a 30-foot radius, awakening boldnes
 
 **Classes:** paladin
 
-**Subclasses:** war cleric, solidarity (psa) cleric
+**Subclasses:** war cleric, solidarity cleric
 
 **Sources:** PHB, page 230
