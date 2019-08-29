@@ -1,6 +1,6 @@
 # Tongues
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level divination***
 
@@ -23,6 +23,6 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 **Classes:** bard, cleric, sorcerer, warlock, wizard
 
-**Subclasses:** archivist artificer (revisited)
+**Subclasses:** archivist artificer
 
 **Sources:** PHB, page 283

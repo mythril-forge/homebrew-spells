@@ -1,10 +1,10 @@
 # Leomund's Tiny Hut
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level evocation***
 
-**Casting Time:** 1 minute
+**Casting Time:** 5 minutes
 
 **Duration:** 8 hours
 

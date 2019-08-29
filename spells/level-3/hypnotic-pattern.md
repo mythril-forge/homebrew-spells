@@ -1,18 +1,18 @@
 # Hypnotic Pattern
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level illusion***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 120 feet
 
-**Shape:** cube
+**Shape:** sphere
 
-**Length:** 30 feet
+**Radius*:** 20 feet
 
 **Tags:** somatic, material, concentration
 
@@ -21,7 +21,7 @@
 ---
 
 ## Description
-You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes **charmed** for the duration. While **charmed** by this spell, the creature is **incapacitated** and has a speed of 0.
+You create a twisting pattern of colors that weaves through the air inside a 20-foot-radius sphere within range. The pattern lasts for the duration. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes **charmed** for the duration. While **charmed** by this spell, the creature is **incapacitated** and has a speed of 0. A creature who is **blinded** automatically succeeds on this saving throw.
 
 The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
@@ -29,6 +29,6 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 **Classes:** bard, sorcerer, warlock, wizard
 
-**Subclasses:** redemption (ua) paladin, redemption paladin, beauty (twitter) cleric, archivist artificer (revisited)
+**Subclasses:** redemption paladin, beauty cleric, archivist artificer
 
 **Sources:** PHB, page 252
