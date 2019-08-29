@@ -1,6 +1,6 @@
 # Conjure Animals
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level conjuration***
 
@@ -15,15 +15,15 @@
 ---
 
 ## Description
-You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
+You summon spirits of nature that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 - One beast of challenge rating 2 or lower
 - Two beasts of challenge rating 1 or lower
-- Four beasts of challenge rating 1/2 or lower
-- Eight beasts of challenge rating 1/4 or lower
+- Four beasts of challenge rating ½ or lower
+- Eight beasts of challenge rating ¼ or lower
 
-Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.
+The DM chooses the beasts that might be available in the current environment, such as tigers or wolves, and you choose the unoccupied spaces you can see within range where they appear. A summoned beast loses its compulsion to help you when the spell ends.
 
-The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
+The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they contribute to combat by defending themselves from hostile creatures, but otherwise take no actions (at the DM's discretion).
 
 The DM has the creatures' statistics.
 
@@ -34,6 +34,6 @@ When you cast this spell using certain higher-level spell slots, you choose one 
 
 **Classes:** druid, ranger
 
-**Subclasses:** primeval guardian (ua) ranger, primeval guardian (ua) ranger (revised)
+**Subclasses:** primeval guardian ranger, primeval guardian ranger
 
 **Sources:** PHB, page 225
