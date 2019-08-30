@@ -1,12 +1,12 @@
 # Lightning Arrow
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level transmutation***
 
 **Casting Time:** bonus action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** self
 
@@ -15,14 +15,9 @@
 ---
 
 ## Description
-The next time you make a ranged weapon attack during the spell's duration, the weapon's ammunition, or the weapon itself if it's a thrown weapon, transforms into a bolt of lightning. Make the attack roll as normal. The target takes `4d8` lightning damage on a hit, or half as much damage on a miss, instead of the weapon's normal damage.
-
-Whether you hit or miss, each creature within 10 feet of the target must make a Dexterity saving throw. Each of these creatures takes `2d8` lightning damage on a failed save, or half as much damage on a successful one.
+The next time you make a ranged weapon attack during the spell's duration, the weapon's ammunition (or the weapon itself if it's a thrown weapon) transforms into a bolt of lightning. Make the attack roll as normal. On a hit, the target takes damage from the attack plus `4d8` lightning damage. The lightning bolt also forms a 5-foot-wide line that extends out from you to the target of your attack. Each creature in the line excluding you must make a Dexterity saving throw, taking `4d6` lightning damage on a failed save, and half as much damage on a successful one.
 
 The piece of ammunition or weapon then returns to its normal form.
-
-## At Higher Levels
-When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by `1d8` for each slot level above 3rd.
 
 ---
 
