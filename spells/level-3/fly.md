@@ -1,12 +1,12 @@
 # Fly
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level transmutation***
 
 **Casting Time:** action
 
-**Duration:** 10 minutes
+**Duration:** 15 minutes
 
 **Range:** touch
 
@@ -24,6 +24,6 @@ When you cast this spell using a spell slot of 4th level or higher, you can targ
 
 ---
 
-**Classes:** sorcerer, warlock, wizard, artificer, artificer (revisited)
+**Classes:** sorcerer, warlock, wizard, artificer
 
 **Sources:** PHB, page 243

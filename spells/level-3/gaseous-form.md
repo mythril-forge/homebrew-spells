@@ -1,6 +1,6 @@
 # Gaseous Form
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level transmutation***
 
@@ -27,6 +27,6 @@ While in the form of a misty cloud, the target can't talk or manipulate objects,
 
 **Classes:** sorcerer, warlock, wizard, artificer, artificer (revisited)
 
-**Subclasses:** land druid, treachery (ua) paladin, spores (ua) druid, spores druid
+**Subclasses:** land druid, treachery paladin, spores druid, spores druid
 
 **Sources:** PHB, page 244
