@@ -6,7 +6,7 @@
 
 **Casting Time:** 5 minutes
 
-**Duration:** 8 hours
+**Duration:** 12 hours
 
 **Range:** self
 
@@ -25,7 +25,7 @@ A 10-foot-radius immobile dome of force springs into existence around and above 
 
 Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can't extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.
 
-Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
+Until the spell ends, you can command the interior to become dimly lit or dark. You choose what the dome's color and what it looks like, and whether it is opaque, translucent, transparent, or completely invisible. You can use a bonus action to change its appearance, allowing or disallowing creatures to peer through of the dome.
 
 ---
 

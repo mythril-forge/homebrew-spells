@@ -25,7 +25,7 @@ While in the form of a misty cloud, the target can't talk or manipulate objects,
 
 ---
 
-**Classes:** sorcerer, warlock, wizard, artificer, artificer (revisited)
+**Classes:** sorcerer, warlock, wizard, artificer
 
 **Subclasses:** land druid, treachery paladin, spores druid, spores druid
 
