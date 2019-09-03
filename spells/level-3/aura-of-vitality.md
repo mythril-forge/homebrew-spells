@@ -19,7 +19,7 @@
 ---
 
 ## Description
-Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Once per round, you can use a bonus action to cause one creature in the aura (including you) to regain `2d6` hit points.
+Healing energy radiates from you in an aura with a 30-foot radius as you recite a holy verse. Until the spell ends, the aura moves with you, centered on you. When you cast this spell, and then as a bonus action until the spell ends, you can cause once creature in the aura (including you) to regain `2d6` hit points. This spell ends once you use its healing properties twelve times.
 
 ---
 
