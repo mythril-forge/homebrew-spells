@@ -1,6 +1,6 @@
 # Glyph of Warding
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level abjuration***
 
@@ -10,20 +10,20 @@
 
 **Range:** touch
 
-**Shape:** sphere
+**Shape:** cube
 
-**Radius:** 5 feet
+**Radius:** 10 feet
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** incense and powdered diamond worth at least 200 gp, which the spell consumes
+**Material Components:** incense and powdered diamond worth at least 200 sp, which the spell consumes
 
 ---
 
 ## Description
-When you cast this spell, you inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
+When you cast this spell, you inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. The glyph can cover an area that can fit within a 10-foot cube. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
-The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.
+The glyph is nearly invisible and requires a successful Intelligence check against your spell save DC to be found.
 
 You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends.
 
@@ -42,8 +42,8 @@ When you cast this spell using a spell slot of 4th level or higher, the damage o
 
 ---
 
-**Classes:** bard, cleric, wizard, artificer, artificer (revisited)
+**Classes:** bard, cleric, wizard, artificer
 
-**Subclasses:** deep stalker (ua) ranger, deep stalker conclave ranger (revised)
+**Subclasses:** deep stalker ranger
 
 **Sources:** PHB, page 245

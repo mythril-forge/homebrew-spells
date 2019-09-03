@@ -4,7 +4,7 @@
 
 ***3rd-level evocation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
 **Duration:** 5 minutes
 

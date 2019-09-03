@@ -1,6 +1,6 @@
 # Protection from Energy
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level abjuration***
 
@@ -15,12 +15,17 @@
 ---
 
 ## Description
-For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
+For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+
+In addition, the creature gains a DR `10` (damage reduction) for the chosen damage type.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 1st.
 
 ---
 
-**Classes:** cleric, druid, ranger, sorcerer, wizard, artificer, artificer (revisited)
+**Classes:** cleric, druid, ranger, sorcerer, wizard, artificer
 
-**Subclasses:** land druid, ancients paladin, vengeance paladin, forge (ua) cleric, protection (ua) cleric, strength (psa) cleric, forge cleric, horizon walker (ua) ranger, horizon walker (ua) ranger (revised)
+**Subclasses:** land druid, ancients paladin, vengeance paladin, forge cleric, protection cleric, strength cleric, horizon walker ranger
 
 **Sources:** PHB, page 270

@@ -10,6 +10,12 @@
 
 **Range:** 120 feet
 
+**Shape:** cylinder
+
+**Radius:** 60 feet
+
+**Height:** 120 feet
+
 **Tags:** verbal, somatic, concentration
 
 ---
