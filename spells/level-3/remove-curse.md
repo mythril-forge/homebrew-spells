@@ -1,6 +1,6 @@
 # Remove Curse
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level abjuration***
 
