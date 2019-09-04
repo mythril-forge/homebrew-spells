@@ -1,8 +1,8 @@
 # Fast Friends
 
-- [ ] Homebrew
+- [x] Homebrew
 
-***3rd-level enchantment***
+***2nd-level enchantment***
 
 **Casting Time:** action
 
@@ -20,9 +20,6 @@ When you need to make sure something gets done, you can't rely on vague promises
 You can set the creature new tasks when a previous task is completed, or if you decide to end its current task. If the service or activity might cause harm to the creature, or if it conflicts with the creature's normal activities and desires, the creature can make another Wisdom saving throw to try to end the effect. This save is made with advantage if you or your companions are fighting the creature. If the activity would result in certain death for the creature, the spell ends.
 
 When the spell ends, the creature knows it was **charmed** by you.
-
-## At Higher Levels
-When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
 ---
 
