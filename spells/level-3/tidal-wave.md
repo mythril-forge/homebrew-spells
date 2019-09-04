@@ -1,6 +1,6 @@
 # Tidal Wave
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***3rd-level conjuration***
 
