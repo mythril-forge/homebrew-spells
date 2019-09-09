@@ -33,7 +33,7 @@ A huge, swirling storm of freezing gales (80 mph) and icy debris explodes into e
 - Its area is difficult terrain.
 - Any creature within the storm has disadvantage on all attacks and ability checks.
 - Any creature that attacks something within or past the blizzard has disadvantage on its attack roll.
-- Any creature that moves through the blizzard or ends its turn there must make a Strength saving throw. On a failure, the creature takes `2d6` bludgeoning damage, `2d6` cold damage, and falls prone. On a success, the creature takes half damage and doesn’t fall prone.
+- Any creature that moves through the blizzard or ends its turn there must make a Strength saving throw. On a failure, the creature takes `1d6` bludgeoning damage, `2d6` cold damage, and falls prone. On a success, the creature takes half damage and doesn’t fall prone.
 
 There are relatively few ways to end this spell early. One such way is using magic, such as [*dispel magic*](../level-3/dispel-magic.md), to force the spell eto end.
 
