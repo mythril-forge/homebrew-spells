@@ -27,7 +27,7 @@ A creature that can see the sensor (such as a creature benefiting from see invis
 
 ---
 
-**Classes:** wizard, artificer, artificer
+**Classes:** wizard, artificer
 
 **Subclasses:** arcana cleric, knowledge cleric, seeker warlock
 
