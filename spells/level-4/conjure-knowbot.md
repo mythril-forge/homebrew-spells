@@ -1,12 +1,12 @@
-# Conjure Knowbot (UA)
+# Conjure Knowbot
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***4th-level conjuration***
 
 **Casting Time:** action
 
-**Duration:** 10 minutes
+**Duration:** 15 minutes
 
 **Range:** touch
 
@@ -28,6 +28,6 @@ When you cast this spell using a spell slot of 5th level or higher, the spell's 
 
 **Classes:** warlock, sorcerer, wizard
 
-**Subclasses:** ghost in the machine (ua) warlock
+**Subclasses:** ghost in the machine warlock
 
 **Sources:** UA-MM, page 5
