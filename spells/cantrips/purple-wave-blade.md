@@ -26,3 +26,5 @@ This spell's damage increases when you reach higher levels. At 5th level, the me
 **Classes:** sorcerer, warlock, wizard
 
 **Sources:** SCAG, page 142
+
+**References:** booming blade
