@@ -1,30 +1,31 @@
 # Fire Bolt
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level evocation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
 **Duration:** instantaneous
 
-**Range:** 120 feet
+**Range:** 90 feet
 
 **Tags:** verbal, somatic
 
 ---
 
 ## Description
-You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `1d10` fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `1d8` fire damage.
 
-This spell's damage increases by `1d10` when you reach 5th level (`2d10`), 11th level (`3d10`), and 17th level (`4d10`).
+## At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d8` for each slot level.
 
 ---
 
-**Classes:** sorcerer, wizard, artificer (revisited)
+**Classes:** sorcerer, wizard, artificer
 
-**Subclasses:** giant soul (ua) sorcerer
-
-**Subraces:** elf (eladrin)
+**Subclasses:** giant soul sorcerer (fire giant)
 
 **Sources:** PHB, page 242
+
+**Quality Assurance:** :star: personal pass

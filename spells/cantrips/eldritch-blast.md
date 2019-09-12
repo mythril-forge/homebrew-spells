@@ -1,26 +1,31 @@
 # Eldritch Blast
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level evocation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
 **Duration:** instantaneous
 
-**Range:** 120 feet
+**Range:** 90 feet
 
 **Tags:** verbal, somatic
 
 ---
 
 ## Description
-A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `1d10` force damage.
+A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `1d8` lightning damage.
 
-The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
+> If you don't like the idea of this spell dealing lightning damage, talk to your DM about changing it. This spell can take on any damage type that seems reasonable for your background (at the DM's discretion).
+
+## At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the spell produces one additional beam for each slot level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 ---
 
 **Classes:** warlock
 
 **Sources:** PHB, page 237
+
+**Quality Assurance:** :star: personal pass
