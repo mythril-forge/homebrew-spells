@@ -1,6 +1,6 @@
 # Thunderclap
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level evocation***
 
@@ -10,21 +10,24 @@
 
 **Range:** self
 
-**Shape:** sphere
+**Shape:** aura
 
-**Radius:** 5 feet
+**Radius**: 10 feet
 
 **Tags:** somatic
 
 ---
 
 ## Description
-You create a burst of thunderous sound that can be heard up to 100 feet away. Each creature within range, other than you, must make a Constitution saving throw or take `1d6` thunder damage.
+You create a burst of thunderous sound that can be heard up to a mile away. Each creature within a 10-foot-radius aura eminating from you&mdash;including you&mdash;must make a Constitution saving throw. On a failed save, a creature takes `1d12` thunder damage and is pushed 5 feet away from you by the spell's effect. On a successful save, a creature takes half damage and isn't pushed.
 
-The spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th level (`3d6`), and 17th level (`4d6`).
+## At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d12` for each slot level.
 
 ---
 
-**Classes:** bard, druid, sorcerer, warlock, wizard, artificer (revisited)
+**Classes:** bard, druid, sorcerer, warlock, wizard, artificer
 
 **Sources:** XGE, page 168
+
+**Quality Assurance:** :star: personal pass
