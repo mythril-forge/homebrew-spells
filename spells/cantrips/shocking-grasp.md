@@ -1,10 +1,10 @@
 # Shocking Grasp
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level evocation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
 **Duration:** instantaneous
 
@@ -15,14 +15,19 @@
 ---
 
 ## Description
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes `1d8` lightning damage, and it can't take reactions until the start of its next turn.
+Lightning arcs and springs from your hand. Make a melee spell attack against a creature you can reach. You have advantage on the attack roll if the target is wearing armor made of metal, or is itself made of metal. On a hit, the target takes `1d12` lightning damage as its body reels and writhes from the painful shocks. The target's contortions continue until the end of your next turn. Until then, the target can't take reactions.
 
-The spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th level (`3d8`), and 17th level (`4d8`).
+If the target that you hit is *large* or smaller, then it also has disadvantage on all ability checks until the end of your next turn. A creature who is resistant to lightning damage ignores secondary effects caused by this spell.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d12` for each slot level.
 
 ---
 
-**Classes:** sorcerer, wizard, artificer (revisited)
+**Classes:** sorcerer, wizard, artificer
 
-**Subclasses:** giant soul (ua) sorcerer
+**Subclasses:** giant soul sorcerer (storm giant)
 
 **Sources:** PHB, page 275
+
+**Quality Assurance:** :star: personal pass
