@@ -1,6 +1,6 @@
 # Message
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
@@ -17,14 +17,14 @@
 ---
 
 ## Description
-You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
+You point your finger toward a creature within range, sending a brief message of twenty-five words or less. The target (and only the target) can understand the message. Until the end of your next turn, it can reply in a whisper that only you can understand (no action required). Regardless of a whisper's volume, both parties involved hear it clearly and comfortably.
 
-You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings.
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. The spell can penetrate most barriers, but it is blocked by 3 feet of wood, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or magical silence. The spell doesn't have to follow a straight line to its target and can travel freely around corners or through openings.
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer (revisited)
-
-**Subraces:** tiefling (abyssal)
+**Classes:** bard, sorcerer, wizard, artificer
 
 **Sources:** PHB, page 259
+
+**Quality Assurance:** :star: personal pass
