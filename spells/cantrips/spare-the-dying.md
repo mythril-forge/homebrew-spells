@@ -1,6 +1,6 @@
 # Spare the Dying
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level necromancy***
 
@@ -15,12 +15,12 @@
 ---
 
 ## Description
-You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+You touch a living creature that has 0 hit points. The creature regains `1d4` hit points.
 
 ---
 
-**Classes:** cleric, artificer (revisited)
-
-**Subraces:** elf (shadar-kai), tiefling (abyssal)
+**Classes:** cleric, artificer
 
 **Sources:** PHB, page 277
+
+**Quality Assurance:** :star: personal pass
