@@ -19,7 +19,7 @@ You touch a living creature that has 0 hit points. The creature regains `1d4` hi
 
 ---
 
-**Classes:** cleric, artificer
+**Classes:** cleric, paladin, artificer
 
 **Sources:** PHB, page 277
 
