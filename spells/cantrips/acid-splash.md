@@ -1,8 +1,8 @@
 # Acid Splash
 
-- [ ] Homebrew
+- [x] Homebrew
 
-***0th-level conjuration***
+***0th-level transmutation***
 
 **Casting Time:** action
 
@@ -10,17 +10,32 @@
 
 **Range:** 60 feet
 
-**Tags:** verbal, somatic
+**Shape:** sphere
+
+**Radius:** 5 feet
+
+**Tags:** verbal, somatic, material
+
+**Material Components:** a splash of water
 
 ---
 
 ## Description
-You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take `1d6` acid damage.
+When you cast this spell, you can choose to immediately hurl the acid, or to store it for later use.
 
-This spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th level (`3d6`), and 17th level (`4d6`).
+### Hurl Acid
+You hurl a bubble of acid at a point you choose within range, which then splatters on impact. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity saving throw. On a failed save, a creature takes `1d6` acid damage.
+
+### Store Acid
+You fill a *glass bottle* or similar container that you touch with acid, yielding one 16-ounce *vial of acid*. This item deals `1d6` acid damage, as well as `1d4` slashing damage, instead of its normal damage amount.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the acid damage for either choice increases by `1d6` for each slot level.
 
 ---
 
-**Classes:** sorcerer, wizard, artificer (revisited)
+**Classes:** sorcerer, wizard, artificer
 
 **Sources:** PHB, page 211
+
+**Quality Assurance:** :star: personal pass
