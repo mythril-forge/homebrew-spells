@@ -26,3 +26,5 @@ When the spell ends, the creature realizes that you used magic to influence its 
 **Classes:** bard, sorcerer, warlock, wizard
 
 **Sources:** PHB, page 244
+
+**Quality Assurance:** :star: personal pass
