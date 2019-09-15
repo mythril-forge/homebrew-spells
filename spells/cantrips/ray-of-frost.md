@@ -15,7 +15,7 @@
 ---
 
 ## Description
-A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes `1d6` cold damage as numbing frost burns its body. Until the end of your next turn, the target's movement speed is reduced by 10 feet.
+A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes `1d6` cold damage as numbing frost and chunks of ice form on its body. Until the end of your next turn, the target's movement speed is reduced by 10 feet.
 
 If the target that you hit is *large* or smaller, then it also has disadvantage on all ranged weapon attacks until the end of your next turn. A creature who is resistant to cold damage ignores secondary effects caused by this spell.
 
