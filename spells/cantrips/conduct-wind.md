@@ -1,24 +1,31 @@
-# Gust
+# Conduct Wind
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
 **Duration:** instantaneous
 
 **Range:** 30 feet
 
-**Tags:** verbal, somatic
+**Shape:** cube
+
+**Length:** 5 feet
+
+**Tags:** somatic
 
 ---
 
 ## Description
-You seize the air and compel it to create one of the following effects at a point you can see within range:
-- One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
-- You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
-- You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
+You seize control of an area of air, which must fit within a 5-foot-long cube originating from a point that you can see within range. You can guide the wind in one of the following ways:
+- You focus this spell on a creature or object that you can see within the spell's area, weaponizing the wind around it as you desire. The target must succeed on a Strength saving throw or take `1d4` bludgeoning, piercing, or slashing damage (your choice).
+- You focus this spell on a creature or object that you can see within the spell's area, attempting to blow them aside with a strong gust. The target must succeed on a Strength saving throw or be pushed 5 feet in a direction of your choice. The target must be *medium* or smaller, otherwise it automatically succeeds on this saving throw.
+- You create some harmless sensory effect using the air. The effect lasts until the end of your next turn.
+	- Leaves and foliage rustle with an airy breeze.
+	- Your hair and clothing ripple in a gentle breath of wind.
+	- Open doors and shutters slam shut with howling gale.
 
 ---
 
@@ -27,3 +34,5 @@ You seize the air and compel it to create one of the following effects at a poin
 **Sources:** XGE, page 157
 
 **References:** gust
+
+**Quality Assurance:** :star: personal pass

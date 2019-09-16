@@ -1,12 +1,12 @@
 # Mold Earth
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** special
+**Duration:** instantaneous
 
 **Range:** 30 feet
 
@@ -19,15 +19,18 @@
 ---
 
 ## Description
-You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
-- If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn't involve enough force to cause damage.
-- You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns. The changes last for 1 hour.
-- If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.
-
-If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+You meld an area of dirt or stone, which must fit within a 5-foot-long cube centered on a point that you can see within range. You can sculpt the earth in one of the following ways:
+- You focus this spell on a creature or object that you can see within 5 feet of the spell's area, blasting chunks of dirt and stone at the target. The target must succeed on a Dexterity saving throw or take `1d6` bludgeoning damage. The ground in the area then becomes difficult terrain. 
+- You focus this spell on a creature or object that you can see within 5 feet of the spell's area, attempting to trip them with grasping bumps and hooks. The target must succeed on a Dexterity saving throw or fall **prone**. The ground in the area then becomes difficult terrain.
+- You roughen, loosen, and shape the ground in the area to become difficult terrain.
+- You smooth, solidify, and shape the ground in the area to become fair terrain.
+- If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away.
+- You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns.
 
 ---
 
 **Classes:** druid, sorcerer, wizard
 
 **Sources:** XGE, page 162
+
+**Quality Assurance:** :star: personal pass

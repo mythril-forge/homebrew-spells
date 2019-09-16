@@ -1,14 +1,14 @@
 # Control Flames
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** special
+**Duration:** instantaneous
 
-**Range:** 60 feet
+**Range:** 30 feet
 
 **Shape:** cube
 
@@ -19,16 +19,25 @@
 ---
 
 ## Description
-You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
-- You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
-- You instantaneously extinguish the flames within the cube.
-- You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.
-- You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
-
-If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an action.
+You shape an area of flame, which must fit within a 5-foot-long cube originating from a point that you can see within range. You can command the flame in one of the following ways:
+- You focus this spell on a creature or object that you can see within 10 feet of the spell's area, discharging the blaze out toward it. The target must succeed on a Dexterity saving throw or take `1d10` fire damage. The flame in the area then extinguishes.
+- You intensify the flames.
+	- It expends its fuel more quickly.
+	- It gives off twice the amount of light.
+	- It spreads more quickly.
+	- It extinguishes if its fuel runs out.
+- You subdue the flames.
+	- It expends its fuel more slowly.
+	- It gives off half the amount of light.
+	- It spreads more slowly.
+	- It extinguishes if you command it to.
+- You change the flame's color.
+- You cause simple shapes to appear within the flames&mdash;such as the vague form of a creature, an inanimate object, or a location&mdash;and animate as you like until the end of your next turn.
 
 ---
 
 **Classes:** druid, sorcerer, wizard
 
 **Sources:** XGE, page 152
+
+**Quality Assurance:** :star: personal pass
