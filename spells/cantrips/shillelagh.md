@@ -1,28 +1,34 @@
 # Shillelagh
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
 **Casting Time:** bonus action
 
-**Duration:** 1 minute
+**Duration:** indefinate
 
 **Range:** touch
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** mistletoe, a shamrock leaf, and a club or quarterstaff
+**Material Components:** mistletoe, a shamrock leaf, and a wooden branch, club, or quarterstaff
 
 ---
 
 ## Description
-The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a `d8`. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.
+You take a wooden branch, club, or staff that you are holding, and either press it to the earth or raise it to the sky. You imbue the item with the power of nature and transform it into a formidable quarterstaff. The staff's magic lasts for the duration. The staff has the same statistics as a regular quarterstaff with the following changes:
+- The quarterstaff deals magical bludgeoning damage.
+- Attacks with the quarterstaff have a magical bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
+
+If you let go of the quarterstaff or cast this spell again, the weapon reverts to its original shape, and the spell ends.
 
 ---
 
 **Classes:** druid
 
-**Subclasses:** giant soul (ua) sorcerer
+**Subclasses:** giant soul sorcerer (earth)
 
 **Sources:** PHB, page 275
+
+**Quality Assurance:** :star: personal pass

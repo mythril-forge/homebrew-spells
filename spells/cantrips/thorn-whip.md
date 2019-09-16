@@ -1,14 +1,14 @@
 # Thorn Whip
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** instantaneous
+**Duration:** indefinate
 
-**Range:** 30 feet
+**Range:** 15 feet
 
 **Tags:** verbal, somatic, material
 
@@ -17,12 +17,17 @@
 ---
 
 ## Description
-You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes `1d6` piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.
+You create a long, vine-like whip covered in thorns that lashes out at your command. The whip forms in your free hand, and lasts for the duration. The thorned vine has the same statistics as a regular whip with the following changes:
+- The whip deals `1d4` magical slashing damage on a hit.
+- The whip has a reach of 15 feet.
+- If you hit a creature that is *large* or smaller with this whip, you can pull it up to 15 feet closer to you.
 
-This spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th level (`3d6`), and 17th level (`4d6`).
+If you let go of the whip or cast this spell again, the weapon disappears, and the spell ends.
 
 ---
 
-**Classes:** druid, artificer (revisited)
+**Classes:** druid, ranger, artificer
 
 **Sources:** PHB, page 282
+
+**Quality Assurance:** :star: personal pass
