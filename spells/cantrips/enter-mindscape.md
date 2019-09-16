@@ -1,32 +1,26 @@
 # Enter Mindscape
 
-- [ ] Homebrew
+- [x] Homebrew
 
-***0th-level psionic***
+***1st-level psionic***
 
-**Casting Time:** bonus action
+**Casting Time:** action
 
-**Duration:** 10 minutes
+**Duration:** 5 minutes
 
 **Range:** self
 
-**Shape:** cone
-
-**Radius:** 60 feet
-
-**Tags:** concentration
+**Tags:** ritual, concentration
 
 ---
 
 ## Description
-By shutting down your normal senses, you extend your mind into the psionics landscape around you. For the duration you can use a bonus action to sense the presence of creatures within a 60-foot cone. You learn the number of creatures within the cone and their creature type. You cannot detect undead or constructs with this spell.
-
-This spell is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead,or 3 feet of wood or dirt.
-
-This spell's duration cannot be ended due to damage.
+By shutting down your normal senses, you extend your mind into the psionic landscape around you. For the spell's duration, you have truesight&mdash;however, you also become **blinded** and **stunned**. These conditions end when the spell ends, at which point you gain one level of **exhuastion**. You can end this spell at any time (no action required).
 
 ---
 
-**Classes:** psion
+**Classes:** mystic
 
 **Sources:** STREAM
+
+**Quality Assurance:** :star: personal pass
