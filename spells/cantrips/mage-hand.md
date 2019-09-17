@@ -1,12 +1,12 @@
 # Mage Hand
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level conjuration***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** 30 feet
 
@@ -23,8 +23,8 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard, artificer (revisited)
-
-**Subraces:** gith (githyanki), gith (githzerai), gith (githyanki), gith (githzerai), tiefling (mammon), tiefling (mephistopheles), tiefling (mammon), tiefling (mephistopheles)
+**Classes:** bard, sorcerer, warlock, wizard, artificer
 
 **Sources:** PHB, page 256
+
+**Quality Assurance:** :star: personal pass
