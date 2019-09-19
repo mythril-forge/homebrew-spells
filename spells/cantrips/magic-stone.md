@@ -4,30 +4,31 @@
 
 ***0th-level transmutation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** 5 minutes
+**Duration:** indefinate
 
-**Range:** touch
+**Range:** self
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** up to three stones
+**Material Components:** three stones
 
 ---
 
 ## Description
-You touch up to three stones and imbue them with magic. A stone's magic lasts for the duration. You or someone else can take a stone and use it in a ranged weapon attack. If thrown, a stone acts as an improvised weapon. If used as ammunition, it can be used in a sling or a similar weapon that hurls stones. In either case, an attack with a magic stone has the following additional properties:
+You touch three stones and imbue them with magic. A stone's magic lasts for the duration. You or someone else can take a stone and use it in a ranged weapon attack. If thrown, a stone acts as an improvised weapon. If used as ammunition, it can be used normally in a sling or a similar weapon that hurls stones. In either case, an attack with a magic stone has the following properties:
 - A magic stone deals magical bludgeoning damage.
-- Attacks with a magic stone have a bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded up).
+- Attacks with a magic stone have a magical bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
 
-The magic on a stone dissipates after it is used in an attack. The spell ends if
+The magic on a stone dissipates after it is used in an attack.
 
-If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
-
+The spell ends if you cast it again or if you choose to end it (no action required).
 
 ---
 
 **Classes:** druid, warlock, artificer
 
 **Sources:** XGE, page 160
+
+**Quality Assurance:** :star: personal pass

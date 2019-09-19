@@ -19,17 +19,18 @@
 ---
 
 ## Description
-You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
-- You pummel one creature with the earth. It must make a Strength saving throw. On a failed save, the target takes `1d4` bludgeoning damage.
-- You trip one Medium or smaller creature with the earth. That creature must make a Strength saving throw, or be thrown **prone**.
-- If the dirt or stone you target is a part of the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain.
-- If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 30 feet away.
+You meld an area of dirt or stone, which must fit within a 5-foot-long cube centered on a point that you can see within range. You can sculpt the earth in one of the following ways:
+- You focus this spell on a creature or object that you can see within 5 feet of the spell's area, blasting chunks of dirt and stone at the target. The target must succeed on a Dexterity saving throw or take `1d6` bludgeoning damage. The ground in the area then becomes difficult terrain. 
+- You focus this spell on a creature or object that you can see within 5 feet of the spell's area, attempting to trip them with grasping bumps and hooks. The target must succeed on a Dexterity saving throw or fall **prone**. The ground in the area then becomes difficult terrain.
+- You roughen, loosen, and shape the ground in the area to become difficult terrain.
+- You smooth, solidify, and shape the ground in the area to become fair terrain.
+- If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away.
 - You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns.
-
-If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
 ---
 
 **Classes:** druid, sorcerer, wizard
 
 **Sources:** XGE, page 162
+
+**Quality Assurance:** :star: personal pass

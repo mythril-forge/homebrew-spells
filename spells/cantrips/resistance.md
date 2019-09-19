@@ -17,12 +17,12 @@
 ---
 
 ## Description
-You touch one willing creature. A soft light bathes the creature for a moment, granting it a `+2` bonus to saving throws for the duration.
+You touch one willing creature. A soft light bathes the creature for a moment, granting it a bonus `1d4` to saving throws for the duration.
 
 ---
 
 **Classes:** cleric, druid, paladin, artificer
 
-**Subclasses:** giant soul sorcerer
-
 **Sources:** PHB, page 272
+
+**Quality Assurance:** :star: personal pass

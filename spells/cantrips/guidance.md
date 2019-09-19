@@ -10,15 +10,19 @@
 
 **Range:** touch
 
-**Tags:** verbal, somatic, concentration
+**Tags:** verbal, somatic, material, concentration
+
+**Material Components:** a pendant of an eye or hand
 
 ---
 
 ## Description
-You touch one willing creature granting it a mote of divine energy. Once before the spell ends, the target can use this mote of energy when they make an attack roll or ability check once before the spell ends. Doing so grants them a bonus `1d4` to their roll. The spell then ends.
+You touch one willing creature. A mote of divine energy enters its chest. Once before the spell ends, the target can choose to use the power of this mote when they make an ability check. Doing so grants it a bonus `1d4` on their roll. It can add the bonus before or after making the ability check. The spell then ends.
 
 ---
 
 **Classes:** cleric, druid, artificer
 
 **Sources:** PHB, page 248
+
+**Quality Assurance:** :star: personal pass

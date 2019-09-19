@@ -1,25 +1,21 @@
-# Poison Spray
+# Frostbite
 
 - [x] Homebrew
 
-***0th-level transmutation***
+***0th-level evocation***
 
 **Casting Time:** action
 
 **Duration:** instantaneous
 
-**Range:** self
-
-**Shape:** cone
-
-**Radius:** 10 feet
+**Range:** 30 feet
 
 **Tags:** verbal, somatic
 
 ---
 
 ## Description
-You extend your hand and project a puff of noxious gas from your palm. Each creature in a 10-foot cone must succeed on a Constitution saving throw or take `1d12` poison damage.
+You afflict searing frostbite burns on one creature that you can see within range. The target must succeed on a Constitution saving throw or take `1d12` cold damage.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d12` for each slot level.
@@ -28,6 +24,8 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Classes:** druid, sorcerer, warlock, wizard, artificer
 
-**Sources:** PHB, page 266
+**Sources:** XGE, page 156; XGE, page 169; UA-SS, page 4
+
+**References:** frostbite, toll the dead, toll the dead
 
 **Quality Assurance:** :star: personal pass

@@ -21,6 +21,6 @@ You touch a living creature that has 0 hit points. The creature regains `1d4` hi
 
 **Classes:** cleric, paladin, artificer
 
-**Subraces:** elf (shadar-kai), tiefling (abyssal)
-
 **Sources:** PHB, page 277
+
+**Quality Assurance:** :star: personal pass
