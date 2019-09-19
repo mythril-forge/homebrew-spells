@@ -24,3 +24,5 @@ You unleash a string of insults laced with subtle enchantments at a creature you
 **Subraces:** tiefling (variant)
 
 **Sources:** PHB, page 285
+
+<!-- QA pass needed -->

@@ -1,4 +1,4 @@
-# Purple-Wave Blade
+# Purple-Wave Strike
 
 - [x] Homebrew
 

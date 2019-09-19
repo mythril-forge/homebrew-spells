@@ -54,8 +54,8 @@ If you create a texture, it effects liquids and hard surfaces within a 5-foot cu
 
 **Classes:** bard, sorcerer, warlock, wizard
 
-**Subclasses:** giant soul sorcerer
-
-**Subraces:** elf (eladrin), gnome (forest), tiefling (glasya)
+**Subclasses:** giant soul sorcerer (cloud)
 
 **Sources:** PHB, page 260
+
+<!-- QA pass needed -->

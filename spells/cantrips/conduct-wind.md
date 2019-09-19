@@ -10,21 +10,29 @@
 
 **Range:** 30 feet
 
+**Shape:** cube
+
+**Length:** 5 feet
+
 **Tags:** somatic
 
 ---
 
 ## Description
-You seize the air and compel it to create one of the following effects at a point you can see within range:
-- A concentrated burst of wind homes in at a creature that you choose within range. It must make a Strength saving throw. On a failed save, the target takes `1d4` piercing damage.
-- One Medium or smaller creature that you choose within range must make a Strength saving throw. On a failed save, the ceature is pushed up to be 10 feet in a direction of your choice.
-- One Medium or smaller object that you choose within range is pushed up to 10 feet in a direction of your choice. If that object is held by a creature, it must make a Strength saving throw. On a successful save, the creature holds on to the object.
-- Your hair and clothing ripples in a gentle breath of wind.
-- Open doors and shutters slam shut with howling flurries of wind.
-- Leaves or foliage rustles with an airy breeze.
+You seize control of an area of air, which must fit within a 5-foot-long cube originating from a point that you can see within range. You can guide the wind in one of the following ways:
+- You focus this spell on a creature or object that you can see within the spell's area, weaponizing the wind around it as you desire. The target must succeed on a Strength saving throw or take `1d4` bludgeoning, piercing, or slashing damage (your choice).
+- You focus this spell on a creature or object that you can see within the spell's area, attempting to blow them aside with a strong gust. The target must succeed on a Strength saving throw or be pushed 5 feet in a direction of your choice. The target must be *medium* or smaller, otherwise it automatically succeeds on this saving throw.
+- You create some harmless sensory effect using the air. The effect lasts until the end of your next turn.
+	- Leaves and foliage rustle with an airy breeze.
+	- Your hair and clothing ripple in a gentle breath of wind.
+	- Open doors and shutters slam shut with howling gale.
 
 ---
 
 **Classes:** druid, ranger, sorcerer, wizard
 
 **Sources:** XGE, page 157
+
+**References:** gust
+
+<!-- QA Pass Needed -->
