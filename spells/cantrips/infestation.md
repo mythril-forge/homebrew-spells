@@ -1,6 +1,6 @@
 # Infestation
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level conjuration***
 
@@ -8,7 +8,7 @@
 
 **Duration:** instantaneous
 
-**Range:** 30 feet
+**Range:** 10 feet
 
 **Tags:** verbal, somatic, material
 
@@ -17,12 +17,14 @@
 ---
 
 ## Description
-You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes `1d6` poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a `d4` for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
+You conjure a cloud of mites, fleas, or other such parasites, and cause them to swarm upon one creature you can see within range. The target takes `1d6` poison damage, and must succeed on a Constitution saving throw. On a failed save, the target can't take the *dash action* or any reactions until the end of your next turn, and for each point of damage that the target takes from this spell, it moves 5 feet in a random cardinal direction. The target can't move a distance greater than its movement speed from this effect. Attacks of opportunity caused by this movement have disadvantage.
 
-The spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th level (`3d6`), and 17th level (`4d6`).
+The swarm loses interest and harmlessly dissipates at the end of your next turn.
 
 ---
 
 **Classes:** druid, sorcerer, warlock, wizard
 
 **Sources:** XGE, page 158; UA-SS, page 3
+
+<!-- QA pass needed -->

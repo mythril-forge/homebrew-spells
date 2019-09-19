@@ -1,6 +1,6 @@
 # Mind Fist
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level psionic***
 
@@ -13,12 +13,15 @@
 ---
 
 ## Description
-You point at one creature you can see within range and project a focused beam of telekinetic power at it. The target must succeed on a Strength saving throw or take `1d6` bludgeoning damage and be pushed up to 15 feet away from you.
+You muster a metaphysical ball of force with your mind, and project it toward one creature you can see within range. Make a ranged spell attack against the target. On a hit, the target takes `1d6` force damage. If the target that you hit *medium* or smaller, you can also push it up to 5 feet away from you.
 
-This spell's damage increases by one die when you reach 5th level (`2d6`), 11th level (`3d6`), and 17th level (`4d6`).
+## At Higher Levels
+When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d6` for each slot level. You can also push your target up to 5 additional feet for each slot level used.
 
 ---
 
-**Classes:** psion
+**Classes:** mystic
 
 **Sources:** STREAM
+
+<!-- QA pass needed -->

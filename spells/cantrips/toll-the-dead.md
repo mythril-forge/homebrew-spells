@@ -1,6 +1,6 @@
 # Toll the Dead
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level necromancy***
 
@@ -10,17 +10,34 @@
 
 **Range:** 60 feet
 
-**Tags:** verbal, somatic
+**Tags:** verbal, somatic, material
+
+**Material Components:** a hand bell
 
 ---
 
 ## Description
-You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take `1d8` necrotic damage. If the target is missing any of its hit points, it instead takes `1d12` necrotic damage.
+You point at one creature you can see within range. The sound of a dolorous bell fills the air around it, which can be heard up to a mile away. The target must succeed on a Charisma saving throw or take this spell's necrotic damage, sloughing shreds of its spirit off its essence.
 
-The spell's damage increases by one die when you reach 5th level (`2d8` or `2d12`), 11th level (`3d8` or `3d12`), and 17th level (`4d8` or `4d12`).
+When this spell is first cast, it deals `1d4` necrotic damage. Each time this spell is cast within a mile of you before the end of the next round, the damage that this spell inflicts increases to the next tier of damage, as shown in the Damage Tiers table below.
+
+#### Damage Tiers
+| \# Castings | Damage Dice |
+|-------------|-------------|
+| 1           | `1d4`       |
+| 2           | `1d6`       |
+| 3           | `1d8`       |
+| 4           | `1d10`      |
+| 5           | `1d12`      |
+| 6           | `1d16`      |
+| 7+          | `1d20`      |
+
+If this spell is not cast again within a mile of you before the end of the next round, the spell's damage resets to the first tier.
 
 ---
 
 **Classes:** cleric, warlock, wizard
 
-**Sources:** XGE, page 169
+**Sources:** XGE, page 169; UA-SS, page 4
+
+<!-- QA Pass Needed -->

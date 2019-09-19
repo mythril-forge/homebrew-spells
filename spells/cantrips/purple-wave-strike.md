@@ -1,6 +1,6 @@
-# Booming Blade
+# Purple-Wave Strike
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level evocation***
 
@@ -28,3 +28,5 @@ This spell's damage increases when you reach higher levels. At 5th level, the me
 **Sources:** SCAG, page 142
 
 **References:** booming blade
+
+<!-- QA pass needed -->
