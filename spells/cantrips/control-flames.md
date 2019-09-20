@@ -22,8 +22,8 @@
 You shape an area of flame, which must fit within a 5-foot-long cube originating from a point that you can see within range.
 You can command the flame in one of the following ways:
 - You focus this spell on a creature or object that you can see within 10 feet of the spell's area, discharging the blaze out toward it.
-The target must succeed on a Dexterity saving throw or take `1d10` fire damage.
-The flame in the area then extinguishes.
+	The target must succeed on a Dexterity saving throw or take `1d10` fire damage.
+	The flame in the area then extinguishes.
 - You intensify the flames.
 	- It expends its fuel more quickly.
 	- It gives off twice the amount of light.

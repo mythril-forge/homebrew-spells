@@ -30,12 +30,12 @@ Each target must succeed on a Charisma saving throw or be affected by this spell
 - They get a `–2` penalty to AC and Dexterity saving throws.
 - They have disadvantage on Strength and Dexterity saving throws.
 - They cannot use their bonus action.
-If they have multiple bonus actions to use, they can use one less.
+	If they have multiple bonus actions to use, they can use one less.
 - They cannot use their reaction.
-If they have multiple reactions to use, they can use one less.
+	If they have multiple reactions to use, they can use one less.
 - If they use their action to take the attack action, then they can make one less attack as a part of that action (minimum of one).
 - If they use their action to take the cast a spell action, then they must flip `a coin`.
-On a `tails`, the spell fails.
+	On a `tails`, the spell fails.
 
 A creature can use its action to make a Charisma saving throw and try to end this spell's effect on it.
 On a success, the effect ends for it.

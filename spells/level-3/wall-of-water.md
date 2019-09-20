@@ -36,7 +36,7 @@ It has the following affects:
 - Any lightning damage is blocked by the wall of water, but the effects course through this spell's area.
 	- If the incoming spell would targeted one creature or target, it instead becomes an area of effect spell with an area matching the wall's area.
 	- If the incoming spell was already an area of effect, that effect extends throughout the water.
-Creatures must make a Dexterity saving throw against the spell or take the spell's effects.
+		Creatures must make a Dexterity saving throw against the spell or take the spell's effects.
 - Any cold damage is blocked by the wall of water, and causes any affected area of the water to freeze solid in 5×5-foot chunks.
 	- Each 5-foot-square frozen section has AC 5 and 15 hit points. 
 	- Reducing a frozen section to 0 hit points destroys it. 

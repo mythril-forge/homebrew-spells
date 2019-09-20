@@ -33,7 +33,7 @@ While affected by this spell, a creature gains several benefits:
 - They have an additional reaction.
 - If they can use their action to take the attack action, then they can make one additional attack as a part of that action.
 - If they use their action to take the cast a spell action, then they can flip `a coin`.
-On a `heads`, they can immediately recast the same spell as a part of that action.
+	On a `heads`, they can immediately recast the same spell as a part of that action.
 
 When the spell ends, an affected creature becomes **stunned** until the end of its next turn, as a wave of lethargy sweeps over it.
 
