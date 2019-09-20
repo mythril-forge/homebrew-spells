@@ -33,3 +33,5 @@ A solid barrier blocks the eye's movement, but the eye can pass through an openi
 **Subclasses:** arcana cleric, knowledge cleric, knowledge (psa) cleric, seeker (ua) warlock
 
 **Sources:** PHB, page 214
+
+<!-- my eye is your eye -->
