@@ -17,7 +17,7 @@
 ## Description
 You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
 - Your voice temporarily booms up to three times as loud as normal, or the appearance of your eyes is strangely altered.
-- You affect small objects around you, causing unlocked containers, doors, and windows to fly open and slam shut. Unsecured items near you might fling aimlessly across the room.
+- You affect small objects around you, causing unlocked containers, doors, and windows to fly open and slam shut. Unsecured items near you might fling around aimlessly.
 - You call upon a sound and supernatural forces reciprocate, producing rumbles of thunder, cries of a raven, ominous whispers, light footsteps and more.
 - You cause strange, minor anomolies in the laws of physics&mdash;briefly affecting gravity, time, space, and other phenomena.
 - You have a subdued power over the elements. For example, you can conjure a tuft of flame, cause harmless tremors in the ground, or attain a freezing touch.

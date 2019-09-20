@@ -8,7 +8,7 @@
 
 **Duration:** indefinate
 
-**Range:** touch
+**Range:** self
 
 **Tags:** verbal, somatic, material
 
@@ -21,7 +21,9 @@ You touch three stones and imbue them with magic. A stone's magic lasts for the 
 - A magic stone deals magical bludgeoning damage.
 - Attacks with a magic stone have a magical bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
 
-The magic on a stone dissipates after it is used in an attack. The spell ends if you cast it again or if you choose to end it (no action required).
+The magic on a stone dissipates after it is used in an attack.
+
+The spell ends if you cast it again or if you choose to end it (no action required).
 
 ---
 

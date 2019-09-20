@@ -8,7 +8,7 @@
 
 **Duration:** indefinate
 
-**Range:** touch
+**Range:** self
 
 **Tags:** verbal, somatic, material
 

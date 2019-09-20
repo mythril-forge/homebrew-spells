@@ -15,11 +15,15 @@
 ---
 
 ## Description
-A flickering flame appears in one of your hands, and you hurl the flame at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `1d10` fire damage.
+A flickering flame appears in one of your empty hands. You can either immediately hurl the flame, or carry it with you.
 
-You can also hold onto the flame instead of attacking with it immediately. When you do so, the flame lingers harmlessly in your hand for up to 1 day, and sheds bright light in a 10-foot radius. You can use a bonus action to hurl the flame on a later turn, although doing so ends the spell. Likewise, you can end the spell if you choose to dismiss it (no action required).
+### Hurl Flame
+You attack with the flame. Make a ranged spell attack against a target creature or object within range. On a hit, the target takes `1d10` fire damage.
 
-If you have two or more hands, you can maintain an instance of this spell in each of your hands.
+### Hold Flame
+The flame lingers harmlessly in your hand, shedding bright light in a 20-foot radius. You can sustain this flame indefinately. Equipping an item in this hand extinguishes the flame and ends the spell. You can extinguish the flame if you choose to dismiss it (no action required). If you have two or more hands, you can maintain an instance of this spell in each of your hands.
+
+You can also use a bonus action to hurl the held flame, although doing so ends the spell.
 
 ### At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d10` for each slot level.
@@ -28,8 +32,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Classes:** druid
 
-**Subraces:** genasi (fire)
-
 **Sources:** PHB, page 269
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass

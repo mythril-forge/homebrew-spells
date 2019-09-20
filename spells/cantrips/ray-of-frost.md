@@ -26,8 +26,6 @@ When you cast this spell using a spell slot of 1st level or higher, the spell pr
 
 **Classes:** sorcerer, wizard, artificer
 
-**Subclasses:** giant soul sorcerer (frost giant)
-
 **Sources:** PHB, page 271; XGE, page 156
 
 **References:** ray of frost, frostbite

@@ -21,7 +21,7 @@
 ## Description
 You create up to six torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air. You can also combine the six lights into one glowing vaguely humanoid form of *medium* size or smaller. Whichever form you choose, each light sheds dim light in a 10-foot radius.
 
-You can use your bonus action to move any number of the lights up to a distance of 120 feet. A light winks out if it exceeds the spell's range.
+You can use your bonus action to move any number of the lights up to a distance of 120 feet. A light winks out if it exceeds the spell's range from you.
 
 ---
 

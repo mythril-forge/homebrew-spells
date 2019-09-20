@@ -23,4 +23,4 @@ This cantrip allows you to activate or deactivate any device within range, as lo
 
 **Sources:** UA-MM, page 7
 
-**Quality Assurance:** :star: personal pass
+<!-- WA Pass Needed -->

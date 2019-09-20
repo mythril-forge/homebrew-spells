@@ -34,3 +34,5 @@ If you target an object held or worn by a hostile creature, that creature must s
 **Races:** aasimar
 
 **Sources:** PHB, page 255
+
+<!-- QA pass needed -->

@@ -35,4 +35,4 @@ You seize control of an area of air, which must fit within a 5-foot-long cube or
 
 **References:** gust
 
-**Quality Assurance:** :star: personal pass
+<!-- QA Pass Needed -->

@@ -19,7 +19,7 @@ When you cast this spell, your movement speed increases by 15 feet, and you can 
 
 ---
 
-**Classes:** psion
+**Classes:** mystic
 
 **Sources:** STREAM
 

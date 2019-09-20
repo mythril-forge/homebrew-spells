@@ -24,8 +24,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Classes:** sorcerer, wizard, artificer
 
-**Subclasses:** giant soul sorcerer (fire giant)
-
 **Sources:** PHB, page 242
 
 **Quality Assurance:** :star: personal pass

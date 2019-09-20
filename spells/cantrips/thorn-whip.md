@@ -8,7 +8,7 @@
 
 **Duration:** indefinate
 
-**Range:** 15 feet
+**Range:** self
 
 **Tags:** verbal, somatic, material
 
