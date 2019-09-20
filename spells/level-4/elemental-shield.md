@@ -17,11 +17,13 @@
 ---
 
 ## Description
-Thin and wispy tendrils of elemental substance wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell early by using an action to dismiss it.
+Thin and wispy tendrils of elemental substance wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet.
+You can end the spell early by using an action to dismiss it.
 
 The barrier provides you with resistance from cold, fire, or lightning (your choice).
 
-In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with elemental force. The attacker takes `2d8` damage from the type you chose.
+In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with elemental force.
+The attacker takes `2d8` damage from the type you chose.
 
 ---
 
