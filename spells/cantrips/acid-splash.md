@@ -8,7 +8,7 @@
 
 **Duration:** instantaneous
 
-**Range:** 30 feet
+**Range:** 60 feet
 
 **Shape:** sphere
 

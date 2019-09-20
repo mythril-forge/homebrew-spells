@@ -29,7 +29,7 @@ You seize control of an area of air, which must fit within a 5-foot-long cube or
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard
+**Classes:** druid, sorcerer, wizard
 
 **Sources:** XGE, page 157
 
