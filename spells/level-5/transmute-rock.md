@@ -21,7 +21,7 @@
 ---
 
 ## Description
-You choose an area of stone or mud that you can see that fits within a 40-foot cube and is within range, and choose one of the following effects.
+You choose an area of stone or mud that you can see that fits within a 40-foot-long cube and is within range, and choose one of the following effects.
 
 ### Transmute Rock to Mud
 Nonmagical rock of any sort in the area becomes an equal volume of thick, flowing mud that remains for the spell's duration.
