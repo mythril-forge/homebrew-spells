@@ -21,7 +21,7 @@
 ---
 
 ## Description
-You create a convincingly realistic image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube.
+You create a convincingly realistic image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot-long cube.
 The image appears at a spot within range and lasts for the duration.
 You have full control over the image's animation within its space.
 The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.

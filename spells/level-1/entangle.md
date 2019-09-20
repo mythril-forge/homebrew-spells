@@ -19,7 +19,7 @@
 ---
 
 ## Description
-Grasping weeds and vines sprout from solid ground in a 20-foot cube originating from a point within range.
+Grasping weeds and vines sprout from solid ground in a 20-foot-long cube originating from a point within range.
 The vines reach upwards and outwards 5 feet.
 For the duration, these plants turn the ground in the area into difficult terrain.
 

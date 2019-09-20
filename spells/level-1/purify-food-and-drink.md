@@ -19,7 +19,7 @@
 ---
 
 ## Description
-All nonmagical food and drink in a 10-foot cube within range is purified and rendered free of poison and disease.
+All nonmagical food and drink in a 10-foot-long cube within range is purified and rendered free of poison and disease.
 
 ---
 
