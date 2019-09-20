@@ -20,7 +20,7 @@ Make a ranged spell attack against the target.
 On a hit, the target takes `1d8` lightning damage.
 
 > If you don't like the idea of this spell dealing lightning damage, talk to your DM about changing it.
-This spell can take on any damage type that seems reasonable for your background (at the DM's discretion).
+> This spell can take on any damage type that seems reasonable for your background (at the DM's discretion).
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the spell produces one additional beam for each slot level.

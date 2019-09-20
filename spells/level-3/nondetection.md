@@ -22,7 +22,7 @@
 
 ## Description
 For the duration, you hide a target that you touch from divination magic.
-The target can be a willing creature or a place or an object that fits within a 10-foot cube.
+The target can be a willing creature or a place or an object that fits within a 10-foot-long cube.
 The target can't be targeted by any divination magic or perceived through magical scrying sensors.
 
 ---

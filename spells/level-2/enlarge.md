@@ -37,9 +37,9 @@ If the target is fitted with cloth, armor, or other equipment that becomes too s
 If there isn't enough room for the target to increase its size when this spell takes effect, it either breaks the environment around it, breaks itself, or becomes **restrained**.
 
 > This spell can be also be used to allow a target creature to wield large weapons easily.
-A Large humanoid can use a greatsword like a shortsword and a longsword like a dagger.
-They can use even unwieldly direspears, direswords and giantaxes, which deal `2d6`, `3d6` and `2d12` damage respectively.
-Generally, large variants of weapons deal one damage dice more than normal.
+> A Large humanoid can use a greatsword like a shortsword and a longsword like a dagger.
+> They can use even unwieldly direspears, direswords and giantaxes, which deal `2d6`, `3d6` and `2d12` damage respectively.
+> Generally, large variants of weapons deal one damage dice more than normal.
 
 ---
 

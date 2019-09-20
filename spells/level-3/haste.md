@@ -23,7 +23,7 @@
 ---
 
 ## Description
-You alter time around up to two willing creatures of your choice in a 10-foot cube within range.
+You alter time around up to two willing creatures of your choice in a 10-foot-long cube within range.
 While affected by this spell, a creature gains several benefits:
 - Their movement speed is doubled.
 - Their attacks have advantage.
