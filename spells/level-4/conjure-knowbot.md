@@ -1,12 +1,12 @@
-# Conjure Knowbot (UA)
+# Conjure Knowbot
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***4th-level conjuration***
 
 **Casting Time:** action
 
-**Duration:** 10 minutes
+**Duration:** 15 minutes
 
 **Range:** touch
 
@@ -33,6 +33,8 @@ Additionally, your telepathic bond with the knowbot is effective out to a range 
 
 **Classes:** warlock, sorcerer, wizard
 
-**Subclasses:** ghost in the machine (ua) warlock
+**Subclasses:** ghost in the machine warlock
 
 **Sources:** UA-MM, page 5
+
+<!-- QA Pass: Very Poor 👎 -->

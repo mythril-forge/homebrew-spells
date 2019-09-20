@@ -1,10 +1,10 @@
 # Conjure Minor Elementals
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***4th-level conjuration***
 
-**Casting Time:** 1 minute
+**Casting Time:** 5 minutes
 
 **Duration:** 1 hour
 
@@ -19,10 +19,10 @@ You summon elementals that appear in unoccupied spaces that you can see within r
 You choose one the following options for what appears:
 - One elemental of challenge rating 2 or lower
 - Two elementals of challenge rating 1 or lower
-- Four elementals of challenge rating 1/2 or lower
-- Eight elementals of challenge rating 1/4 or lower.
+- Four elementals of challenge rating ½ or lower
+- Eight elementals of challenge rating ¼ or lower
 
-An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
+An elemental summoned by this spell dissipates when it drops to 0 hit points or when the spell ends.
 
 The summoned creatures are friendly to you and your companions.
 Roll initiative for the summoned creatures as a group, which has its own turns.

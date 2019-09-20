@@ -64,3 +64,5 @@ The first time each turn that an object enters the vortex, the object takes `2d8
 **Subclasses:** tempest cleric, land druid, kraken (stream) warlock, lurker in the deep (ua) warlock
 
 **Sources:** PHB, page 227
+
+<!-- QA Pass: Very Poor 👎 -->

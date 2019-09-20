@@ -46,3 +46,5 @@ When you cast this spell using a spell slot of 5th level or higher, the damage i
 **Subclasses:** light cleric, fiend warlock, forge (ua) cleric, celestial (ua) warlock, celestial warlock, forge cleric, artillerist artificer (revisited)
 
 **Sources:** PHB, page 285
+
+<!-- QA Pass: Very Poor 👎 -->

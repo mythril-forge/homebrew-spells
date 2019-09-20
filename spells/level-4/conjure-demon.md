@@ -1,6 +1,6 @@
-# Summon Greater Demon
+# Conjure Demon
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***4th-level conjuration***
 
@@ -18,7 +18,7 @@
 
 ## Description
 You utter foul words, summoning one demon from the chaos of the Abyss.
-You choose the demon's type, which must be one of challenge rating 5 or lower, such as a shadow demon or a barlgura.
+You choose the demon's type, which must be one of challenge rating 5 or lower, such as a *shadow demon* or a *barlgura*.
 The demon appears in an unoccupied space you can see within range, and the demon disappears when it drops to 0 hit points or when the spell ends.
 
 Roll initiative for the demon, which has its own turns.
@@ -37,7 +37,7 @@ While the spell lasts, the summoned demon can't cross the circle or harm it, and
 Using the material component in this manner consumes it when the spell ends.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
+When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
 ---
 

@@ -1,6 +1,6 @@
-# Synchronicity (UA)
+# Synchronicity
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***4th-level enchantment***
 
@@ -29,6 +29,6 @@ In the event that two or more creatures under the effect of synchronicity are at
 
 **Classes:** warlock, sorcerer, wizard
 
-**Subclasses:** city (ua) cleric, ghost in the machine (ua) warlock
+**Subclasses:** city cleric, ghost in the machine warlock
 
 **Sources:** UA-MM, page 8
