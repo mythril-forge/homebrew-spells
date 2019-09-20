@@ -34,6 +34,8 @@ On a success, it frees itself.
 
 **Classes:** wizard
 
-**Subclasses:** great old one warlock, kraken (stream) warlock, darkness (twitter) cleric
+**Subclasses:** great old one warlock, kraken (stream) warlock, darkness (twitter) cleric, aberrant mind (ua) sorcerer, lurker in the deep (ua) warlock
 
 **Sources:** PHB, page 238
+
+<!-- QA Pass: Very Poor 👎 -->
