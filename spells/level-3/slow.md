@@ -44,3 +44,5 @@ A creature can use its action to make a Charisma saving throw and try to end thi
 **Subclasses:** land druid, protection cleric, order cleric, order cleric
 
 **Sources:** PHB, page 277
+
+<!-- QA Pass Needed -->
