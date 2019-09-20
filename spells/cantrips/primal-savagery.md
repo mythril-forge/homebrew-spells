@@ -15,7 +15,8 @@
 ---
 
 ## Description
-You channel primal magic to cause your teeth or fingernails to sharpen. Your unarmed strikes are ready for a series of feral attacks&mdash;tooth and claw:
+You channel primal magic to cause your teeth or fingernails to sharpen.
+Your unarmed strikes are ready for a series of feral attacks&mdash;tooth and claw:
 - You become proficient with unarmed strikes while this spell is active.
 - Your unarmed strikes deal `1d4` damage, unless they already do more.
 - Your unarmed strikes deal magical bludgeoning, slashing, or piercing damage (your choice).

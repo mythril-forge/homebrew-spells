@@ -14,7 +14,11 @@
 
 ---
 ## Description
-You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes `3d6` damage. Choose one of the `d6`s. The number rolled on that die determines the attack's damage type, as shown on the Elemental Choices table below.
+You hurl an undulating, warbling mass of chaotic energy at one creature in range.
+Make a ranged spell attack against the target.
+On a hit, the target takes `3d6` damage.
+Choose one of the `d6`s.
+The number rolled on that die determines the attack's damage type, as shown on the Elemental Choices table below.
 
 #### Elemental Choices
 | `d6` | Damage Type                        |
@@ -26,7 +30,9 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 | 5    | Cold                               |
 | 6    | Lightning                          | 
 
-If you roll two of the same numbers on any pair of `d6`s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again. A creature can be targeted only once by each casting of this spell.
+If you roll two of the same numbers on any pair of `d6`s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it.
+Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
 
 ---
 

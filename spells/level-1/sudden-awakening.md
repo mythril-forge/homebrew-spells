@@ -15,7 +15,8 @@
 ---
 
 ## Description
-Each sleeping creature you choose within range awakens. Then, each **prone** creature within range can immediately stand up without expending any movement.
+Each sleeping creature you choose within range awakens.
+Then, each **prone** creature within range can immediately stand up without expending any movement.
 
 ---
 

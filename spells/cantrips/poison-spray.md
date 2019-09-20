@@ -19,7 +19,8 @@
 ---
 
 ## Description
-You extend your hand and project a puff of noxious gas from your palm. Each creature in a 10-foot cone must succeed on a Constitution saving throw or take `1d12` poison damage.
+You extend your hand and project a puff of noxious gas from your palm.
+Each creature in a 10-foot cone must succeed on a Constitution saving throw or take `1d12` poison damage.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d12` for each slot level.

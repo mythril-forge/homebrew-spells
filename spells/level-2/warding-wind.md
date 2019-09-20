@@ -19,7 +19,8 @@
 ---
 
 ## Description
-A strong wind (60 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration.
+A strong wind (60 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you.
+The wind lasts for the spell's duration.
 
 The wind has the following effects:
 - It lightly obscures the area with dust and debris.
@@ -30,7 +31,8 @@ The wind has the following effects:
 - Friendly creatures who target creatures within or past the warding wind with an attack have advantage on their roll.
 - Hostile creatures treat the area as difficult terrain.
 - Hostile creatures who target creatures within or past the warding wind with an attack have disadvantage on their roll.
-- Hostile creatures who move through the wind or end their turn there must make a Strength saving throw. The creature falls **prone** on a failure.
+- Hostile creatures who move through the wind or end their turn there must make a Strength saving throw.
+The creature falls **prone** on a failure.
 
 ---
 

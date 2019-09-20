@@ -15,7 +15,9 @@
 ---
 
 ## Description
-This cantrip allows you to activate or deactivate any device within range, as long as the device has a clearly defined on or off function that you can see. The function must be readily accessible from the outside of the device. Any device that requires a software-based shutdown sequence to activate or deactivate cannot be affected by this spell.
+This cantrip allows you to activate or deactivate any device within range, as long as the device has a clearly defined on or off function that you can see.
+The function must be readily accessible from the outside of the device.
+Any device that requires a software-based shutdown sequence to activate or deactivate cannot be affected by this spell.
 
 ---
 

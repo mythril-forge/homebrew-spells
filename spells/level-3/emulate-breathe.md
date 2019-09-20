@@ -19,7 +19,9 @@
 ---
 
 ## Description
-Affected creatures no longer need to breathe anything, be it air, water, or something else. Affected creatures also retain their normal mode of respiration. Up to four willing creatures you can see within range gain this ability for the duration.
+Affected creatures no longer need to breathe anything, be it air, water, or something else.
+Affected creatures also retain their normal mode of respiration.
+Up to four willing creatures you can see within range gain this ability for the duration.
 
 ---
 

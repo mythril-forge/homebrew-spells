@@ -19,9 +19,11 @@
 ---
 
 ## Description
-You conjure a chilled mist inside a 1-foot-long cube originating from a point on the ground that you can see within range. Any water or air that enters the cube's space slowly becomes cold and briny.
+You conjure a chilled mist inside a 1-foot-long cube originating from a point on the ground that you can see within range.
+Any water or air that enters the cube's space slowly becomes cold and briny.
 
-Once per round, you can cause the cube to spout 5 gallons of saltwater as a bonus action. The water spills and pours from the cube unless there is something to contain it.
+Once per round, you can cause the cube to spout 5 gallons of saltwater as a bonus action.
+The water spills and pours from the cube unless there is something to contain it.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the cube generates 5 more gallons of saltwater per round for each slot level.

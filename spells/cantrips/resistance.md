@@ -17,7 +17,8 @@
 ---
 
 ## Description
-You touch one willing creature. A soft light bathes the creature for a moment, granting it a bonus `1d4` to saving throws for the duration.
+You touch one willing creature.
+A soft light bathes the creature for a moment, granting it a bonus `1d4` to saving throws for the duration.
 
 ---
 

@@ -15,7 +15,9 @@
 ---
 
 ## Description
-A nonmagical weapon you touch becomes wreathed in magic. Choose one of the following damage types: acid, cold, fire, lightning, thunder, or force. For the duration, the weapon has a `+1` bonus to attack rolls and deals an extra `1d6` damage of the chosen type when it hits.
+A nonmagical weapon you touch becomes wreathed in magic.
+Choose one of the following damage types: acid, cold, fire, lightning, thunder, or force.
+For the duration, the weapon has a `+1` bonus to attack rolls and deals an extra `1d6` damage of the chosen type when it hits.
 
 ## At Higher Levels
 This spell has variable damage and bonuses when it is cast at higher levels, as shown in the Enhanced Effects table.

@@ -15,7 +15,8 @@
 ---
 
 ## Description
-You touch a living creature that has 0 hit points. The creature regains `1d4` hit points.
+You touch a living creature that has 0 hit points.
+The creature regains `1d4` hit points.
 
 ---
 

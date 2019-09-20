@@ -15,7 +15,9 @@
 ---
 
 ## Description
-You channel arcane energy from the elements. Choose one damage type: Fire, Cold or Lightning. Until the spell ends, your weapon attacks are considered magical, and deal an extra `1d6` damage of the chosen type on a hit.
+You channel arcane energy from the elements.
+Choose one damage type: Fire, Cold or Lightning.
+Until the spell ends, your weapon attacks are considered magical, and deal an extra `1d6` damage of the chosen type on a hit.
 
 ---
 

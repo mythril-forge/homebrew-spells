@@ -19,7 +19,8 @@
 ---
 
 ## Description
-For the duration, you sense the presence of magic within 30 feet of you. A more subtle presence may require a successful Wisdom check to even notice.
+For the duration, you sense the presence of magic within 30 feet of you.
+A more subtle presence may require a successful Wisdom check to even notice.
 
 If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 

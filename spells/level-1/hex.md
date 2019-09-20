@@ -17,9 +17,12 @@
 ---
 
 ## Description
-You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra `1d4` necrotic damage to the target whenever you hit it with an attack. Also, the target gains one semi-permanent level of **exhaustion** that is removed only when the spell ends.
+You place a curse on a creature that you can see within range.
+Until the spell ends, you deal an extra `1d4` necrotic damage to the target whenever you hit it with an attack.
+Also, the target gains one semi-permanent level of **exhaustion** that is removed only when the spell ends.
 
-If the target dies before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature within range. If you do not do so within 5 minutes of the target's death, the spell ends early.
+If the target dies before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature within range.
+If you do not do so within 5 minutes of the target's death, the spell ends early.
 
 The spell can also be ended early if you dismiss it (no action required) or if a [*remove curse*](../level-3/remove-curse.md) or [*dispel magic*](../level-3/dispel-magic.md) spell successfully ends its effect.
 

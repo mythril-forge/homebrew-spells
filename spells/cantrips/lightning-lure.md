@@ -15,7 +15,9 @@
 ---
 
 ## Description
-You wrangle lightning energy into a lash of semi-physical form. The lash forms in your free hand, and lasts for the duration. The lash has the same statistics as a regular whip with the following changes:
+You wrangle lightning energy into a lash of semi-physical form.
+The lash forms in your free hand, and lasts for the duration.
+The lash has the same statistics as a regular whip with the following changes:
 - The whip deals `1d4` lightning damage on a hit.
 - The whip has a reach of 15 feet.
 - If you hit a creature that is within 5 feet of you with this whip, it deals an extra `1d4` lightning damage.

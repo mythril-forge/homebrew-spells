@@ -15,7 +15,9 @@
 ---
 
 ## Description
-You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw. On a failure, it takes `1d4` psychic damage and has disadvantage on attack rolls until the end of your next turn.
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range.
+If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw.
+On a failure, it takes `1d4` psychic damage and has disadvantage on attack rolls until the end of your next turn.
 
 ---
 

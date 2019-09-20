@@ -15,16 +15,20 @@
 ---
 
 ## Description
-You mystically mark a creature you can see within range as your quarry. Until the spell ends, you deal an extra `1d6` damage to the target whenever you hit it with a weapon attack and you have advantage on any ability check that you make to actively hunt it. That includes activities such as:
+You mystically mark a creature you can see within range as your quarry.
+Until the spell ends, you deal an extra `1d6` damage to the target whenever you hit it with a weapon attack and you have advantage on any ability check that you make to actively hunt it.
+That includes activities such as:
 - tracking
 - searching
 - pursuing
 - capturing
 - exterminating
 
-If the target dies before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature within range. If you do not do so within 5 minutes of the target's death, the spell ends early.
+If the target dies before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature within range.
+If you do not do so within 5 minutes of the target's death, the spell ends early.
 
-The spell ends early if you dismiss it (no action required). A [*remove curse*](../level-3/remove-curse.md) or [*dispel magic*](../level-3/dispel-magic.md) spell also can end this spell early.
+The spell ends early if you dismiss it (no action required).
+A [*remove curse*](../level-3/remove-curse.md) or [*dispel magic*](../level-3/dispel-magic.md) spell also can end this spell early.
 
 ## At Higher Levels
 When you cast this spell using a higher level spell slot, you can maintain your concentration on the spell for much longer, as shown on the Enhanced Spell Duration table below.

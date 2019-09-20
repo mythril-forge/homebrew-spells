@@ -15,10 +15,13 @@
 ---
 
 ## Description
-You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a `+1` bonus to attack rolls and damage rolls. Additionally, your weapon gains one of the following effects.
+You touch a nonmagical weapon.
+Until the spell ends, that weapon becomes a magic weapon with a `+1` bonus to attack rolls and damage rolls.
+Additionally, your weapon gains one of the following effects.
 
 ### Arcane Energy
-Choose one of the following damage types: acid, cold, fire, lightning, thunder, or force. Until the spell ends, your weapon deals an extra `1d6` damage of the chosen type on a hit.
+Choose one of the following damage types: acid, cold, fire, lightning, thunder, or force.
+Until the spell ends, your weapon deals an extra `1d6` damage of the chosen type on a hit.
 
 ### Beam Shot
 The weapon can be used at range by flinging a magical beam outwards from it.
@@ -31,7 +34,8 @@ When you throw this weapon to make an attack, you can hold onto it so it does no
 The weapon no longer requires ammo to make attacks, and its *loading* property can be ignored.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 4th level or higher, the bonus increases to `+2`. When you use a spell slot of 6th level or higher, the bonus increases to `+3`.
+When you cast this spell using a spell slot of 4th level or higher, the bonus increases to `+2`.
+When you use a spell slot of 6th level or higher, the bonus increases to `+3`.
 
 ---
 

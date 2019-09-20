@@ -21,7 +21,8 @@
 ## Description
 Do you need to squeeze a few more gold pieces out of a merchant as you try to sell that weird octopus statue you liberated from the chaos temple? Do you need to downplay the worth of some magical assets when the tax collector stops by? Distort value has you covered.
 
-You cast this spell on an object that fits within a 1-foot cube, doubling the object's perceived value by adding illusory flourishes or polish to it, or reducing its perceived value by half with the help of illusory scratches, dents, and other unsightly features. Anyone examining the object can ascertain its true value with a successful Intelligence check against your spell save DC.
+You cast this spell on an object that fits within a 1-foot cube, doubling the object's perceived value by adding illusory flourishes or polish to it, or reducing its perceived value by half with the help of illusory scratches, dents, and other unsightly features.
+Anyone examining the object can ascertain its true value with a successful Intelligence check against your spell save DC.
 
 ---
 

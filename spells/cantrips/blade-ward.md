@@ -15,7 +15,8 @@
 ---
 
 ## Description
-You extend your hand and trace a sigil of warding in the air. You have resistance against bludgeoning, piercing, and slashing damage for the spell's duration.
+You extend your hand and trace a sigil of warding in the air.
+You have resistance against bludgeoning, piercing, and slashing damage for the spell's duration.
 
 ---
 

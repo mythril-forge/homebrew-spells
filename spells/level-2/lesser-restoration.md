@@ -15,7 +15,9 @@
 ---
 
 ## Description
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be **blinded**, **deafened**, **paralyzed**, or **poisoned**. Alternatively, you can reduce the target’s **exhaustion** level by one.
+You touch a creature and can end either one disease or one condition afflicting it.
+The condition can be **blinded**, **deafened**, **paralyzed**, or **poisoned**.
+Alternatively, you can reduce the target’s **exhaustion** level by one.
 
 ---
 

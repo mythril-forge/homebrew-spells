@@ -17,7 +17,9 @@
 ---
 
 ## Description
-You create a long, vine-like whip covered in thorns that lashes out at your command. The whip forms in your free hand, and lasts for the duration. The thorned vine has the same statistics as a regular whip with the following changes:
+You create a long, vine-like whip covered in thorns that lashes out at your command.
+The whip forms in your free hand, and lasts for the duration.
+The thorned vine has the same statistics as a regular whip with the following changes:
 - The whip deals `1d4` magical slashing damage on a hit.
 - The whip has a reach of 15 feet.
 - If you hit a creature that is *large* or smaller with this whip, you can pull it up to 15 feet closer to you.

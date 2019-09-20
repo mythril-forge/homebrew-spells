@@ -17,7 +17,8 @@
 ---
 
 ## Description
-You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision.
+You touch a willing creature to grant it the ability to see in the dark.
+For the duration, that creature has darkvision.
 
 ---
 

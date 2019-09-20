@@ -21,7 +21,8 @@
 ---
 
 ## Description
-For the duration, you sense the presence of poisons, poisonous creatures, and diseases within 30 feet of you. A more subtle presence may require a successful Wisdom check to even notice.
+For the duration, you sense the presence of poisons, poisonous creatures, and diseases within 30 feet of you.
+A more subtle presence may require a successful Wisdom check to even notice.
 
 If you sense a malady in this way, you can use your action to pick up a pungent odor eminating from anything that bears a malady, and you identify the malady's source and properties in each case.
 

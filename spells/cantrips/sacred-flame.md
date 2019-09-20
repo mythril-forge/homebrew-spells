@@ -15,7 +15,10 @@
 ---
 
 ## Description
-Flame-like radiance descends upon a creature that you can see within range. The target must succeed on a Dexterity saving throw or take `1d8` radiant damage. The target gains no benefit from cover for this saving throw. If the target is a *fiend* or *undead*, then it also has disadvantage this saving throw.
+Flame-like radiance descends upon a creature that you can see within range.
+The target must succeed on a Dexterity saving throw or take `1d8` radiant damage.
+The target gains no benefit from cover for this saving throw.
+If the target is a *fiend* or *undead*, then it also has disadvantage this saving throw.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d8` for each slot level.

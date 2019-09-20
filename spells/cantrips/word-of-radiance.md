@@ -21,7 +21,8 @@
 ---
 
 ## Description
-You utter a divine word, and burning radiance from your holy symbol. Each creature other than you within a 10-foot-radius aura eminating from you must make a Constitution saving throw or take `1d10` radiant damage.
+You utter a divine word, and burning radiance from your holy symbol.
+Each creature other than you within a 10-foot-radius aura eminating from you must make a Constitution saving throw or take `1d10` radiant damage.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d10` for each slot level.
