@@ -27,8 +27,8 @@ In either case, an attack with a magic stone has the following properties:
 - Attacks with a magic stone have a magical bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
 
 The magic on a stone dissipates after it is used in an attack.
-
-The spell ends if you cast it again or if you choose to end it (no action required).
+The spell ends when there are no more stones affected by its magic, or if you cast it again.
+You can dismiss the magic on any number of stones at any time (no action required).
 
 ---
 
