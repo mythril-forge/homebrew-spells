@@ -1,5 +1,5 @@
 ![Arcane Melee](images/arcane-duel.jpg)
-*"Arcane Melee" &mdash; &copy; 2013, Jaime Jones &commat; Wizards of the Coast*
+*"Arcane Melee", &copy;2013, Jaime Jones &commat; Wizards of the Coast*
 
 
 
