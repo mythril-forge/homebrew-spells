@@ -2,7 +2,7 @@
 
 - [x] Homebrew
 
-***1st-level evocation***
+***1st-level enchantment***
 
 **Casting Time:** bonus action
 
@@ -10,17 +10,26 @@
 
 **Range:** self
 
-**Tags:** verbal, concentration
+**Tags:** verbal, material, concentration
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-When you make a weapon attack during this spell's duration and hit your target, your weapon becomes a conduit for thought-altering energies, and the attack deals an extra `1d12` psychic damage to the target as it rends the mind, then the spell ends.
-Additionally, if the target is a creature, it must make a Wisdom saving throw or be **frightened** of you.
-As an action, the creature can repeat this Wisdom saving throw to end the condition, steeling its resolve against you.
+Choose a weapon that you are holding.
+The weapon becomes a conduit for dark, thought-altering energies for the duration.
+The first time you hit with an attack using this weapon before the spell ends, it extends its insane influence upon your target, and the spell ends.
+On a hit, the attack deals an extra `1d12` psychic damage.
+It then must succeed on a Wisdom saving throw or become **frightened** of you.
 
-When you make a weapon attack during this spell's duration and miss your target, nothing happens unless it was a ranged weapon attack, in which case the spell ends.
-Whenever this spell ends, you can immediately cast it again (no action required).
+As an action, a **frightened** creature can repeat this Wisdom saving throw to overcome the fear, steeling its resolve against you and ending this spell's effects.
+Otherwise, if a **frightened** ends its turn in a location where it doesn't have line of sight to you, the creature can repeat this Wisdom save to muster its willpower against you.
+
+If you let go of the weapon, its charm dissipates, and the spell ends.
+It also ends if you make a ranged attack with your weapon and miss.
+
+Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ---
 
@@ -29,3 +38,5 @@ Whenever this spell ends, you can immediately cast it again (no action required)
 **Subclasses:** hexblade warlock, stone sorcerer, destruction cleric
 
 **Sources:** PHB, page 289
+
+**Quality Assurance:** :star: personal pass
