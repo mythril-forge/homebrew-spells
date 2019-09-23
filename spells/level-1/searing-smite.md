@@ -23,6 +23,9 @@ The first time you hit with an attack using this weapon before the spell ends, i
 On a hit, the attack deals an extra `2d6` fire damage.
 It then must succeed on a Dexterity saving throw or become **conflagrated**.
 
+As an action, a **conflagrated** creature can repeat this Dexterity saving throw to put out the flames, ending this spell's effects.
+A creature has advantage on this save if it is **prone**.
+
 If you let go of the weapon, its charm dissipates, and the spell ends.
 It also ends if you make a ranged attack with your weapon and miss.
 
