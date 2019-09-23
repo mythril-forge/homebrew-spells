@@ -10,13 +10,14 @@
 
 **Range:** self
 
-**Tags:** verbal, somatic, concentration
+**Tags:** verbal, somatic, material
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-You channel arcane energy from the elements.
-Choose one damage type: Fire, Cold or Lightning.
+You channel arcane energy into one weapon that you're holding, and choose one damage type: acid, cold, fire, force, lightning or thunder.
 Until the spell ends, your weapon attacks are considered magical, and deal an extra `1d6` damage of the chosen type on a hit.
 
 ---
@@ -24,3 +25,5 @@ Until the spell ends, your weapon attacks are considered magical, and deal an ex
 **Classes:** artificer
 
 **Sources:** UA-AR, page 10
+
+<!-- QA Pass Needed -->

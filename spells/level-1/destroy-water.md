@@ -24,7 +24,7 @@ You can destroy water in one of its many forms.
 ### Destroy Liquid Water
 You destroy up to 50 gallons of liquid water within range in an open container.
 
-### Destroy Gaseous Water (Steam)
+### Destroy Gaseous Water (Fog)
 You destroy any fog, steam, or humidity in a 40-foot-long cube within range.
 
 ### Destroy Solid Water (Ice)
@@ -43,3 +43,5 @@ When you cast this spell using a spell slot of 2nd level or higher, you effectiv
 **Subraces:** genasi (water)
 
 **Sources:** PHB, page 229
+
+<!-- QA Pass Needed -->

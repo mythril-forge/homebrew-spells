@@ -36,3 +36,5 @@ Otherwise, your beast acts on its own, focusing on protecting itself and you.
 **Classes:** druid, ranger
 
 **Sources:** XGE, page 150
+
+<!-- QA Pass Needed -->
