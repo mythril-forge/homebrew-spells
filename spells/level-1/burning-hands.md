@@ -34,6 +34,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 **Subclasses:** light cleric, fiend warlock, celestial warlock, giant soul sorcerer
 
-**Subraces:** genasi (fire), tiefling (variant), tiefling (abyssal), tiefling (mephistopheles)
-
 **Sources:** PHB, page 220
+
+**Quality Assurance:** :star: personal pass

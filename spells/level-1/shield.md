@@ -16,7 +16,7 @@
 
 ## Description
 An invisible barrier of magical force appears and protects you.
-Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.
+Until the start of your next turn, you have a `+5` bonus to AC, including against the triggering attack, and you take no damage from magic missile.
 
 ---
 
@@ -24,6 +24,6 @@ Until the start of your next turn, you have a +5 bonus to AC, including against 
 
 **Subclasses:** forge cleric, hexblade warlock, hexblade warlock, redemption paladin, artillerist artificer
 
-**Subraces:** gith (githzerai)
-
 **Sources:** PHB, page 275
+
+**Quality Assurance:** :star: personal pass

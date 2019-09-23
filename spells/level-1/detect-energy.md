@@ -31,10 +31,10 @@ In addition, you know if there is a place or object within the spell's area that
 The spell can penetrate most barriers, but it is blocked by 3 feet of wood, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or magical silence.
 
 > These energy fields are typically laced with divine powers of good, evil, law, and chaos.
-However, neutral energies remain imperceptible, even by this spell.
+> However, neutral energies remain imperceptible, even by this spell.
 > 
 > Humanoids, beasts and other mundane creatures generally emit weak and barely noticeable auras.
-Conversely, interplanar visitors often exude colorful and readily apparent auras.
+> Conversely, interplanar visitors often exude colorful and readily apparent auras.
 
 ---
 

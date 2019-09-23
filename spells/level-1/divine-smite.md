@@ -10,16 +10,23 @@
 
 **Range:** self
 
-**Tags:** verbal, concentration
+**Tags:** verbal, material, concentration
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-When you make a weapon attack during this spell's duration and hit your target, your weapon discharges a righteous light that is clearly visible within 300 feet of it, and the attack deals an extra `2d8` radiant damage to the target, then the spell ends.
+Choose a weapon that you are holding.
+The weapon releases a righteous light for the duration, as if [*light*](../cantrips/light.md) was cast on it, and eminates a high-pitch hum.
+The first time you hit with an attack using this weapon before the spell ends, it discharges its divine energy upon your target, and the spell ends.
+On a hit, the attack deals an extra `2d8` radiant damage.
 The extra damage increases by `1d8` if the target is an undead or fiend.
 
-When you make a weapon attack during this spell's duration and miss your target, nothing happens unless it was a ranged weapon attack, in which case the spell ends.
-Whenever this spell ends, you can immediately cast it again (no action required).
+If you let go of the weapon, its charm dissipates, and the spell ends.
+It also ends if you make a ranged attack with your weapon and miss.
+
+Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, the extra damage dealt by the attack increases by `1d8` for each slot level above 1st.
@@ -28,4 +35,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the extra da
 
 **Classes:** paladin
 
-**Sources:** ???
+**Sources:** PHB, page 85
+
+**Quality Assurance:** :star: personal pass

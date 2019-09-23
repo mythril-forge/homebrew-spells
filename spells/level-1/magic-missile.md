@@ -10,7 +10,7 @@
 
 **Range:** 120 feet
 
-**Effect Instances:** 3
+**Instances:** 3
 
 **Tags:** verbal, somatic
 
@@ -31,6 +31,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the spell cr
 
 **Subclasses:** arcana cleric
 
-**Subraces:** tiefling (abyssal), tiefling (mephistopheles)
-
 **Sources:** PHB, page 257
+
+**Quality Assurance:** :star: personal pass
