@@ -35,4 +35,4 @@ If you cast this spell using a spell slot of 2nd level or higher, the damage inc
 
 **Sources:** PHB, page 249
 
-<!-- QA Pass Needed! -->
+**Quality Assurance:** :star: personal pass

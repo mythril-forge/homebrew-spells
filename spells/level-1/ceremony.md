@@ -30,10 +30,10 @@ On a successful check, you shift the target's alignment by one degree in one dir
 
 ### Bless Water
 You touch one gallon clean water and cause it to become *holy water*.
-This is enough liquid to fill eight 16oz flasks.
+This is enough liquid to fill eight 16oz *glass bottles*.
 
 ### Coming of Age
-You touch one humanoid who is a young adult.
+You touch one willing creature who is a young adult.
 For the next 7 days, whenever the target makes an ability check, attack roll, or saving throw, it can roll `1d4` and add the number rolled to the ability check.
 A creature can benefit from this rite only once.
 
@@ -65,4 +65,4 @@ A creature can benefit from this rite again only if widowed.
 
 **Sources:** XGE, page 151; UA-SS, page 2
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass

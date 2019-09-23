@@ -29,4 +29,4 @@ All nonmagical food and drink in a 10-foot-long cube within range is purified an
 
 **Sources:** PHB, page 270
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass

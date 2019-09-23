@@ -50,4 +50,4 @@ When you cast this spell using a higher level spell slot, you can maintain your 
 
 **Sources:** PHB, page 251
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass
