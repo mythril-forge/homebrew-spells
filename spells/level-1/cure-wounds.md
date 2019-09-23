@@ -23,10 +23,10 @@ When you cast this spell using a spell slot of 2nd level or higher, the healing 
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, ranger, artificer,
+**Classes:** bard, cleric, druid, paladin, ranger, artificer
 
 **Subclasses:** life cleric, celestial warlock, celestial warlock, divine soul sorcerer
 
-**Subraces:** tiefling (abyssal)
-
 **Sources:** PHB, page 230
+
+**Quality Assurance:** :star: personal pass

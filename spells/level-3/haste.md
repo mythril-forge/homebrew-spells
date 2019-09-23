@@ -14,7 +14,7 @@
 
 **Length:** 10 feet
 
-**Effect Instances:** 2
+**Instances:** 2
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -23,7 +23,7 @@
 ---
 
 ## Description
-You alter time around up to two willing creatures of your choice in a 10-foot cube within range.
+You alter time around up to two willing creatures of your choice in a 10-foot-long cube within range.
 While affected by this spell, a creature gains several benefits:
 - Their movement speed is doubled.
 - Their attacks have advantage.

@@ -31,4 +31,4 @@ The swarm loses interest and harmlessly dissipates at the end of your next turn.
 
 **Sources:** XGE, page 158; UA-SS, page 3
 
-<!-- QA pass needed -->
+**Quality Assurance:** :star: personal pass

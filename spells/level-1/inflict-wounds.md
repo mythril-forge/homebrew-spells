@@ -28,3 +28,5 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 **Subclasses:** oathbreaker paladin, divine soul sorcerer, destruction cleric
 
 **Sources:** PHB, page 253
+
+**Quality Assurance:** :star: personal pass

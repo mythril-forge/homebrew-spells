@@ -10,7 +10,7 @@
 
 **Range:** touch
 
-**Effect Instances:** 2
+**Instances:** 2
 
 **Shape:** aura
 

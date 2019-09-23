@@ -14,7 +14,7 @@
 
 **Length:** 40 feet
 
-**Effect Instances:** 6
+**Instances:** 6
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -23,7 +23,7 @@
 ---
 
 ## Description
-You alter time around up to six creatures of your choice in a 40-foot cube within range.
+You alter time around up to six creatures of your choice in a 40-foot-long cube within range.
 Each target must succeed on a Charisma saving throw or be affected by this spell for the duration.
 - Their movement speed is halved.
 - Their attacks have disadvantage.

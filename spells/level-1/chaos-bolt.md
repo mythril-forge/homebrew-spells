@@ -24,8 +24,8 @@ The number rolled on that die determines the attack's damage type, as shown on t
 | `d6` | Damage Type                        |
 |------|------------------------------------|
 | 1    | Force                              |
-| 2    | Psychic                            |
-| 3    | Poison                             |
+| 2    | Acid                               |
+| 3    | Thunder                            |
 | 4    | Fire                               |
 | 5    | Cold                               |
 | 6    | Lightning                          | 
@@ -39,3 +39,5 @@ A creature can be targeted only once by each casting of this spell.
 **Classes:** sorcerer
 
 **Sources:** XGE, page 151; UA-SS, page 2
+
+**Quality Assurance:** :star: personal pass

@@ -23,7 +23,7 @@
 ## Description
 When you cast this spell, you inscribe a glyph that later unleashes a magical effect.
 You inscribe it either on a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph.
-The glyph can cover an area that can fit within a 10-foot cube.
+The glyph can cover an area that can fit within a 10-foot-long cube.
 If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
 The glyph is nearly invisible and requires a successful Intelligence check against your spell save DC to be found.
