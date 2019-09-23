@@ -35,8 +35,6 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 **Subclasses:** celestial warlock
 
-**Races:** aasimar
-
 **Sources:** PHB, page 255
 
-<!-- QA pass needed -->
+**Quality Assurance:** :star: personal pass
