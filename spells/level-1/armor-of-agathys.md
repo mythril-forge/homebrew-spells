@@ -28,8 +28,8 @@ When you cast this spell using a spell slot of 2nd level or higher, both the tem
 
 **Classes:** warlock
 
-**Subclasses:** conquest paladin, giant soul sorcerer
-
-**Subraces:** tiefling (levistus), tiefling (levistus)
+**Subclasses:** conquest paladin, giant soul sorcerer (frost)
 
 **Sources:** PHB, page 215
+
+**Quality Assurance:** :star: personal pass
