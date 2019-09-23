@@ -6,7 +6,7 @@
 
 **Casting Time:** bonus action
 
-**Duration:** indefinate
+**Duration:** 5 minutes
 
 **Range:** self
 
@@ -21,7 +21,7 @@ You touch three stones and imbue them with magic.
 A stone's magic lasts for the duration.
 You or someone else can take a stone and use it in a ranged weapon attack.
 If thrown, a stone acts as an improvised weapon.
-If used as ammunition, it can be used normally in a sling or a similar weapon that hurls stones.
+If used as ammunition, it can be used normally with a sling or a similar weapon that hurls stones.
 In either case, an attack with a magic stone has the following properties:
 - A magic stone deals magical bludgeoning damage.
 - Attacks with a magic stone have a magical bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
