@@ -17,7 +17,7 @@
 ## Description
 Choose an object or point within range.
 If you choose an object, it must be no larger than 10 feet in any dimension.
-Until the spell ends, the source you chose sheds bright light in a 60-foot radius.  The light can be colored as you like.
+Until the spell ends, the source you chose sheds bright light in a 60-foot radius. The light can be colored as you like.
 Completely covering the source with something opaque blocks the light.
 The spell ends if you cast it again or dismiss it as an action.
 

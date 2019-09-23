@@ -4,7 +4,7 @@
 
 ***1st-level abjuration***
 
-**Casting Time:** reaction (which you take when you are hit by an attack or targeted by the [*magic missile*](../level-1/magic-missile) spell)
+**Casting Time:** reaction (which you take when you are hit by an attack, or when you take damage.)
 
 **Duration:** 1 round
 
@@ -16,14 +16,15 @@
 
 ## Description
 An invisible barrier of magical force appears and protects you.
-Until the start of your next turn, you have a `+5` bonus to AC, including against the triggering attack, and you take no damage from magic missile.
+Until the start of your next turn, you have a `+5` bonus to AC, including against any triggering attacks.
+You also gain a DT (Damage Threshold) of `>5` for the duration, including against any triggering damage.
 
 ---
 
 **Classes:** sorcerer, wizard
 
-**Subclasses:** forge cleric, hexblade warlock, hexblade warlock, redemption paladin, artillerist artificer
+**Subclasses:** forge cleric, hexblade warlock, redemption paladin, artillerist artificer
 
 **Sources:** PHB, page 275
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass

@@ -32,8 +32,6 @@ Make a separate attack roll for each beam.
 
 **Subclasses:** death cleric, undying warlock, alchemist artificer
 
-**Subraces:** tiefling (baalzebul), tiefling (baalzebul)
-
 **Sources:** PHB, page 271
 
 **Quality Assurance:** :star: personal pass
