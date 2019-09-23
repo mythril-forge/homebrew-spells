@@ -19,7 +19,7 @@
 ## Description
 This spell lets you establish a blood bond with a friendly beast&mdash;creating a telepathic link, and encouraging it to aid in your endeavors.
 You try to establish this connection with one beast you touch that is friendly to you.
-If the beast's Intelligence is 4 or higher, the spell fails.
+If the beast's Intelligence Score is 4 or higher, the spell fails.
 Otherwise, it must succeed on a Wisdom saving throw or be **charmed** by you for the spell's duration.
 If the creature is already **charmed**, it has disadvantage on the saving throw.
 
