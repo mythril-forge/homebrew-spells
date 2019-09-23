@@ -23,3 +23,5 @@ Then, each **prone** creature within range can immediately stand up without expe
 **Classes:** bard, ranger, sorcerer, wizard
 
 **Sources:** UA-SS, page 4
+
+<!-- QA Pass Needed -->

@@ -32,3 +32,5 @@ If the target is already **charmed**, **frightened**, or possessed by such a cre
 **Subclasses:** devotion paladin, protection cleric, horizon walker ranger, monster slayer ranger, divine soul sorcerer
 
 **Sources:** PHB, page 270
+
+<!-- QA Pass Needed -->

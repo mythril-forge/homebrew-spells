@@ -31,6 +31,6 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 **Subclasses:** light cleric, archfey warlock, lolth warlock
 
-**Subraces:** elf (drow), half-elf (drow descent)
-
 **Sources:** PHB, page 239
+
+<!-- QA Pass Needed -->

@@ -48,6 +48,6 @@ When you cast this spell using a higher level spell slot, you can maintain your 
 
 **Subclasses:** darkness cleric
 
-**Subraces:** elf (zendikar) (mul daya nation)
-
 **Sources:** PHB, page 251
+
+<!-- QA Pass Needed -->

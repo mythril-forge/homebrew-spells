@@ -36,3 +36,5 @@ If you move more than 120 feet from the disk (typically because it can't move ar
 **Subraces:** tiefling (mammon)
 
 **Sources:** PHB, page 282
+
+<!-- QA Pass Needed -->

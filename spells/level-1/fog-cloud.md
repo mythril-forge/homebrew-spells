@@ -35,3 +35,5 @@ When you cast this spell using a spell slot of 2nd level or higher, the radius o
 **Races:** triton
 
 **Sources:** PHB, page 243
+
+<!-- QA Pass Needed -->

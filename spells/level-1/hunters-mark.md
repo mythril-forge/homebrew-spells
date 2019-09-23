@@ -53,3 +53,5 @@ When you cast this spell using a higher level spell slot, you can maintain your 
 **Subclasses:** vengeance paladin
 
 **Sources:** PHB, page 251
+
+<!-- QA Pass Needed -->

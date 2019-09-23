@@ -33,3 +33,5 @@ If you don't move toward the hand, it remains in place until you do and impatien
 **Classes:** bard, cleric, druid, wizard
 
 **Sources:** UA-SS, page 3
+
+<!-- QA Pass Needed -->

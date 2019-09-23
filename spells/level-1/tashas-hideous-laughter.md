@@ -34,3 +34,5 @@ On a success, the spell ends.
 **Subraces:** tiefling (abyssal)
 
 **Sources:** PHB, page 280
+
+<!-- QA Pass Needed -->

@@ -36,3 +36,5 @@ When you cast this spell using a spell slot of 2nd level or higher, the dagger's
 **Classes:** druid, ranger, sorcerer, wizard
 
 **Sources:** XGE, page 157
+
+<!-- QA Pass Needed -->

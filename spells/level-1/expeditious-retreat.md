@@ -25,3 +25,5 @@ When you cast this spell, and then as a bonus action on each of your turns until
 **Subclasses:** treachery paladin
 
 **Sources:** PHB, page 238
+
+<!-- QA Pass Needed -->

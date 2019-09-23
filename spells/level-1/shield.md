@@ -26,4 +26,4 @@ Until the start of your next turn, you have a `+5` bonus to AC, including agains
 
 **Sources:** PHB, page 275
 
-**Quality Assurance:** :star: personal pass
+<!-- QA Pass Needed -->

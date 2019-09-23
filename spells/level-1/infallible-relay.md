@@ -35,3 +35,5 @@ If you cast this spell using a spell slot of 3rd level or higher, a device used 
 **Subclasses:** ghost in the machine warlock
 
 **Sources:** UA-MM, page 7
+
+<!-- QA Pass Needed -->

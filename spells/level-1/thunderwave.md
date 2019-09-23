@@ -38,3 +38,5 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 **Subraces:** tiefling (abyssal)
 
 **Sources:** PHB, page 282
+
+<!-- QA Pass Needed -->
