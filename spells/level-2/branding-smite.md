@@ -10,20 +10,26 @@
 
 **Range:** self
 
-**Tags:** verbal, concentration
+**Tags:** verbal, material, concentration
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams and glitters with astral radiance as you strike.
-The attack deals an extra `2d10` radiant damage to the target, then the spell ends.
-If the target is shapeshifting or is **invisible**, you deal an additional `1d10` radiant damage to your target.
+Choose a weapon that you are holding.
+The weapon gleams and glitters with astral starlight.
+The first time you hit with an attack using this weapon before the spell ends, it unleashes its power upon your target, and the spell ends.
+On a hit, the attack deals an extra `2d10` force damage.
+The extra damage increases by `1d10` if the target is **invisible** or shapeshifting, and they reveal their true form.
 Glittery particles fill the target's space, emitting a dim light in a 10-foot aura until the end of your next turn.
-Until then, attacks made against the target within 10 feet of it have advantage, thanks to the risidual divine energy propelling strikes against it.
-In addition, the target cannot become **invisible** or use shapeshifting abilities until the end of its next short or long rest.
+Until then, attacks made against the target within 10 feet of it have advantage, thanks to the risidual arcane energy propelling strikes against it.
+During this time, the creature cannot become **invisibile** or use any shapeshifting abilities.
 
-When you make a weapon attack during this spell's duration and miss your target, nothing happens unless it was a ranged weapon attack, in which case the spell ends.
-Whenever this spell ends, you can immediately cast it again (no action required).
+If you let go of the weapon, its charm dissipates, and the spell ends.
+It also ends if you make a ranged attack with your weapon and miss.
+
+Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by `1d10` for each slot level above 2nd.
@@ -34,6 +40,6 @@ When you cast this spell using a spell slot of 3rd level or higher, the extra da
 
 **Subclasses:** hexblade warlock, stone sorcerer, battle smith artificer
 
-**Subraces:** tiefling (zariel), tiefling (zariel)
-
 **Sources:** PHB, page 219
+
+**Quality Assurance:** :star: personal pass
