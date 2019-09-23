@@ -4,7 +4,7 @@
 
 ***1st-level evocation***
 
-**Casting Time:** reaction (which you take in response to being damaged by a creature within 60 feet of you that you can see)
+**Casting Time:** reaction (which you take in response to being damaged by a creature within range that you can see)
 
 **Duration:** instantaneous
 
@@ -28,6 +28,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 **Subclasses:** oathbreaker paladin
 
-**Subraces:** tiefling, tiefling (variant), tiefling (asmodeus), tiefling (asmodeus)
-
 **Sources:** PHB, page 250
+
+**Quality Assurance:** :star: personal pass

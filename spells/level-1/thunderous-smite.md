@@ -10,16 +10,23 @@
 
 **Range:** self
 
-**Tags:** verbal, concentration
+**Tags:** verbal, material, concentration
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-When you make a weapon attack during this spell's duration and hit your target, your weapon rings with thunder that is clearly audible within a mile of it, and the attack deals an extra `3d4` thunder damage to the target and pummels it backward, then the spell ends.
-Additionally, if the target is a creature of a Large size or smaller, it must succeed on a Strength saving throw or be pushed 10 feet away from you.
+Choose a weapon that you are holding.
+The weapon vibrates and rings with explosive potential for the duration.
+The first time you hit with an attack using this weapon before the spell ends, it releases a thunderous boom that is clearly audible within a mile of your target, and the spell ends.
+On a hit, the attack deals an extra `4d4` thunder damage.
+If the target is *large* or smaller, then it must also succeed on a Strength saving throw or be pushed 10 feet away from you.
 
-When you make a weapon attack during this spell's duration and miss your target, nothing happens unless it was a ranged weapon attack, in which case the spell ends.
-Whenever this spell ends, you can immediately cast it again (no action required).
+If you let go of the weapon, its charm dissipates, and the spell ends.
+It also ends if you make a ranged attack with your weapon and miss.
+
+Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ---
 
@@ -28,3 +35,5 @@ Whenever this spell ends, you can immediately cast it again (no action required)
 **Subclasses:** stone sorcerer, zeal cleric
 
 **Sources:** PHB, page 282
+
+**Quality Assurance:** :star: personal pass
