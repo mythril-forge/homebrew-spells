@@ -49,7 +49,7 @@ You touch one corpse, and for the next 7 days, the target can't become undead by
 
 ### Investiture
 You touch one willing humanoid.
-Choose spell of 1st-level or lower that you have prepared, and that has a casting time of an action or bonus action.
+Choose a spell of 1st-level or lower that you have prepared, and that has a casting time of an action or bonus action.
 Expend a spell slot and any material components as if you were casting that spell.
 The spell has no effect&mdash;instead, the target can cast this spell once without having to expend a spell slot or use material components.
 If the target doesn't cast the spell within 7 days, the invested spell is lost.
@@ -64,3 +64,5 @@ A creature can benefit from this rite again only if widowed.
 **Classes:** cleric, druid, paladin
 
 **Sources:** XGE, page 151; UA-SS, page 2
+
+<!-- QA Pass Needed -->

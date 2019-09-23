@@ -51,3 +51,5 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 **Subclasses:** knowledge cleric, crown paladin, fiend warlock, conquest paladin, order cleric
 
 **Sources:** PHB, page 223
+
+<!-- QA Pass Needed -->
