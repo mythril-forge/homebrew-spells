@@ -10,13 +10,20 @@
 
 **Range:** self
 
-**Tags:** verbal, somatic, concentration
+**Tags:** verbal, somatic, material, concentration
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-Your prayer empowers you with divine radiance.
-Until the spell ends, your weapon attacks are considered magical, and deal an extra `1d4` radiant damage on a hit.
+Choose a weapon that you are holding.
+You utter a prayer that washes over your weapon, cleansing and sharpening its form.
+Until the spell ends, attacks using the weapon deal an extra `1d4` radiant damage.
+
+If you let go of the weapon, its charm dissipates, and the spell ends.
+
+Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ---
 
@@ -25,3 +32,5 @@ Until the spell ends, your weapon attacks are considered magical, and deal an ex
 **Subclasses:** war cleric, strength cleric
 
 **Sources:** PHB, page 234
+
+**Quality Assurance:** :star: personal pass

@@ -10,31 +10,30 @@
 
 **Range:** self
 
-**Tags:** verbal, concentration
+**Tags:** verbal, material, concentration
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-When you make a weapon attack during this spell's duration and hit your target, your weapon flares with white-hot intensity, and the attack deals an extra `2d6` fire damage to the target and causes the target to burst into flames, then the spell ends.
-Additionally, if the target is a creature, it must make a Dexterity saving throw or be **immolated**.
-As an action, the target can repeat this Dexterity saving throw to end the condition.
-A creature has advantage on this saving throw if it is **prone**.
+Choose a weapon that you are holding.
+The weapon flares with white-hot intensity for the duration.
+The first time you hit with an attack using this weapon before the spell ends, it inflicts its searing energy upon your target, and the spell ends.
+On a hit, the attack deals an extra `2d6` fire damage.
+It then must succeed on a Dexterity saving throw or become **conflagrated**.
 
-When you make a weapon attack during this spell's duration and miss your target, nothing happens unless it was a ranged weapon attack, in which case the spell ends.
-Whenever this spell ends, you can immediately cast it again (no action required).
+If you let go of the weapon, its charm dissipates, and the spell ends.
+It also ends if you make a ranged attack with your weapon and miss.
 
-***Immolated***
-- An immolated creature takes 1d6 fire damage at the end of each of its turns.
-- An immolated creature continues to burn until it submerges itself in water and thereby ends the condition.
-- An affected creature automatically fails Dexterity ability checks.
-- An affected creature has half speed.
+Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ---
 
 **Classes:** paladin
 
-**Subclasses:** forge cleric, stone sorcerer, zeal cleric, forge cleric, battle smith artificer
-
-**Subraces:** tiefling (zariel), tiefling (zariel)
+**Subclasses:** forge cleric, stone sorcerer, zeal cleric, battle smith artificer
 
 **Sources:** PHB, page 274
+
+**Quality Assurance:** :star: personal pass

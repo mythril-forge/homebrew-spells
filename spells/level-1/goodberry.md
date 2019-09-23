@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** a sprig of mistletoe, and a bounty of dried berries worth atleast 25 cp, which the spell consumes
+**Material Components:** a bounty of dried berries worth atleast 25 cp, which the spell consumes
 
 ---
 
@@ -28,3 +28,5 @@ The berries lose their potency quickly, and rot if they have not been consumed w
 **Classes:** druid, ranger
 
 **Sources:** PHB, page 246
+
+**Quality Assurance:** :star: personal pass
