@@ -23,7 +23,7 @@
 ## Description
 This spell sends creatures into a magical slumber.
 Roll `5d8`; the total is how many hit points of creatures this spell can affect.
-Creatures of your choice within 20 feet of a point you choose within range are affected in an order of your choosing.
+Creatures of your choice within 20 feet of a point you choose within range are affected in an order of your choosing (ignoring **unconscious** creatures).
 
 Starting with the creature you chose first, each creature affected by this spell falls **unconscious** until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake.
 Subtract each creature's hit points from the total before moving on to the next preferred creature.
