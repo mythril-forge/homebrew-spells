@@ -19,7 +19,7 @@
 ---
 
 ## Description
-You meld an area of dirt or stone, which must fit within a 5-foot-long cube centered on a point that you can see within range.
+You meld an area of dirt or stone, which must fit within a 5-foot-long cube originating from a point that you can see within range.
 You can sculpt the earth in one of the following ways:
 - You focus this spell on a creature or object that you can see within 5 feet of the spell's area, blasting chunks of dirt and stone at the target.
 	The target must succeed on a Dexterity saving throw or take `1d6` bludgeoning damage.
@@ -30,7 +30,7 @@ You can sculpt the earth in one of the following ways:
 - You roughen, loosen, and shape the ground in the area to become difficult terrain.
 - You smooth, solidify, and shape the ground in the area to become fair terrain.
 - If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away.
-- You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns.
+- You cause shapes, colors, or both to appear on the dirt or stone&mdash;spelling out words, creating images, or shaping patterns.
 
 ---
 
