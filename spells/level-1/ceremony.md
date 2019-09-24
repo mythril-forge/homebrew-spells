@@ -30,10 +30,10 @@ On a successful check, you shift the target's alignment by one degree in one dir
 
 ### Bless Water
 You touch one gallon clean water and cause it to become *holy water*.
-This is enough liquid to fill eight 16oz flasks.
+This is enough liquid to fill eight 16oz *glass bottles*.
 
 ### Coming of Age
-You touch one humanoid who is a young adult.
+You touch one willing creature who is a young adult.
 For the next 7 days, whenever the target makes an ability check, attack roll, or saving throw, it can roll `1d4` and add the number rolled to the ability check.
 A creature can benefit from this rite only once.
 
@@ -49,7 +49,7 @@ You touch one corpse, and for the next 7 days, the target can't become undead by
 
 ### Investiture
 You touch one willing humanoid.
-Choose spell of 1st-level or lower that you have prepared, and that has a casting time of an action or bonus action.
+Choose a spell of 1st-level or lower that you have prepared, and that has a casting time of an action or bonus action.
 Expend a spell slot and any material components as if you were casting that spell.
 The spell has no effect&mdash;instead, the target can cast this spell once without having to expend a spell slot or use material components.
 If the target doesn't cast the spell within 7 days, the invested spell is lost.
@@ -64,3 +64,5 @@ A creature can benefit from this rite again only if widowed.
 **Classes:** cleric, druid, paladin
 
 **Sources:** XGE, page 151; UA-SS, page 2
+
+**Quality Assurance:** :star: personal pass

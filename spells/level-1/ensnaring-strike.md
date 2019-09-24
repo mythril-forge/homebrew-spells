@@ -18,16 +18,19 @@
 
 ## Description
 Choose a weapon that you are holding.
-The weapon is bathed in magic, sprouting enchanted stems and leaves that last until the end of your next turn.
-The first time you make an attack with this weapon before then, a net of clinging brambles sprays from your weapon or ammunition.
+The weapon sprouts enchanted stems and leaves that last until the end of your next turn.
+The first time you make an attack with this weapon before then, a net of clinging brambles sprays from your weapon or ammunition, and the spell ends.
+If the attack hits, it deals an extra `1d6` slashing damage in addition to the weapon's normal damage and effects.
 Hit or miss, that creature must succeed on a Strength saving throw.
-A Large or larger creature has advantage on this saving throw.
-On a failed save, that creature takes `2d6` slashing damage and becomes **restrained** by magical brambles.
-On a successful save, the target takes half damage and isn't restrained.
+On a failed save, that creature becomes **restrained** by magical brambles.
+A *huge* or larger creature automatically succeeds on this saving throw.
 
-While **restrained** by this spell, the target takes `1d6` slashing damage at the end of each of its turns.
-A creature **restrained** by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC.
-On a success, the target is freed.
+While **restrained** by this spell, a creature takes `1d6` slashing damage at the end of each of its turns.
+A creature **restrained** by the vines can use its action to repeat the Strength saving throw.
+On a successful save, the target is freed.
+
+If you let go of the weapon, its charm dissipates, and the spell ends.
+When the spell ends, the conjured brambles greatly retract into the earth and root themselves there as ordinary foliage.
 
 ## At Higher Levels
 If you cast this spell using a spell slot of 2nd level or higher, both the initial and sustained damage increases by `1d6` for each slot level above 1st.
@@ -39,3 +42,5 @@ If you cast this spell using a spell slot of 2nd level or higher, both the initi
 **Subclasses:** ancients paladin
 
 **Sources:** PHB, page 237
+
+**Quality Assurance:** :star: personal pass

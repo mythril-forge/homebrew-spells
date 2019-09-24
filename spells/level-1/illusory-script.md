@@ -32,3 +32,5 @@ A creature with truesight can read the hidden message.
 **Classes:** bard, warlock, wizard
 
 **Sources:** PHB, page 252
+
+<!-- QA Pass Needed -->

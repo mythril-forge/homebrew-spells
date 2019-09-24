@@ -32,8 +32,6 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 **Subclasses:** trickery cleric, ambition cleric, deep stalker ranger, gloom stalker ranger
 
-**Races:** firbolg
-
-**Subraces:** tiefling (dispater), tiefling (glasya)
-
 **Sources:** PHB, page 233
+
+**Quality Assurance:** :star: personal pass

@@ -31,3 +31,5 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 **Subclasses:** knowledge cleric, forge cleric
 
 **Sources:** PHB, page 252
+
+<!-- QA Pass Needed -->

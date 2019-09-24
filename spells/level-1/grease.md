@@ -21,7 +21,7 @@
 ---
 
 ## Description
-Slick grease covers surfaces in a 10-foot-long cube centered on a point within range and turns it into difficult terrain for the duration.
+Slick grease covers surfaces in a 10-foot-long cube originating from a point that you can see within range, and turns it into difficult terrain for the duration.
 
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall **prone**.
 A creature that moves through the area or ends its turn there must also succeed on a Dexterity saving throw or fall **prone**.
@@ -31,3 +31,5 @@ A creature that moves through the area or ends its turn there must also succeed 
 **Classes:** wizard, artificer
 
 **Sources:** PHB, page 246
+
+**Quality Assurance:** :star: personal pass

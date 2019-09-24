@@ -14,13 +14,16 @@
 
 **Radius:** 30 feet
 
-**Tags:** verbal, somatic, concentration, ritual
+**Tags:** verbal, somatic, material, concentration, ritual
+
+**Material Components:** a two-pronged branch, fork, or wand
 
 ---
 
 ## Description
 For the duration, you sense the presence of magic within 30 feet of you.
-A more subtle presence may require a successful Wisdom check to even notice.
+An aura of light appears to eminate from each source of magic in the area.
+A more subtle presence may require a successful Wisdom check to notice.
 
 If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 
@@ -32,6 +35,6 @@ The spell can penetrate most barriers, but it is blocked by 3 feet of wood, 1 fo
 
 **Subclasses:** arcana cleric
 
-**Races:** firbolg
-
 **Sources:** PHB, page 231
+
+**Quality Assurance:** :star: personal pass

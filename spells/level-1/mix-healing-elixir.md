@@ -34,3 +34,5 @@ At the end of this spell's casting, you can create up to two healing potions, pr
 **Classes:** warlock, wizard
 
 **Sources:** UA-SS, page 3
+
+<!-- QA Pass Needed -->

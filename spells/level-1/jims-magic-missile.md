@@ -19,10 +19,11 @@
 ---
 
 ## Description
-> Jim's magic missile is an ancient and powerful spell, as well as being the name of my band in Wizard Academy.
+> Jim's magic missile is an great and powerful spell, as well as being the name of my band in Wizard Academy.
+> 
 > &mdash; Jim Darkmagic
 
-Any apprentice wizard can cast a boring old magic missile.
+Any apprentice wizard can cast a boring old [*magic missile*](../level-1/magic-missile.md).
 Sure, it always strikes its target.
 Yawn.
 Do away with the drudgery of your grandfather's magic with this improved version of the spell, as used by Jim Darkmagic!
@@ -43,3 +44,5 @@ When you cast this spell using a spell slot of 2nd level or higher, the spell cr
 **Classes:** wizard
 
 **Sources:** AI, page 76
+
+**Quality Assurance:** :star: personal pass

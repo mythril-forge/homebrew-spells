@@ -14,13 +14,16 @@
 
 **Radius:** 30 feet
 
-**Tags:** verbal, somatic, concentration
+**Tags:** verbal, somatic, material, concentration, ritual
+
+**Material Components:** a holy symbol
 
 ---
 
 ## Description
 For the duration, you sense the presence of divine energy fields within 30 feet of you.
-A more subtle presence may require a successful Wisdom check to even notice.
+An aura of divine patterns appears to eminate from each source of energy in the area.
+A more subtle presence may require a successful Wisdom check to notice.
 
 If you sense energy fields in this way, you can use your action to see a faint aura around any creature or object in the area that bears a divine presence, and you learn thier alignment, if any.
 
@@ -33,7 +36,7 @@ The spell can penetrate most barriers, but it is blocked by 3 feet of wood, 1 fo
 > These energy fields are typically laced with divine powers of good, evil, law, and chaos.
 > However, neutral energies remain imperceptible, even by this spell.
 > 
-> Humanoids, beasts and other mundane creatures generally emit weak and barely noticeable auras.
+> Humanoids, beasts and other mundane creatures generally emit weak and barely noticeable auras because of this.
 > Conversely, interplanar visitors often exude colorful and readily apparent auras.
 
 ---
@@ -43,3 +46,5 @@ The spell can penetrate most barriers, but it is blocked by 3 feet of wood, 1 fo
 **Sources:** PHB, page 231
 
 **References:** detect good and evil
+
+**Quality Assurance:** :star: personal pass

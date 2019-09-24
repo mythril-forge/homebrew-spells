@@ -30,3 +30,5 @@ If the warded creature makes an attack, casts a spell that affects a hostile cre
 **Subclasses:** devotion paladin, redemption paladin, raven queen warlock
 
 **Sources:** PHB, page 272
+
+<!-- QA Pass Needed -->

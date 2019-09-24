@@ -26,3 +26,5 @@ A shimmering field appears and surrounds a creature of your choice within range,
 **Subclasses:** war cleric, strength cleric
 
 **Sources:** PHB, page 275
+
+<!-- QA Pass Needed -->

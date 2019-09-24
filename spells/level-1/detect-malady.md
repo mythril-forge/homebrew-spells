@@ -22,7 +22,8 @@
 
 ## Description
 For the duration, you sense the presence of poisons, poisonous creatures, and diseases within 30 feet of you.
-A more subtle presence may require a successful Wisdom check to even notice.
+An aura of gaseous fog appears to eminate from each source of malady in the area.
+A more subtle presence may require a successful Wisdom check to notice.
 
 If you sense a malady in this way, you can use your action to pick up a pungent odor eminating from anything that bears a malady, and you identify the malady's source and properties in each case.
 
@@ -33,3 +34,5 @@ The spell can penetrate most barriers, but it is blocked by 3 feet of wood, 1 fo
 **Classes:** cleric, druid, paladin, ranger
 
 **Sources:** PHB, page 231
+
+**Quality Assurance:** :star: personal pass
