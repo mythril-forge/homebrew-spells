@@ -17,18 +17,21 @@
 ## Description
 You manifest a minor wonder, a sign of supernatural power, within range.
 You create one of the following magical effects within range:
-- Your voice temporarily booms up to three times as loud as normal, or the appearance of your eyes is strangely altered.
+- The appearance of your eyes is strangely altered.
+- Your voice temporarily booms up to three times as loud as normal.
 - You affect small objects around you, causing unlocked containers, doors, and windows to fly open and slam shut.
 	Unsecured items near you might fling around aimlessly.
-- You call upon a sound and supernatural forces reciprocate, producing rumbles of thunder, cries of a raven, ominous whispers, light footsteps and more.
-- You cause strange, minor anomolies in the laws of physics&mdash;briefly affecting gravity, time, space, and other phenomena.
+- You call upon a force, and supernatural forces reciprocate&mdash;producing rumbles of thunder, cries of a raven, ominous whispers, light footsteps and more.
+- You cause strange, minor anomolies in the laws of physics.
+	You briefly affect gravity, time, space, and other phenomena.
+- You cause flames to flicker, brighten, dim, or change color.
 - You have a subdued power over the elements.
 	For example, you can conjure a tuft of flame, cause harmless tremors in the ground, or attain a freezing touch.
-- You cause flames to flicker, brighten, dim, or change color.
 
-These effects are normally quite brief, but can last longer (at the DM's discretion), depending on the nature of the spell's specific casting.
+These effects are normally quite brief, but can last longer (at the DM's discretion) depending on the nature of the spell's specific casting.
 
-> *Thaumaturgy* is a powerful roleplaying tool in that the spell's scope is not limited by its description, but instead your imagination.
+> *Thaumaturgy* is a powerful roleplaying tool in that the spell's scope is not very limited by its description.
+> The spell creates only mild effects, but the breadth of this minor power is bounded only by your imagination.
 
 ---
 
@@ -36,4 +39,4 @@ These effects are normally quite brief, but can last longer (at the DM's discret
 
 **Sources:** PHB, page 282
 
-<!-- QA pass needed -->
+**Quality Assurance:** :star: personal pass
