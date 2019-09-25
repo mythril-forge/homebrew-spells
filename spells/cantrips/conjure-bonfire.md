@@ -19,7 +19,7 @@
 ---
 
 ## Description
-You conjure a continuous bonfire inside a 5-foot-long cube originating from a point on the ground that you can see within range.
+You conjure a continuous bonfire inside a 5-foot-long cube originating from a point that you can see within range.
 Any creature moves through the bonfire's space or ends its turn there must succeed on a Dexterity save or take `1d6` fire damage.
 The flames do not require any fuel to burn throughout the spell's duration.
 
@@ -34,5 +34,7 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 **Classes:** druid, sorcerer, warlock, wizard, artificer
 
 **Sources:** XGE, page 152
+
+**References:** create bonfire
 
 **Quality Assurance:** :star: personal pass
