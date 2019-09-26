@@ -22,18 +22,17 @@
 
 ## Description
 You create a small illusion within range that lasts for the duration.
-The illusion also ends if you dismiss it (no action required) or cast this spell again. 
+The illusion also ends if you dismiss it (no action required) or cast this spell again.
 
 When you cast this spell, choose one faculty of sensation: sight, sound, smell, taste, or touch.
 Your illusion immitates this (and only this) faculty, as detailed at the end of the spell description.
 
-If a creature uses its action to examine the illusion, the creature can determine that it is an illusion with a successful Intelligence check against your spell save DC.
+If a creature uses its action to examine the illusion, the creature can determine that it is an illusion with a successful Intelligence saving throw.
 If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
 Whatever the illusion's form, its properties remain static throughout the duration.
 For example, a visual illusion remains unmoving in its place, and an audible illusion constantly generates a simple, repetitive sound.
-However, when you first cast this spell, you can control and dynamically alter the illusion's properties in any way that you desire until the end of your next turn.
-As an action, you can animate the illusion in this way once again.
+However when you first cast this spell, and then later as an action, you can control and dynamically alter the illusion's properties in any way that you desire until the end of your next turn.
 
 ### Sight
 If you create an image, it can take the form of an object&mdash;such as a chair, muddy footprints, or a small chest&mdash;or any shape that you desire, but it must be no larger than a 5-foot-long cube.
@@ -42,7 +41,7 @@ The image remains there for the duration.
 The image can't create sound, light, smell, or any other sensory effect.
 Physical interaction with the image reveals it to be an illusion, because things can pass through it.
 
-When a visual dynamic is animated, you can create a disjointed farce of motion, such as the roll of illusory dice, a dancing gnome, or some clever way to end the spell convincingly.
+When you animate a vision, you can create a disjointed farce of motion, such as the roll of illusory dice, a dancing gnome, or some clever way to end the spell convincingly.
 
 ### Sound
 If you create a sound, it originates at full volume from within a 5-foot-long cube.
@@ -50,7 +49,7 @@ Its volume can range from a whisper to a scream.
 It can sound like your voice, someone else's voice, a roaring lion, a beating of drums, or any other simple, repetetive sound you choose.
 The sound continues unabated throughout the spell's duration, although the repetetive nature of these sounds do not necessarily loop over themselves in an obvious fashion.
 
-When an audible dynamic is animated, the spell can mimic spoken words, intricate music, and many other ambient details.
+When you animate a sound, the spell can mimic spoken words, intricate music, and many other ambient details.
 
 ### Smell
 If you create a scent, it generates at its chosen intensity from within a 5-foot-long cube, and slowly wafts outwards from there.
@@ -76,4 +75,4 @@ Each affected item shares the same texture, and retains the texture even if it i
 
 **Sources:** PHB, page 260
 
-<!-- QA pass needed -->
+**Quality Assurance:** :star: personal pass
