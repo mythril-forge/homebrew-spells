@@ -26,7 +26,7 @@ On a success, the creature takes half damage and isn't **restrained**.
 As an action, you can cause the hand to crush the **restrained** target, which must make a Strength saving throw.
 The target takes `2d6` bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-To break out, the **restrained** target can use its action to make a Strength check against your spell save DC.
+To break out, the **restrained** target can use its action to make a Strength ability check against your Spell Save DC.
 On a success, the target escapes and is no longer **restrained** by the hand.
 
 As an action, you can cause the hand to reach for a different target within range.

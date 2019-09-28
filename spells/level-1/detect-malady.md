@@ -23,7 +23,7 @@
 ## Description
 For the duration, you sense the presence of poisons, poisonous creatures, and diseases within 30 feet of you.
 An aura of gaseous fog appears to eminate from each source of malady in the area.
-A more subtle presence may require a successful Wisdom check to notice.
+A more subtle presence may require a successful Wisdom ability check to notice.
 
 If you sense a malady in this way, you can use your action to pick up a pungent odor eminating from anything that bears a malady, and you identify the malady's source and properties in each case.
 

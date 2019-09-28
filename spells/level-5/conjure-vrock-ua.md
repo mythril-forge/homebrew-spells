@@ -22,9 +22,9 @@ The vrock disappears when it drops to 0 hit points or when the spell ends.
 
 The vrock's attitude depends on the value of the gem used as a material component for this spell.
 Roll initiative for the vrock, which has its own turns.
-At the start of the vrock's turn, the DM makes a secret Charisma check on your behalf, with a bonus equal to the gem's value divided by 20.
+At the start of the vrock's turn, the DM makes a secret Charisma ability check on your behalf, with a bonus equal to the gem's value divided by 20.
 The check DC starts at 10 and increases by 2 each round.
-You can issue orders to the vrock and have it obey you as long as you succeed on the Charisma check.
+You can issue orders to the vrock and have it obey you as long as you succeed on the Charisma ability check.
 
 If the check fails, the spell no longer requires concentration and the vrock is no longer under your control.
 The vrock takes no actions on its next turn and uses its telepathy to tell any creature it can see that it will fight in exchange for treasure.
