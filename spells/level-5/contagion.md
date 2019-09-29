@@ -44,7 +44,7 @@ The creature has disadvantage on Intelligence ability checks and Intelligence sa
 
 ### Seizure
 The creature is overcome with shaking.
-The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
+The creature has disadvantage on Dexterity ability checks, Dexterity saving throws, and attack rolls that use Dexterity.
 
 ### Slimy Doom
 The creature begins to bleed uncontrollably.

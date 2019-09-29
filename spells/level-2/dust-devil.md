@@ -25,7 +25,7 @@ A 5-foot diameter sphere of elemental force whirls into existance in an unoccupi
 The sphere creates heavy winds (60 miles per hour) within 5 feet of it and heavily obscures the area.
 
 Any creature that moves through the dust devil or ends its turn within 5 feet of it must make a Strength saving throw.
-On a failed save, the creature takes `1d6` bludgeoning damage, and if the creature is Large or smaller, it is pushed 10 feet away from the dust devil in a direction of your choice and it falls **prone**.
+On a failed save, the creature takes `1d6` bludgeoning damage, and if the creature is *large* or smaller, it is pushed 10 feet away from the dust devil in a direction of your choice and it falls **prone**.
 On a successful save, the creature takes half as much damage and isn't pushed or knocked **prone**.
 
 As a bonus action, you can move the dust devil up to 30 feet in any direction, including upward and downward.

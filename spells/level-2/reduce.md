@@ -37,8 +37,8 @@ If the target is fitted with cloth, armor, or other equipment that becomes too l
 If there isn't enough room for the target to increase its size when this spell ends, it either breaks the environment around it, breaks itself, or becomes **restrained** until the spell ends.
 
 > This spell can be also be used to disable a target creature.
-> A Small creature can't wield heavy weapons effectively and must wield versatile weapons with two hands.
-> A Tiny creature has trouble with all but light weapons.
+> A *small* creature can't wield heavy weapons effectively and must wield versatile weapons with two hands.
+> A *tiny* creature has trouble with all but light weapons.
 
 ---
 

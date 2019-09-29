@@ -55,8 +55,8 @@ Your familiar must be within 1 mile of you, and it must use its action to delive
 If the spell requires an attack roll, you use your attack modifier for the roll.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 4th level or higher, you can conjure a nonmilitary water vehicle large enough to carry six Medium creatures.
-When you cast this spell using a spell slot of 6th level or higher, you can conjure a nonmilitary air vehicle large enough to carry ten Medium creatures.
+When you cast this spell using a spell slot of 4th level or higher, you can conjure a nonmilitary water vehicle large enough to carry six *medium* creatures.
+When you cast this spell using a spell slot of 6th level or higher, you can conjure a nonmilitary air vehicle large enough to carry ten *medium* creatures.
 When you cast this spell using a spell slot of 8th level or higher, you can conjure any type of vehicle (at the DM's discretion).
 
 ---

@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material, concentration
 
-**Material Components:** 50 sp worth of charcoal, incense, and herbs that must be consumed by an open fire that is Large or larger
+**Material Components:** 50 sp worth of charcoal, incense, and herbs that must be consumed by an open fire that is *large* or larger
 
 ---
 
