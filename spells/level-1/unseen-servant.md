@@ -17,7 +17,7 @@
 ---
 
 ## Description
-This spell creates an **invisible**, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends.
+This spell creates an **invisible**, mindless, shapeless, *medium* force that performs simple tasks at your command until the spell ends.
 The servant springs into existence in an unoccupied space on the ground within range.
 The servant has the statistics as shown on the Unseen Servent Statistics table outlined at the end of this spell's description.
 

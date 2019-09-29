@@ -35,7 +35,7 @@ A creature takes `3d8` bludgeoning damage on a failed save and be knocked **pron
 A creature must repeat this save every time it moves through the wall.
 
 The strong wind keeps fog, smoke, and other gases at bay.
-Small or smaller flying creatures or objects can't pass through the wall.
+*Small* or smaller flying creatures or objects can't pass through the wall.
 Loose, lightweight materials brought into the wall fly upward.
 Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can't pass through it.
 

@@ -29,7 +29,7 @@ The clouds form 120 feet above the ground, and have a 60-foot radius.
 Precipitation violently plummets from the clouds at once.
 The area is heavily obscured, and exposed flames in the area are doused.
 
-If a creature is concentrating in the spell's area when you first cast it, the creature must make a successful Constitution saving throw against your spell save DC or lose concentration.
+If a creature is concentrating in the spell's area when you first cast it, the creature must make a successful Constitution saving throw against your Spell Save DC or lose concentration.
 You do not need to make this initial save.
 
 Then, you can choose the type of precipitation, which each have varying effects.

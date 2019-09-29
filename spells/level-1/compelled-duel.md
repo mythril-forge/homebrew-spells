@@ -24,7 +24,7 @@ If either of you attempt to move to a space that is further away from the other 
 On a failed save, the affected creature's movement is canceled and restricted&mdash;it can only move towards their rival until the start of their next turn.
 On a successful save, this spell does not restrict the creature's movement for that turn.
 
-As an action, an affected creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.
+As an action, an affected creature can make a Wisdom ability check against your Spell Save DC to steel its resolve and end this spell.
 An affected creature can also use their reaction to end the spell if they are attacked by another creature other than thier rival.
 In addition, the spell ends if the target creature ever exceeds the spell's range from you.
 

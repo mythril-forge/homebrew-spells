@@ -23,7 +23,7 @@
 ## Description
 For the duration, you sense the presence of magic within 30 feet of you.
 An aura of light appears to eminate from each source of magic in the area.
-A more subtle presence may require a successful Wisdom check to notice.
+A more subtle presence may require a successful Wisdom ability check to notice.
 
 If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 

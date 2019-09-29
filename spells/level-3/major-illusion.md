@@ -34,7 +34,7 @@ Detailed arrangements, like flowing cloaks, water, and hair are intuitively take
 Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
 
 Physical collision with the image reveals it to be an illusion, because things can pass through it.
-A creature that uses its action to examine or interact with the image can determine that it is an illusion with a successful Intelligence check against your spell save DC.
+A creature that uses its action to examine or interact with the image can determine that it is an illusion with a successful Intelligence ability check against your Spell Save DC.
 If a creature discerns the illusion for what it is, the creature can see through the image.
 
 ## At Higher Levels

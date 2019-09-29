@@ -15,7 +15,7 @@
 ---
 
 ## Description
-A Large quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range.
+A *large* quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range.
 You decide the creature's appearance, but it is equipped with a saddle, bit, and bridle, which cannot be removed from the creature's quasi-real form.
 
 For the duration, you or a creature you choose can ride the steed.
