@@ -18,7 +18,7 @@
 
 ## Description
 Choose an object or creature that you can see within range that is Large or smaller.
-A Medium hand made from compacted soil rises there and reaches for that creature.
+A *medium* hand made from compacted soil rises there and reaches for that creature.
 If the target is a creature, it must make a Strength saving throw.
 On a failed save, the target takes `2d6` bludgeoning damage and is **restrained** for the spell's duration.
 On a success, the creature takes half damage and isn't **restrained**.

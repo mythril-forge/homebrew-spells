@@ -23,7 +23,7 @@ The first time you make an attack with this weapon before then, a net of clingin
 If the attack hits, it deals an extra `1d6` slashing damage in addition to the weapon's normal damage and effects.
 Hit or miss, that creature must succeed on a Strength saving throw.
 On a failed save, that creature becomes **restrained** by magical brambles.
-A *huge* or larger creature automatically succeeds on this saving throw.
+A *huge* or larger creature has advantage on this saving throw.
 
 While **restrained** by this spell, a creature takes `1d6` slashing damage at the end of each of its turns.
 A creature **restrained** by the vines can use its action to repeat the Strength saving throw.

@@ -23,7 +23,7 @@
 ---
 
 ## Description
-You create six tiny meteors in your space.
+You create six *tiny* meteors in your space.
 They float in the air and orbit you for the spell's duration.
 When you cast the spell&mdash;and as a bonus action thereafter&mdash;you can expend one the meteors, sending them streaking toward a point or points you choose within 120 feet of you.
 Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes.
