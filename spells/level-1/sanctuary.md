@@ -31,4 +31,4 @@ If the warded creature makes an attack, casts a spell that affects a hostile cre
 
 **Sources:** PHB, page 272
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->

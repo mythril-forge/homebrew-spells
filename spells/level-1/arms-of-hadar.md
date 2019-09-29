@@ -35,4 +35,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 **Sources:** PHB, page 215
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->

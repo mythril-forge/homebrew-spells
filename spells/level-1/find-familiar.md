@@ -55,4 +55,4 @@ If the spell requires an attack roll, you use your attack modifier for the roll.
 
 **Sources:** PHB, page 240
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->

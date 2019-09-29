@@ -33,4 +33,4 @@ If the target is already **charmed**, **frightened**, or possessed by such a cre
 
 **Sources:** PHB, page 270
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->

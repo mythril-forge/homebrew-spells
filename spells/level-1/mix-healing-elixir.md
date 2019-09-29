@@ -35,4 +35,4 @@ At the end of this spell's casting, you can create up to two healing potions, pr
 
 **Sources:** UA-SS, page 3
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->

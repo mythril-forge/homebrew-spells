@@ -38,4 +38,4 @@ After the trap is triggered, the spell ends when no creature is **restrained** b
 
 **Sources:** XGE, page 165; UA-SS, page 4
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->

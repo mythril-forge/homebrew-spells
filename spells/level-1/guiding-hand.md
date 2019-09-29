@@ -34,4 +34,4 @@ If you don't move toward the hand, it remains in place until you do and impatien
 
 **Sources:** UA-SS, page 3
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->

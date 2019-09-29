@@ -32,4 +32,4 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 **Sources:** PHB, page 252
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->

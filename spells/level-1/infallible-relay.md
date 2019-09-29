@@ -36,4 +36,4 @@ If you cast this spell using a spell slot of 3rd level or higher, a device used 
 
 **Sources:** UA-MM, page 7
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->

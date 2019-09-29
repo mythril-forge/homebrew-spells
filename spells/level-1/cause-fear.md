@@ -29,4 +29,4 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 **Sources:** XGE, page 151; UA-SS, page 2
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->

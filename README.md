@@ -2,7 +2,6 @@
 *"Arcane Melee", &copy;2013, Jaime Jones &commat; Wizards of the Coast*
 
 
-
 # Homebrew Spells
 > Mythril Forge Homebrew
 

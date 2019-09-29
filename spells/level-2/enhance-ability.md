@@ -28,7 +28,7 @@ It also gains `3d6` temporary hit points, which are lost when the spell ends.
 The target has advantage on Strength ability checks, and his or her carrying capacity doubles.
 
 ### Cat's Grace
-The target has advantage on Dexterity checks.
+The target has advantage on Dexterity ability checks.
 It also doesn't take damage from falling 30 feet or less if it isn't **incapacitated**.
 
 ### Eagle's Splendor

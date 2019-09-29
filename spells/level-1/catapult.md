@@ -16,7 +16,7 @@
 
 ## Description
 Choose a bunch of object within range that aren't being worn or carried.
-The bunch must weigh less than 5 pounds and fit in a 5-foot-long cube.
+The bunch must weigh less than 5 pounds in total, and fit in a 5-foot-long cube.
 The bunch of objects flies in a straight line up to 60 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface.
 If the barrage of objects would strike a creature, that creature must make a Dexterity saving throw.
 On a failed save, the objects all strike the target and stop moving.
@@ -31,4 +31,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the maximum 
 
 **Sources:** XGE, page 150
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->
