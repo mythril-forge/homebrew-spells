@@ -4,7 +4,7 @@
 
 ***1st-level divination***
 
-**Casting Time:** 5 minutes
+**Casting Time:** action
 
 **Duration:** 12 hours
 
@@ -20,7 +20,7 @@ The hand exists for the duration, but it disappears if you teleport or you trave
 
 When the hand appears, you name one major landmark, such as a city, mountain, castle, or battlefield on the same plane of existence as you.
 Someone in history must have visited the site and mapped it.
-If the landmark appears with special interest on no map in existence, the spell fails.
+If the landmark doesn't appear on any map in existence with special interest, the spell fails.
 Otherwise, the hand points towards your declared destination.
 Whenever you move toward the hand, it moves away from you at the same speed you moved, and it moves in the direction of the landmark.
 If you move in a different direction, the hand acts disappointed, but follows you.
@@ -34,4 +34,4 @@ If you don't move toward the hand, it remains in place until you do and impatien
 
 **Sources:** UA-SS, page 3
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass
