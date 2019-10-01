@@ -1,8 +1,6 @@
 ![Arcane Melee](images/arcane-duel.jpg)
 *"Arcane Melee", &copy;2013, Jaime Jones &commat; Wizards of the Coast*
 
-
-
 # Homebrew Spells
 > Mythril Forge Homebrew
 
@@ -35,7 +33,7 @@ Size categories are always written in italics as a mechanic indicator, like so: 
 ### Coin Flip
 …flip `a coin`…on a heads…on a tails…
 
-### Quoutes & Sidebars
+## Quoutes & Sidebars
 > I like quotes.
 > 
 > &mdash;Jim Darkmagic
@@ -44,7 +42,7 @@ Size categories are always written in italics as a mechanic indicator, like so: 
 
 > Creator commentary & important rules
 
-### Bulleted Lists
+## Bulleted Lists
 Some general instructions:
 - A line item can be a full sentance.
 - If a line item has multiple sentances, it must have a new line.
