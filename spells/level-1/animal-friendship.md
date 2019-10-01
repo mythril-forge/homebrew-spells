@@ -19,10 +19,11 @@
 ## Description
 This spell lets you convince a beast that you mean it no harm.
 Choose a beast that you can see within range.
-It must be aware of you, and be able to see and hear you.
-If the beast's Intelligence Score is 4 or higher, the spell fails.
-Otherwise, the beast must succeed on a Wisdom saving throw or be **charmed** by you for the spell's duration.
-If you or one of your companions harms the target, the spell ends.
+The target must be able to see and hear you, and must be aware of you.
+It must make a Wisdom saving throw, and does so with advantage if you or your companions are hostile to it.
+A creature with an Intelligence Score of `4` or higher automatically succeeds on its save.
+On a failed save, the beast is **charmed** by you for the spell's duration.
+If you or one of your companions harms the target, the charm on them ends.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
@@ -35,4 +36,4 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 **Sources:** PHB, page 212
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass
