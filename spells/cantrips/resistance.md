@@ -2,7 +2,7 @@
 
 - [x] Homebrew
 
-***0th-level abjuration***
+***0th-level divination***
 
 **Casting Time:** action
 

@@ -20,8 +20,8 @@
 You touch one willing creature.
 A mote of divine energy enters its chest.
 Once before the spell ends, the target can choose to use the power of this mote when they make an ability check.
-Doing so grants it a bonus `1d4` on their roll.
-It can add the bonus before or after making the ability check.
+Doing so grants them a bonus `1d4` on their roll.
+The creature can add the bonus before or after making the ability check.
 The spell then ends.
 
 ---
