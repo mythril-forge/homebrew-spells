@@ -1,11 +1,22 @@
-![Arcane Melee](images/arcane-duel.jpg)
+![Arcane Melee Art](images/arcane-duel.jpg)
+
 *"Arcane Melee", &copy;2013, Jaime Jones &commat; Wizards of the Coast*
 
-# Homebrew Spells
-> Mythril Forge Homebrew
+# **The Mythril Forge**
+> Welcome, traveler.
+> Take off your coat, rest your legs.
+> Stay a while!
 
-Welcome to the Mythril Forge Homebrew!
-This repo contains all sorts of info for 5th edition magic mods.
+This GitHub repository is a part of a larger overarching homebrew project called [**the Mythril Forge**](https://github.com/mythril-forge).
+Just in case you don't know, *homebrew* is more of a colloquial term for unofficial modifications to a game.
+This doesn't really have anything to do with booze, bars, or beers.
+Sorry!
+
+**The Mythril Forge** a fanmade passion project made for the game, [Dungeons &amp; Dragons *(5th Ed.)*](https://dnd.wizards.com), by Wizards of the Coast.
+Surely you know all about this game if you stumbled here&mdash;and if you somehow didn't, you would have checked out that website!
+
+# Homebrew Spells
+This particular repo contains all sorts of specialty homebrew for magic spells in D&amp;D 5e.
 The data for these spells has been sourced from `5e.tools`.
 
 ## :chart_with_upwards_trend: Completion Status
@@ -59,14 +70,14 @@ Size categories are always written in italics as a mechanic indicator, like so: 
 ### Coin Flip
 …flip `a coin`…on a heads…on a tails…
 
-## Quoutes & Sidebars
+## Quoutes &amp; Sidebars
 > I like quotes.
 > 
 > &mdash;Jim Darkmagic
 
 &hellip;more description text&hellip;
 
-> Creator commentary & important rules
+> Creator commentary &amp; important rules
 
 ## Bulleted Lists
 Some general instructions:
