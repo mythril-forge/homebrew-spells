@@ -6,9 +6,35 @@
 
 Welcome to the Mythril Forge Homebrew!
 This repo contains all sorts of info for 5th edition magic mods.
-At the moment, this repo reaches up to 3rd-level spells.
-Anything beyond that has not been touched.
 The data for these spells has been sourced from `5e.tools`.
+
+## :chart_with_upwards_trend: Completion Status
+This project's completion is sectioned off by each spell's level.
+Each level is assigned a status, which contributes to the project's overall completion.
+Here are the valid quality assurance statuses:
+- :shit: entry is unacceptable (worse than before)
+- :x: entry has not been modified
+- :blossom: entry has been modified, but has not been reviewed for QA
+- :star: personal QA pass validated on entry
+- :star2: entry has been peer reviewed by at least 3 different people
+- :stars: blogpost created on entry
+- :white_flower: spell has been perfected/finalized
+
+Here is the current status on each spell level:
+
+#### Spell QA
+| Spell Category | QA Mark   |
+|:--------------:|:---------:|
+| cantrips       | :star:    |
+| level-1 spells | :blossom: |
+| level-2 spells | :blossom: |
+| level-3 spells | :blossom: |
+| level-4 spells | :x:       |
+| level-5 spells | :x:       |
+| level-6 spells | :x:       |
+| level-7 spells | :x:       |
+| level-8 spells | :x:       |
+| level-9 spells | :x:       |
 
 # Markdown Rules
 ## Size Categories
