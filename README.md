@@ -9,15 +9,28 @@
 
 This GitHub repository is a part of a larger overarching homebrew project called [**the Mythril Forge**](https://github.com/mythril-forge).
 Just in case you don't know, *homebrew* is more of a colloquial term for unofficial modifications to a game.
-This doesn't really have anything to do with booze, bars, or beers.
+This really doesn't have anything to do with bars, brews, or beers.
 Sorry!
 
-**The Mythril Forge** a fanmade passion project made for the game, [Dungeons &amp; Dragons *(5th Ed.)*](https://dnd.wizards.com), by Wizards of the Coast.
+**The Mythril Forge** a fanmade passion project for the game, [Dungeons &amp; Dragons *(5th Edition)*](https://dnd.wizards.com) by Wizards of the Coast.
 Surely you know all about this game if you stumbled here&mdash;and if you somehow didn't, you would have checked out that website!
 
 # Homebrew Spells
-This particular repo contains all sorts of specialty homebrew for magic spells in D&amp;D 5e.
-The data for these spells has been sourced from `5e.tools`.
+This particular repo contains all sorts of specialty homebrew for magic abilities and spells in D&amp;D 5e.
+Some of the [most noticeable changes](#changes-to-cantrips) made here include at-will cantrips (level zero spells).
+On the other hand, many other spells have been modified only slightly (or not at all).
+In this case, they were deemed high enough quality as they were.
+
+## Getting Started
+To get started with this repository, check out the [`spells/`](https://github.com/mythril-forge/homebrew-spells/tree/master/spells) folder!
+
+Specific changes are detailed in each spell's entry.
+If a specific entry does not exist, then the spell has either been moved to a different level, renamed, or is no longer available.
+In this case, I recommend searching for the spell using GitHub's search bar.
+
+If you find something you dislike, whether its a mechanical opinion or a flourish of english, please [create an issue](https://github.com/mythril-forge/homebrew-spells/issues) on this project!
+Better yet&mdash;you can make a change to this project yourself!
+Go ahead and fork this project, make changes, then [create a pull request](https://github.com/mythril-forge/homebrew-spells/pulls).
 
 ## :chart_with_upwards_trend: Completion Status
 This project's completion is sectioned off by each spell's level.
@@ -46,6 +59,9 @@ Here is the current status on each spell level:
 | level-7 spells | :x:       |
 | level-8 spells | :x:       |
 | level-9 spells | :x:       |
+
+## Changes to Cantrips
+🚧 this section has not been filled in yet 🚧
 
 # Markdown Rules
 ## Size Categories
