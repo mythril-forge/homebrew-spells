@@ -45,8 +45,9 @@ To rate this project's completion, marks of quality are attributed to each spell
 Those marks of quality assurance are outlined below:
 - :shit: this entry is unacceptable.
 - :x: this entry has not been modified.
-- :blossom: this entry has been modified, but has not been reviewed for QA.
-- :star: this entry has been personally reviewed and validated for quality assurance.
+- :dizzy: this entry has been modified, but has not been reviewed for QA.
+- :sparkles: this entry's mechanics has been personally reviewed and validated once for quality assurance.
+- :star: this entry's mechanics have been cross-checked with other similar spells for consistancy assurance.
 - :star2: this entry has been reviewed by at least three different people other than myself.
 - :stars: this entry has a dedicated blogpost about its changes.
 - :white_flower: this entry is virtually perfect, and gets all the QA.
@@ -55,18 +56,18 @@ Furthermore, each branch mentioned earlier is rated based on the lowest-rated sp
 Here is that outline:
 
 #### Spell Tier QA
-| Spell Category | QA Mark   |
-|:--------------:|:---------:|
-| cantrips       | :star:    |
-| level-1 spells | :blossom: |
-| level-2 spells | :blossom: |
-| level-3 spells | :blossom: |
-| level-4 spells | :x:       |
-| level-5 spells | :x:       |
-| level-6 spells | :x:       |
-| level-7 spells | :x:       |
-| level-8 spells | :x:       |
-| level-9 spells | :x:       |
+| Spell Category | QA Mark    |
+|:--------------:|:----------:|
+| cantrips       | :sparkles: |
+| level-1 spells | :dizzy:    |
+| level-2 spells | :dizzy:    |
+| level-3 spells | :dizzy:    |
+| level-4 spells | :x:        |
+| level-5 spells | :x:        |
+| level-6 spells | :x:        |
+| level-7 spells | :x:        |
+| level-8 spells | :x:        |
+| level-9 spells | :x:        |
 
 ## Changes to Cantrips
 Cantrips have been substantially changed from the original 5e ruleset.
@@ -86,19 +87,77 @@ Finally, all spellcasters have access to cantrips.
 That includes half-casters like paladin and ranger.
 A small selection of cantrips have been extended to allow these classes some spellcasting.
 
+## Changes to Saving Throws
+Saving throws are complicated.
+Especially those gosh darned Wisdom Saving Throws.
+Ya can't live with them, and ya can't live without them.
+What are you going to do?
+Am I right?
+Well&hellip;
+I'll tell you what I'll do.
+I'll give them the makeover that they deserve!
+
+### Traditional Trends
+Okay, so in earlier editions, there was no Wisdom Saving Throw.
+Nor was there a Dexterity Saving Throw.
+Or Intelligence Saving Throw, or Constitution.
+None of that!
+There were Fortitude, Reflex, and Will saves.
+Nowadays, those map to Constitution, Dexterity, and Wisdom saves.
+
+Because of this, there's a sort of idea about "strong" saving throws and "weak" saving throws.
+The game was designed around the fact that Constitution, Dexterity, and Wisdom have the best saves.
+Strength, Intelligence, and Charisma were just not used all that often.
+That was all on purpose.
+Seems like it works pretty okay.
+
+### Looking to the Future
+Still, the difference between saves&mdash;especially between different mental saves&mdash;is totally fuzzy and unclear.
+Since this repository is all about overhauling spells, this concept is an important one to tackle.
+Will we change what saves go where?
+Will we keep them how they are?
+How will we keep balance with strong vs. weak saves?
+What does a Wisdom Saving Throw mean?
+What does an Intelligence Saving Throw mean?
+etc.
+
+### Strength Saving Throws
+Strength saves are easy to remember; its all about that bass.
+Examples include:
+- overcoming strong winds
+- enduring huge impacts and forces
+- breaking heavy restraints
+- holding onto equipment
+
+Overall, its Strength Saves apply to a pretty limited list of use-cases.
+As we discussed before, that was totally on purpose.
+However, they are easy enough to understand that few opinions ever stray from this conceptual path.
+
+### Dexterity Saving Throws
+Dexterity saves encompass a *huge* number of damage-dealing spells.
+Luckily, although they are massively prevalant, it is mostly used to avoid damage.
+Avoid this rock.
+Dodge that fire.
+We've heard it all.
+Examples include:
+- dodging massive areas of effects
+- keeping balance in difficult areas
+- slipping out of wierd situations
+
+### Constitution Saving Throws
+Once you have a grasp on what this ability represents, Constitution Saving Throws kinda make sense.
+It's about your immune system, your endurance, your tolerance to a variety of ambiant effects.
+The difficulty with this is categorizing Constitution checks versus Constitution saving throws.
+I believe a saving throw is made to avoid an adverse effect happening to you, or do nothing.
+An ability check is made avoid failing a desireable activity (possibly taking an adverse effect), or follow through that activity (do nothing extra).
+Examples include:
+- enduring lack of oxygen
+- enduring poisoned air
+- enduring poisoned attacks
+- resisting extreme temperatures
+- maintaining focus in (physically) distracting environments
+
 <!--
-
-
-
-
-
-Section segment; will move portion below later!!
-
-
-
-
-
---->
 
 ---
 
@@ -151,3 +210,5 @@ Bullets can occasionally take on one or two words (one preferred):
 - water
 
 You might notice that a bulleted list of any kind is always led by a sentance ending in a colon (`:`).
+
+--->
