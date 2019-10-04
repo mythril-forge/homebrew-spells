@@ -23,14 +23,13 @@ Grasping weeds and vines sprout from solid ground in a 30-foot-long cube origina
 The vines reach out up to 5 feet from the ground.
 For the duration, these plants turn the ground in the area into difficult terrain.
 
-When you cast the spell, you can command the plants to grasp and pull at creatures in their area.
+When you cast the spell, and then later as an action, you can command the plants to grasp and pull at creatures in their area.
 Each creature must succeed on a Strength Saving Throw or be **restrained** by the entangling plants for the duration.
-As an action, you can command the plants to cling and grasp at creatures in this way again.
 
 A creature **restrained** by the plants can use its action to repeat the Strength Saving Throw.
 On a successful save, it frees itself.
 
-When the spell ends, the conjured plants greatly retract into the earth and root themselves there as ordinary foliage.
+When the spell ends, the conjured plants retract into the earth and root themselves there as ordinary foliage.
 
 ---
 
