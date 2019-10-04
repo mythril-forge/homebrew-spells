@@ -16,7 +16,7 @@
 
 ## Description
 You target a single creature that you can see within range.
-That creature must make a Strength saving throw.
+That creature must make a Strength Saving Throw.
 On a failed save, any equipment that the target creature holding or does not have securely fastened is forcefully flung off 60 feet into the distance, away from you.
 On a successful save, the creature manages to hold on to their equipment.
 

@@ -21,7 +21,7 @@
 ## Description
 You invoke the power of Hadar, the Dark Hunger.
 Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you.
-Each creature in that area must make a Dexterity saving throw.
+Each creature in that area must make a Dexterity Saving Throw.
 On a failed save, a target takes `2d6` necrotic damage and can't take reactions until the end of your next turn.
 
 ## At Higher Levels

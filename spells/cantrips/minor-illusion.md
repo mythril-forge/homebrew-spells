@@ -27,7 +27,7 @@ The illusion also ends if you dismiss it (no action required) or cast this spell
 When you cast this spell, choose one faculty of sensation: sight, sound, smell, taste, or touch.
 Your illusion immitates this (and only this) faculty, as detailed at the end of the spell description.
 
-If a creature uses its action to examine the illusion, the creature can determine that it is an illusion with a successful Intelligence ability check against your Spell Save DC.
+If a creature uses its action to examine the illusion, the creature can determine that it is an illusion with a successful Intelligence Ability Check against your Spell Save DC.
 If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
 Whatever the illusion's form, its properties remain static throughout the duration.

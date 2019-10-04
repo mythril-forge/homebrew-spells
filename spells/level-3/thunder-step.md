@@ -23,7 +23,7 @@
 ## Description
 You teleport yourself to an unoccupied space you can see within range.
 Immediately after you disappear, a thunderous boom sounds from the space you disappeared from, and from the space you arrive at.
-Each creature other than you or your passanger within 10 feet of either space must make a Constitution saving throw, taking `3d10` thunder damage on a failed save, or half as much damage on a successful one.
+Each creature other than you or your passanger within 10 feet of either space must make a Constitution Saving Throw, taking `3d10` thunder damage on a failed save, or half as much damage on a successful one.
 The thunder can be heard from up to a mile away.
 
 You can bring along objects as long as their weight doesn't exceed what you can carry.

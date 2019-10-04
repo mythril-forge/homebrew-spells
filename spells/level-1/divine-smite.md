@@ -24,7 +24,7 @@ On a hit, the attack deals an extra `2d8` radiant damage.
 The extra damage increases by `1d8` if the target is an undead or fiend.
 
 If you let go of the weapon, its charm dissipates, and the spell ends.
-It also ends if you make a ranged attack with your weapon and miss.
+It also ends if you make a Ranged Attack with your weapon and miss.
 
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 

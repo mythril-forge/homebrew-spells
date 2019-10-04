@@ -20,7 +20,7 @@ You can either immediately hurl the flame, or carry it with you.
 
 ### Hurl Flame
 You attack with the flame.
-Make a ranged spell attack against a target creature or object within range.
+Make a Ranged Spell Attack against a target creature or object within range.
 On a hit, the target takes `1d10` fire damage.
 
 ### Hold Flame

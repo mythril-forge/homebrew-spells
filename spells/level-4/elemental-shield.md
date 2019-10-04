@@ -22,7 +22,7 @@ You can end the spell early by using an action to dismiss it.
 
 The barrier provides you with resistance from cold, fire, or lightning (your choice).
 
-In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with elemental force.
+In addition, whenever a creature within 5 feet of you hits you with a Melee Attack, the shield erupts with elemental force.
 The attacker takes `2d8` damage from the type you chose.
 
 ---

@@ -23,7 +23,7 @@
 ## Description
 For the duration, you sense the presence of divine energy fields within 30 feet of you.
 An aura of divine patterns appears to eminate from each source of energy in the area.
-A more subtle presence may require a successful Wisdom ability check to notice.
+A more subtle presence may require a successful Wisdom Ability Check to notice.
 
 If you sense energy fields in this way, you can use your action to see a faint aura around any creature or object in the area that bears a divine presence, and you learn thier alignment, if any.
 

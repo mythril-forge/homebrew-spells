@@ -14,7 +14,7 @@
 
 ## Description
 You look toward one creature you can see within range, and a psychic bolt pierces its mind.
-The target must succeed on an Intelligence saving throw or take `1d6` psychic damage.
+The target must succeed on an Intelligence Saving Throw or take `1d6` psychic damage.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d6` for each slot level.

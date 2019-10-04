@@ -22,9 +22,9 @@
 You direct the flow of an area of water, which must fit within a 5-foot-long cube originating from a point that you can see within range.
 You can steer the water in one of the following ways:
 - You focus this spell on a creature or object that you can see within 30 feet of the spell's area, lashing a gout of water out at your target.
-	It must succeed on a Dexterity saving throw or take `1d8` bludgeoning damage.
+	It must succeed on a Dexterity Saving Throw or take `1d8` bludgeoning damage.
 - You focus this spell on a creature or object that you can see within the spell's area, sucking the heat out from your target.
-	It must succeed on a Constituton saving throw or take `1d8` cold damage.
+	It must succeed on a Constituton Saving Throw or take `1d8` cold damage.
 - You move the water, depositing it up to 30 feet away in any direction.
 - You change the flow of the water as you direct, and can continue to do so until the end of your next turn (no action required).
 - You can cause the water's phase to transform into mist or ice, or vice versa.

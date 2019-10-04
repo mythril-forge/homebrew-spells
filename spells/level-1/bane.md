@@ -23,7 +23,7 @@ You attempt to curse up to five creatures of your choice within range.
 Each creature must make a Charisma throw.
 On a successful save, the target resists the spell; however, you can choose to target it more than once with this casting.
 If you do so, you must count it multiple times against the number of creatures that you have chosen to target with this spell.
-On a failed save, dark energy washes over the target, forcing them to deduct `1d4` from all ability checks, attack rolls, and saving throws for the duration.
+On a failed save, dark energy washes over the target, forcing them to deduct `1d4` from all Ability Checks, Attack Rolls, and Saving Throws for the duration.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.

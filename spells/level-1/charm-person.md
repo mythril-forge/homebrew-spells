@@ -17,7 +17,7 @@
 ## Description
 This spell lets you beguile a person, tricking them into genuinely believing that you are a friend.
 Choose a humanoid that you can see within range.
-It must make a Wisdom saving throw, and does so with advantage if you or your companions are hostile to it.
+It must make a Wisdom Saving Throw, and does so with advantage if you or your companions are hostile to it.
 On a failed save, the humanoid is **charmed** by you for the spell's duration.
 A creature **charmed** in this way regards you as a friendly acquaintance.
 If you or one of your companions harms the target, the charm on them ends.

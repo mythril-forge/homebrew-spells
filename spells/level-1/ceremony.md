@@ -25,7 +25,7 @@ If you or the target of this spell does anything that clearly disrespects or cor
 Such divine retribution can take any form (at the DM's discretion) and lasts 7 days.
 
 ### Atonement
-You touch one willing creature and make a DC 20 Wisdom ability check.
+You touch one willing creature and make a DC 20 Wisdom Ability Check.
 On a successful check, you shift the target's alignment by one degree in one direction of your choice.
 
 ### Bless Water
@@ -34,7 +34,7 @@ This is enough liquid to fill eight 16oz *glass bottles*.
 
 ### Coming of Age
 You touch one willing creature who is a young adult.
-For the next 7 days, whenever the target makes an ability check, attack roll, or saving throw, it can roll `1d4` and add the number rolled to the ability check.
+For the next 7 days, whenever the target makes an Ability Check, Attack Roll, or Saving Throw, it can roll `1d4` and add the number rolled to the Ability Check.
 A creature can benefit from this rite only once.
 
 ### Dedication

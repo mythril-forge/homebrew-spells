@@ -19,15 +19,15 @@
 ## Description
 You cause a creature or an object that you touch to shrink for the duration.
 Choose either a creature or an object.
-If the target is unwilling, it can make a Constitution saving throw.
+If the target is unwilling, it can make a Constitution Saving Throw.
 On a success, the spell has no effect.
 
 If the target is a creature, it gains the following effects:
 - The target's size category decreases by one
 - The target's mass & weight multiply to match its new size
 - The target's movement speed decreases by 10 feet
-- The target has advantage on all dexterity-based ability checks and saving throws
-- The target has disadvantage on all strength-based ability checks and saving throws
+- The target has advantage on all dexterity-based Ability Checks and Saving Throws
+- The target has disadvantage on all strength-based Ability Checks and Saving Throws
 - The target cannot effectively carry or use what would be normal-sized weapons and equipment for it
 - The target's target's hit point maximum decreases by `1d8` for the duration
 

@@ -56,7 +56,7 @@ Any items that the familiar is carrying are not teleported with it.
 
 When you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell.
 Your familiar must be within 120 feet of you, and it must use its action to deliver the spell when you cast it.
-If the spell requires an attack roll or saving throw, you use your spell attack modifier or Spell Save DC for the roll.
+If the spell requires an Attack Roll or Saving Throw, you use your own spellcasting statistics for the roll.
 
 You can't have more than one familiar at a time.
 If you cast this spell while you already have a familiar, you can transfer your bound spirit to the new target animal, causing your familiar to adopt a new form.

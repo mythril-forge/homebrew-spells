@@ -25,7 +25,7 @@ When you cast this spell, you can choose to immediately hurl the acid, or to sto
 
 ### Hurl Acid
 You hurl a bubble of acid at a point you choose within range, which then splatters on impact.
-Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity saving throw.
+Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity Saving Throw.
 On a failed save, a creature takes `1d6` acid damage.
 
 ### Store Acid

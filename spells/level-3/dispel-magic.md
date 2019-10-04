@@ -17,7 +17,7 @@
 ## Description
 Choose one creature, object, or magical effect within range.
 Any spell of 3rd level or lower on the target ends.
-For each spell 4th level or higher, the target must succeed on an Intelligence saving throw.
+For each spell 4th level or higher, the target must succeed on an Intelligence Saving Throw.
 The target has a bonus to this save equal to the level of the spell that it is casting, minus this spell's level plus one.
 On a failed save, the spell ends.
 

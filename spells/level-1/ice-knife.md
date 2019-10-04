@@ -22,8 +22,8 @@ The knife forms in your free hand, and lasts for the duration.
 The knife has the same statistics as a regular dagger with the following changes:
 - The knife deals `2d4` cold or slashing damage (whichever is more effective).
 - When thrown, the knife explodes into a cloud of ice shrapnal on impact.
-	You can make a thrown weapon attack against a target as normal.
-	Hit or miss, each creature within a 10-foot-radius sphere centered on the attack's intended point of impact must succeed on a Dexterity saving throw.
+	You can make a thrown Weapon Attack against a target as normal.
+	Hit or miss, each creature within a 10-foot-radius sphere centered on the attack's intended point of impact must succeed on a Dexterity Saving Throw.
 	On a failed save, a creature takes `2d6` cold or slashing damage (whichever is more effective).
 	The spell then ends.
 

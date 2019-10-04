@@ -18,9 +18,9 @@
 
 ## Description
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.
-Make a ranged spell attack against that creature.
+Make a Ranged Spell Attack against that creature.
 On a hit, the target takes `1d12` lightning damage, and is **slowed** until the spell ends.
-While a creature is **slowed** in this way, it cannot take the dash action.
+While a creature is **slowed** in this way, it cannot take the *dash* action.
 
 For the duration, you can then use your action to deal `1d12` lightning damage to the target automatically.
 The spell ends if you fail to take this action at least once before the end of each of your turns.

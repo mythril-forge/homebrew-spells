@@ -19,7 +19,7 @@
 ## Description
 You touch three stones and imbue them with magic.
 A stone's magic lasts for the duration.
-You or someone else can take a stone and use it in a weapon attack.
+You or someone else can take a stone and use it in a Weapon Attack.
 If used as a sort of cudgel, a stone acts as an improvised weapon.
 If used as ammunition, it can be used normally with a sling or a similar weapon that hurls stones.
 In either case, an attack with a magic stone has the following properties:

@@ -24,7 +24,7 @@ You can use the hand to manipulate an object, open an unlocked door or container
 You can move the hand up to 30 feet each time you use it.
 
 The hand can't attack, cast spells, activate magic items, or carry more than 10 pounds.
-It also cannot handle complex tasks that would require an ability check.
+It also cannot handle complex tasks that would require an Ability Check.
 
 ---
 

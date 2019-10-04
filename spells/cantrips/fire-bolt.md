@@ -16,7 +16,7 @@
 
 ## Description
 You hurl a mote of fire at a creature or object within range.
-Make a ranged spell attack against the target.
+Make a Ranged Spell Attack against the target.
 On a hit, the target takes `1d8` fire damage.
 
 ## At Higher Levels

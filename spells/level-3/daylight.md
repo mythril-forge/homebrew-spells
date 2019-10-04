@@ -24,8 +24,8 @@ The spell ends if you cast it again or dismiss it as an action.
 If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.
 
 When you first cast this spell or as an action, you can end the spell by expelling its remaining energy, causing the source you chose to flare with blinding light.
-Each creature within the sphere of bright light created by this spell must succeed on a Constitution saving throw or become **blinded** for 5 minutes.
-A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Each creature within the sphere of bright light created by this spell must succeed on a Constitution Saving Throw or become **blinded** for 5 minutes.
+A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 ---
 
