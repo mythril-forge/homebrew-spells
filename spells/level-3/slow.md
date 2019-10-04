@@ -26,15 +26,15 @@
 You alter time around up to six creatures of your choice in a 40-foot-long cube within range.
 Each target must succeed on a Charisma Saving Throw or be affected by this spell for the duration.
 - Their movement speed is halved.
-- Their attacks have disadvantage.
+- Their Attack Rolls have disadvantage.
 - They get a `–2` penalty to AC and Dexterity Saving Throws.
 - They have disadvantage on Strength and Dexterity Saving Throws.
 - They cannot use their bonus action.
 	If they have multiple bonus actions to use, they can use one less.
 - They cannot use their reaction.
 	If they have multiple reactions to use, they can use one less.
-- If they use their action to take the attack action, then they can make one less attack as a part of that action (minimum of one).
-- If they use their action to take the cast a spell action, then they must flip `a coin`.
+- If they use their action to take the *attack* action, then they can make one less attack as a part of that action (minimum of one).
+- If they use their action to take the *cast a spell* action, then they must flip `a coin`.
 	On a `tails`, the spell fails.
 
 A creature can use its action to make a Charisma Saving Throw and try to end this spell's effect on it.

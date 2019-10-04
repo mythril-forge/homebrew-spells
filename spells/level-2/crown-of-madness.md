@@ -19,7 +19,7 @@ One humanoid of your choice that you can see within range must succeed on a Wisd
 While the target is **charmed** in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.
 
 The **charmed** target must use its movement before acting on each of its turns to move towards a creature that you mentally choose.
-If the **charmed** target can not end its movement within 5 feet of the chosen creature, it uses the dash action to close the distance.
+If the **charmed** target can not end its movement within 5 feet of the chosen creature, it uses the *dash* action to close the distance.
 
 Once within 5 feet of the chosen creature, the **charmed** creature must target it with its most effective Melee Attacks (at the DM's discretion) until it is killed.
 If it does so and the **charmed** target has any remaining attacks or movement, you must mentally choose what its next target creature is.

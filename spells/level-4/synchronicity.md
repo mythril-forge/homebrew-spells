@@ -18,7 +18,7 @@
 The creature you touch feels reality subtly shifted to its favor while this spell is in effect.
 The target isn't inconvenienced by mundane delays of any sort.
 Traffic lights are always green, there's always a waiting elevator, and a taxi is always around the corner.
-The target can run at full speed through dense crowds, and attacks of opportunity provoked by the target's movement are made with disadvantage.
+The target can run at full speed through dense crowds, and Attacks of Opportunity provoked by the target's movement are made with disadvantage.
 
 Synchronicity grants advantage to Dexterity Ability Checks, since the target always finds a handy piece of cover available.
 Additionally, the target has advantage on all Ability Checks made to drive a vehicle.
