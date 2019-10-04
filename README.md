@@ -45,11 +45,11 @@ To rate this project's completion, marks of quality are attributed to each spell
 Those marks of quality assurance are outlined below:
 - :shit: this entry is unacceptable.
 - :x: this entry has not been modified.
-- :dizzy: this entry has been modified, but has not been reviewed for QA.
-- :sparkles: this entry's mechanics has been personally reviewed and validated once for quality assurance.
-- :star: this entry's mechanics have been cross-checked with other similar spells for consistancy assurance.
-- :star2: this entry has been reviewed by at least three different people other than myself.
-- :stars: this entry has a dedicated blogpost about its changes.
+- :sparkles: this entry has been modified, but has not been reviewed for QA.
+- :star: this entry's mechanics has been personally reviewed and validated once for quality assurance.
+- :star2: this entry's mechanics have been cross-checked with other similar spells for consistancy assurance.
+- :stars: this entry has been reviewed by at least three different people other than myself.
+- :milky_way: this entry has a dedicated blogpost about its changes.
 - :white_flower: this entry is virtually perfect, and gets all the QA.
 
 Furthermore, each branch mentioned earlier is rated based on the lowest-rated spell entry stored there.
@@ -58,10 +58,10 @@ Here is that outline:
 #### Spell Tier QA
 | Spell Category | QA Mark    |
 |:--------------:|:----------:|
-| cantrips       | :sparkles: |
-| level-1 spells | :dizzy:    |
-| level-2 spells | :dizzy:    |
-| level-3 spells | :dizzy:    |
+| cantrips       | :star:     |
+| level-1 spells | :sparkles: |
+| level-2 spells | :sparkles: |
+| level-3 spells | :sparkles: |
 | level-4 spells | :x:        |
 | level-5 spells | :x:        |
 | level-6 spells | :x:        |
