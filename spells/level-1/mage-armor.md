@@ -26,3 +26,5 @@ The spell ends if the target dons armor or if you dismiss the spell as an action
 **Classes:** sorcerer, warlock, wizard
 
 **Sources:** PHB, page 256
+
+**Quality Assurance:** :star: personal pass

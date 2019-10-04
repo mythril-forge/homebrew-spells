@@ -19,9 +19,9 @@
 ## Description
 This spell lets you convince a beast that you mean it no harm.
 Choose a beast that you can see within range.
-It must be able to see and hear you.
-If the beast's Intelligence is 4 or higher, the spell fails.
-Otherwise, the beast must succeed on a Wisdom saving throw or be **charmed** by you for the spell's duration.
+It must be aware of you, and be able to see and hear you.
+If the beast's Intelligence Score is 4 or higher, the spell fails.
+Otherwise, the beast must succeed on a Wisdom Saving Throw or be **charmed** by you for the spell's duration.
 If you or one of your companions harms the target, the spell ends.
 
 ## At Higher Levels
@@ -33,6 +33,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 **Subclasses:** nature cleric
 
-**Races:** yuan-ti pureblood
-
 **Sources:** PHB, page 212
+
+<!-- QA Pass Needed -->

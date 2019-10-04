@@ -16,7 +16,7 @@
 
 ## Description
 You afflict searing frostbite burns on one creature that you can see within range.
-The target must succeed on a Constitution saving throw or take `1d12` cold damage.
+The target must succeed on a Constitution Saving Throw or take `1d12` cold damage.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d12` for each slot level.

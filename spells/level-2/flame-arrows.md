@@ -21,7 +21,7 @@ You touch a bundle of nine shots of ammunition and imbue them with elemental fla
 They become flaming shots for the duration.
 The flaming shots can be contained in a pouch, thong, quiver, or any other mode of storage.
 The flaming shots affected must all be the same type, such as bolts or arrows.
-You or someone else can take a flaming shot and use it in a ranged weapon attack.
+You or someone else can take a flaming shot and use it in a Ranged Weapon Attack.
 It must be used normally with a weapon that takes the flaming shot's original form as ammunition.
 An attack with a flaming shot deals an extra `1d6` fire damage.
 

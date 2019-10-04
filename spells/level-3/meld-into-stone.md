@@ -19,7 +19,7 @@ You step into a stone object or surface large enough to fully contain your body,
 Using your movement, you step into a stone you can touch.
 Nothing of your presence remains visible or otherwise detectable by nonmagical senses, unless you choose to reveal yourself as an rudementry, animated drawing of yourself.
 
-While merged with the stone, you can't see what occurs outside it, and any Wisdom checks you make to hear sounds outside it are made with disadvantage.
+While merged with the stone, you can't see what occurs outside it, and any Wisdom Ability Checks you make to hear sounds outside it are made with disadvantage.
 You remain aware of the passage of time and can cast spells on yourself while merged in the stone.
 You can use your movement to leave the stone where you entered it, which ends the spell.
 You otherwise can't move.

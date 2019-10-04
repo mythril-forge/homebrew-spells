@@ -23,7 +23,7 @@ The protection grants several benefits.
 When a creature of the chosen type targets this spell's recipient with an attack, spell, or ability, they must flip `a coin`.
 On a `tails`, the target is not affected by the action.
 If the target is a creature, they can't be **charmed**, **frightened**, or possessed by them.
-If the target is already **charmed**, **frightened**, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+If the target is already **charmed**, **frightened**, or possessed by such a creature, the target has advantage on any new Saving Throw against the relevant effect.
 
 ---
 
@@ -32,3 +32,5 @@ If the target is already **charmed**, **frightened**, or possessed by such a cre
 **Subclasses:** devotion paladin, protection cleric, horizon walker ranger, monster slayer ranger, divine soul sorcerer
 
 **Sources:** PHB, page 270
+
+<!-- QA Pass Needed -->

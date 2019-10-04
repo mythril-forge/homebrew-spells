@@ -18,7 +18,7 @@
 Choose a bunch of object within range that aren't being worn or carried.
 The bunch must weigh less than 5 pounds and fit in a 5-foot-long cube.
 The bunch of objects flies in a straight line up to 60 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface.
-If the barrage of objects would strike a creature, that creature must make a Dexterity saving throw.
+If the barrage of objects would strike a creature, that creature must make a Dexterity Saving Throw.
 On a failed save, the objects all strike the target and stop moving.
 When the objects strike something, the bundle of objects and what it strikes each take `3d8` bludgeoning damage.
 
@@ -30,3 +30,5 @@ When you cast this spell using a spell slot of 2nd level or higher, the maximum 
 **Classes:** sorcerer, wizard, artificer
 
 **Sources:** XGE, page 150
+
+<!-- QA Pass Needed -->

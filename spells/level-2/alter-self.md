@@ -40,7 +40,7 @@ Finally, the natural weapon is magic and you have a `+1` bonus to the attack and
 You adapt your body for flight, sprouting large, unwieldly wings and losing body weight.
 Once on each of your turns, you can use an action to gain a flying speed of 20 feet until the beginning of your next turn.
 If you don't take this action at the beginning of your turn while you are aloft, you plummet to the ground.
-You can't fly in this way if you are wearing Medium or Heavy armor.
+You can't fly in this way if you are wearing *medium* or Heavy armor.
 
 ---
 

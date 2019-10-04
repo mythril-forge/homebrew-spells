@@ -26,3 +26,5 @@ You might be able to persuade a beast to perform a small favor for you (at the D
 **Subclasses:** nature cleric, ancients paladin, undying warlock, totem warrior barbarian
 
 **Sources:** PHB, page 277
+
+<!-- QA Pass Needed -->

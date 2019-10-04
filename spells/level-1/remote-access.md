@@ -28,3 +28,5 @@ You can use remote access with only one device at a time.
 **Subclasses:** city cleric, ghost in the machine warlock
 
 **Sources:** UA-MM, page 8
+
+<!-- QA Pass Needed -->

@@ -21,12 +21,12 @@ You utter foul words, summoning demons from the chaos of the Abyss.
 Roll on the following table to determine what appears.
 
 #### Demons
-| `d4`      | Demons Summoned                             |
-|-----------|---------------------------------------------|
-| 1         | One demon of challenge rating 2 or lower    |
-| 2         | Two demons of challenge rating 1 or lower   |
-| 3         | Four demons of challenge rating ½ or lower  |
-| 4         | Eight demons of challenge rating ¼ or lower |
+| `d4` | Demons Summoned                                    |
+|------|----------------------------------------------------|
+| 1    | One demon of challenge rating 2 or lower           |
+| 2    | Two demons of challenge rating 1 or lower          |
+| 3    | Four demons of challenge rating &frac12; or lower  |
+| 4    | Eight demons of challenge rating &frac14; or lower |
 
 The DM chooses the demons, such as manes or dretches, and you choose the unoccupied spaces you can see within range where they appear.
 A summoned demon disappears when it drops to 0 hit points or when the spell ends.

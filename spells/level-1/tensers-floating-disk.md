@@ -17,7 +17,7 @@
 ---
 
 ## Description
-This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range.
+This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 2 feet above the ground in an unoccupied space of your choice that you can see within range.
 The disk remains for the duration, and can hold up to 500 pounds.
 If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
 
@@ -33,6 +33,6 @@ If you move more than 120 feet from the disk (typically because it can't move ar
 
 **Classes:** wizard
 
-**Subraces:** tiefling (mammon)
-
 **Sources:** PHB, page 282
+
+**Quality Assurance:** :star: personal pass

@@ -18,11 +18,11 @@
 
 ## Description
 Choose a weapon that you are holding.
-The weapon is bathed in magic, sprouting enchanted stems and leaves that last until the end of your next turn.
-The first time you make a ranged weapon attack with this weapon before then, it unleashes a rain of thorns that sprout from your weapon or ammunition.
-Hit or miss, each creature within a 10-foot-radius sphere centered on the attack's point of impact must succeed on a Dexterity saving throw.
+The weapon sprouts enchanted stems and leaves that last until the end of your next turn.
+The first time you make a Weapon Attack with this weapon before then, it unleashes a flurry of thorns that sprout from your weapon or ammunition, and the spell ends.
+Hit or miss, each creature within a 10-foot-radius sphere centered on the attack's intended point of impact must succeed on a Dexterity Saving Throw.
 On a failed save, a creature takes `3d4` damage of the original attack's type.
-On a successful save, the creature takes half as much damage.
+On a successful save, a creature takes half as much damage.
 
 If you let go of the weapon, its charm dissipates, and the spell ends.
 
@@ -34,3 +34,5 @@ If you cast this spell using a spell slot of 2nd level or higher, the damage inc
 **Classes:** ranger
 
 **Sources:** PHB, page 249
+
+**Quality Assurance:** :star: personal pass

@@ -6,7 +6,7 @@
 
 **Casting Time:** action
 
-**Duration:** instantaneous
+**Duration:** 1 turn
 
 **Range:** self
 
@@ -15,13 +15,13 @@
 ## Description
 You alter the composition of your body in a subtle manner, allowing you to take seemingly impossible steps.
 
-When you cast this spell, your movement speed increases by 15 feet, and you can walk across liquids and vertical surfaces without falling until the end of your turn.
+Until the end of your turn, your movement speed increases by 15 feet, and you can walk across liquids and vertical surfaces without falling.
 If you end your turn on such a surface, you immediately fall.
 
 ---
 
-**Classes:** mystic
+**Classes:** wizard, mystic
 
 **Sources:** STREAM
 
-<!-- QA pass needed -->
+**Quality Assurance:** :star: personal pass

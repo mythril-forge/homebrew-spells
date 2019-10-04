@@ -21,10 +21,13 @@ Choose a weapon that you are holding.
 The weapon flares with white-hot intensity for the duration.
 The first time you hit with an attack using this weapon before the spell ends, it inflicts its searing energy upon your target, and the spell ends.
 On a hit, the attack deals an extra `2d6` fire damage.
-It then must succeed on a Dexterity saving throw or become **conflagrated**.
+It then must succeed on a Dexterity Saving Throw or become **conflagrated**.
+
+As an action, a **conflagrated** creature can repeat this Dexterity Saving Throw to put out the flames, ending this spell's effects.
+A creature has advantage on this save if it is **prone**.
 
 If you let go of the weapon, its charm dissipates, and the spell ends.
-It also ends if you make a ranged attack with your weapon and miss.
+It also ends if you make a Ranged Attack with your weapon and miss.
 
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 

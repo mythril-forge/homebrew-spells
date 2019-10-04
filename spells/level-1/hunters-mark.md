@@ -16,8 +16,8 @@
 
 ## Description
 You mystically mark a creature you can see within range as your quarry.
-Until the spell ends, you deal an extra `1d6` damage to the target whenever you hit it with a weapon attack and you have advantage on any ability check that you make to actively hunt it.
-That includes activities such as:
+Until the spell ends, you deal an extra `1d6` damage to the target whenever you hit it with a Weapon Attack, and you have advantage on any Ability Check that you make to actively hunt it.
+This includes activities such as:
 - tracking
 - searching
 - pursuing
@@ -53,3 +53,5 @@ When you cast this spell using a higher level spell slot, you can maintain your 
 **Subclasses:** vengeance paladin
 
 **Sources:** PHB, page 251
+
+**Quality Assurance:** :star: personal pass

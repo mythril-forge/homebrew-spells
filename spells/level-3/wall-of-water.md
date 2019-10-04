@@ -31,12 +31,12 @@ You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or you
 The dissipates when the spell ends, and the water pours outwards from it.
 The wall's space is heavily obscured, and is difficult terrain.
 It has the following affects:
-- Any ranged weapon attack that enters the wall's space has disadvantage on the attack roll. 
+- Any Ranged Weapon Attack that enters the wall's space has disadvantage on the Attack Roll. 
 - Fire damage is halved if the fire effect passes through the wall to reach its target.
 - Any lightning damage is blocked by the wall of water, but the effects course through this spell's area.
 	- If the incoming spell would targeted one creature or target, it instead becomes an area of effect spell with an area matching the wall's area.
 	- If the incoming spell was already an area of effect, that effect extends throughout the water.
-		Creatures must make a Dexterity saving throw against the spell or take the spell's effects.
+		Creatures must make a Dexterity Saving Throw against the spell or take the spell's effects.
 - Any cold damage is blocked by the wall of water, and causes any affected area of the water to freeze solid in 5×5-foot chunks.
 	- Each 5-foot-square frozen section has AC 5 and 15 hit points. 
 	- Reducing a frozen section to 0 hit points destroys it. 

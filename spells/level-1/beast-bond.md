@@ -19,9 +19,9 @@
 ## Description
 This spell lets you establish a blood bond with a friendly beast&mdash;creating a telepathic link, and encouraging it to aid in your endeavors.
 You try to establish this connection with one beast you touch that is friendly to you.
-If the beast's Intelligence is 4 or higher, the spell fails.
-Otherwise, it must succeed on a Wisdom saving throw or be **charmed** by you for the spell's duration.
-If the creature is already **charmed**, it has disadvantage on the saving throw.
+If the beast's Intelligence Score is 4 or higher, the spell fails.
+Otherwise, it must succeed on a Wisdom Saving Throw or be **charmed** by you for the spell's duration.
+If the creature is already **charmed**, it has disadvantage on the Saving Throw.
 
 Until the spell ends, a telepathic link is active while you and the beast are within 120 feet of each other.
 Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you.
@@ -36,3 +36,5 @@ Otherwise, your beast acts on its own, focusing on protecting itself and you.
 **Classes:** druid, ranger
 
 **Sources:** XGE, page 150
+
+<!-- QA Pass Needed -->

@@ -19,7 +19,7 @@ You touch a creature.
 If it is **poisoned**, you neutralize the poison.
 If more than one poison afflicts the target, you neutralize them all.
 
-For the duration, the target has advantage on saving throws against poison, and it has resistance to poison damage.
+For the duration, the target has advantage on Saving Throws against poison, and it has resistance to poison damage.
 
 ---
 

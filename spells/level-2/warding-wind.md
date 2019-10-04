@@ -27,12 +27,12 @@ The wind has the following effects:
 - It **deafens** you and all other creatures in its area.
 - It extinguishes unprotected flames in its area that are torch-sized or smaller.
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
-- Friendly creatures have advantage on Strength and Dexterity ability checks and saving throws when within the warding wind.
+- Friendly creatures have advantage on Strength and Dexterity Ability Checks and Saving Throws when within the warding wind.
 - Friendly creatures who target creatures within or past the warding wind with an attack have advantage on their roll.
 - Hostile creatures treat the area as difficult terrain.
 - Hostile creatures who target creatures within or past the warding wind with an attack have disadvantage on their roll.
-- Hostile creatures who move through the wind or end their turn there must make a Strength saving throw.
-	The creature falls **prone** on a failure.
+- Hostile creatures who move through the wind or end their turn there must make a Strength Saving Throw.
+	The creature falls **prone** on a failed save.
 
 ---
 

@@ -6,7 +6,7 @@
 
 **Casting Time:** bonus action
 
-**Duration:** indefinate
+**Duration:** 5 minutes
 
 **Range:** self
 
