@@ -33,9 +33,9 @@ This storm has the following properties:
 - It extinguishes unprotected flames in its area.
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
 - Its area is difficult terrain.
-- Any creature within the storm has disadvantage on all attacks and ability checks.
-- Any creature that attacks something within or past the blizzard has disadvantage on its attack roll.
-- Any creature that moves through the blizzard or ends its turn there must make a Strength saving throw.
+- Any creature within the storm has disadvantage on all attacks and Ability Checks.
+- Any creature that attacks something within or past the blizzard has disadvantage on its Attack Roll.
+- Any creature that moves through the blizzard or ends its turn there must make a Strength Saving Throw.
 	On a failure, the creature takes `1d6` bludgeoning damage, `2d6` cold damage, and falls prone.
 	On a success, the creature takes half damage and doesn’t fall prone.
 

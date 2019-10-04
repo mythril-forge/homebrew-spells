@@ -18,7 +18,7 @@
 
 ## Description
 As you cast this spell, you focus your attention on one non-hostile creature of your choice.
-For the duration, you have advantage on all Charisma ability checks directed at your target.
+For the duration, you have advantage on all Charisma Ability Checks directed at your target.
 The spell ends if it becomes hostile toward you.
 
 When the spell ends, the creature realizes that you used magic to influence its mood and could become hostile toward you.

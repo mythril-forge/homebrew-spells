@@ -52,7 +52,7 @@ As an action, you can release the steed from its bond at any time, reverting the
 
 Finally, when you cast a spell with a range of touch, your steed can deliver the spell as if it had cast the spell.
 Your steed must be within 1 mile of you, and it must use its action to deliver the spell when you cast it.
-If the spell requires an attack roll, you use your attack modifier for the roll.
+If the spell requires an Attack Roll, you use your attack modifier for the roll.
 
 ---
 

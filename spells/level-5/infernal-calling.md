@@ -29,7 +29,7 @@ The DM has the creature's statistics.
 
 On each of your turns, you can try to issue a verbal command to the devil (no action required by you).
 It obeys the command if the likely outcome is in accordance with its desires, especially if the result would draw you toward evil.
-Otherwise, it must Wisdom saving throw.
+Otherwise, it must Wisdom Saving Throw.
 It makes the save with disadvantage if you say the devil's true name.
 On a success, the devil becomes immune to your verbal commands for the duration of the spell, though it can still carry out your commands if it chooses.
 On a failure, the devil carries out your command&mdash;such as "attack my enemies," "explore the room ahead," or "bear this message to the queen"&mdash;until it completes the activity, at which point it returns to you to report having done so.
@@ -37,7 +37,7 @@ On a failure, the devil carries out your command&mdash;such as "attack my enemie
 If your concentration ends before the spell reaches its full duration, the devil doesn't disappear if it has become immune to your verbal commands.
 Instead, it acts in whatever manner it chooses for `3d6` minutes, and then it disappears.
 
-If you possess an individual devil's talisman, you can summon that devil if it is of the appropriate challenge rating plus 1, and it obeys all your commands, with no Charisma ability checks required.
+If you possess an individual devil's talisman, you can summon that devil if it is of the appropriate challenge rating plus 1, and it obeys all your commands, with no Charisma Ability Checks required.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.

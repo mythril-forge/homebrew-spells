@@ -29,7 +29,7 @@ This void is filled with a cacophony of soft whispers and slurping noises that c
 
 The void creates a warp in the fabric of space, and the area is difficult terrain.
 Any creature that starts its turn in the area takes `2d6` cold damage.
-Any creature who moves through the area for the first time on its turn must make a Dexterity saving throw or take `2d6` necrotic damage as milky, otherworldy tentacles hurtle toward it.
+Any creature who moves through the area for the first time on its turn must make a Dexterity Saving Throw or take `2d6` necrotic damage as milky, otherworldy tentacles hurtle toward it.
 Any creature that ends its turn in the area takes `2d6` acid damage as the thick air seems to devour and digest its essence.
 
 ---

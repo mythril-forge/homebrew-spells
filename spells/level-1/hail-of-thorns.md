@@ -19,8 +19,8 @@
 ## Description
 Choose a weapon that you are holding.
 The weapon sprouts enchanted stems and leaves that last until the end of your next turn.
-The first time you make a weapon attack with this weapon before then, it unleashes a flurry of thorns that sprout from your weapon or ammunition, and the spell ends.
-Hit or miss, each creature within a 10-foot-radius sphere centered on the attack's intended point of impact must succeed on a Dexterity saving throw.
+The first time you make a Weapon Attack with this weapon before then, it unleashes a flurry of thorns that sprout from your weapon or ammunition, and the spell ends.
+Hit or miss, each creature within a 10-foot-radius sphere centered on the attack's intended point of impact must succeed on a Dexterity Saving Throw.
 On a failed save, a creature takes `3d4` damage of the original attack's type.
 On a successful save, a creature takes half as much damage.
 

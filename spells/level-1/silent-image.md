@@ -33,7 +33,7 @@ You can also adjust the percieved physics of the image, such as how wind and gra
 Detailed arrangements, like flowing cloaks, water, and hair are intuitively taken care of through your magic.
 
 Physical collision with the image reveals it to be an illusion, because things can pass through it.
-A creature that uses its action to examine or interact with the image can determine that it is an illusion with a successful Intelligence ability check against your Spell Save DC.
+A creature that uses its action to examine or interact with the image can determine that it is an illusion with a successful Intelligence Ability Check against your Spell Save DC.
 If a creature discerns the illusion for what it is, the creature can see through the image.
 
 ---

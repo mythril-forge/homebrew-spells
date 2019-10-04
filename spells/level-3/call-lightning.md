@@ -25,7 +25,7 @@ An area of elemental storm appears in the shape of a cylinder that is 120 feet t
 
 When you cast the spell, choose a point you can see under the cloud.
 A bolt of lightning in the shape of a cylinder that is 120 feet tall with a 5-foot radius flashes down to that point.
-Each creature within the bolt's area must make a Dexterity saving throw.
+Each creature within the bolt's area must make a Dexterity Saving Throw.
 A creature takes this spell's lightning damage on a failed save, or half as much damage on a successful one.
 Until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.
 

@@ -14,7 +14,7 @@
 
 ## Description
 You muster a metaphysical ball of force with your mind, and project it toward one creature you can see within range.
-Make a ranged spell attack against the target.
+Make a Ranged Spell Attack against the target.
 On a hit, the target takes `1d4` force damage.
 If the target that you hit *medium* or smaller, you can also push it up to 5 feet away from you.
 

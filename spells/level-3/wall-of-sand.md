@@ -32,7 +32,7 @@ It blocks line of sight and stops most spells and attacks in its tracks, but doe
 A creature is **blinded** and **suffocated** while in the wall's space, and must spend 5 feet of movement for every 1 foot it moves there.
 
 Until the spell ends, you can command the sand to compress onto a creature you know to be within the wall.
-That creature must make a Constitution saving throw.
+That creature must make a Constitution Saving Throw.
 On a failed save, the creature takes `4d6` bludgeoning damage, and takes half damage on a successful one.
 
 ---

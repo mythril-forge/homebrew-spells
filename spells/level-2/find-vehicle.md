@@ -33,7 +33,7 @@ These two entities share the same mind and body.
 When your vehicle drops to 0 hit points, it dies, and your familiar drifts to its home plane until you cast this spell again.
 
 You have a supernatural bond with the divine vehicle that allows you to drive beyond your normal ability.
-While driving the divine vehicle, you are considered proficient with vehicles of its type, and you add double your proficiency bonus to ability checks related to driving the vehicle.
+While driving the divine vehicle, you are considered proficient with vehicles of its type, and you add double your proficiency bonus to Ability Checks related to driving the vehicle.
 While driving the vehicle, you can make any spell you cast that targets only you also target the vehicle.
 
 While your divine vehicle is within 1 mile of you, a telepathic link is active.
@@ -52,7 +52,7 @@ As an action, you can release the vehicle from its bond at any time, reverting t
 
 Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell.
 Your familiar must be within 1 mile of you, and it must use its action to deliver the spell when you cast it.
-If the spell requires an attack roll, you use your attack modifier for the roll.
+If the spell requires an Attack Roll, you use your attack modifier for the roll.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 4th level or higher, you can conjure a nonmilitary water vehicle large enough to carry six *medium* creatures.

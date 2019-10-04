@@ -24,7 +24,7 @@ Any creature moves through the bonfire's space or ends its turn there must succe
 The flames do not require any fuel to burn throughout the spell's duration.
 
 Once per round, you can flare up the bonfire as a bonus action, causing extra damage to creatures within the flames.
-Those creatures must make the saving throw against the bonfire's damage.
+Those creatures must make the Saving Throw against the bonfire's damage.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d6` for each slot level.

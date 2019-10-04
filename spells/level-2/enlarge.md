@@ -19,15 +19,15 @@
 ## Description
 You cause a creature or an object that you touch to grow larger for the duration.
 Choose either a creature or an object.
-If the target is unwilling, it can make a Constitution saving throw.
+If the target is unwilling, it can make a Constitution Saving Throw.
 On a success, the spell has no effect.
 
 If the target is a creature, it gains the following effects:
 - The target's size category increases by one
 - The target's mass & weight multiply to match its new size
 - The target's movement speed increases by 10 feet
-- The target has advantage on all strength-based ability checks and saving throws
-- The target has disadvantage on all dexterity-based ability checks and saving throws
+- The target has advantage on all strength-based Ability Checks and Saving Throws
+- The target has disadvantage on all dexterity-based Ability Checks and Saving Throws
 - The target can effectively carry and use oversized weapons and equipment
 - The target's hit point maximum increase by `1d8` for the duration, and also regains hit points equal to this amount
 

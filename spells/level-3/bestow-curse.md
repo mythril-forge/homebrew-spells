@@ -20,7 +20,7 @@ Until the spell ends, you deal an extra `1d8` necrotic damage to the target when
 Also, the target gains one semi-permanent level of **exhaustion** that is removed only when the spell ends.
 When you cast this spell, choose the nature of the curse from the following options:
 - While cursed, the target is vulnerable to one of the following damage types of your choice: acid, fire, cold, lightning, thunder, poison, or psychic.
-- While cursed, the target must make a Charisma saving throw at the start of each of its turns.
+- While cursed, the target must make a Charisma Saving Throw at the start of each of its turns.
 	If it fails, it becomes **stunned** until the beginning of its next turn.
 - While cursed, the target cannot deal a critical hit.
 - While cursed, the target is blinded.
