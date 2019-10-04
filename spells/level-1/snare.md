@@ -17,12 +17,15 @@
 ---
 
 ## Description
-As you cast this spell, you use the rope to create a circle with a 5-foot radius on the ground or the floor.
+As you cast this spell, you use the rope to create a circle on the ground or the floor.
 When you finish casting, the rope disappears and the circle becomes a magic trap.
 
+Choose the size of the trap: *small*, *medium*, *large*, or *huge*.
+The rope magically transforms to match the size that your chose for the trap.
 This trap is nearly invisible, requiring a successful Wisdom Ability Check against your Spell Save DC to be discerned.
 
-The trap triggers when a *small*, *medium*, or *large* creature moves onto the ground or the floor in the spell's radius.
+The trap triggers when a creature of the same size as the trap moves onto the ground or floor in the spell's radius.
+The trap also triggers for creatures that are one size larger or smaller than the trap.
 That creature must succeed on a Dexterity Saving Throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor.
 The creature is **restrained** there until the spell ends.
 
@@ -38,4 +41,4 @@ After the trap is triggered, the spell ends when no creature is **restrained** b
 
 **Sources:** XGE, page 165; UA-SS, page 4
 
-<!-- QA Pass Needed -->
+<!-- QA Pass Needed! -->
