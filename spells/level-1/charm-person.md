@@ -15,7 +15,7 @@
 ---
 
 ## Description
-This spell lets you beguile a person, tricking them into genuinely believing that you are a friend.
+This spell lets you beguile a person, tricking them into genuinely believing that you are someone they know.
 Choose a humanoid that you can see within range.
 It must make a Wisdom Saving Throw, and does so with advantage if you or your companions are hostile to it.
 On a failed save, the humanoid is **charmed** by you for the spell's duration.

@@ -23,8 +23,7 @@ The first time you make a Melee Weapon Attack with this weapon before then, the 
 You have advantage on this Attack Roll.
 If the attack hits, it deals an extra `1d12` damage in addition to the weapon's normal damage and effects.
 
-In addition, when you first cast this spell, you gain a burst of impetus.
-You immediately gain the benefits of taking the *dash* and *disengage* actions.
+In addition, when you cast this spell, the sudden burst of impetus gives you the benefits of taking the *dash* and *disengage* actions.
 
 If you let go of the weapon, its charm dissipates, and the spell ends.
 
