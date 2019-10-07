@@ -6,7 +6,7 @@
 
 **Casting Time:** bonus action
 
-**Duration:** 15 minutes
+**Duration:** 5 minutes
 
 **Range:** 60 feet
 
@@ -17,11 +17,13 @@
 ---
 
 ## Description
-You ward a creature within range against attack.
-Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must choose a new target or lose the attack or spell.
-This spell protects the warded creature from area affects by granting it advantage on all Saving Throws.
+You ward one willing creature within range against harmful effects.
+For the duration, the target has a Damage Threshold (DT) of `5`.
+When this spell's recipient is targeted by an attack, spell, or ability, they can choose to flip `a coin`.
+On a `heads`, they are not affected by the action.
 
-If the warded creature makes an attack, casts a spell that affects a hostile creature, or deals damage to another creature, this spell ends.
+If the warded creature makes an attack, casts a spell that affects an unwilling creature, or deals damage to another creature, this spell ends early.
+The spell also ends early if the creature takes any other action that is deemed harmful to any other creature (at the DM's discretion).
 
 ---
 
@@ -31,4 +33,4 @@ If the warded creature makes an attack, casts a spell that affects a hostile cre
 
 **Sources:** PHB, page 272
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass

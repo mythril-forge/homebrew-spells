@@ -17,7 +17,8 @@
 ---
 
 ## Description
-A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
+A shimmering field appears and surrounds a creature of your choice within range, granting it a `+2` bonus to their Armor Class (AC) for the duration.
+The target also gains a Damage Reduction (DR) of `2` for the duration.
 
 ---
 
@@ -27,4 +28,4 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 **Sources:** PHB, page 275
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass

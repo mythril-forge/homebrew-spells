@@ -6,24 +6,28 @@
 
 **Casting Time:** action
 
-**Duration:** 15 minutes
+**Duration:** 1 hour
 
 **Range:** touch
 
-**Tags:** verbal, somatic, material, concentration
+**Tags:** verbal, somatic, material, concentration, ritual
 
-**Material Components:** a vial of holy water or powdered silver and iron worth atleast 50 sp, which the spell consumes
+**Material Components:** a vial of holy water or powdered silver and iron, worth atleast 50 sp, which the spell consumes
 
 ---
 
 ## Description
-Until the spell ends, one object or willing creature you touch is protected against one type of creature of your choice from the following: aberrations, celestials, elementals, fey, fiends, and undead.
+You ward one object or willing creature within range against extraplanar entities.
+For the duration, the target has resistance to either radiant or necrotic damage (your choice).
+Until the spell ends, the target is also protected against one type of creature of your choice from the following: aberrations, celestials, elementals, fey, fiends, or undead.
+When this spell's recipient is targeted by an attack, spell, or ability, they can choose to flip `a coin` if the source of the effect is a creature of the chosen type.
+On a `heads`, they are not affected by the action.
 
-The protection grants several benefits.
-When a creature of the chosen type targets this spell's recipient with an attack, spell, or ability, they must flip `a coin`.
-On a `tails`, the target is not affected by the action.
-If the target is a creature, they can't be **charmed**, **frightened**, or possessed by them.
+If the target is a creature, they can't be **charmed**, **frightened**, or possessed by a creature of the chosen type.
 If the target is already **charmed**, **frightened**, or possessed by such a creature, the target has advantage on any new Saving Throw against the relevant effect.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature or object for each slot level above 1st.
 
 ---
 
@@ -33,4 +37,4 @@ If the target is already **charmed**, **frightened**, or possessed by such a cre
 
 **Sources:** PHB, page 270
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass
