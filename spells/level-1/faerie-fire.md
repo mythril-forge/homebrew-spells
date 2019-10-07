@@ -32,6 +32,9 @@ Inanimate objects and **unconscious** creatures in the spell's area are always a
 For the duration, affected objects and creatures shed dim light in a 10-foot-radius aura.
 Attacks made against an affected target within 10 feet of it have advantage, thanks to the risidual arcane energy, and an affected creature or object can't benefit from being **invisible**.
 
+An affected creature can use its action to make a Dexterity Saving Throw to attempt to shake off the glowing magic placed upon it.
+On a success, the magic ends for that creature.
+
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, roll an additional `2d12` for each slot level above 1st.
 
@@ -43,4 +46,4 @@ When you cast this spell using a spell slot of 2nd level or higher, roll an addi
 
 **Sources:** PHB, page 239
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass

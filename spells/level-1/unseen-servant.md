@@ -25,14 +25,15 @@ The servant lasts for the duration or until you dismiss it (no action required).
 The servant vanishes if it exceeds the spell's range from you.
 If it drops to 0 hit points, the spell ends.
 
-When you cast the spell, you can mentally command the servant to interact with the environment around it. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine.
+When you cast the spell, and then later as an action, you can mentally command the servant to interact with the environment around it.
+(If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.)
+The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine.
 Once you give a command, the servant performs the task to the best of its ability.
 If a given task would take longer than one round to complete, it takes on an autonomous locomotion on each of your turns until its task is complete.
 The servant waits for your next command once it finishes a task.
-As an action, you can command the servant once again for further service.
 The servant can move up to 30 feet each time you command it.
 
-The servant can't attack, cast spells, activate magic items, or carry more than 50 pounds.
+The servant can't attack, cast spells, activate magic items, or carry more than 20 pounds.
 
 #### Unseen Servant Statistics
 | AC | HP | STR      | DEX      | CON      | INT      | WIS      | CHA      |
@@ -45,4 +46,4 @@ The servant can't attack, cast spells, activate magic items, or carry more than 
 
 **Sources:** PHB, page 284
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :thumbsdown: needs improvement

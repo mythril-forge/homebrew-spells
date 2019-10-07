@@ -30,7 +30,7 @@ A creature **restrained** by the vines can use its action to repeat the Strength
 On a successful save, the target is freed.
 
 If you let go of the weapon, its charm dissipates, and the spell ends.
-When the spell ends, the conjured brambles greatly retract into the earth and root themselves there as ordinary foliage.
+When the spell ends, the conjured brambles retract into the earth and root themselves there as ordinary foliage.
 
 ## At Higher Levels
 If you cast this spell using a spell slot of 2nd level or higher, both the initial and sustained damage increases by `1d6` for each slot level above 1st.

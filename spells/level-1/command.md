@@ -39,7 +39,6 @@ The target falls **prone** and then ends its turn.
 ### Halt
 The target doesn't move and takes no actions.
 A flying creature stays aloft, provided that it is able to do so.
-If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st.
@@ -52,4 +51,4 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 **Sources:** PHB, page 223
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass

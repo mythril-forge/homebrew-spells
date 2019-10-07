@@ -19,10 +19,10 @@
 ---
 
 ## Description
-You invoke the power of Hadar, the Dark Hunger.
-Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you.
-Each creature in that area must make a Dexterity Saving Throw.
-On a failed save, a target takes `2d6` necrotic damage and can't take reactions until the end of your next turn.
+You invoke the power of Hadar&mdash;the Dark Hunger&mdash;and tendrils of dark energy erupt from you.
+Each creature other than you within a 10-foot-radius aura eminating from you must make a Dexterity Saving Throw or take `2d6` necrotic damage.
+
+In addition, when you cast this spell, the dark shroud of energy gives you the benefits of taking the *disengage* action.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6` for each slot level above 1st.
@@ -35,4 +35,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 **Sources:** PHB, page 215
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass

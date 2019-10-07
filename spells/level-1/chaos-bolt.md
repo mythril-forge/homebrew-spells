@@ -21,14 +21,14 @@ Choose one of the `d6`s.
 The number rolled on that die determines the attack's damage type, as shown on the Elemental Choices table below.
 
 #### Elemental Choices
-| `d6` | Damage Type                        |
-|------|------------------------------------|
-| 1    | Force                              |
-| 2    | Acid                               |
-| 3    | Thunder                            |
-| 4    | Fire                               |
-| 5    | Cold                               |
-| 6    | Lightning                          |
+| `d6` | Damage Type |
+|------|-------------|
+| 1    | Force       |
+| 2    | Acid        |
+| 3    | Thunder     |
+| 4    | Fire        |
+| 5    | Cold        |
+| 6    | Lightning   |
 
 If you roll two of the same numbers on any pair of `d6`s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it.
 Make a new Attack Roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
