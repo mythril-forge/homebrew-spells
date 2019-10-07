@@ -16,7 +16,7 @@
 
 ## Description
 This spell allows you to move at an incredible pace.
-When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the *dash* action.
+Until the spell ends, you gain twice the movement that you normally would from taking the *dash* action.
 
 ---
 
@@ -26,4 +26,4 @@ When you cast this spell, and then as a bonus action on each of your turns until
 
 **Sources:** PHB, page 238
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass

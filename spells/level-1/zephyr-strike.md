@@ -19,7 +19,7 @@
 ## Description
 Choose a weapon that you are holding.
 The weapon is surrounded by bursting white flourishes of wind until the end of your next turn.
-The first time you make a Melee Weapon Attack with this weapon before then, the weapon accelerates onto its target, and the spell ends.
+The first time you make a Weapon Attack with this weapon before then, the weapon accelerates onto its target, and the spell ends.
 You have advantage on this Attack Roll.
 If the attack hits, it deals an extra `1d12` damage in addition to the weapon's normal damage and effects.
 
