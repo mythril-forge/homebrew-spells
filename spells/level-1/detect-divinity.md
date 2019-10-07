@@ -1,4 +1,4 @@
-# Detect Energy
+# Detect Divinity
 
 - [x] Homebrew
 
