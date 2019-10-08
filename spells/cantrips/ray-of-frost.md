@@ -36,4 +36,4 @@ Make a separate Attack Roll for each beam.
 
 **References:** ray of frost, frostbite
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass
