@@ -26,7 +26,7 @@ Any creature that moves through the sphere or ends its turn within 5 feet of it 
 It takes `2d6` fire damage on a fail, or half damage on a success.
 
 As a bonus action, you can move the sphere up to 30 feet.
-If you ram the sphere into a creature, that creature must make the saving throw against the sphere's damage, and the sphere stops moving this turn.
+If you ram the sphere into a creature, that creature must make the Saving Throw against the sphere's damage, and the sphere stops moving this turn.
 
 When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide.
 The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius.

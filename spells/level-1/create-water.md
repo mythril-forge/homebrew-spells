@@ -10,7 +10,9 @@
 
 **Range:** 60 feet
 
-**Shape:** special
+**Shape:** cube
+
+**Length:** 5 feet
 
 **Tags:** verbal, somatic, material
 
@@ -19,11 +21,13 @@
 ---
 
 ## Description
-You create up to 50 gallons of clean, liquid water within range in an open container.
-Alternatively, the water falls as rain in a 120-foot-long cube within range, extinguishing exposed flames in the area.
+You create up to 50 gallons of clean, liquid water inside one 5-foot-long cube originating from a point that you can see within range.
+You can distribute the magic however you see fit within the spell's area.
+For example, if there are enough empty jugs within the cube, you can fill each of them to the brim with water.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 2nd level or higher, you create 50 additional gallons of water.
+When you cast this spell using a spell slot of 2nd level or higher, you can choose one additional 5-foot-long cube to affect for each slot level above 1st.
+Each cube must originate from a point you can see within range, and can create up to 50 gallons of liquid water.
 
 ---
 
@@ -34,3 +38,5 @@ When you cast this spell using a spell slot of 2nd level or higher, you create 5
 **Subraces:** genasi (water)
 
 **Sources:** PHB, page 229
+
+**Quality Assurance:** :star: personal pass

@@ -22,10 +22,10 @@
 
 ## Description
 A ground-shaking tremor forming a line 30 feet long and 15 feet wide shoots from you across the earth.
-Each creature in the line must make a Dexterity saving throw.
+Each creature in the line must make a Dexterity Saving Throw.
 On a failed save, a creature takes `2d6` bludgeoning damage and is knocked **prone**.
 A creature who is flying or is not grounded on a solid surface automatically succeeds on this save.
-If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared. 
+If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6` for each slot level above 1st.

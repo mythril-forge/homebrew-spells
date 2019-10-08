@@ -25,7 +25,7 @@
 ## Description
 Choose a point you can see on the ground within range.
 A fountain of churned earth and stone erupts in a 15-foot-radius cylinder that is 60-feet tall centered on that point.
-Each creature in that area must make a Dexterity saving throw.
+Each creature in that area must make a Dexterity Saving Throw.
 A creature takes `3d12` bludgeoning damage and falls **prone** on a failed save, or half as much damage on a successful one and doesn't fall **prone**.
 Additionally, the ground in that area becomes difficult terrain until cleared.
 

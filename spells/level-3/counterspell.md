@@ -17,7 +17,7 @@
 ## Description
 You attempt to interrupt a creature in the process of casting a spell.
 If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect.
-If it is casting a spell of 4th level or higher, it must succeed on an Intelligence saving throw.
+If it is casting a spell of 4th level or higher, it must succeed on an Intelligence Saving Throw.
 The creature has a bonus to this save equal to the level of the spell that it is casting, minus one plus this spell's level.
 On a failed save, the creature's spell fails and has no effect.
 

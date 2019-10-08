@@ -10,7 +10,9 @@
 
 **Range:** 60 feet
 
-**Shape:** special
+**Shape:** cube
+
+**Length:** 5 feet
 
 **Tags:** verbal, somatic, material
 
@@ -19,20 +21,14 @@
 ---
 
 ## Description
-You can destroy water in one of its many forms.
-
-### Destroy Liquid Water
-You destroy up to 50 gallons of liquid water within range in an open container.
-
-### Destroy Gaseous Water (Steam)
-You destroy any fog, steam, or humidity in a 40-foot-long cube within range.
-
-### Destroy Solid Water (Ice)
-You destroy up to seven chunks of ice or snow within range.
-Each chunk of ice must fit within a 1-foot-long cube.
+You destroy up to 50 gallons of liquid water inside one 5-foot-long cube originating from a point that you can see within range.
+You can distribute the magic however you see fit within the spell's area.
+This spell does not destroy any impurities within the water such as salt, silt, or sand.
+For example, if there are enough barrels of water within the cube, you can dry each of them out to hold nothing but dust.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 2nd level or higher, you effectively gain the benefits of casting it one additional time at 1st level for each slot level above 1st.
+When you cast this spell using a spell slot of 2nd level or higher, you can choose one additional 5-foot-long cube to affect for each slot level above 1st.
+Each cube must originate from a point you can see within range, and can destroy up to 50 gallons of liquid water.
 
 ---
 
@@ -43,3 +39,5 @@ When you cast this spell using a spell slot of 2nd level or higher, you effectiv
 **Subraces:** genasi (water)
 
 **Sources:** PHB, page 229
+
+**Quality Assurance:** :star: personal pass

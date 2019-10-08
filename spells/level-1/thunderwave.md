@@ -20,7 +20,7 @@
 
 ## Description
 A wave of thunderous force sweeps out from you.
-Each creature in a 15-foot-long cube originating from you must make a Constitution saving throw.
+Each creature in a 15-foot-long cube originating from you must make a Constitution Saving Throw.
 On a failed save, a creature takes `2d8` thunder damage and is pushed 10 feet away from you.
 On a successful save, the creature takes half as much damage and isn't pushed.
 
@@ -33,8 +33,8 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 **Classes:** bard, druid, sorcerer, wizard
 
-**Subclasses:** tempest cleric, kraken warlock, giant soul sorcerer, artillerist artificer
-
-**Subraces:** tiefling (abyssal)
+**Subclasses:** tempest cleric, kraken warlock, giant soul sorcerer (storm), artillerist artificer
 
 **Sources:** PHB, page 282
+
+**Quality Assurance:** :star: personal pass

@@ -16,7 +16,7 @@
 
 ## Description
 You speak a one-word command to a creature you can see within range.
-The target must succeed on a Wisdom saving throw or follow the command on its next turn.
+The target must succeed on a Wisdom Saving Throw or follow the command on its next turn.
 The spell has no effect if the target doesn't understand your language or if your command is directly harmful to it.
 
 Some typical commands and their effects follow.
@@ -39,7 +39,6 @@ The target falls **prone** and then ends its turn.
 ### Halt
 The target doesn't move and takes no actions.
 A flying creature stays aloft, provided that it is able to do so.
-If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st.
@@ -51,3 +50,5 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 **Subclasses:** knowledge cleric, crown paladin, fiend warlock, conquest paladin, order cleric
 
 **Sources:** PHB, page 223
+
+**Quality Assurance:** :star: personal pass

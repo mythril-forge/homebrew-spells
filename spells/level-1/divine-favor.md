@@ -19,7 +19,7 @@
 ## Description
 Choose a weapon that you are holding.
 You utter a prayer that washes over your weapon, cleansing and sharpening its form.
-Until the spell ends, attacks using the weapon deal an extra `1d4` radiant damage.
+Until the spell ends, attacks using this weapon deal an extra `1d4` radiant damage, and are considered magical.
 
 If you let go of the weapon, its charm dissipates, and the spell ends.
 

@@ -15,8 +15,8 @@
 ---
 
 ## Description
-The spell captures some of the incoming energy, lessening its effect on you and contorting it into a temporary ward.
-You have resistance to the triggering damage type until the start of your next turn.
+The spell captures some of the incoming energy, contorting it into a temporary ward&mdash;lessening its effect on you.
+You have resistance to damage of the triggering type until the start of your next turn, including against the triggering damage itself.
 Also, every time you take damage of the triggering type before the spell ends, you gain temporary hit points equal to half the damage that you resist.
 These temporary hit points last until the end of your next turn.
 

@@ -32,10 +32,10 @@ The magic circle grants several benefits.
 When a creature of the chosen type targets any number of creatures within the spell's area with an attack, spell, or ability, they must flip `a coin`.
 On a `tails`, those creatures within the circle are not affected by the action.
 In addition, creatures within the circle can't be **charmed**, **frightened**, or possessed by creatures of the chosen type.
-Creatures within the circle have advantage on any new saving throw against such affects if they are already **charmed**, **frightened**, or possessed by such a creature.
+Creatures within the circle have advantage on any new Saving Throw against such affects if they are already **charmed**, **frightened**, or possessed by such a creature.
 
 Creatures of the chosen type also can't willingly enter the cylinder by nonmagical means.
-If the creature tries to use teleportation or interplanar travel while in the circle, it must first succeed on a Charisma saving throw.
+If the creature tries to use teleportation or interplanar travel while in the circle, it must first succeed on a Charisma Saving Throw.
 
 When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 

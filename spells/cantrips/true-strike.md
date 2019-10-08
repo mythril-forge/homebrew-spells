@@ -17,9 +17,9 @@
 ## Description
 You extend your hand and point a finger at a target in range.
 Your magic grants you insight into the target's defenses.
-For the spell's duration, you have advantage on attack rolls against your target.
+For the spell's duration, you have advantage on Attack Rolls against your target.
 
-When this spell ends, its effects linger until the start of your next turn.
+If this spell ends on your turn, its effects linger until the end of your turn.
 
 ---
 

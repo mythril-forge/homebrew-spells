@@ -2,7 +2,7 @@
 
 - [x] Homebrew
 
-***0th-level abjuration***
+***0th-level divination***
 
 **Casting Time:** action
 
@@ -18,7 +18,7 @@
 
 ## Description
 You touch one willing creature.
-A soft light bathes the creature for a moment, granting it a bonus `1d4` to saving throws for the duration.
+A soft light bathes the creature for a moment, granting it a bonus `1d4` to Saving Throws for the duration.
 
 ---
 

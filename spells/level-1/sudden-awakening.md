@@ -8,14 +8,14 @@
 
 **Duration:** instantaneous
 
-**Range:** 30 feet
+**Range:** 60 feet
 
 **Tags:** verbal
 
 ---
 
 ## Description
-Each sleeping creature you choose within range awakens.
+Each sleeping or otherwise **unconscious** creature you choose within range awakens (unless it is caused by another underlying condition).
 Then, each **prone** creature within range can immediately stand up without expending any movement.
 
 ---
@@ -23,3 +23,5 @@ Then, each **prone** creature within range can immediately stand up without expe
 **Classes:** bard, ranger, sorcerer, wizard
 
 **Sources:** UA-SS, page 4
+
+**Quality Assurance:** :star: personal pass

@@ -17,12 +17,13 @@
 ---
 
 ## Description
-You choose one object that you must touch throughout the casting of the spell.
-If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any.
-You learn whether any spells are affecting the item and what they are.
-If the item was created by a spell, you learn which spell created it.
+Choose one creature or object that you must hold or touch for the spell's casting duration.
+You learn whether any schools of magic affecting the target and what they are.
+You also learn whether any spells are affecting the target and what they are.
+If the target was created by a spell, you learn which spell created it.
+If the target is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any.
 
-If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
+This spell doesn't reveal any curses afflicting or imbued within the target.
 
 ---
 
@@ -31,3 +32,5 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 **Subclasses:** knowledge cleric, forge cleric
 
 **Sources:** PHB, page 252
+
+**Quality Assurance:** :star: personal pass

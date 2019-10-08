@@ -14,15 +14,17 @@
 
 ## Description
 You look toward one creature you can see within range, and a psychic bolt pierces its mind.
-The target must succeed on an Intelligence saving throw or take `1d8` psychic damage.
+The target must succeed on an Intelligence Saving Throw or take `1d6` psychic damage.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d8` for each slot level.
+When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d6` for each slot level.
 
 ---
 
-**Classes:** mystic
+**Classes:** warlock, wizard, mystic
 
-**Sources:** STREAM
+**Sources:** UA-SW, page 4; STREAM
+
+**References:** mind sliver, mind strike
 
 **Quality Assurance:** :star: personal pass

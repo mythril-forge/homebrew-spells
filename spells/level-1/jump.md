@@ -18,8 +18,8 @@
 
 ## Description
 You touch a creature.
-The creature's jump distance is tripled until the spell ends.
-Also, each foot you clear with a jump now costs only six inches of movement.
+The target's jump distance is tripled until the spell ends, and can jump up to three times in a turn.
+In addition, each foot the target clears with a jump now costs only six inches of movement.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, the jump distance multiplier is incremented by one for each slot level.
@@ -30,6 +30,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the jump dis
 
 **Subclasses:** seeker warlock, lolth warlock
 
-**Subraces:** gith (githyanki), gith (githyanki)
-
 **Sources:** PHB, page 254
+
+**Quality Assurance:** :star: personal pass

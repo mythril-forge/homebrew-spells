@@ -29,3 +29,5 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 **Subclasses:** order cleric, giant soul sorcerer, beauty cleric, battle smith artificer
 
 **Sources:** PHB, page 250
+
+**Quality Assurance:** :star: personal pass

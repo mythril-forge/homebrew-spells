@@ -28,3 +28,5 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 **Classes:** bard, druid, ranger, wizard, artificer
 
 **Sources:** PHB, page 256
+
+**Quality Assurance:** :star: personal pass

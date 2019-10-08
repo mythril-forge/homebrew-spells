@@ -26,9 +26,9 @@ You initially learn the surface thoughts of the creature&mdash;what is most on i
 As an action, you can either shift your attention to another creature's thoughts, or attempt to lock onto a creature to probe deeper into its mind.
 If you choose to probe deeper, you can no longer shift your attention to another creature for the duration of this spell.
 
-When you probe a creature’s deep thoughts, it must make a Intelligence saving throw.
+When you probe a creature’s deep thoughts, it must make a Intelligence Saving Throw.
 If it fails, you gain insight into its reasoning (if any), its emotional state, its relevant knowledge, and anything that looms large in its mind (such as something it worries over, loves, or hates).
-If it succeeds, the spell ends Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make another Intelligence saving throw; if it succeeds, the spell ends.
+If it succeeds, the spell ends Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make another Intelligence Saving Throw; if it succeeds, the spell ends.
 
 Questions verbally directed at the target creature naturally shape the course of both its surface and deep thoughts, so this spell is particularly effective as part of an interrogation.
 

@@ -23,7 +23,7 @@
 ## Description
 You plant six pieces of nonmagical ammunition&mdash;arrows or crossbow bolts&mdash;in the ground within range and lay magic upon them to protect an area.
 Until the spell ends, whenever a creature other than you moves within a 30-foot sphere centered on the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it.
-The creature must succeed on a Dexterity saving throw or take `1d12` piercing damage.
+The creature must succeed on a Dexterity Saving Throw or take `1d12` piercing damage.
 The piece of ammunition is then destroyed.
 The spell ends when no ammunition remains.
 

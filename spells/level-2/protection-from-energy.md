@@ -2,7 +2,7 @@
 
 - [x] Homebrew
 
-***3rd-level abjuration***
+***2nd-level abjuration***
 
 **Casting Time:** action
 
