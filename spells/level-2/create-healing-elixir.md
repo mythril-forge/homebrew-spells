@@ -1,4 +1,4 @@
-# Mix Healing Elixir
+# Create Healing Elixir
 
 - [x] Homebrew
 
@@ -51,4 +51,4 @@ At the end of this spell's casting, roll an Intelligence Ability Check to determ
 
 **Sources:** UA-SS, page 3
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :sparkles: coming along
