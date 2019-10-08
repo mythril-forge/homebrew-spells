@@ -34,6 +34,6 @@ If the target is still aloft when the spell ends, it floats slowly to the ground
 
 **Subclasses:** seeker warlock
 
-**Subraces:** genasi (air), tiefling (abyssal)
-
 **Sources:** PHB, page 255
+
+**Quality Assurance:** :star: personal pass

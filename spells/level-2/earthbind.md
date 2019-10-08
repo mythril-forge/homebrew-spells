@@ -8,7 +8,7 @@
 
 **Duration:** 5 minutes
 
-**Range:** 300 feet
+**Range:** 600 feet
 
 **Tags:** verbal, concentration
 
@@ -24,3 +24,5 @@ The target must succeed on a Strength Saving Throw, or its flying speed (if any)
 **Classes:** druid, sorcerer, warlock, wizard
 
 **Sources:** XGE, page 154
+
+**Quality Assurance:** :star: personal pass
