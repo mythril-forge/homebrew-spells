@@ -29,4 +29,4 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 **Sources:** PHB, page 256
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :star: personal pass
