@@ -6,7 +6,7 @@ archive/
 
 # Ignore these specific folders
 spells/cantrips/
-# spells/level-1/
+spells/level-1/
 spells/level-2/
 spells/level-3/
 spells/level-4/
