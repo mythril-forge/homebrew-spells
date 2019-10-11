@@ -15,12 +15,12 @@
 ---
 
 ## Description
-A flickering flame appears in one of your empty hands.
-You can either immediately hurl the flame, or carry it with you.
+A flickering flame appears in your hand.
+When you cast this spell, you can choose to immediately hurl the flame, or carry it with you.
 
 ### Hurl Flame
-You attack with the flame.
-Make a Ranged Spell Attack against a target creature or object within range.
+You hurl the the mass of flame at a creature or object that you can see within range.
+Make a Ranged Spell Attack against your target.
 On a hit, the target takes `1d10` fire damage.
 
 ### Hold Flame
@@ -41,4 +41,4 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Sources:** PHB, page 269
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass
