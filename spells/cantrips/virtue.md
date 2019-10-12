@@ -16,7 +16,7 @@
 
 ## Description
 You touch one willing creature, imbuing it with a surge of vitality that lasts until the end of your next turn.
-If the target has at least 1 hit point, it gains `3d4` temporary hit points.
+If the target isn't **dying**, it gains `3d4` temporary hit points.
 The temporary hit points are lost when the spell ends.
 
 ---
@@ -25,4 +25,4 @@ The temporary hit points are lost when the spell ends.
 
 **Sources:** UA-SS, page 5
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass

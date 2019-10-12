@@ -15,7 +15,7 @@
 ---
 
 ## Description
-You touch a living creature that has 0 hit points.
+You touch a **dying** creature that is still alive.
 The creature regains `1d4` hit points.
 
 ---
@@ -24,4 +24,4 @@ The creature regains `1d4` hit points.
 
 **Sources:** PHB, page 277
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass
