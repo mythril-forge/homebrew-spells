@@ -28,4 +28,4 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **Sources:** PHB, page 242
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass
