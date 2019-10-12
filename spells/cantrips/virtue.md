@@ -18,10 +18,11 @@
 You touch one willing creature, imbuing it with a surge of vitality that lasts until the end of your next turn.
 If the target isn't **dying**, it gains `3d4` temporary hit points.
 The temporary hit points are lost when the spell ends.
+This spell has no effect on undead or constructs.
 
 ---
 
-**Classes:** cleric
+**Classes:** cleric 
 
 **Sources:** UA-SS, page 5
 
