@@ -29,4 +29,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the healing 
 
 **Sources:** PHB, page 230
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass

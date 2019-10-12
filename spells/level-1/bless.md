@@ -20,7 +20,7 @@
 
 ## Description
 You bless up to three creatures of your choice within range.
-Divine energy washes over them, granting each of them a bonus `1d4` to all Ability Checks, Attack Rolls, and Saving Throws for the duration.
+Divine energy washes over each target, granting a plus `1d4` bonus to all their Ability Checks, Attack Rolls, and Saving Throws for the duration.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
@@ -33,4 +33,4 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 **Sources:** PHB, page 219
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass
