@@ -16,8 +16,8 @@
 
 ## Description
 You extend your hand and point a finger at a target in range.
-Your magic grants you insight into the target's defenses.
-For the spell's duration, you have advantage on Attack Rolls against your target.
+Your magic grants you a brief insight into the target's movement patterns.
+For the spell's duration, you have advantage on Attack Rolls against your target, and it has disadvantage on Attack Rolls against you.
 
 If this spell ends on your turn, its effects linger until the end of your turn.
 
@@ -29,4 +29,4 @@ If this spell ends on your turn, its effects linger until the end of your turn.
 
 **References:** true strike
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass
