@@ -23,6 +23,6 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 **Subclasses:** land druid, ancients paladin, vengeance paladin, horizon walker ranger
 
-**Subraces:** elf (eladrin; dmg), gith (githyanki), gith (githyanki)
-
 **Sources:** PHB, page 260
+
+**Quality Assurance:** :star: personal pass

@@ -23,7 +23,7 @@ Choose an area of nonmagical flame that you can see.
 The fire is extinguished unless it is particularly large, and you create one of the below effects.
 
 ### Gunpowder
-The target transforms into 4 ounces of gunpowder.
+The target transforms into 4 ounces of *gunpowder*.
 
 ### Fireworks
 The target suddenly explodes with a dazzling display of patterns and colors.

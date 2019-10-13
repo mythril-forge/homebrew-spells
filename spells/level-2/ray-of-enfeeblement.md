@@ -32,3 +32,5 @@ Make a separate Attack Roll for each beam.
 **Subclasses:** death cleric, grave cleric, ambition cleric, redemption paladin, spores druid
 
 **Sources:** PHB, page 271
+
+**Quality Assurance:** :star: personal pass

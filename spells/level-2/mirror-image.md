@@ -39,6 +39,6 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 
 **Subclasses:** trickery cleric, land druid, treachery paladin, ambition cleric
 
-**Subraces:** tiefling (abyssal)
-
 **Sources:** PHB, page 260
+
+**Quality Assurance:** :star: personal pass

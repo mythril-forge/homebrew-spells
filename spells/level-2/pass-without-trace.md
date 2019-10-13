@@ -27,6 +27,6 @@ A creature that receives this bonus leaves behind no tracks or other traces of i
 
 **Subclasses:** trickery cleric, land druid
 
-**Subraces:** genasi (earth)
-
 **Sources:** PHB, page 264
+
+**Quality Assurance:** :star: personal pass

@@ -30,6 +30,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 **Subclasses:** land druid, treachery paladin, giant soul sorcerer
 
-**Subraces:** dwarf (duergar), tiefling (abyssal), tiefling (dispater), tiefling (glasya)
-
 **Sources:** PHB, page 254
+
+**Quality Assurance:** :star: personal pass

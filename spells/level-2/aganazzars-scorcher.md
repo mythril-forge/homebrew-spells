@@ -23,7 +23,7 @@
 ---
 
 ## Description
-A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose.
+A 30-foot-long, 5-foot-wide line of roaring flame bursts from your outstreched hand.
 Each creature in the line must make a Dexterity Saving Throw.
 A creature takes `4d8` fire damage on a failed save, or half as much damage on a successful one.
 
@@ -35,3 +35,5 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 **Classes:** sorcerer, wizard
 
 **Sources:** XGE, page 150
+
+**Quality Assurance:** :star: personal pass
