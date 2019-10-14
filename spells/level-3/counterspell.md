@@ -4,7 +4,7 @@
 
 ***3rd-level abjuration***
 
-**Casting Time:** reaction (which you take when you see a creature within 60 feet of you casting a spell)
+**Casting Time:** reaction (which you take when you see any target within range casting a spell)
 
 **Duration:** instantaneous
 
@@ -15,14 +15,16 @@
 ---
 
 ## Description
-You attempt to interrupt a creature in the process of casting a spell.
-If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect.
-If it is casting a spell of 4th level or higher, it must succeed on an Intelligence Saving Throw.
-The creature has a bonus to this save equal to the level of the spell that it is casting, minus one plus this spell's level.
-On a failed save, the creature's spell fails and has no effect.
+You attempt to interrupt a target in the process of casting a spell.
+If the target is casting a spell of 3rd level or lower, its spell fails and has no effect.
+Otherwise, you must succeed on an Intelligence Saving Throw against the target's Spell Save DC plus the interrupted spell's level.
+You have a bonus on this Saving Throw equal to this spell's level (normally three).
+On a success, the interrupted spell fails and has no effect.
+If you fail this save by 10 or more, you take `3d10` force damage as the magic whiplashes back at you.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
+When you cast this spell using a spell slot of 4th level or higher, you can counter magic with no Saving Throw if the interrupted spell's level is less than or equal to the level of the spell slot you used.
+Otherwise, your bonus to the Intelligence Saving Throw increases by 1 for each slot level above 3rd.
 
 ---
 
@@ -31,3 +33,5 @@ When you cast this spell using a spell slot of 4th level or higher, the interrup
 **Subclasses:** redemption paladin
 
 **Sources:** PHB, page 228
+
+**Quality Assurance:** :sparkles: modified but not perfected
