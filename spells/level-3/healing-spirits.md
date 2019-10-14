@@ -23,7 +23,7 @@
 ## Description
 You call forth spirits of nature to soothe the wounded.
 They flit around you to a distance of 15 feet for the duration.
-Their spectral form may appear beastial, angelic, fey, or fiendish (your choice).
+Their spectral form may appear beastial, angelic, fey, or fiendish (depending on your alignment).
 
 When you cast this spell, you can designate any number of creatures you can see to be affected by it.
 When an affected creature takes 5 or more damage while in the area, the spirits restore `1d6` hit points to that creature (no action required).
