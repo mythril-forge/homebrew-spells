@@ -10,21 +10,32 @@
 
 **Range:** self
 
-**Tags:** verbal, somatic, concentration
+**Tags:** verbal, material
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-The next time you make a Ranged Weapon Attack during the spell's duration, the weapon's ammunition (or the weapon itself if it's a thrown weapon) transforms into a bolt of lightning.
-Make the Attack Roll as normal.
-On a hit, the target takes damage from the attack plus `4d8` lightning damage.
-The lightning bolt also forms a 5-foot-wide line that extends out from you to the target of your attack.
-Each creature in the line excluding you must make a Dexterity Saving Throw, taking `4d6` lightning damage on a failed save, and half as much damage on a successful one.
+Choose a weapon that you are holding.
+The weapon becomes hot with electric energy until the end of your next turn.
+The first time you make an attack using this weapon before then, it delivers a shock your target, and the spell ends.
+The target gains no benefit from cover for this attack.
+If the attack hits, it deals an extra `4d8` lightning damage to the target in addition to the weapon's normal damage and effects.
 
+Whether you hit or miss, if the attack you made was a Ranged Weapon Attack, then the weapon's ammunition&mdash;or the weapon itself if it's a thrown weapon&mdash;transforms into a bolt of lightning.
+The lightning forms a 5-foot-wide line that extends out from you to the target of your attack.
+Each creature in the line must make a Dexterity Saving Throw.
+A creature takes `4d8` lightning damage on a failed save, or half as much damage on a successful one.
+If the attack hits your target, then it automatically fails this save.
 The piece of ammunition or weapon then returns to its normal form.
+
+If you let go of the weapon, its charm dissipates, and the spell ends.
 
 ---
 
 **Classes:** ranger
 
 **Sources:** PHB, page 255
+
+**Quality Assurance:** :star: personal pass

@@ -36,7 +36,7 @@ If the movement would cause the object to strike another object, the object and 
 If the object strikes anything, its movement ends early.
 
 ### Weaponize Movement
-The object flies in 5-foot-wide, 60-foot-long line in a direction of your choice before striking the ground.
+The object flies in 60-foot-long, 5-foot-wide line in a direction of your choice before striking the ground.
 
 If the object would strike a creature, that creature must make a Dexterity Saving Throw.
 On a failed save, the object strikes the target.
