@@ -37,3 +37,5 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 **Classes:** druid, sorcerer, wizard
 
 **Sources:** XGE, page 155
+
+**Quality Assurance:** :sparkles: modified but not perfected

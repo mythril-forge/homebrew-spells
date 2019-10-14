@@ -32,3 +32,5 @@ Creatures that aren't there can't perceive you or interact with you, unless they
 **Subclasses:** trickery cleric, archfey warlock, hexblade warlock
 
 **Sources:** PHB, page 219
+
+**Quality Assurance:** :sparkles: modified but not perfected

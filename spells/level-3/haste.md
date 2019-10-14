@@ -45,4 +45,4 @@ When the spell ends, an affected creature becomes **stunned** until the end of i
 
 **Sources:** PHB, page 250
 
-<!-- QA Pass Needed -->
+**Quality Assurance:** :sparkles: modified but not perfected

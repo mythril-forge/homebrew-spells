@@ -32,3 +32,5 @@ Up to four willing creatures you can see within range gain this ability for the 
 **Sources:** PHB, page 287
 
 **References:** water breathing
+
+**Quality Assurance:** :sparkles: modified but not perfected

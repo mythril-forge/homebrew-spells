@@ -17,7 +17,7 @@
 ## Description
 A nonmagical weapon you touch becomes wreathed in magic.
 Choose one of the following damage types: acid, cold, fire, lightning, thunder, or force.
-For the duration, the weapon has a `+1` bonus to Attack Rolls and deals an extra `1d6` damage of the chosen type when it hits.
+For the duration, the weapon has a `+1` bonus to Attack Rolls and deals an extra `2d6` damage of the chosen type when it hits.
 
 ## At Higher Levels
 This spell has variable damage and bonuses when it is cast at higher levels, as shown in the Enhanced Effects table.
@@ -38,3 +38,5 @@ This spell has variable damage and bonuses when it is cast at higher levels, as 
 **Subclasses:** arcana cleric, forge cleric, war cleric, hexblade warlock, stone sorcerer, zeal cleric
 
 **Sources:** PHB, page 237
+
+**Quality Assurance:** :sparkles: modified but not perfected

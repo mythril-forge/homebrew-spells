@@ -53,3 +53,5 @@ When you cast this spell using a higher level spell slot, you can maintain your 
 **Subclasses:** oathbreaker paladin, ambition cleric, conquest paladin
 
 **Sources:** PHB, page 218
+
+**Quality Assurance:** :sparkles: modified but not perfected

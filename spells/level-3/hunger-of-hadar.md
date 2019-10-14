@@ -39,3 +39,5 @@ Any creature that ends its turn in the area takes `2d6` acid damage as the thick
 **Subclasses:** aberrant mind (ua) sorcerer
 
 **Sources:** PHB, page 251
+
+**Quality Assurance:** :sparkles: modified but not perfected
