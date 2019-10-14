@@ -25,6 +25,7 @@ A ground-shaking tremor forming a 30-foot-long, 15-foot-wide line shoots from yo
 Each creature in the line must make a Dexterity Saving Throw.
 On a failed save, a creature takes `2d6` bludgeoning damage and is knocked **prone**.
 A creature who is flying or is not grounded on a solid surface automatically succeeds on this save.
+Objects within the spell's area that aren't being worn or carried also take this damage.
 If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
 ## At Higher Levels
