@@ -1,4 +1,4 @@
-# Lightning Arrow
+# Lightning Strike
 
 - [x] Homebrew
 
