@@ -45,6 +45,6 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 **Subclasses:** great old one warlock, archivist artificer
 
-**Subraces:** gith (githzerai), tiefling (dispater)
-
 **Sources:** PHB, page 231
+
+**Quality Assurance:** :sparkles: coming along

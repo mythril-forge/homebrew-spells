@@ -41,3 +41,5 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 **Subclasses:** light cleric, celestial warlock, giant soul sorcerer
 
 **Sources:** PHB, page 242
+
+**Quality Assurance:** :sparkles: coming along

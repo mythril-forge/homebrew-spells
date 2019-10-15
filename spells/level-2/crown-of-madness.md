@@ -36,6 +36,6 @@ On a success, the spell ends.
 
 **Subclasses:** oathbreaker paladin
 
-**Subraces:** tiefling (baalzebul)
-
 **Sources:** PHB, page 229
+
+**Quality Assurance:** :sparkles: coming along

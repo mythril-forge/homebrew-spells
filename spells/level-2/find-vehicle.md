@@ -66,3 +66,5 @@ When you cast this spell using a spell slot of 8th level or higher, you can conj
 **Subclasses:** city cleric
 
 **Sources:** UA-MM, page 6
+
+**Quality Assurance:** :sparkles: coming along

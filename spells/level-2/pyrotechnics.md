@@ -22,8 +22,8 @@
 Choose an area of nonmagical flame that you can see.
 The fire is extinguished unless it is particularly large, and you create one of the below effects.
 
-### Gunpowder
-The target transforms into 4 ounces of *gunpowder*.
+### Black Powder
+The target transforms into 4 ounces of *black powder*.
 
 ### Fireworks
 The target suddenly explodes with a dazzling display of patterns and colors.
@@ -42,3 +42,5 @@ The smoke persists for 5 minutes or until a strong wind disperses it.
 **Classes:** bard, sorcerer, wizard, artificer
 
 **Sources:** XGE, page 163
+
+**Quality Assurance:** :sparkles: coming along

@@ -28,3 +28,5 @@ For the duration, the target has advantage on Saving Throws against poison, and 
 **Subclasses:** strength cleric, protection cleric
 
 **Sources:** PHB, page 270
+
+**Quality Assurance:** :sparkles: coming along

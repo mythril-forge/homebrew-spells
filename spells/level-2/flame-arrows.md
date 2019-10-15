@@ -38,5 +38,4 @@ When you cast this spell using a spell slot of 3rd level or higher, the number o
 
 **Sources:** XGE, page 156
 
-<!-- QA pass needed -->
-<!-- Reference "Magic Stone" -->
+**Quality Assurance:** :sparkles: coming along

@@ -28,3 +28,5 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 **Classes:** cleric, ranger, sorcerer, wizard
 
 **Sources:** noltron000
+
+**Quality Assurance:** :sparkles: coming along
