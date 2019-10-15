@@ -32,3 +32,5 @@ While affected by this spell, the object is more difficult to break or force ope
 **Subraces:** tiefling (mammon)
 
 **Sources:** PHB, page 215
+
+**Quality Assurance:** :x: relatively unchanged

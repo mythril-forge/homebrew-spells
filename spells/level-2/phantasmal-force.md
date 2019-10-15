@@ -45,3 +45,5 @@ The target perceives the damage as a type appropriate to the illusion.
 **Subclasses:** archfey warlock, great old one warlock
 
 **Sources:** PHB, page 264
+
+**Quality Assurance:** :x: relatively unchanged

@@ -25,3 +25,5 @@ A strong wind can disperse the clouds and end the spell early.
 **Classes:** bard, druid, wizard, artificer
 
 **Sources:** XGE, page 165
+
+**Quality Assurance:** :x: relatively unchanged

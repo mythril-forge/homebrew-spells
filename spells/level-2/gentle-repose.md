@@ -29,3 +29,5 @@ The spell also effectively extends the time limit on raising the target from the
 **Subclasses:** grave cleric, spores druid
 
 **Sources:** PHB, page 245
+
+**Quality Assurance:** :x: relatively unchanged

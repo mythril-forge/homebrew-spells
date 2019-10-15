@@ -28,3 +28,5 @@ Whenever you and your chosen users leave any computer system you are working in 
 **Subclasses:** ghost in the machine warlock
 
 **Sources:** UA-MM, page 6
+
+**Quality Assurance:** :x: relatively unchanged

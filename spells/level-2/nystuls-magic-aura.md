@@ -40,3 +40,5 @@ You choose a creature type and other spells and magical effects treat the target
 **Subclasses:** arcana cleric
 
 **Sources:** PHB, page 263
+
+**Quality Assurance:** :x: relatively unchanged
