@@ -1,28 +1,39 @@
 # Staggering Smite
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***4th-level evocation***
 
 **Casting Time:** bonus action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** self
 
-**Tags:** verbal, concentration
+**Tags:** verbal, material, concentration
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-The next time you hit a creature with a Melee Weapon Attack during this spell's duration, your weapon pierces both body and mind, and the attack deals an extra `4d6` psychic damage to the target.
-The target must make a Wisdom Saving Throw.
-On a failed save, it has disadvantage on Attack Rolls and Ability Checks, and can't take reactions, until the end of its next turn.
+Choose a weapon that you are holding.
+The weapon harbors a dark, destructive energy for the duration.
+The first time you hit with an attack using this weapon before the spell ends, it pierces the mind, body, and spirit.
+On a hit, the attack deals `5d12` force, psychic, or necrotic damage (your choice).
+The target must then succeed on a Charisma Saving Throw or become **stunned** until the end of your next turn.
+
+If you let go of the weapon, its charm dissipates, and the spell ends.
+It also ends if you make a Ranged Attack with your weapon and miss.
+
+Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ---
 
 **Classes:** paladin
 
-**Subclasses:** hexblade (ua) warlock, hexblade warlock, stone (ua) sorcerer, destruction (twitter) cleric, battle smith artificer (revisited)
+**Subclasses:** hexblade warlock, stone sorcerer, destruction cleric, battle smith artificer
 
 **Sources:** PHB, page 278
+
+**Quality Assurance:** :star: personal pass
