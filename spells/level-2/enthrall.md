@@ -29,3 +29,5 @@ The spell ends if you are **incapacitated** or can no longer speak.
 **Subraces:** tiefling (variant)
 
 **Sources:** PHB, page 238
+
+**Quality Assurance:** :x: relatively unchanged

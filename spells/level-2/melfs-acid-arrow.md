@@ -30,3 +30,5 @@ Hit or miss, each creature within a 10-foot-radius sphere centered on the attack
 **Subclasses:** land druid, alchemist artificer
 
 **Sources:** PHB, page 259
+
+**Quality Assurance:** :shit: this needs fixing&hellip;

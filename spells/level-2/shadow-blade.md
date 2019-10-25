@@ -31,3 +31,5 @@ Thereafter, while the spell persists, you can use a bonus action to cause the sw
 **Classes:** sorcerer, warlock, wizard
 
 **Sources:** XGE, page 164
+
+**Quality Assurance:** :sparkles: coming along

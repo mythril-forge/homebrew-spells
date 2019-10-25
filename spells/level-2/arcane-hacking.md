@@ -30,3 +30,5 @@ When you cast this spell using a spell slot of 3rd level or higher, you can atte
 **Subclasses:** ghost in the machine warlock
 
 **Sources:** UA-MM, page 5
+
+**Quality Assurance:** :x: relatively unchanged

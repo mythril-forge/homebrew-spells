@@ -22,8 +22,6 @@ It creates a mystic connection between you two until the spell ends.
 Until the spell ends, you both gain a `+1` bonus to AC and Saving Throws, and have resistance to all damage&mdash;but recieve half healing, rounded up.
 Also, each time either of you take damage or recieve healing, the other takes the same amount of damage and heals the same amount of hit points.
 
-As an action, an affected creature can transfer any amount of hit points to their linked companion.
-
 The spell ends if either of you drop to 0 hit points or if you and the target become separated by more than 120 feet.
 It also ends if the spell is cast again on either of the connected creatures.
 
@@ -34,3 +32,5 @@ It also ends if the spell is cast again on either of the connected creatures.
 **Subclasses:** crown paladin, solidarity cleric, battle smith artificer
 
 **Sources:** PHB, page 287
+
+**Quality Assurance:** :sparkles: coming along

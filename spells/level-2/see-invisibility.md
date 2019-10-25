@@ -25,3 +25,5 @@ Ethereal creatures and objects appear ghostly and translucent.
 **Classes:** bard, sorcerer, wizard, artificer
 
 **Sources:** PHB, page 274
+
+**Quality Assurance:** :x: relatively unchanged

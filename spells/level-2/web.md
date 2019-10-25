@@ -43,6 +43,6 @@ Any 5-foot-long cube of webs exposed to fire burns away in 1 round, dealing `2d4
 
 **Subclasses:** land druid, lolth warlock, alchemist artificer
 
-**Subraces:** tiefling (mephistopheles)
-
 **Sources:** PHB, page 287
+
+**Quality Assurance:** :x: relatively unchanged

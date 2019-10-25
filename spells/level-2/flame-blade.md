@@ -29,6 +29,6 @@ If you let go of the blade, it disappears, but you can evoke the blade again as 
 
 **Classes:** druid
 
-**Subraces:** tiefling (mephistopheles)
-
 **Sources:** PHB, page 242
+
+**Quality Assurance:** :sparkles: coming along

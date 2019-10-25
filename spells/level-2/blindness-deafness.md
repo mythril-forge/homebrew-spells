@@ -31,3 +31,5 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 **Subclasses:** death cleric, fiend warlock, undying warlock, darkness cleric, spores druid
 
 **Sources:** PHB, page 219
+
+**Quality Assurance:** :x: relatively unchanged

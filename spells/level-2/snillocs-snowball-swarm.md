@@ -16,7 +16,7 @@
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** a piece of ice or a small white rock chip
+**Material Components:** a piece of ice or a small white rock
 
 ---
 
@@ -34,3 +34,5 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 **Classes:** sorcerer, wizard
 
 **Sources:** XGE, page 165
+
+**Quality Assurance:** :sparkles: coming along
