@@ -1,8 +1,8 @@
 {
 	"workbench.colorTheme": "Kimbie Dark",
 	"editor.insertSpaces": false,
-	"files.trimFinalNewlines": true,
-	"files.insertFinalNewline": true,
+	"editor.trimAutoWhitespace": false,
 	"files.trimTrailingWhitespace": false,
-	"editor.trimAutoWhitespace": false
+	"files.trimFinalNewlines": true,
+	"files.insertFinalNewline": true
 }
