@@ -1,3 +1,9 @@
+![](https://img.shields.io/github/issues/mythril-forge/homebrew-spells)
+![](https://img.shields.io/github/forks/mythril-forge/homebrew-spells)
+![](https://img.shields.io/github/stars/mythril-forge/homebrew-spells)
+![](https://img.shields.io/github/license/mythril-forge/homebrew-spells)
+![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmythril-forge%2Fhomebrew-spells)
+
 ![Arcane Melee Art](images/arcane-duel.jpg)
 
 *"Arcane Melee", &copy;2013, Jaime Jones &commat; Wizards of the Coast*
@@ -29,7 +35,7 @@ Specific changes are detailed in each spell's entry.
 If an entry does not exist (such as *chill touch*), then the spell has either been moved to a different level, renamed, or is no longer available.
 In this case, I recommend searching for the spell using GitHub's search bar.
 
-If you find something you dislike&mdash;whether its a mechanical opinion or a flourish of english&mdash;please [create an issue](https://github.com/mythril-forge/homebrew-spells/issues) on this project.
+If you find something you dislike&mdash;whether its a mechanical opinion or a flourish of english&mdash;please [create an issue](https://github.com/mythril-forge/homebrew-spells/issues/new) on this project.
 Better yet, you can make a change to this project yourself!
 Go ahead and fork this project, make changes, then [create a pull request](https://github.com/mythril-forge/homebrew-spells/pulls).
 
