@@ -24,12 +24,12 @@ The first time you make an attack with this weapon before then, it delivers a po
 The target gains no benefit from cover for this attack.
 If the attack hits, it deals an extra `3d8` lightning damage to the target in addition to the weapon's normal damage and effects.
 
-Hit or miss, if the attack you made was a Ranged Weapon Attack, then the weapon's ammunition&mdash;or the ammunition if it's a ranged weapon&mdash;transforms into a bolt of lightning.
+Hit or miss, the weapon&mdash;or its ammunition&mdash;transforms into a bolt of lightning.
 The lightning forms a 5-foot-wide line that extends out from you to the target of your attack.
-Each creature in the line must make a Dexterity Saving Throw.
+Each creature in the line must make a Dexterity Saving Throw, including the target of this attack.
 A creature takes `3d8` lightning damage on a failed save, or half as much damage on a successful one.
 If the attack hits your target, then it automatically fails this save.
-The piece of ammunition or weapon then returns to its normal form.
+The ammunition or weapon then returns to its normal form.
 
 If you let go of the weapon, its charm dissipates, and the spell ends.
 
