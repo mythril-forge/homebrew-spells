@@ -20,7 +20,7 @@
 Choose a weapon that you are holding.
 It becomes hot with electric energy until the end of your next turn.
 Until the spell ends, the weapon is considered magical (if it isn't already).
-The first time you make an attack with this weapon before then, it delivers a powerful shock your target, and the spell ends.
+The first time you make an attack using this weapon before then, it delivers a powerful shock your target, and the spell ends.
 The target gains no benefit from cover for this attack.
 If the attack hits, it deals an extra `3d8` lightning damage to the target in addition to the weapon's normal damage and effects.
 

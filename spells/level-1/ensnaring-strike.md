@@ -20,7 +20,7 @@
 Choose a weapon that you are holding.
 It sprouts enchanted stems and leaves that last until the end of your next turn.
 Until the spell ends, the weapon is considered magical (if it isn't already).
-The first time you make an attack with this weapon before then, it sprays a net of clinging brambles at your target, and the spell ends.
+The first time you make an attack using this weapon before then, it sprays a net of clinging brambles at your target, and the spell ends.
 If the attack hits, it deals an extra `2d6` slashing damage in addition to the weapon's normal damage and effects.
 Hit or miss, the target creture must succeed on a Strength Saving Throw.
 On a failed save, it becomes **restrained** by magical brambles.
