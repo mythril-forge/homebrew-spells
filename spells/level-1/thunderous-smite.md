@@ -18,13 +18,14 @@
 
 ## Description
 Choose a weapon that you are holding.
-The weapon vibrates and rings with explosive potential for the duration.
-The first time you hit with an attack using this weapon before the spell ends, it releases a thunderous boom that is clearly audible within a mile of your target, and the spell ends.
-On a hit, the attack deals an extra `4d4` thunder damage.
+For the duration, it hums and vibrates rhythmically.
+Until the spell ends, the weapon is considered magical (if it isn't already).
+The first time you hit with a Weapon Attack using this weapon before then, it releases a thunderous boom that is clearly audible within a mile of your target, and the spell ends.
+The attack deals an extra `4d4` thunder damage in addition to the weapon's normal damage and effects.
 If the target is *large* or smaller, then it must also succeed on a Strength Saving Throw or be pushed 10 feet away from you.
 
-If you let go of the weapon, its charm dissipates, and the spell ends.
-It also ends if you make a Ranged Attack with your weapon and miss.
+If you let go of the weapon, its magic dissipates, and the spell ends.
+It also ends if you make a Ranged Attack with the weapon and miss.
 
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 

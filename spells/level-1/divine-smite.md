@@ -18,13 +18,14 @@
 
 ## Description
 Choose a weapon that you are holding.
-The weapon releases a righteous light for the duration, as if [*light*](../cantrips/light.md) was cast on it, and eminates a high-pitch hum.
-The first time you hit with an attack using this weapon before the spell ends, it discharges its divine energy upon your target, and the spell ends.
-On a hit, the attack deals an extra `2d8` radiant damage.
+For the duration, it glows with a righteous gleam, exuding bright light in a 20-foot radius.
+Until the spell ends, the weapon is considered magical (if it isn't already).
+The first time you hit with a Weapon Attack using this weapon before then, ***SOMETHING INTENSE HAPPENS :I***, and the spell ends.
+The attack deals an extra `2d8` radiant damage in addition to the weapon's normal damage and effects.
 The extra damage increases by `1d8` if the target is an undead or fiend.
 
-If you let go of the weapon, its charm dissipates, and the spell ends.
-It also ends if you make a Ranged Attack with your weapon and miss.
+If you let go of the weapon, its magic dissipates, and the spell ends.
+It also ends if you make a Ranged Attack with the weapon and miss.
 
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
