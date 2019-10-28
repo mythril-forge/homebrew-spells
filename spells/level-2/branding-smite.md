@@ -19,9 +19,9 @@
 ## Description
 Choose a weapon that you are holding.
 For the duration, it gleams and glitters with astral starlight, shedding dim light in a 10-foot radius.
-Until the spell ends, the weapon is considered magical (if it isn't already).
+Until the spell ends, you have advantage on Weapon Attacks using this weapon, and it is considered magical (if it isn't already).
 The first time you hit with a Weapon Attack using this weapon before then, weird symbols cascade upon your target, and the spell ends.
-The attack deals an extra `3d10` force damage in addition to the weapon's normal damage and effects.
+The attack deals an extra `2d10` force damage in addition to the weapon's normal damage and effects.
 The extra damage increases by `1d10` if the target is **invisible** or **shapeshifted**, and those effects end.
 
 Glittery particles fill the target's space, emitting a dim light in a 10-foot aura around them until the end of your next turn.
