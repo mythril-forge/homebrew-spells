@@ -18,17 +18,19 @@
 
 ## Description
 Choose a weapon that you are holding.
-The weapon releases a righteous light for the duration, as if [*light*](../cantrips/light.md) was cast on it, and eminates a holy hymn that is sung in any language (at the DM's discretion).
-The first time you hit with an attack using this weapon before the spell ends, it thrusts its fervent essence upon your target, and the spell ends.
-On a hit, the attack deals an extra `1d60` radiant damage.
-Additionally, the target must succeed on a Constitution Saving Throw or be **blinded**.
-A creature **blinded** by this spell makes another Constitution Saving Throw at the end of each of its turns.
-On a successful save, it is no longer **blinded**.
+For the duration, it sings a holy hymn in any language (at the DM's discretion) and radiates divine power, pouring out bright light in a 40-foot radius.
+Until the spell ends, the weapon is considered magical (if it isn't already).
+The first time you hit with a Weapon Attack using this weapon before then, a fervant blast of light pulses from within your target, and the spell ends.
+The attack deals an extra `1d20` radiant damage in addition to the weapon's normal damage and effects.
+The target must then succeed on a Constitution Saving Throw or become **blinded** and **deafened**.
+At the end of each of its turns, an affected target can make a Constitution Saving throw, ending both effects on itself on a success.
 
-If you let go of the weapon, its charm dissipates, and the spell ends.
-It also ends if you make a ranged attack with your weapon and miss.
-
+If you let go of the weapon, its magic dissipates, and the spell ends.
+It also ends if you make a Ranged Attack with the weapon and miss.
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
+
+## At Higher Levels
+When you cast this spell using a spell slot of 4th level or higher, the extra damage increases by `1d20` for each slot level above 3rd.
 
 ---
 

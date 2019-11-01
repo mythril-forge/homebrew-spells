@@ -23,8 +23,8 @@ You or someone else can take a stone and use it in a Weapon Attack.
 If used as a sort of cudgel, a stone acts as an improvised weapon.
 If used as ammunition, it can be used normally with a sling or a similar weapon that hurls stones.
 In either case, an attack with a magic stone has the following properties:
-- A magic stone deals magical bludgeoning damage.
 - Attacks with a magic stone have a magical bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
+- Damage dealt with a magic stone overcomes basic resistances to nonmagical damage.
 
 The magic on a stone dissipates after it is used in an attack.
 The spell ends when there are no more stones affected by its magic, or if you cast it again.

@@ -18,17 +18,17 @@
 
 ## Description
 Choose a weapon that you are holding.
-The weapon becomes a conduit for dark, thought-altering energies for the duration.
-The first time you hit with an attack using this weapon before the spell ends, it extends its insane influence upon your target, and the spell ends.
-On a hit, the attack deals an extra `1d12` psychic damage.
-It then must succeed on a Wisdom Saving Throw or become **frightened** of you.
+For the duration, it becomes a conduit for dark, thought-influencing energies.
+Until the spell ends, the weapon is considered magical (if it isn't already).
+The first time you hit with a Weapon Attack using this weapon before then, it extends its insane influence upon your target, and the spell ends.
+The attack deals an extra `1d12` psychic damage in addition to the weapon's normal damage and effects.
+The target must then succeed on a Wisdom Saving Throw or become **frightened** of you.
 
-As an action, a **frightened** creature can repeat this Wisdom Saving Throw to overcome the fear, steeling its resolve against you and ending this spell's effects.
-Otherwise, if a **frightened** ends its turn in a location where it doesn't have line of sight to you, the creature can repeat this Wisdom save to muster its willpower against you.
+As an action, a **frightened** creature can make a Wisdom Saving Throw to overcome the fear, steeling its resolve against you, and ending the effect on itself on a success.
+Otherwise, if a **frightened** creature ends its turn in a location where it doesn't have line of sight to you, the creature can make this Wisdom Saving Throw without using an action.
 
-If you let go of the weapon, its charm dissipates, and the spell ends.
-It also ends if you make a Ranged Attack with your weapon and miss.
-
+If you let go of the weapon, its magic dissipates, and the spell ends.
+It also ends if you make a Ranged Attack with the weapon and miss.
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ---

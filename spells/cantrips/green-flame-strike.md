@@ -18,7 +18,8 @@
 
 ## Description
 Choose a weapon that you are holding.
-The weapon is shrouded in green, flaming energy until the end of your next turn.
+It is shrouded in green, flaming energy until the end of your next turn.
+Until the spell ends, the weapon is considered magical (if it isn't already).
 The first time you make an attack using this weapon before then, it unleashes its burning energy upon your target, and the spell ends.
 If the attack hits, it deals an extra `2d4` fire damage in addition to the weapon's normal damage and effects.
 
@@ -34,5 +35,7 @@ If you let go of the weapon, its charm dissipates, and the spell ends.
 **Classes:** sorcerer, warlock, wizard
 
 **Sources:** SCAG, page 143
+
+**References:** green-flame blade
 
 **Quality Assurance:** :star: personal pass

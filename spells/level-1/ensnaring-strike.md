@@ -18,11 +18,12 @@
 
 ## Description
 Choose a weapon that you are holding.
-The weapon sprouts enchanted stems and leaves that last until the end of your next turn.
-The first time you make an attack with this weapon before then, a net of clinging brambles sprays from your weapon or ammunition, and the spell ends.
-If the attack hits, it deals an extra `1d6` slashing damage in addition to the weapon's normal damage and effects.
-Hit or miss, that creature must succeed on a Strength Saving Throw.
-On a failed save, that creature becomes **restrained** by magical brambles.
+It sprouts enchanted stems and leaves that last until the end of your next turn.
+Until the spell ends, the weapon is considered magical (if it isn't already).
+The first time you make an attack using this weapon before then, it sprays a net of clinging brambles at your target, and the spell ends.
+If the attack hits, it deals an extra `2d6` slashing damage in addition to the weapon's normal damage and effects.
+Hit or miss, the target creture must succeed on a Strength Saving Throw.
+On a failed save, it becomes **restrained** by magical brambles.
 A *huge* or larger creature has advantage on this Saving Throw.
 
 While **restrained** by this spell, a creature takes `1d6` slashing damage at the end of each of its turns.
@@ -30,7 +31,6 @@ A creature **restrained** by the vines can use its action to repeat the Strength
 On a successful save, the target is freed.
 
 If you let go of the weapon, its charm dissipates, and the spell ends.
-When the spell ends, the conjured brambles retract into the earth and root themselves there as ordinary foliage.
 
 ## At Higher Levels
 If you cast this spell using a spell slot of 2nd level or higher, both the initial and sustained damage increases by `1d6` for each slot level above 1st.
