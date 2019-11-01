@@ -27,7 +27,6 @@ At the end of each of its turns, an affected target can make a Constitution Savi
 
 If you let go of the weapon, its magic dissipates, and the spell ends.
 It also ends if you make a Ranged Attack with the weapon and miss.
-
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ## At Higher Levels

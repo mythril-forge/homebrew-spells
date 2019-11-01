@@ -24,12 +24,11 @@ The first time you hit with a Weapon Attack using this weapon before then, weird
 The attack deals an extra `2d10` force damage in addition to the weapon's normal damage and effects.
 The extra damage increases by `1d10` if the target is **invisible** or **shapeshifted**, and those effects end.
 
-Glittery particles fill the target's space, emitting a dim light in a 10-foot aura around them until the end of your next turn.
+Glittery particles fill the target's space, emitting a dim light in a 10-foot aura around it until the end of your next turn.
 Until then, attacks made against the target within 10 feet of it have advantage, and the target cannot become **invisible** or **shapeshifted**.
 
 If you let go of the weapon, its magic dissipates, and the spell ends.
 It also ends if you make a Ranged Attack with the weapon and miss.
-
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ## At Higher Levels

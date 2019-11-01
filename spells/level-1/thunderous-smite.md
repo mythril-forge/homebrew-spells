@@ -26,7 +26,6 @@ If the target is *large* or smaller, then it must also succeed on a Strength Sav
 
 If you let go of the weapon, its magic dissipates, and the spell ends.
 It also ends if you make a Ranged Attack with the weapon and miss.
-
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ---
