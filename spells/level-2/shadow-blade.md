@@ -15,16 +15,17 @@
 ---
 
 ## Description
-You weave together threads of shadow to create a sword of solidified gloom in your free hand.
-The blade is semi-corporeal, and can pass through creatures and objects harmlessly at low speeds.
-The magic sword is similar in size and shape to a shortsword, and it lasts for the duration.
-The blade has the same statistics as a shortsword with the following changes:
-- The sword deals `2d8` psychic damage on a hit.
-- The sword has the thrown property, with a 20-foot range.
-- When you use the sword to attack a target that is in dim light or darkness, you make the Attack Roll with advantage.
+You weave together threads of shadow to create a semi-corporeal blade of solidified gloom.
+The blade wreaths your free hand, and lasts for the duration.
+The blade has the same statistics as a *shortsword* with the following properties:
+- The shortsword is considered magical.
+- The shortsword deals `2d6` necrotic damage on a hit.
+- The shortsword deals an extra `2d6` necrotic damage on its first hit.
+- The shortsword has the thrown property, with a 20-foot range.
+- You can instantly resummon the shortsword whenever it is used in a Ranged Weapon Attack (no action required).
 
-If you drop the weapon or throw it, it dissipates at the end of the turn.
-Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.
+This spell immediately ends if it is cast again before its duration expires, or if you let go of the shortsword.
+The shortsword disappears once the spell ends.
 
 ---
 

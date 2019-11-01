@@ -6,26 +6,26 @@
 
 **Casting Time:** bonus action
 
-**Duration:** indefinate
+**Duration:** 5 minutes
 
 **Range:** self
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** mistletoe, a shamrock leaf, and a wooden branch, club, or quarterstaff
+**Material Components:**  a wooden branch, club, or staff worth at least 20 cp, a mistletoe, and a shamrock leaf
 
 ---
 
 ## Description
 You take a wooden branch, club, or staff that you are holding, and either press it to the earth or raise it to the sky.
-You imbue the item with the power of nature and transform it into a formidable quarterstaff.
-The staff's magic lasts for the duration.
-The staff has the same statistics as a regular quarterstaff with the following changes:
-- Attacks with the quarterstaff have a magical bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
-- The quarterstaff deals magical bludgeoning damage.
-- Damage dealt with the quarterstaff overcomes basic resistances to nonmagical damage.
+You imbue the item with the power of nature and transform it into a formidable polearm, which lasts for the duration.
+The polearm has the same statistics as an ordinary *quarterstaff* with the following properties:
+- The quarterstaff is considered magical (if it isn't already).
+- The quarterstaff has a bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
+- The quarterstaff can be used as a *druidic focus*.
 
-If you let go of the quarterstaff or cast this spell again, the weapon reverts to its original shape, and the spell ends.
+This spell immediately ends if it is cast again before its duration expires, or if you let go of the quarterstaff.
+The quarterstaff reverts to its original form once the spell ends.
 
 ---
 

@@ -10,21 +10,23 @@
 
 **Range:** self
 
-**Tags:** verbal, somatic, material
+**Tags:** verbal, material
 
 **Material Components:** the stem of a plant with thorns
 
 ---
 
 ## Description
-You create a long, vine-like whip covered in thorns that lashes out at your command.
+You create a long, vine-like whip covered in thorns.
 The whip forms in your free hand, and lasts for the duration.
-The thorned vine has the same statistics as a regular whip with the following changes:
+The thorned vine has the same statistics as an ordinary *whip* with the following properties:
 - The whip has a reach of 15 feet.
+- The whip is considered magical.
 - The whip deals `1d4` slashing damage on a hit.
-- If you hit a creature that is *large* or smaller with this whip, you can pull it up to 15 feet closer to you.
+- If you hit a creature that is *large* or smaller with a Melee Weapon Attack using this whip, then you can pull it up to 15 feet closer to you.
 
-If you let go of the whip or cast this spell again, the weapon disappears, and the spell ends.
+This spell immediately ends if it is cast again before its duration expires, or if you let go of the whip.
+The whip disappears once the spell ends.
 
 ---
 

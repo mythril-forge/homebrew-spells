@@ -10,20 +10,22 @@
 
 **Range:** self
 
-**Tags:** verbal, somatic, material
+**Tags:** verbal, material
 
 **Material Components:** leaf of sumac
 
 ---
 
 ## Description
-You evoke a fiery blade in your free hand.
-The blade is similar in size and shape to a scimitar, and it lasts for the duration.
-The magic blade has the same statistics as a shortsword with the following changes:
-- The sword deals `3d6` fire damage on a hit.
-- The flaming blade sheds bright light in a 10-foot radius.
+You evoke a fiery blade that roars with primal energy.
+The blade wreaths your free hand, and lasts for the duration.
+The blade has the same statistics as a *scimitar* with the following properties:
+- The scimitar sheds bright light in a 10-foot radius.
+- The scimitar is considered magical.
+- The scimitar deals `3d6` fire damage on a hit.
 
-If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.
+This spell immediately ends if it is cast again before its duration expires, or if you let go of the scimitar.
+The scimitar disappears once the spell ends.
 
 ---
 
