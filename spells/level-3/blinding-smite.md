@@ -18,9 +18,9 @@
 
 ## Description
 Choose a weapon that you are holding.
-For the duration, it sings a holy hymn in any language (at the DM's discretion) and radiates divine power, pouring out bright light in a 40-foot radius.
-Until the spell ends, the weapon is considered magical (if it isn't already).
-The first time you hit with a Weapon Attack using this weapon before then, a fervant blast of light pulses from within your target, and the spell ends.
+It begins to sing a holy hymn in any language (at the DM's discretion) and radiate divine power, pouring out bright light in a 40-foot radius.
+The weapon is considered magical for the duration (if it isn't already).
+The first time you hit with a Weapon Attack using this weapon before the spell ends, a fervant blast of light pulses from within your target, and the spell ends.
 The attack deals an extra `1d20` radiant damage in addition to the weapon's normal damage and effects.
 The target must then succeed on a Constitution Saving Throw or become **blinded** and **deafened**.
 At the end of each of its turns, an affected target can make a Constitution Saving throw, ending both effects on itself on a success.
