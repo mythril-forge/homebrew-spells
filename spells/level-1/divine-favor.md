@@ -10,7 +10,7 @@
 
 **Range:** self
 
-**Tags:** verbal, somatic, material, concentration
+**Tags:** verbal, material, concentration
 
 **Material Components:** a weapon
 
@@ -18,11 +18,11 @@
 
 ## Description
 Choose a weapon that you are holding.
-You utter a prayer that washes over your weapon, cleansing and sharpening its form.
-Until the spell ends, attacks using this weapon deal an extra `1d4` radiant damage, and are considered magical.
+You utter a prayer that washes over your weapon, etching it with divine markings.
+The weapon is considered magical for the duration (if it isn't already), and can be used as a *holy symbol*.
+Until the spell ends, Weapon Attacks made using this weapon deal an extra `1d4` radiant damage on a hit.
 
-If you let go of the weapon, its charm dissipates, and the spell ends.
-
+If you let go of the weapon, its magic dissipates, and the spell ends.
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ---
