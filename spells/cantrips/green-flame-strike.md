@@ -19,8 +19,8 @@
 ## Description
 Choose a weapon that you are holding.
 It is shrouded in green, flaming energy until the end of your next turn.
-Until the spell ends, the weapon is considered magical (if it isn't already).
-The first time you make an attack using this weapon before then, it unleashes its burning energy upon your target, and the spell ends.
+The weapon is considered magical for the duration (if it isn't already).
+The first time you make an attack using this weapon before the spell ends, it unleashes its burning energy upon your target, and the spell ends.
 If the attack hits, it deals an extra `2d4` fire damage in addition to the weapon's normal damage and effects.
 
 If you roll the same numbers on both `d4`s, the flaming energy leaps from the target to a different creature of your choice within 5 feet of it.
