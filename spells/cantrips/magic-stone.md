@@ -28,7 +28,7 @@ In either case, a stone has the following properties:
 The magic on a stone dissipates after it is used in an attack.
 You can dismiss the magic on any number of stones at any time (no action required).
 This spell immediately ends if it is cast again before its duration expires, or if there are no more stones affected by its magic.
-The stones revert to their original state once the spell ends.
+The stones lose this magic once the spell ends.
 
 ---
 
