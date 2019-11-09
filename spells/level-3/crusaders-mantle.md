@@ -30,3 +30,5 @@ While in the aura, each nonhostile creature in the aura (including you) deals an
 **Subclasses:** war cleric, solidarity cleric
 
 **Sources:** PHB, page 230
+
+**Quality Assurance:** :sparkles: coming along

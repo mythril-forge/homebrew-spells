@@ -21,7 +21,7 @@ The blade has the same statistics as a *shortsword* with the following propertie
 - The shortsword is considered magical.
 - The shortsword deals `2d6` necrotic damage on a hit.
 - The shortsword deals an extra `2d6` necrotic damage on its first hit.
-- The shortsword has the thrown property, with a 20-foot range.
+- The shortsword has the thrown property, with a range of 20 feet.
 - You can instantly resummon the shortsword whenever it is used in a Ranged Weapon Attack (no action required).
 
 This spell immediately ends if it is cast again before its duration expires, or if you let go of the shortsword.
