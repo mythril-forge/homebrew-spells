@@ -1,33 +1,33 @@
 # Holy Weapon
 
-- [ ] Homebrew
+- [x] Homebrew
 
-***5th-level evocation***
+***5th-level transmutation***
 
-**Casting Time:** bonus action
+**Casting Time:** action
 
-**Duration:** 1 hour
+**Duration:** 5 minutes
 
 **Range:** touch
 
-**Tags:** verbal, somatic, concentration
+**Tags:** verbal, somatic, material
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-You imbue a weapon you touch with holy power.
-Until the spell ends, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet.
-In addition, Weapon Attacks made with it deal an extra `2d8` radiant damage on a hit.
-If the weapon isn't already a magic weapon, it becomes one for the duration.
-
-As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance.
-Each creature of your choice that you can see within 30 feet of you must make a Constitution Saving Throw.
-On a failed save, a creature takes `4d8` radiant damage, and it is **blinded** for 1 minute.
-On a successful save, a creature takes half as much damage and isn't **blinded**.
-At the end of each of its turns, a **blinded** creature can make a Constitution Saving Throw, ending the effect on itself on a success.
+Choose a weapon that you can touch.
+You imbue the weapon with holy power, and it begins to glow with glorious radiance, eminating sunlight in a 40-foot radius.
+The weapon is considered magical for the duration (if it isn't already).
+Until the spell ends, the weapon has a `+3` magic bonus to attack and damage rolls.
+Additionally, Weapon Attacks made using this weapon deal an extra `2d8` radiant damage on a hit.
+The extra damage increases by `1d8` if the target is an undead or fiend.
 
 ---
 
-**Classes:** cleric, paladin
+**Classes:** paladin
 
 **Sources:** XGE, page 157
+
+**Quality Assurance:** :sparkles: modified but not perfected
