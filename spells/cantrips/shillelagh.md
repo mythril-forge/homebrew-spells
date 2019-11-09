@@ -21,7 +21,7 @@ You take a wooden branch, club, or staff that you are holding, and either press 
 You imbue the item with the power of nature and transform it into a formidable polearm, which lasts for the duration.
 The polearm has the same statistics as an ordinary *quarterstaff* with the following properties:
 - The quarterstaff is considered magical (if it isn't already).
-- The quarterstaff has a bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
+- The quarterstaff has a magic bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
 - The quarterstaff can be used as a *druidic focus*.
 
 This spell immediately ends if it is cast again before its duration expires, or if you let go of the quarterstaff.

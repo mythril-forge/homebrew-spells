@@ -18,7 +18,7 @@
 You channel primal magic to cause your teeth or fingernails to sharpen.
 Your unarmed strikes are ready for a series of feral attacks&mdash;tooth and claw:
 - You become proficient with unarmed strikes while this spell is active.
-- Attacks with your unarmed strikes have a bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
+- Your unarmed strikes have a magic bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
 - Your unarmed strikes deal `1d4` damage, unless they already do more.
 - Your unarmed strikes deal bludgeoning, slashing, or piercing damage (your choice).
 
