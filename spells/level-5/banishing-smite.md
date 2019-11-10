@@ -18,9 +18,9 @@
 
 ## Description
 Choose a weapon that you are holding.
-For the duration, it crackles with interplanar magic.
-Until the spell ends, the weapon is considered magical (if it isn't already).
-The first time you hit with a Weapon Attack using this weapon before then, it creates a volatile, interplanar portal that fills the target's space for a split second, and the spell ends.
+It begins to crackle with interplanar magic.
+The weapon is considered magical for the duration (if it isn't already).
+The first time you hit with a Weapon Attack using this weapon before the spell ends, it creates a volatile, interplanar portal that fills the target's space for a split second, and the spell ends.
 The attack deals an extra `1d60` force damage in addition to the weapon's normal damage and effects.
 The target must then succeed on a Charisma Saving Throw or be banished.
 It has disadvantage on this Saving Throw if this attack reduces the target to 60 hit points or less.

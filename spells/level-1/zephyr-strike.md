@@ -19,8 +19,8 @@
 ## Description
 Choose a weapon that you are holding.
 It is surrounded by bursting flourishes of wind until the end of your next turn.
-Until the spell ends, the weapon is considered magical (if it isn't already).
-The first time you make an attack using this weapon before then, it magically accelerates onto its target, and the spell ends.
+The weapon is considered magical for the duration (if it isn't already).
+The first time you make an attack using this weapon before the spell ends, it magically accelerates onto its target, and the spell ends.
 You have advantage on this Attack Roll.
 If the attack hits, it deals an extra `1d10` force damage in addition to the weapon's normal damage and effects.
 

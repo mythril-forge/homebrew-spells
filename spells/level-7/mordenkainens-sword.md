@@ -1,31 +1,36 @@
 # Mordenkainen's Sword
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***7th-level evocation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
-**Range:** 60 feet
+**Range:** 40 feet
 
-**Tags:** verbal, somatic, material, concentration
+**Tags:** verbal, somatic, material
 
-**Material Components:** a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp
+**Material Components:** a miniature platinum sword with a grip and pommel of copper and zinc, worth at least 50 gp
 
 ---
 
 ## Description
-You create a sword-shaped plane of force that hovers within range.
-It lasts for the duration.
+You create a *small*, sword-shaped plane of force that hovers within range.
+The sword lasts for the duration, or until you cast this spell again.
+You can dispel the sword at any moment (no action required).
 
-When the sword appears, you make a Melee Spell Attack against a target of your choice within 5 feet of the sword.
+When you cast the spell, and then later as a bonus action, you can move the sword up to 40 feet and make a Melee Spell Attack against a creature or object within 5 feet of it.
 On a hit, the target takes `3d10` force damage.
-Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 8th level or higher, the damage increases by `1d10` for every slot level above 7th.
 
 ---
 
 **Classes:** bard, wizard
 
 **Sources:** PHB, page 262
+
+**Quality Assurance:** :sparkles: coming along

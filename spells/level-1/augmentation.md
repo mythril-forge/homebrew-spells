@@ -1,4 +1,4 @@
-# Divine Favor
+# Augmentation
 
 - [x] Homebrew
 
@@ -18,19 +18,19 @@
 
 ## Description
 Choose a weapon that you are holding.
-You utter a prayer that washes over your weapon, etching it with divine markings.
-The weapon is considered magical for the duration (if it isn't already), and can be used as a *holy symbol*.
-Until the spell ends, Weapon Attacks made using this weapon deal an extra `1d4` radiant damage on a hit.
+You channel raw arcane energy into the weapon.
+The weapon is considered magical for the duration (if it isn't already).
+Until the spell ends, Weapon Attacks made using this weapon deal an extra `1d6` force damage on a hit.
 
 If you let go of the weapon, its magic dissipates, and the spell ends.
 Whenever this spell ends, you can immediately cast it again using the same weapon (no action required).
 
 ---
 
-**Classes:** paladin
+**Classes:** artificer
 
-**Subclasses:** war cleric, strength cleric
+**Sources:** UA-AR, page 10
 
-**Sources:** PHB, page 234
+**References:** arcane weapon
 
 **Quality Assurance:** :star: personal pass

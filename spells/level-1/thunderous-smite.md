@@ -18,9 +18,9 @@
 
 ## Description
 Choose a weapon that you are holding.
-For the duration, it hums and vibrates rhythmically.
-Until the spell ends, the weapon is considered magical (if it isn't already).
-The first time you hit with a Weapon Attack using this weapon before then, it releases a thunderous boom that is clearly audible within a mile of your target, and the spell ends.
+It begins to hum and vibrate rhythmically.
+The weapon is considered magical for the duration (if it isn't already).
+The first time you hit with a Weapon Attack using this weapon before the spell ends, it releases a thunderous boom that is clearly audible within a mile of your target, and the spell ends.
 The attack deals an extra `4d4` thunder damage in addition to the weapon's normal damage and effects.
 If the target is *large* or smaller, then it must also succeed on a Strength Saving Throw or be pushed 10 feet away from you.
 

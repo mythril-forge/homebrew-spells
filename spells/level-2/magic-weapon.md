@@ -10,32 +10,20 @@
 
 **Range:** touch
 
-**Tags:** verbal, somatic
+**Tags:** verbal, somatic, material
+
+**Material Components:** a weapon
 
 ---
 
 ## Description
-You touch a nonmagical weapon.
-Until the spell ends, that weapon becomes a magic weapon with a `+1` bonus to Attack Rolls and damage rolls.
-Additionally, your weapon gains one of the following effects.
-
-### Arcane Energy
-Choose one of the following damage types: acid, cold, fire, lightning, thunder, or force.
-Until the spell ends, your weapon deals an extra `1d6` damage of the chosen type on a hit.
-
-### Beam Shot
-The weapon can be used at range by flinging a magical beam outwards from it.
-
-If this weapon the weapon does not have the *thrown* property, it gains this property with a range out to 20 feet.
-
-When you throw this weapon to make an attack, you can hold onto it so it does not leave your hand&mdash;a glowing afterimage of it will instead fling in its trajectory.
-
-### Magic Ammo
-The weapon no longer requires ammo to make attacks, and its *loading* property can be ignored.
+Choose a weapon that you can touch.
+You imprint arcane power within the weapon.
+The weapon is considered magical for the duration (if it isn't already).
+Until the spell ends, the weapon has a `+1` magic bonus to attack and damage rolls.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 4th level or higher, the bonus increases to `+2`.
-When you use a spell slot of 6th level or higher, the bonus increases to `+3`.
+When you cast this spell using a spell slot of 3rd level or higher, the magic bonus increases by `1` for every two slot levels above 2nd.
 
 ---
 
@@ -44,3 +32,5 @@ When you use a spell slot of 6th level or higher, the bonus increases to `+3`.
 **Subclasses:** arcana cleric, war cleric, forge cleric, hexblade warlock, stone sorcerer, zeal cleric
 
 **Sources:** PHB, page 257
+
+**Quality Assurance:** :sparkles: modified but not perfected

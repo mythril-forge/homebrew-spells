@@ -22,8 +22,8 @@
 Choose a weapon that you are holding.
 As you hold the weapon above you, it absorbs a massive volume of air.
 Weird afterimages of the item trail in its wake until the end of your next turn.
-Until the spell ends, the weapon is considered magical (if it isn't already).
-The first time you make an attack using this weapon before then, duplicates of yourself deliver simultaneous strikes across multiple fabricated demi-timelines, and the spell ends.
+The weapon is considered magical for the duration (if it isn't already).
+The first time you make an attack using this weapon before the spell ends, duplicates of yourself deliver simultaneous strikes across multiple fabricated demi-timelines, and the spell ends.
 You have advantage on this Attack Roll.
 If the attack hits, it deals an extra `3d10` force damage in addition to the weapon's normal damage and effects.
 

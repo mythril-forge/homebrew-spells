@@ -19,8 +19,8 @@
 ## Description
 Choose a weapon that you are holding.
 It is sheathed in purple, storm-like energy until the end of your next turn.
-Until the spell ends, the weapon is considered magical (if it isn't already).
-The first time you make an attack using this weapon before then, it unleashes its static energy upon your target, and the spell ends.
+The weapon is considered magical for the duration (if it isn't already).
+The first time you make an attack using this weapon before the spell ends, it unleashes its static energy upon your target, and the spell ends.
 If the attack hits, it deals an extra `1d4` lightning damage in addition to the weapon's normal damage and effects.
 It then becomes entrapped in a net of static energy until the end of your next turn.
 If the target makes any movement before then&mdash;willingly or unwillingly&mdash;it immediately takes `2d4` lightning damage.

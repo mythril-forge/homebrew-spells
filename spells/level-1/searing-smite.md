@@ -18,9 +18,9 @@
 
 ## Description
 Choose a weapon that you are holding.
-For the duration, it glows red-hot, emitting dim light in a 10-foot radius.
-Until the spell ends, the weapon is considered magical (if it isn't already).
-The first time you hit with a Weapon Attack using this weapon before then, it flares with white-hot intensity, and the spell ends.
+It begins to glow red-hot, emitting dim light in a 10-foot radius.
+The weapon is considered magical for the duration (if it isn't already).
+The first time you hit with a Weapon Attack using this weapon before the spell ends, it flares with white-hot intensity, and the spell ends.
 The attack deals an extra `2d6` fire damage in addition to the weapon's normal damage and effects.
 The target must then succeed on a Dexterity Saving Throw or become **ignited** with flames.
 
