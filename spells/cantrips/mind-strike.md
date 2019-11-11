@@ -8,7 +8,9 @@
 
 **Duration:** instantaneous
 
-**Range:** 120 feet
+**Range:** 60 feet
+
+**Tags:** somatic
 
 ---
 
