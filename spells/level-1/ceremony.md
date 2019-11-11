@@ -26,7 +26,7 @@ Such divine retribution can take any form (at the DM's discretion) and lasts 7 d
 
 ### Atonement
 You touch one willing creature and make a DC 20 Wisdom Saving Throw.
-On a failed save, the spell fails, and consumes the material component.
+On a failed save, the spell fails.
 On a successful save, you shift the target's alignment by one degree in a direction of your choice.
 
 ### Bless Water
