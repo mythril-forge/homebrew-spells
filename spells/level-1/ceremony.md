@@ -25,16 +25,17 @@ If you or the target of this spell does anything that clearly disrespects or cor
 Such divine retribution can take any form (at the DM's discretion) and lasts 7 days.
 
 ### Atonement
-You touch one willing creature and make a DC 20 Wisdom Ability Check.
-On a successful check, you shift the target's alignment by one degree in one direction of your choice.
+You touch one willing creature and make a DC 20 Wisdom Saving Throw.
+On a failed save, the spell fails, and consumes the material component.
+On a successful save, you shift the target's alignment by one degree in a direction of your choice.
 
 ### Bless Water
-You touch one gallon clean water and cause it to become *holy water*.
+You touch one gallon of clean water and cause it to become *holy water*.
 This is enough liquid to fill eight 16oz *glass bottles*.
 
 ### Coming of Age
 You touch one willing creature who is a young adult.
-For the next 7 days, whenever the target makes an Ability Check, Attack Roll, or Saving Throw, it can roll `1d4` and add the number rolled to the Ability Check.
+For the next 7 days, the target gains a plus `1d4` bonus to all their Ability Checks, Attack Rolls, and Saving Throws for the duration.
 A creature can benefit from this rite only once.
 
 ### Dedication
@@ -45,7 +46,8 @@ The target loses this ability after 7 days have passed.
 A creature can benefit from this rite only once.
 
 ### Funeral Rite
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [*wish*](../level-9/wish) spell.
+You touch one corpse.
+For the next 7 days, the target can't become undead by any means short of a [*wish*](../level-9/wish) spell.
 
 ### Investiture
 You touch one willing humanoid.
