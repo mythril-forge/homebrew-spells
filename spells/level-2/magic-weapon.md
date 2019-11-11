@@ -20,10 +20,10 @@
 Choose a weapon that you can touch.
 You imprint arcane power within the weapon.
 The weapon is considered magical for the duration (if it isn't already).
-Until the spell ends, the weapon has a `+1` magic bonus to attack and damage rolls.
+Until the spell ends, the weapon has a `+1` magical bonus to attack and damage rolls.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 3rd level or higher, the magic bonus increases by `1` for every two slot levels above 2nd.
+When you cast this spell using a spell slot of 3rd level or higher, the magical bonus increases by `1` for every two slot levels above 2nd.
 
 ---
 
