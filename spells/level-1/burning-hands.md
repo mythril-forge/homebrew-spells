@@ -14,7 +14,9 @@
 
 **Radius:** 15 feet
 
-**Tags:** verbal, somatic
+**Tags:** verbal, somatic, material
+
+**Material Components:** garlic oil or melted wax
 
 ---
 
@@ -36,4 +38,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 **Sources:** PHB, page 220
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: personal pass
