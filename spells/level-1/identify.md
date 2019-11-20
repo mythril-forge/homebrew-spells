@@ -17,7 +17,7 @@
 ---
 
 ## Description
-Choose one creature or object that you must hold or touch for the spell's casting duration.
+Choose one creature or object that you must hold or touch for the spell's casting time.
 You learn whether any schools of magic affecting the target and what they are.
 You also learn whether any spells are affecting the target and what they are.
 If the target was created by a spell, you learn which spell created it.

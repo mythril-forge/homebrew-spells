@@ -22,7 +22,7 @@ It becomes your steed.
 Typically, familiars come from the Feywild, the Nine Hells, or Elysium.
 When you cast this spell for the very first time, this immortal entity is mystically selected and bonded to you.
 
-You channel this familiar into a friendly, willing beast that you hold or touch for the spell's casting duration.
+You channel this familiar into a friendly, willing beast that you hold or touch for the spell's casting time.
 This spell can only affect limited selection of animals: horses, ponies, camels, elk, or mastiffs. (Your DM might allow other animals to be summoned as steeds.) When the spell completes, it fuses this familiar entity with the animal's body.
 Your companion keeps the statistics of its form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
 Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.

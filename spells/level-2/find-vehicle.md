@@ -22,7 +22,7 @@ It becomes your steed.
 Typically, familiars come from the Feywild, the Nine Hells, or Elysium.
 When you cast this spell for the very first time, this immortal entity is mystically selected and bonded to you.
 
-You channel this familiar into a nonmilitary land vehicle that is, defacto, owned by you, which you hold or touch for the spell's casting duration.
+You channel this familiar into a nonmilitary land vehicle that is, defacto, owned by you, which you hold or touch for the spell's casting time.
 The vehicle has the statistics of a normal vehicle of its sort, though it is celestial, fey, or fiendish (your choice) instead of a construct.
 The physical characteristics of the vehicle reflect its origin to some degree.
 For example, a fiendish SUV might be jet black in color, with tinted windows and a sinister-looking front grille.
