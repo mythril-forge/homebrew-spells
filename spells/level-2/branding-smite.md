@@ -36,10 +36,6 @@ When you cast this spell using a spell slot of 3rd level or higher, the extra da
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** hexblade warlock, stone sorcerer, battle smith artificer
-
 **Sources:** PHB, page 219
 
 **Quality Assurance:** :star: personal pass

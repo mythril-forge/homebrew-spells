@@ -50,8 +50,4 @@ On a failed save, it takes `2d6` bludgeoning or cold damage (whichever does more
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
-**Subclasses:** tempest cleric, land druid
-
 **Sources:** PHB, page 276

@@ -34,8 +34,6 @@ You can sculpt the earth in one of the following ways:
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** XGE, page 162
 
 **Quality Assurance:** :star: personal pass

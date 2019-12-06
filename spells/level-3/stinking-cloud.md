@@ -33,8 +33,4 @@ A strong wind (at least 20 miles per hour) disperses the cloud.
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** land druid, land druid, fiend warlock, alchemist artificer
-
 **Sources:** PHB, page 278

@@ -22,10 +22,6 @@ The target also gains a climbing speed equal to its walking speed.
 
 ---
 
-**Classes:** sorcerer, warlock, wizard, artificer
-
-**Subclasses:** land druid
-
 **Subraces:** tiefling (abyssal)
 
 **Sources:** PHB, page 277

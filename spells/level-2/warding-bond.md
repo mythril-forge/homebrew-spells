@@ -27,10 +27,6 @@ It also ends if the spell is cast again on either of the connected creatures.
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** crown paladin, solidarity cleric, battle smith artificer
-
 **Sources:** PHB, page 287
 
 **Quality Assurance:** :sparkles: coming along

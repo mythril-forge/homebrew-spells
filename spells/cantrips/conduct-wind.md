@@ -31,8 +31,6 @@ You can guide the wind in one of the following ways:
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard
-
 **Sources:** XGE, page 157
 
 **References:** gust

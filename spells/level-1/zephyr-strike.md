@@ -30,8 +30,6 @@ If you let go of the weapon, its charm dissipates, and the spell ends.
 
 ---
 
-**Classes:** ranger
-
 **Sources:** XGE, page 171
 
 **Quality Assurance:** :star: personal pass

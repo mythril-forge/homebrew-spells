@@ -33,10 +33,6 @@ When the spell ends, the conjured plants retract into the earth and root themsel
 
 ---
 
-**Classes:** druid
-
-**Subclasses:** primeval guardian ranger, giant soul sorcerer
-
 **Sources:** PHB, page 238
 
 **Quality Assurance:** :star: personal pass

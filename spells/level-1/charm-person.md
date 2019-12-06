@@ -28,10 +28,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 ---
 
-**Classes:** bard, druid, sorcerer, warlock, wizard
-
-**Subclasses:** trickery cleric, treachery paladin, beauty cleric
-
 **Sources:** PHB, page 221
 
 **Quality Assurance:** :star: personal pass

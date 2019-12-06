@@ -25,8 +25,4 @@ If the target is diseased or **poisoned** when you cast the spell, or becomes di
 
 ---
 
-**Classes:** bard, cleric, druid, wizard
-
-**Subclasses:** undying warlock, raven queen warlock
-
 **Sources:** PHB, page 240

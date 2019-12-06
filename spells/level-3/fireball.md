@@ -32,10 +32,6 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** light cleric, fiend warlock, zeal cleric, destruction cleric, artillerist artificer
-
 **Sources:** PHB, page 241
 
 **Quality Assurance:** :star: personal pass

@@ -21,8 +21,6 @@ On a hit, you deal `1d48` force damage.
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** noltron000
 
 **Quality Assurance:** :sparkles: coming along

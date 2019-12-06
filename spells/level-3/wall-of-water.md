@@ -44,8 +44,4 @@ It has the following affects:
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
-**Races:** triton
-
 **Sources:** XGE, page 170

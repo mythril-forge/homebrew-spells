@@ -38,8 +38,6 @@ If you cast this spell using a spell slot of 4th level or higher, the damage for
 
 ---
 
-**Classes:** ranger
-
 **Sources:** PHB, page 255
 
 **References:** lightning arrow

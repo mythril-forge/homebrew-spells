@@ -29,8 +29,6 @@ When the spell ends, the creature knows it was **charmed** by you.
 
 ---
 
-**Classes:** bard, cleric, wizard
-
 **Sources:** AI, page 75
 
 **Quality Assurance:** :x: relatively unchanged

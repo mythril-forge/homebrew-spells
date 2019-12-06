@@ -23,10 +23,6 @@ A creature that receives this bonus leaves behind no tracks or other traces of i
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** trickery cleric, land druid
-
 **Sources:** PHB, page 264
 
 **Quality Assurance:** :star: personal pass

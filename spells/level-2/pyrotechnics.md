@@ -39,8 +39,6 @@ The smoke persists for 5 minutes or until a strong wind disperses it.
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer
-
 **Sources:** XGE, page 163
 
 **Quality Assurance:** :sparkles: coming along

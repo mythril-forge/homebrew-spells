@@ -29,8 +29,6 @@ The scimitar disappears once the spell ends.
 
 ---
 
-**Classes:** druid
-
 **Sources:** PHB, page 242
 
 **Quality Assurance:** :sparkles: coming along

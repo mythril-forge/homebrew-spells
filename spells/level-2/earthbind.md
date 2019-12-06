@@ -21,8 +21,6 @@ The target must succeed on a Strength Saving Throw, or its flying speed (if any)
 
 ---
 
-**Classes:** druid, sorcerer, warlock, wizard
-
 **Sources:** XGE, page 154
 
 **Quality Assurance:** :star: personal pass

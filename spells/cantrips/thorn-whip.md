@@ -29,8 +29,6 @@ The whip disappears once the spell ends.
 
 ---
 
-**Classes:** druid, ranger, artificer
-
 **Sources:** PHB, page 282
 
 **Quality Assurance:** :star: personal pass

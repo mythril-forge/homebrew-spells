@@ -37,10 +37,6 @@ If you cast this spell using a spell slot of 2nd level or higher, both the initi
 
 ---
 
-**Classes:** ranger
-
-**Subclasses:** ancients paladin
-
 **Sources:** PHB, page 237
 
 **Quality Assurance:** :star: personal pass

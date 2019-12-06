@@ -21,8 +21,4 @@ The water is clean and pure.
 
 ---
 
-**Classes:** cleric, paladin
-
-**Subclasses:** land druid, alchemist artificer
-
 **Sources:** PHB, page 229

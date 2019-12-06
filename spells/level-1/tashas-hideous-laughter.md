@@ -27,10 +27,6 @@ On a success, the spell ends.
 
 ---
 
-**Classes:** bard, wizard
-
-**Subclasses:** great old one warlock
-
 **Sources:** PHB, page 280
 
 **Quality Assurance:** :star: personal pass

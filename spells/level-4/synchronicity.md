@@ -27,8 +27,4 @@ In the event that two or more creatures under the effect of synchronicity are at
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** city cleric, ghost in the machine warlock
-
 **Sources:** UA-MM, page 8

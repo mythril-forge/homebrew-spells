@@ -33,8 +33,6 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** XGE, page 150
 
 **Quality Assurance:** :star2: consistency pass

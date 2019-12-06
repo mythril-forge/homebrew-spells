@@ -29,8 +29,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** XGE, page 151; UA-SS, page 2
 
 **Quality Assurance:** :star: personal pass

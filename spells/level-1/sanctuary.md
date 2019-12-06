@@ -27,10 +27,6 @@ The spell also ends early if the creature takes any other action that is deemed 
 
 ---
 
-**Classes:** cleric, artificer
-
-**Subclasses:** devotion paladin, redemption paladin, raven queen warlock
-
 **Sources:** PHB, page 272
 
 **Quality Assurance:** :star: personal pass

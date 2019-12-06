@@ -33,10 +33,6 @@ Whenever this spell ends, you can immediately cast it again using the same weapo
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** hexblade warlock, stone sorcerer, destruction cleric
-
 **Sources:** PHB, page 289
 
 **Quality Assurance:** :star: personal pass

@@ -22,8 +22,6 @@ This spell has no effect on undead or constructs.
 
 ---
 
-**Classes:** cleric 
-
 **Sources:** UA-SS, page 5
 
 **Quality Assurance:** :star2: consistency pass

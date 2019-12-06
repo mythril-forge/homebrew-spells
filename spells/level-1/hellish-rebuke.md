@@ -24,10 +24,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Classes:** warlock
-
-**Subclasses:** oathbreaker paladin
-
 **Sources:** PHB, page 250
 
 **Quality Assurance:** :star: personal pass

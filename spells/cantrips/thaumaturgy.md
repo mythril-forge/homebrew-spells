@@ -35,8 +35,6 @@ These effects are normally quite brief, but can last longer (at the DM's discret
 
 ---
 
-**Classes:** cleric
-
 **Sources:** PHB, page 282
 
 **Quality Assurance:** :star: personal pass

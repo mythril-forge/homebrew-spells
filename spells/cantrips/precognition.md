@@ -23,8 +23,6 @@ If this spell ends on your turn, its effects linger until the end of your turn.
 
 ---
 
-**Classes:** bard, ranger, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 284
 
 **References:** true strike

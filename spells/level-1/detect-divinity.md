@@ -41,8 +41,6 @@ The spell can penetrate most barriers, but it is blocked by 3 feet of wood, 1 fo
 
 ---
 
-**Classes:** cleric, paladin
-
 **Sources:** PHB, page 231
 
 **References:** detect good and evil

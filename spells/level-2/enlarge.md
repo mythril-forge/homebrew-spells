@@ -43,10 +43,6 @@ If there isn't enough room for the target to increase its size when this spell t
 
 ---
 
-**Classes:** sorcerer, wizard, artificer
-
-**Subclasses:** giant soul sorcerer, destruction cleric
-
 **Subraces:** dwarf (duergar)
 
 **Sources:** PHB, page 237

@@ -27,10 +27,6 @@ When you cast this spell using a spell slot of 3rd level or higher, the magical 
 
 ---
 
-**Classes:** paladin, wizard, artificer
-
-**Subclasses:** arcana cleric, war cleric, forge cleric, hexblade warlock, stone sorcerer, zeal cleric
-
 **Sources:** PHB, page 257
 
 **Quality Assurance:** :sparkles: modified but not perfected

@@ -26,10 +26,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** solidarity cleric, celestial warlock
-
 **Sources:** PHB, page 248
 
 **Quality Assurance:** :star: personal pass

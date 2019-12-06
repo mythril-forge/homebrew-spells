@@ -31,10 +31,6 @@ The DM makes this roll in secret.
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** knowledge cleric, kraken warlock, ancestral guardian barbarian
-
 **Sources:** PHB, page 215
 
 **Quality Assurance:** :star: personal pass

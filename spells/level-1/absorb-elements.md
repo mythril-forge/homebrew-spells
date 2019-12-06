@@ -22,8 +22,6 @@ These temporary hit points last until the start of your next turn.
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer
-
 **Sources:** XGE, page 150
 
 **Quality Assurance:** :star: personal pass

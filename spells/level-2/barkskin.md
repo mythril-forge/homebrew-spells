@@ -24,10 +24,6 @@ In addition, the target gains a damage threshold of `5`, and has resistance to n
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** nature cleric, land druid
-
 **Sources:** PHB, page 217
 
 **Quality Assurance:** :sparkles: coming along

@@ -30,10 +30,6 @@ If the target is still aloft when the spell ends, it floats slowly to the ground
 
 ---
 
-**Classes:** sorcerer, wizard, artificer
-
-**Subclasses:** seeker warlock
-
 **Sources:** PHB, page 255
 
 **Quality Assurance:** :star: personal pass

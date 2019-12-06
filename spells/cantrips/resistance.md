@@ -22,8 +22,6 @@ A soft light bathes the target for a moment, granting a plus `1d4` bonus to its 
 
 ---
 
-**Classes:** cleric, druid, paladin, artificer
-
 **Sources:** PHB, page 272
 
 **Quality Assurance:** :star2: consistency pass

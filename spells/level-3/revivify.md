@@ -23,8 +23,4 @@ This spell can't return to life a creature that has died of old age, nor can it 
 
 ---
 
-**Classes:** cleric, paladin, artificer, artificer
-
-**Subclasses:** life cleric, grave cleric, celestial warlock
-
 **Sources:** PHB, page 272

@@ -33,8 +33,4 @@ All plants in a half-mile radius centered on a point within range become enriche
 
 ---
 
-**Classes:** bard, druid, ranger
-
-**Subclasses:** nature cleric, land druid, ancients paladin, archfey warlock
-
 **Sources:** PHB, page 266

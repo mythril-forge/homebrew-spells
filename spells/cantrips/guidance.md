@@ -25,8 +25,6 @@ The spell then ends.
 
 ---
 
-**Classes:** cleric, druid, artificer
-
 **Sources:** PHB, page 248
 
 **Quality Assurance:** :star2: consistency pass

@@ -29,8 +29,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 ---
 
-**Classes:** cleric, paladin
-
 **Sources:** XGE, page 171; UA-SS, page 3
 
 **References:** word of radiance, hand of radiance

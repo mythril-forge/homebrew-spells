@@ -42,8 +42,4 @@ When you cast this spell using a spell slot of 4th level or higher, the radius o
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** ghost in the machine warlock
-
 **Sources:** UA-MM, page 7

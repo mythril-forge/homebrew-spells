@@ -38,10 +38,6 @@ It causes protected flames, such as those of lanterns, to dance wildly and has a
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
-**Subclasses:** tempest cleric, kraken warlock, giant soul sorcerer (storm)
-
 **Sources:** PHB, page 248
 
 **Quality Assurance:** :star: personal pass

@@ -29,8 +29,6 @@ The whip disappears once the spell ends.
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** SCAG, page 143
 
 **Quality Assurance:** :star: personal pass

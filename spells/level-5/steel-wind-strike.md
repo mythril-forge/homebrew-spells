@@ -37,8 +37,6 @@ You must count the distances that you teleport as a part of your movement.
 
 ---
 
-**Classes:** ranger, wizard
-
 **Sources:** XGE, page 166
 
 **Quality Assurance:** :star: personal pass

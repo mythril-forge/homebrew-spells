@@ -32,6 +32,4 @@ Otherwise the spell lasts for the duration, or until gem is found.
 
 ---
 
-**Classes:** cleric, wizard, warlock
-
 **Sources:** AI, page 76

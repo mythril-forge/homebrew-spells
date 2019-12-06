@@ -27,10 +27,6 @@ If you cast this spell using a spell slot of 3rd level or higher, the damage for
 
 ---
 
-**Classes:** ranger, wizard
-
-**Subclasses:** land druid, alchemist artificer
-
 **Sources:** PHB, page 259
 
 **Quality Assurance:** :sparkles: coming along

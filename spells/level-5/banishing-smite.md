@@ -36,10 +36,6 @@ Whenever this spell ends, you can immediately cast it again using the same weapo
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** hexblade warlock, battle smith artificer
-
 **Sources:** PHB, page 216
 
 **Quality Assurance:** :star: personal pass

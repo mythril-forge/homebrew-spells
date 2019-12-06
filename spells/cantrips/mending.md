@@ -28,8 +28,6 @@ This spell can physically repair a magic item or construct, but the spell can't 
 
 ---
 
-**Classes:** bard, cleric, druid, sorcerer, wizard, artificer
-
 **Sources:** PHB, page 259
 
 **Quality Assurance:** :star: personal pass

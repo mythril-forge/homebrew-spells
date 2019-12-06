@@ -26,10 +26,6 @@ When you cast this spell using a spell slot of 4th level or higher, the extra da
 
 ---
 
-**Classes:** paladin, wizard, artificer
-
-**Subclasses:** arcana cleric, forge cleric, war cleric, hexblade warlock, stone sorcerer, zeal cleric
-
 **Sources:** PHB, page 237
 
 **Quality Assurance:** :sparkles: modified but not perfected

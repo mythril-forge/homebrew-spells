@@ -21,10 +21,6 @@ On a hit, the target takes `2d10` necrotic damage, and you regain hit points equ
 
 ---
 
-**Classes:** warlock, wizard
-
-**Subclasses:** death cleric, grave cleric, ambition cleric, lolth warlock, darkness cleric
-
 **Sources:** PHB, page 285
 
 **Quality Assurance:** :sparkles: modified but not perfected

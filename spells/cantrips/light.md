@@ -31,10 +31,6 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 ---
 
-**Classes:** bard, cleric, paladin, sorcerer, wizard, artificer
-
-**Subclasses:** celestial warlock
-
 **Sources:** PHB, page 255
 
 **Quality Assurance:** :star: personal pass

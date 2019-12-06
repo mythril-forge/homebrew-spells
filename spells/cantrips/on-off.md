@@ -25,8 +25,6 @@ Any device that requires a software-based shutdown sequence to activate or deact
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
 **Sources:** UA-MM, page 7
 
 **Quality Assurance:** :star: personal pass

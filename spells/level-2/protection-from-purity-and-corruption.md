@@ -31,10 +31,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ---
 
-**Classes:** cleric, paladin, warlock, wizard
-
-**Subclasses:** devotion paladin, protection cleric, horizon walker ranger, monster slayer ranger, divine soul sorcerer
-
 **Sources:** PHB, page 270
 
 **Quality Assurance:** :star: personal pass

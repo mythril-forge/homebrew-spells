@@ -28,8 +28,6 @@ The spell can penetrate most barriers, but it is blocked by 3 feet of wood, 1 fo
 
 ---
 
-**Classes:** paladin
-
 **Sources:** PHB, page 82
 
 **Quality Assurance:** :star: personal pass

@@ -35,10 +35,6 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
-**Subclasses:** trickery cleric, land druid, treachery paladin, ambition cleric
-
 **Sources:** PHB, page 260
 
 **Quality Assurance:** :star: personal pass

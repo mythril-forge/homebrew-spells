@@ -28,10 +28,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the radius o
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard
-
-**Subclasses:** tempest cleric, giant soul sorcerer (cloud)
-
 **Sources:** PHB, page 243
 
 **Quality Assurance:** :star: personal pass

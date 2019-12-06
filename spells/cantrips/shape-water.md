@@ -33,8 +33,6 @@ You can steer the water in one of the following ways:
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** XGE, page 164
 
 **Quality Assurance:** :star: personal pass

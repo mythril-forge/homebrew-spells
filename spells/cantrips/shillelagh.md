@@ -29,10 +29,6 @@ The quarterstaff reverts to its original form once the spell ends.
 
 ---
 
-**Classes:** druid
-
-**Subclasses:** giant soul sorcerer (earth)
-
 **Sources:** PHB, page 275
 
 **Quality Assurance:** :star: personal pass

@@ -27,8 +27,6 @@ The swarm loses interest and harmlessly dissipates at the end of your next turn.
 
 ---
 
-**Classes:** druid, sorcerer, warlock, wizard
-
 **Sources:** XGE, page 158; UA-SS, page 3
 
 **Quality Assurance:** :star: personal pass

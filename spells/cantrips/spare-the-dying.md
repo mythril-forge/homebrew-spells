@@ -21,8 +21,6 @@ This spell has no effect on undead or constructs.
 
 ---
 
-**Classes:** cleric, paladin, artificer
-
 **Sources:** PHB, page 277
 
 **Quality Assurance:** :star2: consistency pass

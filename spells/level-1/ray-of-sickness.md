@@ -28,10 +28,6 @@ Make a separate Attack Roll for each beam.
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** death cleric, undying warlock, alchemist artificer
-
 **Sources:** PHB, page 271
 
 **Quality Assurance:** :star: personal pass

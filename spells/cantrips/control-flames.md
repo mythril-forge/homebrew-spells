@@ -39,8 +39,6 @@ You can command the flame in one of the following ways:
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** XGE, page 152
 
 **Quality Assurance:** :star: personal pass

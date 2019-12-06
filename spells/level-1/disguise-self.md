@@ -28,10 +28,6 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard, artificer
-
-**Subclasses:** trickery cleric, ambition cleric, deep stalker ranger, gloom stalker ranger
-
 **Sources:** PHB, page 233
 
 **Quality Assurance:** :star: personal pass

@@ -34,10 +34,6 @@ Otherwise, your bonus to the Intelligence Saving Throw increases by 1 for each s
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, sorcerer, warlock, wizard, artificer
-
-**Subclasses:** arcana cleric, trickery cleric, devotion paladin
-
 **Sources:** PHB, page 234
 
 **Quality Assurance:** :sparkles: modified but not perfected

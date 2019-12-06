@@ -32,8 +32,6 @@ This spell can't locate anything if any thickness of lead, even a thin sheet, bl
 
 ---
 
-**Classes:** bard, druid, ranger
-
 **Sources:** PHB, page 256
 
 **Quality Assurance:** :x: relatively unchanged

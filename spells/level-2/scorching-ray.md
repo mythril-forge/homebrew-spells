@@ -28,10 +28,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you create o
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** light cleric, fiend warlock, artillerist artificer
-
 **Sources:** PHB, page 273
 
 **Quality Assurance:** :star: personal pass

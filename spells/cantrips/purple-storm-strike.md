@@ -29,8 +29,6 @@ If you let go of the weapon, its charm dissipates, and the spell ends.
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** SCAG, page 142
 
 **Referenced Spells:** booming blade

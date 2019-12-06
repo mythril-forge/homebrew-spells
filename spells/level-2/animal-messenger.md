@@ -31,8 +31,6 @@ If you cast this spell using a spell slot of 3rd level or higher, the duration o
 
 ---
 
-**Classes:** bard, druid, ranger
-
 **Sources:** PHB, page 212
 
 **Quality Assurance:** :star: personal pass

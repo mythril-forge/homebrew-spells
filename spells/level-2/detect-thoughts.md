@@ -41,10 +41,6 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** great old one warlock, archivist artificer
-
 **Sources:** PHB, page 231
 
 **Quality Assurance:** :sparkles: coming along

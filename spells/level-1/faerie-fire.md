@@ -37,10 +37,6 @@ When you cast this spell using a spell slot of 2nd level or higher, roll an addi
 
 ---
 
-**Classes:** bard, druid, artificer
-
-**Subclasses:** light cleric, archfey warlock, lolth warlock
-
 **Sources:** PHB, page 239
 
 **Quality Assurance:** :star: personal pass

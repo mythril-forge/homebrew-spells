@@ -24,10 +24,6 @@ When you cast this spell using a spell slot of 4th level or higher, you can targ
 
 ---
 
-**Classes:** cleric, druid, ranger, sorcerer, wizard, artificer
-
-**Subclasses:** land druid, ancients paladin, vengeance paladin, forge cleric, protection cleric, strength cleric, horizon walker ranger
-
 **Sources:** PHB, page 270
 
 **Quality Assurance:** :sparkles: coming along

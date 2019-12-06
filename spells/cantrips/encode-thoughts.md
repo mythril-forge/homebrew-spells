@@ -26,8 +26,6 @@ Casting [*detect thoughts*](../level-2/detect-thoughts) on the strand has the sa
 
 ---
 
-**Classes:** wizard
-
 **Sources:** GGR, page 47
 
 **Quality Assurance:** :star: personal pass

@@ -31,10 +31,6 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 ---
 
-**Classes:** wizard, artificer
-
-**Subclasses:** deep stalker ranger, gloom stalker ranger
-
 **Sources:** PHB, page 272
 
 **Quality Assurance:** :sparkles: coming along

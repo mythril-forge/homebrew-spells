@@ -29,8 +29,6 @@ When you cast this spell using a spell slot of 8th level or higher, the damage i
 
 ---
 
-**Classes:** bard, wizard
-
 **Sources:** PHB, page 262
 
 **Quality Assurance:** :sparkles: coming along

@@ -25,10 +25,6 @@ Up to four willing creatures you can see within range gain this ability for the 
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer
-
-**Subclasses:** land druid, kraken (stream) warlock
-
 **Sources:** PHB, page 287
 
 **References:** water breathing

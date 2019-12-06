@@ -39,10 +39,6 @@ When the spell ends, an affected creature becomes **stunned** until the end of i
 
 ---
 
-**Classes:** sorcerer, wizard, artificer
-
-**Subclasses:** land druid, vengeance paladin, treachery paladin, strength cleric, zeal cleric, horizon walker ranger
-
 **Sources:** PHB, page 250
 
 **Quality Assurance:** :sparkles: modified but not perfected

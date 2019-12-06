@@ -28,10 +28,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Classes:** bard
-
-**Subclasses:** great old one warlock, archivist artificer, aberrant mind sorcerer
-
 **Sources:** PHB, page 234
 
 **Quality Assurance:** :star: personal pass

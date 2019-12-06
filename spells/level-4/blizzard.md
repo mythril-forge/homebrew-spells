@@ -47,8 +47,4 @@ When you cast this spell using a spell slot of 5th level or higher, both the blu
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
-**Subclasses:** tempest cleric, land druid, ancients paladin, raven queen warlock, destruction cleric, artillerist artificer
-
 **Sources:** PHB, page 252

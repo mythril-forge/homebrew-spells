@@ -28,8 +28,6 @@ It also cannot handle complex tasks that would require an Ability Check.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard, artificer
-
 **Sources:** PHB, page 256
 
 **Quality Assurance:** :star: personal pass

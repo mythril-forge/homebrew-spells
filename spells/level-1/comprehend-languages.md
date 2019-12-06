@@ -25,10 +25,6 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** city cleric, archivist artificer
-
 **Sources:** PHB, page 224
 
 **Quality Assurance:** :star: personal pass

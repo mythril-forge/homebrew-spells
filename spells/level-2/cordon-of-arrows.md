@@ -34,8 +34,6 @@ When you cast this spell using a spell slot of 3rd level or higher, the amount o
 
 ---
 
-**Classes:** ranger
-
 **Sources:** PHB, page 228
 
 **Quality Assurance:** :sparkles: coming along

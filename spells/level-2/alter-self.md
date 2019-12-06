@@ -44,10 +44,6 @@ You can't fly in this way if you are wearing medium or heavy armor.
 
 ---
 
-**Classes:** sorcerer, wizard, artificer
-
-**Subclasses:** horizon walker ranger
-
 **Sources:** PHB, page 211
 
 **Quality Assurance:** :sparkles: coming along

@@ -25,10 +25,6 @@ Casting a spell that includes a verbal component is impossible there.
 
 ---
 
-**Classes:** bard, cleric, ranger
-
-**Subclasses:** land druid, undying warlock, raven queen warlock
-
 **Sources:** PHB, page 275
 
 **Quality Assurance:** :x: relatively unchanged

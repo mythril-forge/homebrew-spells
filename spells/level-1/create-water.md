@@ -31,10 +31,6 @@ Each cube must originate from a point you can see within range, and can create u
 
 ---
 
-**Classes:** cleric, druid
-
-**Subclasses:** kraken warlock
-
 **Subraces:** genasi (water)
 
 **Sources:** PHB, page 229

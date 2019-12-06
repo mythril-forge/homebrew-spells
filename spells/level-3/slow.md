@@ -45,10 +45,6 @@ When the spell ends, an affected creature gets an additional action on its next 
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** land druid, protection cleric, order cleric, order cleric
-
 **Sources:** PHB, page 277
 
 **Quality Assurance:** :sparkles: modified but not perfected

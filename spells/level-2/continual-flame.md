@@ -23,8 +23,6 @@ A continual flame can be covered or hidden but not smothered or quenched.
 
 ---
 
-**Classes:** cleric, wizard, artificer, artificer
-
 **Sources:** PHB, page 227
 
 **Quality Assurance:** :x: relatively unchanged

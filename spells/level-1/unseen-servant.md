@@ -42,8 +42,6 @@ The servant can't attack, cast spells, activate magic items, or carry more than 
 
 ---
 
-**Classes:** bard, warlock, wizard
-
 **Sources:** PHB, page 284
 
 **Quality Assurance:** :star: personal pass

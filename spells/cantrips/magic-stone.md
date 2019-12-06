@@ -32,8 +32,6 @@ The stones lose this magic once the spell ends.
 
 ---
 
-**Classes:** druid, warlock, artificer
-
 **Sources:** XGE, page 160
 
 **Quality Assurance:** :star: personal pass

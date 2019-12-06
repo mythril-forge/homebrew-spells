@@ -29,10 +29,6 @@ The spell ends if you are ever more than 120 feet away from the device.
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** city cleric, ghost in the machine warlock
-
 **Sources:** UA-MM, page 8
 
 **Quality Assurance:** :star: personal pass

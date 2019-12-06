@@ -33,10 +33,6 @@ If any of this spell's area overlaps with an area of light created by a spell of
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
-**Subclasses:** land druid, oathbreaker paladin, lolth warlock, darkness cleric
-
 **Subraces:** elf (drow), elf (zendikar) (mul daya nation), half-elf (drow descent), tiefling, tiefling (variant), tiefling (levistus), tiefling (abyssal), tiefling (asmodeus), tiefling (levistus), tiefling (asmodeus), tiefling (variant)
 
 **Sources:** PHB, page 230

@@ -37,6 +37,4 @@ This spell can cause the plants created by the [*entangle*](../level-1/entangle.
 
 ---
 
-**Classes:** bard, druid, ranger
-
 **Sources:** PHB, page 277

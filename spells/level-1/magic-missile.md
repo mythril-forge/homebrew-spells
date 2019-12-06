@@ -27,10 +27,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the spell cr
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** arcana cleric
-
 **Sources:** PHB, page 257
 
 **Quality Assurance:** :star: personal pass

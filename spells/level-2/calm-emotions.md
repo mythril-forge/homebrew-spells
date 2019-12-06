@@ -32,10 +32,6 @@ When the spell ends, the creature becomes hostile again, unless the DM rules oth
 
 ---
 
-**Classes:** bard, cleric
-
-**Subclasses:** archfey warlock, redemption paladin
-
 **Sources:** PHB, page 221
 
 **Quality Assurance:** :x: relatively unchanged

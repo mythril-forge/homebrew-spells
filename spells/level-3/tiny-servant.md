@@ -51,6 +51,4 @@ When you cast this spell using a spell slot of 4th level or higher, you can anim
 
 ---
 
-**Classes:** wizard, artificer
-
 **Sources:** XGE, page 168

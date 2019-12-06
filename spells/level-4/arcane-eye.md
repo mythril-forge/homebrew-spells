@@ -32,10 +32,6 @@ The orb has intricate designs on it akin to an eyeball.
 
 ---
 
-**Classes:** wizard, artificer
-
-**Subclasses:** arcana cleric, knowledge cleric, seeker warlock
-
 **Sources:** PHB, page 214
 
 <!-- QA Pass: Very Poor 👎 -->

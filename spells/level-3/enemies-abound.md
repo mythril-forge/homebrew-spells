@@ -30,6 +30,4 @@ On a successful save, the spell ends.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** XGE, page 155

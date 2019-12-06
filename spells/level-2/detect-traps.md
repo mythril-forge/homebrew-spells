@@ -24,8 +24,6 @@ You don't learn the location of a trap, but you do learn the general nature of t
 
 ---
 
-**Classes:** cleric, druid, ranger
-
 **Sources:** PHB, page 241
 
 **Quality Assurance:** :x: relatively unchanged

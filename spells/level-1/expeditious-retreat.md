@@ -20,10 +20,6 @@ Until the spell ends, you gain twice the movement that you normally would from t
 
 ---
 
-**Classes:** sorcerer, warlock, wizard, artificer
-
-**Subclasses:** treachery paladin
-
 **Sources:** PHB, page 238
 
 **Quality Assurance:** :star: personal pass

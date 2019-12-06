@@ -39,10 +39,6 @@ Any 5-foot-long cube of webs exposed to fire burns away in 1 round, dealing `2d4
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** land druid, lolth warlock, alchemist artificer
-
 **Sources:** PHB, page 287
 
 **Quality Assurance:** :x: relatively unchanged

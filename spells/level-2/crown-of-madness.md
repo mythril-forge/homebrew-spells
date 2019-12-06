@@ -32,10 +32,6 @@ On a success, the spell ends.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** oathbreaker paladin
-
 **Sources:** PHB, page 229
 
 **Quality Assurance:** :sparkles: coming along

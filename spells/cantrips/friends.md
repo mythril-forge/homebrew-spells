@@ -27,8 +27,6 @@ Another creature might seek retribution in other ways (at the DM's discretion), 
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 244
 
 **Quality Assurance:** :star: personal pass

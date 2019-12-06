@@ -21,12 +21,6 @@ Alternatively, you can reduce the target’s **exhaustion** level by one.
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, ranger, artificer
-
-**Subclasses:** life cleric, devotion paladin, celestial warlock
-
-**Races:** aasimar
-
 **Sources:** PHB, page 255
 
 **Quality Assurance:** :sparkles: coming along

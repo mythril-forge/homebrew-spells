@@ -27,10 +27,6 @@ This spell doesn't reveal any curses afflicting or imbued within the target.
 
 ---
 
-**Classes:** bard, wizard, artificer
-
-**Subclasses:** knowledge cleric, forge cleric
-
 **Sources:** PHB, page 252
 
 **Quality Assurance:** :star: personal pass

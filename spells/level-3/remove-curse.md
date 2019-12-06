@@ -32,8 +32,6 @@ Otherwise, your bonus to the Intelligence Saving Throw increases by 1 for each s
 
 ---
 
-**Classes:** cleric, paladin, warlock, wizard
-
 **Sources:** PHB, page 271
 
 **Quality Assurance:** :sparkles: modified but not perfected

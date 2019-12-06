@@ -63,8 +63,6 @@ A creature can benefit from this rite again only if widowed.
 
 ---
 
-**Classes:** cleric, druid, paladin
-
 **Sources:** XGE, page 151; UA-SS, page 2
 
 **Quality Assurance:** :star: personal pass

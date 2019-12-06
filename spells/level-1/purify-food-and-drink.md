@@ -23,10 +23,6 @@ All nonmagical food and drink in a 10-foot-long cube within range is purified an
 
 ---
 
-**Classes:** cleric, druid, paladin
-
-**Subclasses:** alchemist artificer 
-
 **Sources:** PHB, page 270
 
 **Quality Assurance:** :star: personal pass

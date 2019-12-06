@@ -26,8 +26,6 @@ Anyone examining the object can ascertain its true value with a successful Intel
 
 ---
 
-**Classes:** bard, sorcerer, wizard, warlock
-
 **Sources:** AI, page 75
 
 **Quality Assurance:** :star: personal pass

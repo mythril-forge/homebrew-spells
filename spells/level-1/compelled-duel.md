@@ -32,10 +32,6 @@ This spell's casting fails if it is cast by or on a creature who is already affe
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** crown paladin, protection cleric, stone sorcerer
-
 **Sources:** PHB, page 224
 
 **Quality Assurance:** :star: personal pass

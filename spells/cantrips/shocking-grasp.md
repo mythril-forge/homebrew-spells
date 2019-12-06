@@ -30,10 +30,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard, artificer
-
-**Subclasses:** giant soul sorcerer (storm giant)
-
 **Sources:** PHB, page 275
 
 **Quality Assurance:** :star2: consistency pass

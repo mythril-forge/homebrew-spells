@@ -58,10 +58,6 @@ When you cast this spell using a spell slot of 4th or higher level, the damage i
 
 ---
 
-**Classes:** druid
-
-**Subclasses:** tempest cleric, land druid, kraken warlock
-
 **Sources:** PHB, page 220
 
 **Quality Assurance:** :sparkles: modified but not perfected

@@ -22,8 +22,6 @@ If this spell ends on your turn, its effects linger until the end of your turn.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 218
 
 **Quality Assurance:** :star2: consistency pass

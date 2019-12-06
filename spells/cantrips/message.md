@@ -28,8 +28,6 @@ The spell doesn't have to follow a straight line to its target and can travel fr
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer
-
 **Sources:** PHB, page 259
 
 **Quality Assurance:** :star: personal pass

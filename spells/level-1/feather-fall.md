@@ -27,10 +27,6 @@ You can dismiss the magic on any number of creatures at any time (no action requ
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer
-
-**Subclasses:** seeker warlock
-
 **Sources:** PHB, page 239
 
 **Quality Assurance:** :star: personal pass

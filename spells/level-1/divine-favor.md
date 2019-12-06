@@ -27,10 +27,6 @@ Whenever this spell ends, you can immediately cast it again using the same weapo
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** war cleric, strength cleric
-
 **Sources:** PHB, page 234
 
 **Quality Assurance:** :star: personal pass

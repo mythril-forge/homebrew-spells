@@ -31,8 +31,4 @@ On a successful save, the spell ends for that creature.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** conquest paladin, gloom stalker ranger, lolth warlock, darkness cleric
-
 **Sources:** PHB, page 239

@@ -27,8 +27,6 @@ Whenever this spell ends, you can immediately cast it again using the same weapo
 
 ---
 
-**Classes:** artificer
-
 **Sources:** UA-AR, page 10
 
 **References:** arcane weapon

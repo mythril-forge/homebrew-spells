@@ -32,8 +32,6 @@ If you cast this spell using a spell slot of 2nd level or higher, the damage inc
 
 ---
 
-**Classes:** ranger
-
 **Sources:** PHB, page 249
 
 **References:** hail of thorns

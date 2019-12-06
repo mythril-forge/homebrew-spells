@@ -30,10 +30,6 @@ Any creature that can't see the area at the time the spell is cast must make a W
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** nature cleric, land druid, giant soul sorcerer
-
 **Sources:** PHB, page 277
 
 **Quality Assurance:** :x: relatively unchanged

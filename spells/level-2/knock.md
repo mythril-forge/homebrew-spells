@@ -27,8 +27,6 @@ When you cast the spell, a loud knock, audible from as far away as a mile, emana
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
 **Sources:** PHB, page 254
 
 **Quality Assurance:** :x: relatively unchanged

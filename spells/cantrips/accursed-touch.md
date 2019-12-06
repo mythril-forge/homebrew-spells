@@ -30,8 +30,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** PHB, page 221
 
 **References:** chill touch

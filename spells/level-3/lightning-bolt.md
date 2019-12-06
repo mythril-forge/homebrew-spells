@@ -33,10 +33,6 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** land druid, city cleric, destruction cleric
-
 **Sources:** PHB, page 255
 
 **Quality Assurance:** :star2: consistency pass

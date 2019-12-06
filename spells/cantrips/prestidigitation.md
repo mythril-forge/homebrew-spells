@@ -34,8 +34,6 @@ These effects are normally quite brief, but can last longer (at the DM's discret
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard, artificer
-
 **Sources:** PHB, page 267
 
 **Quality Assurance:** :star: personal pass

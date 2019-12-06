@@ -36,8 +36,6 @@ When you cast this spell using a spell slot of 3rd level or higher, the number o
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer
-
 **Sources:** XGE, page 156
 
 **References:** flame arrows

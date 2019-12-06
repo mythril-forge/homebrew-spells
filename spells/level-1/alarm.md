@@ -35,8 +35,6 @@ You choose the sound of the bell, which can range in volume from a gentle tinkle
 
 ---
 
-**Classes:** ranger, wizard, artificer
-
 **Sources:** PHB, page 211
 
 **Quality Assurance:** :star: personal pass

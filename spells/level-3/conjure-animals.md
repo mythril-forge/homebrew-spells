@@ -37,8 +37,4 @@ When you cast this spell using certain higher-level spell slots, you choose one 
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** primeval guardian ranger, primeval guardian ranger
-
 **Sources:** PHB, page 225

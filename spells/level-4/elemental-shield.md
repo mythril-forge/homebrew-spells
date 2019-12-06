@@ -27,8 +27,4 @@ The attacker takes `2d8` damage from the type you chose.
 
 ---
 
-**Classes:** wizard
-
-**Subclasses:** fiend warlock, undying light warlock, zeal cleric
-
 **Sources:** PHB, page 242

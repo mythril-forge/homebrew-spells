@@ -31,8 +31,6 @@ When you cast this spell using a spell slot of 2nd level or higher, both the ini
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** PHB, page 289
 
 **Quality Assurance:** :star: personal pass

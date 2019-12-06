@@ -29,8 +29,6 @@ Make a separate Attack Roll for each beam.
 
 ---
 
-**Classes:** warlock
-
 **Sources:** PHB, page 237
 
 **Quality Assurance:** :star2: consistency pass

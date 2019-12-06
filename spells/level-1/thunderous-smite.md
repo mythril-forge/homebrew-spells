@@ -30,10 +30,6 @@ Whenever this spell ends, you can immediately cast it again using the same weapo
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** stone sorcerer, zeal cleric
-
 **Sources:** PHB, page 282
 
 **Quality Assurance:** :star: personal pass

@@ -36,10 +36,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the extra da
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** forge cleric, stone sorcerer, zeal cleric, battle smith artificer
-
 **Sources:** PHB, page 274
 
 **Quality Assurance:** :star: personal pass

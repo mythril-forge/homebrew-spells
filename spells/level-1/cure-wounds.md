@@ -23,10 +23,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the healing 
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, ranger, artificer
-
-**Subclasses:** life cleric, celestial warlock, celestial warlock, divine soul sorcerer
-
 **Sources:** PHB, page 230
 
 **Quality Assurance:** :star2: consistency pass

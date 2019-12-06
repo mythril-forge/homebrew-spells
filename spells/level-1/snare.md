@@ -38,8 +38,6 @@ On a successful check, the **restrained** effect ends on the target.
 
 ---
 
-**Classes:** druid, ranger, wizard, artificer
-
 **Sources:** XGE, page 165; UA-SS, page 4
 
 **Quality Assurance:** :star: personal pass

@@ -21,10 +21,6 @@ You also gain a Damage Threshold (DT) of `5` for the duration, including against
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** forge cleric, hexblade warlock, redemption paladin, artillerist artificer
-
 **Sources:** PHB, page 275
 
 **Quality Assurance:** :star: personal pass

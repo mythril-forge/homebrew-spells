@@ -31,10 +31,6 @@ Additionally, your telepathic bond with the knowbot is effective out to a range 
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** ghost in the machine warlock
-
 **Sources:** UA-MM, page 5
 
 <!-- QA Pass: Very Poor 👎 -->

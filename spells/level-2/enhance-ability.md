@@ -47,10 +47,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ---
 
-**Classes:** bard, cleric, druid, sorcerer, artificer
-
-**Subclasses:** strength cleric, primeval guardian ranger, order cleric
-
 **Sources:** PHB, page 237
 
 **Quality Assurance:** :x: relatively unchanged

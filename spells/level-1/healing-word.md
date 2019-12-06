@@ -23,8 +23,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the healing 
 
 ---
 
-**Classes:** bard, cleric, druid
-
 **Sources:** PHB, page 250
 
 **Quality Assurance:** :star2: consistency pass

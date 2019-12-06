@@ -21,10 +21,6 @@ During this time, you gain the benefits of any special senses possessed by the b
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** totem warrior barbarian
-
 **Sources:** PHB, page 217
 
 **Quality Assurance:** :star: personal pass

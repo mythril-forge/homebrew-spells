@@ -26,8 +26,6 @@ This spell immediately ends if it is cast again before its duration expires, or 
 
 ---
 
-**Classes:** druid
-
 **Sources:** XGE, page 163
 
 **Quality Assurance:** :star: personal pass

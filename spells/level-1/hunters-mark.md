@@ -48,10 +48,6 @@ When you cast this spell using a higher level spell slot, you can maintain your 
 
 ---
 
-**Classes:** ranger
-
-**Subclasses:** vengeance paladin
-
 **Sources:** PHB, page 251
 
 **Quality Assurance:** :star: personal pass

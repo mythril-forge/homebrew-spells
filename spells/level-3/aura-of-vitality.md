@@ -26,8 +26,4 @@ This spell ends once you use its healing properties twelve times.
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** crown paladin, battle smith artificer
-
 **Sources:** PHB, page 216

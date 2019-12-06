@@ -31,8 +31,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 ---
 
-**Classes:** druid, sorcerer, warlock, wizard, artificer
-
 **Sources:** XGE, page 152
 
 **References:** create bonfire

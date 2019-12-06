@@ -34,10 +34,6 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** tempest cleric, zeal cleric, destruction cleric, artillerist artificer
-
 **Sources:** PHB, page 275
 
 **Quality Assurance:** :x: relatively unchanged

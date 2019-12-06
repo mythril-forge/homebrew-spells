@@ -26,8 +26,6 @@ You can also push your target up to 5 additional feet for each slot level used.
 
 ---
 
-**Classes:** sorcerer, wizard, mystic
-
 **Sources:** STREAM
 
 **Quality Assurance:** :star: personal pass

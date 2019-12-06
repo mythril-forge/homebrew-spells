@@ -32,8 +32,6 @@ If you let go of the weapon, its charm dissipates, and the spell ends.
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** SCAG, page 143
 
 **References:** green-flame blade

@@ -28,8 +28,6 @@ A light winks out if it exceeds the spell's range from you.
 
 ---
 
-**Classes:** bard, ranger, sorcerer, wizard, artificer
-
 **Sources:** PHB, page 230
 
 **Quality Assurance:** :star: personal pass

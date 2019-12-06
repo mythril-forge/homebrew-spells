@@ -39,8 +39,6 @@ When you cast this spell using a spell slot of 1st level or higher, the acid dam
 
 ---
 
-**Classes:** sorcerer, wizard, artificer
-
 **Sources:** PHB, page 211
 
 **Quality Assurance:** :star2: consistency pass

@@ -30,8 +30,6 @@ Make a separate Attack Roll for each beam.
 
 ---
 
-**Classes:** sorcerer, wizard, artificer
-
 **Sources:** PHB, page 271; XGE, page 156
 
 **References:** ray of frost, frostbite

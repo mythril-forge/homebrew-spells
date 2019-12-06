@@ -25,10 +25,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the target g
 
 ---
 
-**Classes:** sorcerer, warlock, wizard, artificer
-
-**Subclasses:** death cleric, undying warlock, grave cleric, raven queen warlock, grave cleric
-
 **Sources:** PHB, page 239
 
 **Quality Assurance:** :star: personal pass

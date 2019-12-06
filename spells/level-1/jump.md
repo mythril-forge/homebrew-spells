@@ -26,10 +26,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the jump dis
 
 ---
 
-**Classes:** druid, ranger, sorcerer, warlock, wizard, artificer
-
-**Subclasses:** seeker warlock, lolth warlock
-
 **Sources:** PHB, page 254
 
 **Quality Assurance:** :star: personal pass

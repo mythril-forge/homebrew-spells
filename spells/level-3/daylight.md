@@ -29,10 +29,4 @@ A creature can repeat the Saving Throw at the end of each of its turns, ending t
 
 ---
 
-**Classes:** cleric, druid, paladin, ranger, sorcerer
-
-**Subclasses:** light cleric, land druid, celestial warlock
-
-**Races:** aasimar
-
 **Sources:** PHB, page 230

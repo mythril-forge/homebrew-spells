@@ -28,8 +28,6 @@ A creature that moves through the area or ends its turn there must also succeed 
 
 ---
 
-**Classes:** wizard, artificer
-
 **Sources:** PHB, page 246
 
 **Quality Assurance:** :star: personal pass

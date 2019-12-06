@@ -22,8 +22,6 @@ For the duration, that creature has darkvision.
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer
-
 **Sources:** PHB, page 230
 
 **Quality Assurance:** :sparkles: coming along

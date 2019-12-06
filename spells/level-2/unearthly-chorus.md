@@ -30,8 +30,6 @@ On a failure, the creature becomes friendly to you and your companions for as lo
 
 ---
 
-**Classes:** bard
-
 **Sources:** UA-SS, page 4
 
 **Quality Assurance:** :star: personal pass

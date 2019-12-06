@@ -32,10 +32,6 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** light cleric, fiend warlock, celestial warlock, giant soul sorcerer
-
 **Sources:** PHB, page 220
 
 **Quality Assurance:** :star2: personal pass

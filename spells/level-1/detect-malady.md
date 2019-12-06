@@ -31,8 +31,6 @@ The spell can penetrate most barriers, but it is blocked by 3 feet of wood, 1 fo
 
 ---
 
-**Classes:** cleric, druid, paladin, ranger
-
 **Sources:** PHB, page 231
 
 **Quality Assurance:** :star: personal pass

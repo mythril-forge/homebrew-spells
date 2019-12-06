@@ -70,10 +70,6 @@ Each affected item shares the same texture, and retains the texture even if it i
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** giant soul sorcerer (cloud)
-
 **Sources:** PHB, page 260
 
 **Quality Assurance:** :star: personal pass

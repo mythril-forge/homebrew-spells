@@ -33,10 +33,6 @@ These effects are normally quite brief, but can last longer (at the DM's discret
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** arcane archer fighter
-
 **Sources:** PHB, page 236
 
 **Quality Assurance:** :star: personal pass

@@ -56,8 +56,6 @@ If a creature discerns the illusion for what it is, the illusion becomes faint t
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
 **Sources:** PHB, page 276
 
 **References:** Silent Image

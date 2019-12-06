@@ -24,10 +24,6 @@ Additionally, when an affected creature rolls a Saving Throw to end an effect ca
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** life cleric, devotion paladin, solidarity cleric, beauty cleric
-
 **Sources:** PHB, page 217
 
 **Quality Assurance:** :sparkles: coming along

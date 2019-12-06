@@ -32,10 +32,6 @@ A [*disintegrate*](./disintegrate) spell targeting the globe destroys it without
 
 ---
 
-**Classes:** wizard, artificer, artificer (revisited)
-
-**Subclasses:** protection (ua) cleric, redemption (ua) paladin, redemption paladin
-
 **Sources:** PHB, page 264
 
 <!-- QA Pass: Very Poor 👎 -->

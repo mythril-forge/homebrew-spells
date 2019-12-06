@@ -37,6 +37,4 @@ On a failed save, the creature takes `4d6` bludgeoning damage, and takes half da
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** XGE, page 170

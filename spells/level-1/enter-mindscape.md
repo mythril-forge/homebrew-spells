@@ -22,8 +22,6 @@ You can end this spell at any time (no action required).
 
 ---
 
-**Classes:** mystic
-
 **Sources:** STREAM
 
 **Quality Assurance:** :star: personal pass

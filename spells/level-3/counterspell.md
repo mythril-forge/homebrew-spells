@@ -28,10 +28,6 @@ Otherwise, your bonus to the Intelligence Saving Throw increases by 1 for each s
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
-**Subclasses:** redemption paladin
-
 **Sources:** PHB, page 228
 
 **Quality Assurance:** :sparkles: modified but not perfected
