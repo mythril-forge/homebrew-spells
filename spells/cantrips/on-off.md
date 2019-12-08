@@ -19,7 +19,7 @@
 ---
 
 ## Description
-This spell allows you to activate or deactivate any device within range, as long it has a clearly defined on or off function&mdash;such as a button or switch&mdash;that is readily accessible from the outside of the device.
+This spell allows you to activate or deactivate any device within range, as long it has a clearly defined on or off function—such as a button or switch—that is readily accessible from the outside of the device.
 The function must be able to fit within a 5-foot-long cube originating from a point that you can see within range.
 Any device that requires a software-based shutdown sequence to activate or deactivate cannot be affected by this spell.
 
@@ -27,4 +27,4 @@ Any device that requires a software-based shutdown sequence to activate or deact
 
 **Sources:** UA-MM, page 7
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass

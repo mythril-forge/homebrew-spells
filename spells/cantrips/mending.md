@@ -30,4 +30,4 @@ This spell can physically repair a magic item or construct, but the spell can't 
 
 **Sources:** PHB, page 259
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass

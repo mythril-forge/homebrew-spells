@@ -16,10 +16,9 @@
 
 ## Description
 You wrangle a semi-physical lash out of pure lightning energy.
-The lash spouts from your free hand, and lasts for the duration.
+The lash of lightning forms in your free hand, and lasts for the duration.
 The lash has the same statistics as an ordinary *whip* with the following properties:
 - The whip sheds dim light in a 10-foot radius.
-- The whip has a reach of 15 feet.
 - The whip is considered magical.
 - The whip deals `1d4` lightning damage on a hit.
 - If you hit a creature that is within 5 feet of you with a Melee Weapon Attack using this whip, then it deals an extra `1d4` lightning damage.
@@ -31,4 +30,4 @@ The whip disappears once the spell ends.
 
 **Sources:** SCAG, page 143
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass
