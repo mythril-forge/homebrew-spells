@@ -29,7 +29,7 @@ You can direct the water to create one of the following effects:
 - You change the flow of the water as you direct, and can continue to do so until the end of your next turn (no action required).
 - You can cause the water's phase to transform into mist or ice, or vice versa.
 - You change the color or opacity of the water within the cube.
-- You cause simple shapes&mdash;such as the vague form of a creature, an inanimate object, or a location&mdash;to appear within the water.
+- You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the water.
 	This effect lasts until the end of your next turn.
 
 ---

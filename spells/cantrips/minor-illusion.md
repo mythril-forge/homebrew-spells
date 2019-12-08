@@ -36,7 +36,7 @@ For example, a visual illusion remains unmoving in its place, and an audible ill
 However when you first cast this spell, and then later as an action, you can control and dynamically alter the illusion's properties in any way that you desire until the end of your next turn.
 
 ### Sight
-If you create an image, it can take the form of an object&mdash;such as a chair, muddy footprints, or a small chest&mdash;or any shape that you desire, but it must be no larger than a 5-foot-long cube.
+If you create an image, it can take the form of an object—such as a chair, muddy footprints, or a small chest—or any shape that you desire, but it must be no larger than a 5-foot-long cube.
 The image remains there for the duration.
 
 The image can't create sound, light, smell, or any other sensory effect.

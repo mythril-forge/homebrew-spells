@@ -31,7 +31,7 @@ You can sculpt the earth to create one of the following effects:
 - You roughen, loosen, and shape the ground in the area to become difficult terrain.
 - You smooth, solidify, and shape the ground in the area to become fair terrain.
 - If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away.
-- You cause shapes and colors to appear on surfaces&mdash;spelling out words, creating images, or shaping patterns.
+- You cause shapes and colors to appear on surfaces—spelling out words, creating images, or shaping patterns.
 
 ---
 

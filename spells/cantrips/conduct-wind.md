@@ -26,7 +26,7 @@ You can command the air to create one of the following effects:
 - You focus this spell on a creature within the spell's area, attempting to blow them aside with a strong gust.
 	The target must succeed on a Strength Saving Throw or be pushed 10 feet in a direction of your choice.
 	The target must be *medium* or smaller, otherwise it automatically succeeds on this Saving Throw.
-- You create some harmless sensory effect using the air&mdash;causing airy flourishes in your clothes, blasting doors open, or rustling foliage in the area.
+- You create some harmless sensory effect using the air—causing airy flourishes in your clothes, blasting doors open, or rustling foliage in the area.
 	This effect lasts until the end of your next turn.
 
 ---

@@ -35,7 +35,7 @@ You can compel the flames to create one of the following effects:
 	- It spreads more slowly.
 	- It extinguishes if you command it to.
 - You change the flame's color.
-- You cause simple shapes&mdash;such as the vague form of a creature, an inanimate object, or a location&mdash;to appear within the flames.
+- You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames.
 	This effect lasts until the end of your next turn.
 
 ---
