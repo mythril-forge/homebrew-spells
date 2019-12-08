@@ -25,9 +25,10 @@ Whichever form you choose, each light sheds dim light in a 10-foot radius.
 
 You can use your bonus action to move any number of the lights up to a distance of 120 feet.
 A light winks out if it exceeds the spell's range from you.
+You can dismiss the magic on any number of lights at any time (no action required).
 
 ---
 
 **Sources:** PHB, page 230
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: personal pass
