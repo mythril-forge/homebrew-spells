@@ -34,7 +34,7 @@ At any time for the duration of the spell, you can use your action to change you
 You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
 Your unarmed strikes deal `1d6` bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes.
 Alternatively, these appendages can mimic any weapon of your choosing, such as a greatsword or whip.
-Finally, the natural weapon is magic and you have a `+1` magical bonus to the attack and damage rolls you make using it.
+Finally, the natural weapon is magic and you have a `+1` magical bonus to the Attack & Damage Rolls you make using it.
 
 ### Sprout Wings
 You adapt your body for flight, sprouting large, unwieldly wings and losing body weight.

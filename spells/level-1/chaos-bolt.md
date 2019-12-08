@@ -31,7 +31,7 @@ The number rolled on that die determines the attack's damage type, as shown on t
 | 6    | Lightning   |
 
 If you roll two of the same numbers on any pair of `d6`s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it.
-Make a new Attack Roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+Make a new Attack & Damage Roll against the new target, which could cause the chaotic energy to leap again.
 A creature can be targeted only once by each casting of this spell.
 
 ---

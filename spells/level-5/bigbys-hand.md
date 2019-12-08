@@ -36,7 +36,7 @@ On a hit, the target takes `4d8` force damage.
 The hand attempts to push a creature within 5 feet of it in a direction you choose.
 Make a check with the hand's Strength contested by the Strength Ability Check of the target.
 If the target is *medium* or smaller, you have advantage on the check.
-If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier.
+If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your Spellcasting Ability Modifier.
 The hand moves with the target to remain within 5 feet of it.
 
 ### Grasping Hand
@@ -44,7 +44,7 @@ The hand attempts to grapple a *huge* or smaller creature within 5 feet of it.
 You use the hand's Strength Score to resolve the grapple.
 If the target is *medium* or smaller, you have advantage on the check.
 While the hand is grappling the target, you can use a bonus action to have the hand crush it.
-When you do so, the target takes bludgeoning damage equal to `2d6` + your spellcasting ability modifier.
+When you do so, the target takes bludgeoning damage equal to `2d6` + your Spellcasting Ability Modifier.
 
 ### Interposing Hand
 The hand interposes itself between you and a creature you choose until you give the hand a different command.
