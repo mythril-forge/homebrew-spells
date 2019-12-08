@@ -19,22 +19,22 @@
 ---
 
 ## Description
-You meld an area of dirt or stone, which must fit within a 5-foot-long cube originating from a point on the ground that you can see within range.
-You can sculpt the earth in one of the following ways:
-- You focus this spell on a creature or object that you can see within 5 feet of the spell's area, blasting chunks of dirt and stone at the target.
+You knead a mass of dirt or stone, which must fit within a 5-foot-long cube originating from a point on the ground that you can see within range.
+You can sculpt the earth to create one of the following effects:
+- You focus this spell on a creature within 5 feet of the spell's area, blasting chunks of dirt and stone at the target.
 	The target must succeed on a Dexterity Saving Throw or take `1d6` bludgeoning damage.
 	The ground in the area then becomes difficult terrain.
-- You focus this spell on a creature or object that you can see within 5 feet of the spell's area, attempting to trip them with grasping bumps and hooks.
+- You focus this spell on a creature within 5 feet of the spell's area, attempting to trip them with hooking bumps and debris.
 	The target must succeed on a Dexterity Saving Throw or fall **prone**.
-	The target must be *large* or smaller, otherwise it automatically succeeds on this Saving Throw.
+	The target must be *medium* or smaller, otherwise it automatically succeeds on this Saving Throw.
 	The ground in the area then becomes difficult terrain.
 - You roughen, loosen, and shape the ground in the area to become difficult terrain.
 - You smooth, solidify, and shape the ground in the area to become fair terrain.
 - If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away.
-- You cause shapes, colors, or both to appear on the dirt or stone&mdash;spelling out words, creating images, or shaping patterns.
+- You cause shapes and colors to appear on surfaces&mdash;spelling out words, creating images, or shaping patterns.
 
 ---
 
 **Sources:** XGE, page 162
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: personal pass

@@ -19,9 +19,9 @@
 ---
 
 ## Description
-You seize control of an area of flame, which must fit within a 5-foot-long cube originating from a point that you can see within range.
-You can command the flame in one of the following ways:
-- You focus this spell on a creature or object that you can see within 10 feet of the spell's area, discharging the blaze out toward it.
+You stir a region of fire, which must fit within a 5-foot-long cube originating from a point that you can see within range.
+You can compel the flames to create one of the following effects:
+- You focus this spell on a creature within 10 feet of the spell's area, discharging the blaze out toward it.
 	The target must succeed on a Dexterity Saving Throw or take `1d10` fire damage.
 	The flame in the area then extinguishes.
 - You intensify the flames:
@@ -35,10 +35,11 @@ You can command the flame in one of the following ways:
 	- It spreads more slowly.
 	- It extinguishes if you command it to.
 - You change the flame's color.
-- You cause simple shapes to appear within the flames&mdash;such as the vague form of a creature, an inanimate object, or a location&mdash;and animate as you like until the end of your next turn.
+- You cause simple shapes&mdash;such as the vague form of a creature, an inanimate object, or a location&mdash;to appear within the flames.
+	This effect lasts until the end of your next turn.
 
 ---
 
 **Sources:** XGE, page 152
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: personal pass

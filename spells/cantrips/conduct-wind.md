@@ -19,14 +19,14 @@
 ---
 
 ## Description
-You conduct an area of wind, which must fit within a 5-foot-long cube originating from a point that you can see within range.
-You can guide the wind in one of the following ways:
-- You focus this spell on a creature or object that you can see within the spell's area, weaponizing the wind around it as you desire.
+You seize an area of wind, which must fit within a 5-foot-long cube originating from a point that you can see within range.
+You can command the air to create one of the following effects:
+- You focus this spell on a creature within the spell's area, weaponizing the wind around it as you desire.
 	The target must succeed on a Strength Saving Throw or take `1d4` bludgeoning, piercing, or slashing damage (your choice).
-- You focus this spell on a creature or object that you can see within the spell's area, attempting to blow them aside with a strong gust.
+- You focus this spell on a creature within the spell's area, attempting to blow them aside with a strong gust.
 	The target must succeed on a Strength Saving Throw or be pushed 5 feet in a direction of your choice.
 	The target must be *medium* or smaller, otherwise it automatically succeeds on this Saving Throw.
-- You create some harmless sensory effect using the air&mdash;such as causing airy flourishes in your clothes or hair, blasting doors open or closed, or rustling foliage in the area.
+- You create some harmless sensory effect using the air&mdash;causing airy flourishes in your clothes, blasting doors open, or rustling foliage in the area.
 	This effect lasts until the end of your next turn.
 
 ---
@@ -35,4 +35,4 @@ You can guide the wind in one of the following ways:
 
 **References:** gust
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: personal pass
