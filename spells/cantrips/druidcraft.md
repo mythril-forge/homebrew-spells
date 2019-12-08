@@ -16,7 +16,7 @@
 
 ## Description
 Whispering to the spirits of nature, you create one of the following effects within range:
-- You create a tiny natural effect, such as a showering of snowflakes, a puff of cloud, a golden orb of sunlight, and so on.
+- You create a miniature natural effect, such as a showering of snowflakes, a puff of cloud, a golden orb of sunlight, and so on.
 - Your magic inspires the wildlife around you, such that you can instantly make flowers blossom, cause seed pods to open, spawn a troop of mushrooms, or amplify natural fragrances.
 - You harmlessly affect the environment around you.
 	You might conjure falling leaves, create breezes in the wind, or provoke chattering among small animals nearby.
@@ -29,7 +29,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 These effects are normally quite brief, but can last longer (at the DM's discretion) depending on the nature of the spell's specific casting.
 
 > *Druidcraft* is a powerful roleplaying tool in that the spell's scope is not very limited by its description.
-> The spell creates only mild effects, but the breadth of this minor power is bounded only by your imagination.
+> The spell creates only modest effects, but the breadth of this minor power is bounded only by your imagination.
 
 ---
 

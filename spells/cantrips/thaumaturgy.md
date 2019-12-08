@@ -21,7 +21,7 @@ You create one of the following magical effects within range:
 - Your voice temporarily booms up to three times as loud as normal.
 - You affect small objects around you, causing unlocked containers, doors, and windows to fly open and slam shut.
 	Unsecured items near you might fling around aimlessly.
-- You call upon a force, and supernatural forces reciprocate&mdash;producing rumbles of thunder, cries of a raven, ominous whispers, light footsteps and more.
+- You call upon a force, and supernatural forces reciprocate—producing rumbles of thunder, cries of a raven, ominous whispers, light footsteps, and more.
 - You cause strange, minor anomolies in the laws of physics.
 	You briefly affect gravity, time, space, and other phenomena.
 - You cause flames to flicker, brighten, dim, or change color.
@@ -31,10 +31,10 @@ You create one of the following magical effects within range:
 These effects are normally quite brief, but can last longer (at the DM's discretion) depending on the nature of the spell's specific casting.
 
 > *Thaumaturgy* is a powerful roleplaying tool in that the spell's scope is not very limited by its description.
-> The spell creates only mild effects, but the breadth of this minor power is bounded only by your imagination.
+> The spell creates only modest effects, but the breadth of this minor power is bounded only by your imagination.
 
 ---
 
 **Sources:** PHB, page 282
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: personal pass
