@@ -42,4 +42,4 @@ You can compel the flames to create one of the following effects:
 
 **Sources:** XGE, page 152
 
-**Quality Assurance:** :star2: personal pass
+**Quality Assurance:** :star2: consistency pass

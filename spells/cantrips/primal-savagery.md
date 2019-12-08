@@ -28,4 +28,4 @@ This spell immediately ends if it is cast again before its duration expires, or 
 
 **Sources:** XGE, page 163
 
-**Quality Assurance:** :star2: personal pass
+**Quality Assurance:** :star2: consistency pass

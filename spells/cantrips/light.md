@@ -29,4 +29,4 @@ If you target an object held or worn by a creature, that creature can make a Dex
 
 **Sources:** PHB, page 255
 
-**Quality Assurance:** :star2: personal pass
+**Quality Assurance:** :star2: consistency pass

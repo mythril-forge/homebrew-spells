@@ -35,4 +35,4 @@ You can command the air to create one of the following effects:
 
 **References:** gust
 
-**Quality Assurance:** :star2: personal pass
+**Quality Assurance:** :star2: consistency pass

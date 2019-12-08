@@ -37,4 +37,4 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 **References:** create bonfire
 
-**Quality Assurance:** :star2: personal pass
+**Quality Assurance:** :star2: consistency pass

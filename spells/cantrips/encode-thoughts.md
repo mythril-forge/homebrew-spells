@@ -28,6 +28,6 @@ Casting [*detect thoughts*][detect thoughts] on the strand has the same effect.
 
 **Sources:** GGR, page 47
 
-**Quality Assurance:** :star2: personal pass
+**Quality Assurance:** :star2: consistency pass
 
 [detect thoughts]: ../level-2/detect-thoughts.md

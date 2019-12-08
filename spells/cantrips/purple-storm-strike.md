@@ -33,4 +33,4 @@ If you let go of the weapon, its charm dissipates, and the spell ends.
 
 **Referenced Spells:** booming blade
 
-**Quality Assurance:** :star2: personal pass
+**Quality Assurance:** :star2: consistency pass

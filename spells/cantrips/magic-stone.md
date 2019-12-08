@@ -34,4 +34,4 @@ The stones lose this magic once the spell ends.
 
 **Sources:** XGE, page 160
 
-**Quality Assurance:** :star2: personal pass
+**Quality Assurance:** :star2: consistency pass

@@ -42,4 +42,4 @@ If this spell is not cast again within a mile of you before the end of the next 
 
 **Sources:** XGE, page 169; UA-SS, page 4
 
-**Quality Assurance:** :star2: personal pass
+**Quality Assurance:** :star2: consistency pass

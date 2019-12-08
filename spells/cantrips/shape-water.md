@@ -36,4 +36,4 @@ You can direct the water to create one of the following effects:
 
 **Sources:** XGE, page 164
 
-**Quality Assurance:** :star2: personal pass
+**Quality Assurance:** :star2: consistency pass
