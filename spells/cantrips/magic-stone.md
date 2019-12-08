@@ -22,8 +22,8 @@ You or someone else can take a stone and use it in a Weapon Attack.
 A stone can be used as an improvised weapon.
 It can also be used as ammunition, and can be used normally with a sling or a similar weapon that hurls stones.
 In either case, a stone has the following properties:
-- A stone is considered magical (if it isn't already).
-- A stone has a magical bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
+- A stone is considered magical.
+- A stone has a magical bonus to Attack & Damage Rolls equal to half your Spellcasting Ability Modifier (rounded down).
 
 The magic on a stone dissipates after it is used in an attack.
 You can dismiss the magic on any number of stones at any time (no action required).
@@ -34,4 +34,4 @@ The stones lose this magic once the spell ends.
 
 **Sources:** XGE, page 160
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: personal pass
