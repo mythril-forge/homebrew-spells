@@ -34,4 +34,4 @@ When you cast this spell using a spell slot of 1st level or higher, the cube gen
 
 **References:** create bonfire
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: personal pass
