@@ -15,7 +15,7 @@
 ---
 
 ## Description
-You touch a **dying** creature that is still alive.
+You touch a **dying** creature.
 The creature regains `1d4` hit points.
 This spell has no effect on undead or constructs.
 
