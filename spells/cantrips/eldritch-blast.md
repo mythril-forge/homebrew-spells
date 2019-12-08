@@ -15,7 +15,7 @@
 ---
 
 ## Description
-A beam of crackling energy streaks toward a creature within range.
+A beam of crackling energy streaks toward a creature or object within range.
 Make a Ranged Spell Attack against the target.
 On a hit, the target takes `1d8` lightning damage.
 

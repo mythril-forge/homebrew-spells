@@ -19,7 +19,7 @@ A flickering flame appears in your hand.
 When you cast this spell, you can choose to immediately hurl the flame, or carry it with you.
 
 ### Hurl Flame
-You hurl the the mass of flame at a creature or object that you can see within range.
+You hurl the the mass of flame at a creature or object within range.
 Make a Ranged Spell Attack against your target.
 On a hit, the target takes `1d10` fire damage.
 
@@ -27,7 +27,7 @@ On a hit, the target takes `1d10` fire damage.
 The flame lingers harmlessly in your hand, shedding bright light in a 20-foot radius.
 You can sustain this flame indefinately.
 Equipping an item in this hand extinguishes the flame and ends the spell.
-You can extinguish the flame if you choose to dismiss it (no action required).
+You can end the spell if you choose to dismiss it (no action required).
 If you have two or more hands, you can maintain an instance of this spell in each of your hands.
 
 You can also use a bonus action to hurl the held flame, although doing so ends the spell.
