@@ -4,7 +4,7 @@
 
 ***0th-level psionic***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
 **Duration:** instantaneous
 
@@ -15,10 +15,11 @@
 ---
 
 ## Description
-You muster a metaphysical ball of force with your mind, and project it toward one creature you can see within range.
+You muster a metaphysical ball of force with your mind, and project it toward one creature or object within range.
 Make a Ranged Spell Attack against the target.
 On a hit, the target takes `1d4` force damage.
-If the target that you hit *medium* or smaller, you can also push it up to 5 feet away from you.
+
+If the target that you hit is *large* or smaller, then it also is pushed 5 feet away from you.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 1st level or higher, the damage increases by `1d4` for each slot level.
