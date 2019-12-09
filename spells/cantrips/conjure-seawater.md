@@ -19,8 +19,8 @@
 ---
 
 ## Description
-You conjure chilled ocean mists inside a 5-foot-long cube originating from a point that you can see within range, which obscures its area.
-Any air or water that enters the cube's space slowly becomes cold and briny.
+You conjure chilled ocean mists inside a 5-foot-long cube originating from a point that you can see within range.
+The area becomes obscured, and any air or water that enters the cube's space slowly becomes cold and briny.
 
 Once per round, you can cause the cube to spew out 5 gallons of saltwater as a bonus action.
 The water spills and pours from the cube unless there is something to contain it.
