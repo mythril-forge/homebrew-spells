@@ -30,4 +30,4 @@ The spell doesn't have to follow a straight line to its target and can travel fr
 
 **Sources:** PHB, page 259
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass
