@@ -1,22 +1,14 @@
 # Illusory Projection
-
 - [x] Homebrew
 
 ***1st-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 60 feet
-
-**Shape:** cube
-
-**Length:** 15 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a bit of fleece
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 60 feet
+- **Shape:** cube
+- **Length:** 15 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a bit of fleece
 
 ---
 

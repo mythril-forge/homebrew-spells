@@ -1,16 +1,11 @@
 # Daylight
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 90 feet
+- **Tags:** verbal, somatic
 
 ---
 

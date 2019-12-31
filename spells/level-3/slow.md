@@ -1,24 +1,15 @@
 # Slow
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 120 feet
-
-**Shape:** cube
-
-**Length:** 40 feet
-
-**Instances:** 6
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a drop of molasses
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 120 feet
+- **Shape:** cube
+- **Length:** 40 feet
+- **Instances:** 6
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a drop of molasses
 
 ---
 

@@ -1,16 +1,11 @@
 # Blink
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, somatic
 
 ---
 

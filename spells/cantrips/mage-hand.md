@@ -1,16 +1,11 @@
 # Mage Hand
-
 - [x] Homebrew
 
 ***0th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** indefinate
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** indefinate
+- **Range:** 30 feet
+- **Tags:** verbal, somatic
 
 ---
 

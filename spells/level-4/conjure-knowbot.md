@@ -1,16 +1,11 @@
 # Conjure Knowbot
-
 - [x] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

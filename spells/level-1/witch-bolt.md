@@ -1,18 +1,12 @@
 # Witch Bolt
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a twig from a tree that has been struck by lightning
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a twig from a tree that has been struck by lightning
 
 ---
 

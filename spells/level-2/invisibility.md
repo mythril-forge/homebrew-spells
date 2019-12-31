@@ -1,18 +1,12 @@
 # Invisibility
-
 - [x] Homebrew
 
 ***2nd-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** an eyelash encased in gum arabic
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** an eyelash encased in gum arabic
 
 ---
 

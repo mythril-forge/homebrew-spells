@@ -1,22 +1,14 @@
 # Cordon of Arrows
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 12 hours
-
-**Range:** 5 feet
-
-**Shape:** sphere
-
-**Radius:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** four or more arrows or bolts
+- **Casting Time:** action
+- **Duration:** 12 hours
+- **Range:** 5 feet
+- **Shape:** sphere
+- **Radius:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** four or more arrows or bolts
 
 ---
 

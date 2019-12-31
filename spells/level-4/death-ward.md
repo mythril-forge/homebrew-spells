@@ -1,16 +1,11 @@
 # Death Ward
-
 - [ ] Homebrew
 
 ***4th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 8 hours
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 8 hours
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

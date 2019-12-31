@@ -1,16 +1,11 @@
 # Blight
-
 - [ ] Homebrew
 
 ***4th-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Tags:** verbal, somatic
 
 ---
 

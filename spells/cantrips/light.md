@@ -1,18 +1,12 @@
 # Light
-
 - [x] Homebrew
 
 ***0th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 day
-
-**Range:** touch
-
-**Tags:** verbal, material
-
-**Material Components:** a firefly or phosphorescent moss
+- **Casting Time:** action
+- **Duration:** 1 day
+- **Range:** touch
+- **Tags:** verbal, material
+- **Material Components:** a firefly or phosphorescent moss
 
 ---
 

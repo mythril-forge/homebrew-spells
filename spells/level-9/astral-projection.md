@@ -1,20 +1,13 @@
 # Astral Projection
-
 - [ ] Homebrew
 
 ***9th-level necromancy***
-
-**Casting Time:** 1 hour
-
-**Duration:** special
-
-**Range:** 10 feet
-
-**Instances:** 9
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes
+- **Casting Time:** 1 hour
+- **Duration:** special
+- **Range:** 10 feet
+- **Instances:** 9
+- **Tags:** verbal, somatic, material
+- **Material Components:** for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes
 
 ---
 

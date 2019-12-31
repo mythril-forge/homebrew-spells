@@ -1,18 +1,12 @@
 # Psychic Scream
-
 - [ ] Homebrew
 
 ***9th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 90 feet
-
-**Instances:** 10
-
-**Tags:** somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 90 feet
+- **Instances:** 10
+- **Tags:** somatic
 
 ---
 

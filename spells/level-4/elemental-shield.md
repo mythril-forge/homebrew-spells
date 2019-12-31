@@ -1,18 +1,12 @@
 # Elemental Shield
-
 - [x] Homebrew
 
 ***4th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a bit of phosphorus or a firefly
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, material
+- **Material Components:** a bit of phosphorus or a firefly
 
 ---
 

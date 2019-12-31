@@ -1,16 +1,11 @@
 # Contact Other Plane
-
 - [ ] Homebrew
 
 ***5th-level divination***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 minute
-
-**Range:** self
-
-**Tags:** verbal, ritual
+- **Casting Time:** 1 minute
+- **Duration:** 1 minute
+- **Range:** self
+- **Tags:** verbal, ritual
 
 ---
 

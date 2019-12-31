@@ -1,18 +1,12 @@
 # Programmed Illusion
-
 - [ ] Homebrew
 
 ***6th-level illusion***
-
-**Casting Time:** action
-
-**Duration:** indefinate
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a bit of fleece and jade dust worth at least 25 gp
+- **Casting Time:** action
+- **Duration:** indefinate
+- **Range:** 120 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a bit of fleece and jade dust worth at least 25 gp
 
 ---
 

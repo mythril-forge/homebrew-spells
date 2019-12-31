@@ -1,16 +1,11 @@
 # Tree Stride
-
 - [ ] Homebrew
 
 ***5th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** self
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** self
+- **Tags:** verbal, somatic, concentration
 
 ---
 

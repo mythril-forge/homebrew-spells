@@ -1,18 +1,12 @@
 # Blazing Battery
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** nine pieces of ammunition
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** nine pieces of ammunition
 
 ---
 

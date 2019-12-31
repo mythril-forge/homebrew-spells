@@ -1,24 +1,15 @@
 # Haste
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Shape:** cube
-
-**Length:** 10 feet
-
-**Instances:** 2
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a shaving of licorice root
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Shape:** cube
+- **Length:** 10 feet
+- **Instances:** 2
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a shaving of licorice root
 
 ---
 

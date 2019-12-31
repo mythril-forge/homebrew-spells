@@ -1,20 +1,13 @@
 # Dancing Lights
-
 - [x] Homebrew
 
 ***0th-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** indefinate
-
-**Range:** 120 feet
-
-**Instances:** 6
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a bit of phosphorus or wychwood, or a glowworm
+- **Casting Time:** bonus action
+- **Duration:** indefinate
+- **Range:** 120 feet
+- **Instances:** 6
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a bit of phosphorus or wychwood, or a glowworm
 
 ---
 

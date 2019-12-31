@@ -1,22 +1,14 @@
 # Hallucinatory Terrain
-
 - [ ] Homebrew
 
 ***4th-level illusion***
-
-**Casting Time:** 10 minutes
-
-**Duration:** 1 day
-
-**Range:** 300 feet
-
-**Shape:** cube
-
-**Length:** 150 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a stone, a twig, and a bit of green plant
+- **Casting Time:** 10 minutes
+- **Duration:** 1 day
+- **Range:** 300 feet
+- **Shape:** cube
+- **Length:** 150 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a stone, a twig, and a bit of green plant
 
 ---
 

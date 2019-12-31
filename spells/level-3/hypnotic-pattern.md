@@ -1,22 +1,14 @@
 # Hypnotic Pattern
-
 - [x] Homebrew
 
 ***3rd-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 120 feet
-
-**Shape:** sphere
-
-**Radius*:** 20 feet
-
-**Tags:** somatic, material, concentration
-
-**Material Components:** a glowing stick of incense or a crystal vial filled with phosphorescent material
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 120 feet
+- **Shape:** sphere
+- **Radius*:** 20 feet
+- **Tags:** somatic, material, concentration
+- **Material Components:** a glowing stick of incense or a crystal vial filled with phosphorescent material
 
 ---
 

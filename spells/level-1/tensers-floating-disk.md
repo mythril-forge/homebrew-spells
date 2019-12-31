@@ -1,18 +1,12 @@
 # Tenser's Floating Disk
-
 - [x] Homebrew
 
 ***1st-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a drop of mercury
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a drop of mercury
 
 ---
 

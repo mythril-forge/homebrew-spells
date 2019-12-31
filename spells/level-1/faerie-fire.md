@@ -1,20 +1,13 @@
 # Faerie Fire
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 90 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 90 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal
 
 ---
 

@@ -1,16 +1,11 @@
 # Mirror Image
-
 - [x] Homebrew
 
 ***2nd-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, somatic
 
 ---
 

@@ -1,16 +1,11 @@
 # Mind Fist
-
 - [x] Homebrew
 
 ***0th-level psionic***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Tags:** somatic
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Tags:** somatic
 
 ---
 

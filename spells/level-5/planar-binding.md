@@ -1,18 +1,12 @@
 # Planar Binding
-
 - [ ] Homebrew
 
 ***5th-level abjuration***
-
-**Casting Time:** 1 hour
-
-**Duration:** 1 day
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a jewel worth at least 1,000 gp, which the spell consumes
+- **Casting Time:** 1 hour
+- **Duration:** 1 day
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a jewel worth at least 1,000 gp, which the spell consumes
 
 ---
 

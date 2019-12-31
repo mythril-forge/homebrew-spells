@@ -1,18 +1,12 @@
 # System Backdoor
-
 - [x] Homebrew
 
 ***4th-level transmutation***
-
-**Casting Time:** 5 minutes
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** hacking tools
+- **Casting Time:** 5 minutes
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** hacking tools
 
 ---
 

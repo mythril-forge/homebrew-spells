@@ -1,22 +1,14 @@
 # Thunder Step
-
 - [x] Homebrew
 
 ***3rd-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Instances:** 2
-
-**Shape:** aura
-
-**Radius:** 10 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Instances:** 2
+- **Shape:** aura
+- **Radius:** 10 feet
+- **Tags:** verbal
 
 ---
 

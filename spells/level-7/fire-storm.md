@@ -1,20 +1,13 @@
 # Fire Storm
-
 - [ ] Homebrew
 
 ***7th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 150 feet
-
-**Shape:** cube
-
-**Length:** 10 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 150 feet
+- **Shape:** cube
+- **Length:** 10 feet
+- **Tags:** verbal, somatic
 
 ---
 

@@ -1,18 +1,12 @@
 # Ceremony
-
 - [x] Homebrew
 
 ***1st-level abjuration***
-
-**Casting Time:** 1 hour
-
-**Duration:** instantaneous
-
-**Range:** 10 feet
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** 250 sp worth of powdered silver, which the spell consumes
+- **Casting Time:** 1 hour
+- **Duration:** instantaneous
+- **Range:** 10 feet
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** 250 sp worth of powdered silver, which the spell consumes
 
 ---
 

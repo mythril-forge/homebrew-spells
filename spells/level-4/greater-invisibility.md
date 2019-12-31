@@ -1,16 +1,11 @@
 # Greater Invisibility
-
 - [ ] Homebrew
 
 ***4th-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** touch
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** touch
+- **Tags:** verbal, somatic, concentration
 
 ---
 

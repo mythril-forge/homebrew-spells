@@ -1,16 +1,11 @@
 # Illusory Dragon
-
 - [ ] Homebrew
 
 ***8th-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 120 feet
-
-**Tags:** somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 120 feet
+- **Tags:** somatic, concentration
 
 ---
 

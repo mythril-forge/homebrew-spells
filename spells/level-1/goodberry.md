@@ -1,18 +1,12 @@
 # Goodberry
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a bounty of dried berries worth atleast 25 cp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a bounty of dried berries worth atleast 25 cp, which the spell consumes
 
 ---
 

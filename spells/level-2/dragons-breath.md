@@ -1,18 +1,12 @@
 # Dragon's Breath
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a thematically appropriate food item, such as a hot pepper or frozen blueberry, which the spell consumes
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a thematically appropriate food item, such as a hot pepper or frozen blueberry, which the spell consumes
 
 ---
 

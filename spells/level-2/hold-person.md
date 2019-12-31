@@ -1,18 +1,12 @@
 # Hold Person
-
 - [x] Homebrew
 
 ***2nd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a small, straight piece of iron
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a small, straight piece of iron
 
 ---
 

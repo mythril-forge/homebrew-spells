@@ -1,16 +1,11 @@
 # Shocking Grasp
-
 - [x] Homebrew
 
 ***0th-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

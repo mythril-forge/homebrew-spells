@@ -1,18 +1,12 @@
 # Unseen Servant
-
 - [x] Homebrew
 
 ***1st-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a piece of string and a bit of wood
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a piece of string and a bit of wood
 
 ---
 

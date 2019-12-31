@@ -1,16 +1,11 @@
 # Shield
-
 - [x] Homebrew
 
 ***1st-level abjuration***
-
-**Casting Time:** reaction (which you take when you are hit by an attack, or when you take damage)
-
-**Duration:** 1 round
-
-**Range:** self
-
-**Tags:** verbal, somatic
+- **Casting Time:** reaction (which you take when you are hit by an attack, or when you take damage)
+- **Duration:** 1 round
+- **Range:** self
+- **Tags:** verbal, somatic
 
 ---
 

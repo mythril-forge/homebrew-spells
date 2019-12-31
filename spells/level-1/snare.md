@@ -1,20 +1,13 @@
 # Snare
-
 - [x] Homebrew
 
 ***1st-level abjuration***
-
-**Casting Time:** 5 minutes
-
-**Duration:** activated (a creature of a particular size enters the trap)
-
-**Range:** touch
-
-**Shape:** special
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** 50 feet of rope worth atleast 1 sp, which the spell consumes
+- **Casting Time:** 5 minutes
+- **Duration:** activated (a creature of a particular size enters the trap)
+- **Range:** touch
+- **Shape:** special
+- **Tags:** verbal, somatic, material
+- **Material Components:** 50 feet of rope worth atleast 1 sp, which the spell consumes
 
 ---
 

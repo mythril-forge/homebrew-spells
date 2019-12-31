@@ -1,18 +1,12 @@
 # Magic Mouth
-
 - [x] Homebrew
 
 ***2nd-level illusion***
-
-**Casting Time:** 5 minutes
-
-**Duration:** indefinate
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a small bit of honeycomb and jade dust worth at least 10 sp, which the spell consumes
+- **Casting Time:** 5 minutes
+- **Duration:** indefinate
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a small bit of honeycomb and jade dust worth at least 10 sp, which the spell consumes
 
 ---
 

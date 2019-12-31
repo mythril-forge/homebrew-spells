@@ -1,20 +1,13 @@
 # Bless
-
 - [x] Homebrew
 
 ***1st-level divination***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Instances:** 3
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a sprinkling of holy water
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Instances:** 3
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a sprinkling of holy water
 
 ---
 

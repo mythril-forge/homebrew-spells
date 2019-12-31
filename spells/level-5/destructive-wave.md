@@ -1,20 +1,13 @@
 # Destructive Wave
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** sphere
-
-**Radius:** 30 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** sphere
+- **Radius:** 30 feet
+- **Tags:** verbal
 
 ---
 

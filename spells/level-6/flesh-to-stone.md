@@ -1,18 +1,12 @@
 # Flesh to Stone
-
 - [ ] Homebrew
 
 ***6th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a pinch of lime, water, and earth
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a pinch of lime, water, and earth
 
 ---
 

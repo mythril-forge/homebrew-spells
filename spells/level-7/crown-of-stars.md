@@ -1,16 +1,11 @@
 # Crown of Stars
-
 - [ ] Homebrew
 
 ***7th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** verbal, somatic
 
 ---
 

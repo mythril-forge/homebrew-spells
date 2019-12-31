@@ -1,18 +1,12 @@
 # Jump
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a grasshopper's hind leg
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a grasshopper's hind leg
 
 ---
 

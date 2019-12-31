@@ -1,18 +1,12 @@
 # Create Healing Elixir
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** 1 hour
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** alchemist's supplies and 175 sp worth of raw materials, which the spell consumes
+- **Casting Time:** 1 hour
+- **Duration:** instantaneous
+- **Range:** self
+- **Tags:** verbal, somatic, material
+- **Material Components:** alchemist's supplies and 175 sp worth of raw materials, which the spell consumes
 
 ---
 

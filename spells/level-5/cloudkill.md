@@ -1,20 +1,13 @@
 # Cloudkill
-
 - [ ] Homebrew
 
 ***5th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 120 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 120 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

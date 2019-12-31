@@ -1,22 +1,14 @@
 # Major Illusion
-
 - [x] Homebrew
 
 ***3rd-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 600 feet
-
-**Shape:** cube
-
-**Length:** 30 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a bit of fleece
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 600 feet
+- **Shape:** cube
+- **Length:** 30 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a bit of fleece
 
 ---
 

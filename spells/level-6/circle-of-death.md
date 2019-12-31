@@ -1,22 +1,14 @@
 # Circle of Death
-
 - [ ] Homebrew
 
 ***6th-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 150 feet
-
-**Shape:** sphere
-
-**Radius:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** the powder of a crushed black pearl worth at least 500 gp
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 150 feet
+- **Shape:** sphere
+- **Radius:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** the powder of a crushed black pearl worth at least 500 gp
 
 ---
 

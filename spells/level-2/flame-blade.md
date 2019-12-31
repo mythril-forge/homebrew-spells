@@ -1,18 +1,12 @@
 # Flame Blade
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, material
-
-**Material Components:** leaf of sumac
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, material
+- **Material Components:** leaf of sumac
 
 ---
 

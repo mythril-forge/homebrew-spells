@@ -1,18 +1,12 @@
 # Infestation
-
 - [x] Homebrew
 
 ***0th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 10 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a living flea
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 10 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a living flea
 
 ---
 

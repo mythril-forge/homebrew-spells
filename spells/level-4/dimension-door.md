@@ -1,16 +1,11 @@
 # Dimension Door
-
 - [ ] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 500 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 500 feet
+- **Tags:** verbal
 
 ---
 

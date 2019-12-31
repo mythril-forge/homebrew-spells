@@ -1,18 +1,12 @@
 # Green-Flame Strike
-
 - [x] Homebrew
 
 ***0th-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** 1 round
-
-**Range:** self
-
-**Tags:** verbal, material
-
-**Material Components:** a weapon
+- **Casting Time:** bonus action
+- **Duration:** 1 round
+- **Range:** self
+- **Tags:** verbal, material
+- **Material Components:** a weapon
 
 ---
 

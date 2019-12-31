@@ -1,18 +1,12 @@
 # Magic Weapon
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a weapon
+- **Casting Time:** bonus action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a weapon
 
 ---
 

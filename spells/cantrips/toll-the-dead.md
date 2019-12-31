@@ -1,18 +1,12 @@
 # Toll the Dead
-
 - [x] Homebrew
 
 ***0th-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a hand bell
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a hand bell
 
 ---
 

@@ -1,16 +1,11 @@
 # Find Greater Steed
-
 - [ ] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** 10 minutes
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** 10 minutes
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Tags:** verbal, somatic
 
 ---
 

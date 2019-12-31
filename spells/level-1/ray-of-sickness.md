@@ -1,16 +1,11 @@
 # Ray of Sickness
-
 - [x] Homebrew
 
 ***1st-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 90 feet
+- **Tags:** verbal, somatic
 
 ---
 

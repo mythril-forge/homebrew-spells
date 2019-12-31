@@ -1,20 +1,13 @@
 # Aid
-
 - [x] Homebrew
 
 ***2nd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 12 hours
-
-**Range:** 30 feet
-
-**Instances:** 3
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a tiny strip of white cloth
+- **Casting Time:** action
+- **Duration:** 12 hours
+- **Range:** 30 feet
+- **Instances:** 3
+- **Tags:** verbal, somatic, material
+- **Material Components:** a tiny strip of white cloth
 
 ---
 

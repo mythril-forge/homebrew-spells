@@ -1,22 +1,14 @@
 # Maelstrom
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 120 feet
-
-**Shape:** sphere
-
-**Radius:** 30 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** paper or leaf in the shape of a funnel
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 120 feet
+- **Shape:** sphere
+- **Radius:** 30 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** paper or leaf in the shape of a funnel
 
 ---
 

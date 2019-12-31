@@ -1,18 +1,12 @@
 # Gaseous Form
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a bit of gauze and a wisp of smoke
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a bit of gauze and a wisp of smoke
 
 ---
 

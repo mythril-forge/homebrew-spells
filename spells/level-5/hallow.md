@@ -1,18 +1,12 @@
 # Hallow
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** 1 day
-
-**Duration:** indefinate
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** herbs, oils, and incense worth at least 1,000 gp, which the spell consumes
+- **Casting Time:** 1 day
+- **Duration:** indefinate
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** herbs, oils, and incense worth at least 1,000 gp, which the spell consumes
 
 ---
 

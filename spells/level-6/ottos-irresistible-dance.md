@@ -1,16 +1,11 @@
 # Otto's Irresistible Dance
-
 - [ ] Homebrew
 
 ***6th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 30 feet
-
-**Tags:** verbal, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 30 feet
+- **Tags:** verbal, concentration
 
 ---
 

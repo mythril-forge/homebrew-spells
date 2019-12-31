@@ -1,24 +1,15 @@
 # Whirlwind
-
 - [ ] Homebrew
 
 ***7th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 300 feet
-
-**Shape:** cylinder
-
-**Radius:** 10 feet
-
-**Height:** 30 feet
-
-**Tags:** verbal, material, concentration
-
-**Material Components:** a piece of straw
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 300 feet
+- **Shape:** cylinder
+- **Radius:** 10 feet
+- **Height:** 30 feet
+- **Tags:** verbal, material, concentration
+- **Material Components:** a piece of straw
 
 ---
 

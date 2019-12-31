@@ -1,18 +1,12 @@
 # Ice Knife
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** somatic, material
-
-**Material Components:** a drop of water or piece of ice
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** somatic, material
+- **Material Components:** a drop of water or piece of ice
 
 ---
 

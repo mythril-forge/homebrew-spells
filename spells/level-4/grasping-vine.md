@@ -1,16 +1,11 @@
 # Grasping Vine
-
 - [ ] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** bonus action
-
-**Duration:** 1 minute
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** bonus action
+- **Duration:** 1 minute
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

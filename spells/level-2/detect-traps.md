@@ -1,16 +1,11 @@
 # Detect Traps
-
 - [x] Homebrew
 
 ***2nd-level divination***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 120 feet
+- **Tags:** verbal, somatic
 
 ---
 

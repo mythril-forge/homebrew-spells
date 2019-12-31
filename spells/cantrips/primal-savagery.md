@@ -1,16 +1,11 @@
 # Primal Savagery
-
 - [x] Homebrew
 
 ***0th-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** somatic
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** somatic
 
 ---
 

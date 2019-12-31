@@ -1,18 +1,12 @@
 # Hold Monster
-
 - [ ] Homebrew
 
 ***5th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a small, straight piece of iron
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 90 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a small, straight piece of iron
 
 ---
 

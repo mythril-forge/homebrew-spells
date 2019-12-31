@@ -1,18 +1,12 @@
 # Revivify
-
 - [x] Homebrew
 
 ***3rd-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** diamonds worth 300 sp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** diamonds worth 300 sp, which the spell consumes
 
 ---
 

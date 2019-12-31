@@ -1,18 +1,12 @@
 # Locate Creature
-
 - [ ] Homebrew
 
 ***4th-level divination***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a bit of fur from a bloodhound
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a bit of fur from a bloodhound
 
 ---
 

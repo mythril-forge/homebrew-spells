@@ -1,20 +1,13 @@
 # Haywire
-
 - [x] Homebrew
 
 ***3rd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 90 feet
-
-**Shape:** sphere
-
-**Radius:** 10 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 90 feet
+- **Shape:** sphere
+- **Radius:** 10 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

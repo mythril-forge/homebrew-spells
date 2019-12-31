@@ -1,16 +1,11 @@
 # Guardian of Faith
-
 - [ ] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 8 hours
-
-**Range:** 30 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** 8 hours
+- **Range:** 30 feet
+- **Tags:** verbal
 
 ---
 

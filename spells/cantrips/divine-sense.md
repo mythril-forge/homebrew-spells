@@ -1,20 +1,13 @@
 # Divine Sense
-
 - [x] Homebrew
 
 ***0th-level divination***
-
-**Casting Time:** action
-
-**Duration:** 1 round
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 120 feet
-
-**Tags:** verbal, concentration
+- **Casting Time:** action
+- **Duration:** 1 round
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 120 feet
+- **Tags:** verbal, concentration
 
 ---
 

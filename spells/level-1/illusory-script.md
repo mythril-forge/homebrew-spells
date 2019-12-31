@@ -1,18 +1,12 @@
 # Illusory Script
-
 - [x] Homebrew
 
 ***1st-level illusion***
-
-**Casting Time:** 5 minutes
-
-**Duration:** 1 month
-
-**Range:** touch
-
-**Tags:** somatic, material, ritual
-
-**Material Components:** a lead-based ink worth at least 25 sp, which the spell consumes
+- **Casting Time:** 5 minutes
+- **Duration:** 1 month
+- **Range:** touch
+- **Tags:** somatic, material, ritual
+- **Material Components:** a lead-based ink worth at least 25 sp, which the spell consumes
 
 ---
 

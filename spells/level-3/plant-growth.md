@@ -1,16 +1,11 @@
 # Plant Growth
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** special
-
-**Duration:** instantaneous
-
-**Range:** 150 feet
-
-**Tags:** verbal, somatic, ritual
+- **Casting Time:** special
+- **Duration:** instantaneous
+- **Range:** 150 feet
+- **Tags:** verbal, somatic, ritual
 
 ---
 

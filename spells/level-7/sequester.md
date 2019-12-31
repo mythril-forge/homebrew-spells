@@ -1,18 +1,12 @@
 # Sequester
-
 - [ ] Homebrew
 
 ***7th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** indefinate
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** indefinate
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes
 
 ---
 

@@ -1,18 +1,12 @@
 # Greater Restoration
-
 - [ ] Homebrew
 
 ***5th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** diamond dust worth at least 100 gp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** diamond dust worth at least 100 gp, which the spell consumes
 
 ---
 

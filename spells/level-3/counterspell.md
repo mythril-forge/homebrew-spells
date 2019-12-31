@@ -1,16 +1,11 @@
 # Counterspell
-
 - [x] Homebrew
 
 ***3rd-level abjuration***
-
-**Casting Time:** reaction (which you take when you see any target within range casting a spell)
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** somatic
+- **Casting Time:** reaction (which you take when you see any target within range casting a spell)
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** somatic
 
 ---
 

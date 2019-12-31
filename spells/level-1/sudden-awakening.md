@@ -1,16 +1,11 @@
 # Sudden Awakening
-
 - [x] Homebrew
 
 ***1st-level enchantment***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** verbal
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** verbal
 
 ---
 

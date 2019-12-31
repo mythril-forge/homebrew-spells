@@ -1,20 +1,13 @@
 # Wrath of Nature
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 120 feet
-
-**Shape:** cube
-
-**Length:** 60 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 120 feet
+- **Shape:** cube
+- **Length:** 60 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

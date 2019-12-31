@@ -1,24 +1,15 @@
 # Tsunami
-
 - [ ] Homebrew
 
 ***8th-level conjuration***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 minute
-
-**Range:** unlimited
-
-**Shape:** wall
-
-**Height:** 300 feet
-
-**Length:** 300 feet
-
-**Width:** 50 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** 1 minute
+- **Duration:** 1 minute
+- **Range:** unlimited
+- **Shape:** wall
+- **Height:** 300 feet
+- **Length:** 300 feet
+- **Width:** 50 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

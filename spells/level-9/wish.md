@@ -1,16 +1,11 @@
 # Wish
-
 - [ ] Homebrew
 
 ***9th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Tags:** verbal
 
 ---
 

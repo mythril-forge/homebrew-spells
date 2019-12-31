@@ -1,16 +1,11 @@
 # Blindness/Deafness
-
 - [x] Homebrew
 
 ***2nd-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Tags:** verbal
 
 ---
 

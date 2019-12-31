@@ -1,26 +1,16 @@
 # Moonbeam
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 120 feet
-
-**Shape:** cylinder
-
-**Height:** 120 feet
-
-**Radius:** 5 feet
-
-**Height:** 40 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** several seeds of any moonseed plant and a piece of opalescent feldspar
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 120 feet
+- **Shape:** cylinder
+- **Height:** 120 feet
+- **Radius:** 5 feet
+- **Height:** 40 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** several seeds of any moonseed plant and a piece of opalescent feldspar
 
 ---
 

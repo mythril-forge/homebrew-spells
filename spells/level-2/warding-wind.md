@@ -1,20 +1,13 @@
 # Warding Wind
-
 - [x] Homebrew
 
 ***2nd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 10 feet
-
-**Tags:** verbal, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 10 feet
+- **Tags:** verbal, concentration
 
 ---
 

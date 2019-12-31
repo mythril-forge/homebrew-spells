@@ -1,18 +1,12 @@
 # Searing Smite
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, material, concentration
-
-**Material Components:** a weapon
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, material, concentration
+- **Material Components:** a weapon
 
 ---
 

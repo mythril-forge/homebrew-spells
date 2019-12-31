@@ -1,16 +1,11 @@
 # Protection from Energy
-
 - [x] Homebrew
 
 ***2nd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, concentration
 
 ---
 

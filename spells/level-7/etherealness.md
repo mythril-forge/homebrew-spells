@@ -1,16 +1,11 @@
 # Etherealness
-
 - [ ] Homebrew
 
 ***7th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 8 hours
-
-**Range:** self
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 8 hours
+- **Range:** self
+- **Tags:** verbal, somatic
 
 ---
 

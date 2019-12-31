@@ -1,18 +1,12 @@
 # Beacon of Hope
-
 - [x] Homebrew
 
 ***3rd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Instances:** 6
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Instances:** 6
+- **Tags:** verbal, somatic, concentration
 
 ---
 

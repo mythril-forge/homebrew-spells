@@ -1,16 +1,11 @@
 # Glibness
-
 - [ ] Homebrew
 
 ***8th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** verbal
 
 ---
 

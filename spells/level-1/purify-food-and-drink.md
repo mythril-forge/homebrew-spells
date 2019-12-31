@@ -1,20 +1,13 @@
 # Purify Food and Drink
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 10 feet
-
-**Shape:** cube
-
-**length:** 10 feet
-
-**Tags:** verbal, somatic, ritual
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 10 feet
+- **Shape:** cube
+- **length:** 10 feet
+- **Tags:** verbal, somatic, ritual
 
 ---
 

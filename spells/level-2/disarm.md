@@ -1,16 +1,11 @@
 # Disarm
-
 - [x] Homebrew
 
 ***2nd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 120 feet
+- **Tags:** verbal, somatic
 
 ---
 

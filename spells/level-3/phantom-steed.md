@@ -1,16 +1,11 @@
 # Phantom Steed
-
 - [x] Homebrew
 
 ***3rd-level illusion***
-
-**Casting Time:** 5 minutes
-
-**Duration:** 1 hour
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, ritual
+- **Casting Time:** 5 minutes
+- **Duration:** 1 hour
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, ritual
 
 ---
 

@@ -1,16 +1,11 @@
 # Dispel Magic
-
 - [x] Homebrew
 
 ***3rd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic, material
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 120 feet
+- **Tags:** verbal, somatic, material
 
 **Material:** an opal worth atleast 50 sp, which the spell consumes
 

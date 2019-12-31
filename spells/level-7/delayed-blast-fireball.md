@@ -1,22 +1,14 @@
 # Delayed Blast Fireball
-
 - [ ] Homebrew
 
 ***7th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 150 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a tiny ball of bat guano and sulfur
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 150 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a tiny ball of bat guano and sulfur
 
 ---
 

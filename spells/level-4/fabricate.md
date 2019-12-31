@@ -1,16 +1,11 @@
 # Fabricate
-
 - [ ] Homebrew
 
 ***4th-level transmutation***
-
-**Casting Time:** 10 minutes
-
-**Duration:** instantaneous
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** 10 minutes
+- **Duration:** instantaneous
+- **Range:** 120 feet
+- **Tags:** verbal, somatic
 
 ---
 

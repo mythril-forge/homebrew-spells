@@ -1,22 +1,14 @@
 # Insect Plague
-
 - [ ] Homebrew
 
 ***5th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 300 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a few grains of sugar, some kernels of grain, and a smear of fat
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 300 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a few grains of sugar, some kernels of grain, and a smear of fat
 
 ---
 

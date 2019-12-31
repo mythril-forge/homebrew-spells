@@ -1,18 +1,12 @@
 # Hex
-
 - [x] Homebrew
 
 ***1st-level necromancy***
-
-**Casting Time:** bonus action
-
-**Duration:** 1 hour
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** the petrified eye of a newt
+- **Casting Time:** bonus action
+- **Duration:** 1 hour
+- **Range:** 90 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** the petrified eye of a newt
 
 ---
 

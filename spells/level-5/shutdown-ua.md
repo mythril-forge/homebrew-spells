@@ -1,16 +1,11 @@
 # Shutdown (UA)
-
 - [ ] Homebrew
 
 ***5th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 120 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

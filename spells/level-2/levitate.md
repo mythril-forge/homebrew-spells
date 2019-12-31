@@ -1,18 +1,12 @@
 # Levitate
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end
 
 ---
 

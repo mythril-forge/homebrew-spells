@@ -1,16 +1,11 @@
 # Command
-
 - [x] Homebrew
 
 ***1st-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 round
-
-**Range:** 60 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** 1 round
+- **Range:** 60 feet
+- **Tags:** verbal
 
 ---
 

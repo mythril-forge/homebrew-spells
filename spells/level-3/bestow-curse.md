@@ -1,16 +1,11 @@
 # Bestow Curse
-
 - [x] Homebrew
 
 ***3rd-level necromancy***
-
-**Casting Time:** bonus action
-
-**Duration:** 1 hour
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** bonus action
+- **Duration:** 1 hour
+- **Range:** 90 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

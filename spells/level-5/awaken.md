@@ -1,18 +1,12 @@
 # Awaken
-
 - [ ] Homebrew
 
 ***5th-level transmutation***
-
-**Casting Time:** 8 hours
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** an agate worth at least 1,000 gp, which the spell consumes
+- **Casting Time:** 8 hours
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** an agate worth at least 1,000 gp, which the spell consumes
 
 ---
 

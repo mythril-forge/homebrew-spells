@@ -1,16 +1,11 @@
 # Tiny Servant
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** 5 minutes
-
-**Duration:** 1 day
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** 5 minutes
+- **Duration:** 1 day
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

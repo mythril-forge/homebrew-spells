@@ -1,18 +1,12 @@
 # Find the Path
-
 - [ ] Homebrew
 
 ***6th-level divination***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 day
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a set of divinatory tools&mdash;such as bones, ivory sticks, cards, teeth, or carved runes&mdash;worth 100 gp and an object from the location you wish to find
+- **Casting Time:** 1 minute
+- **Duration:** 1 day
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a set of divinatory tools&mdash;such as bones, ivory sticks, cards, teeth, or carved runes&mdash;worth 100 gp and an object from the location you wish to find
 
 ---
 

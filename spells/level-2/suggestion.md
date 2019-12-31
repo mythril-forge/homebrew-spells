@@ -1,18 +1,12 @@
 # Suggestion
-
 - [x] Homebrew
 
 ***2nd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 12 hours
-
-**Range:** 30 feet
-
-**Tags:** verbal, material, concentration
-
-**Material Components:** a snake's tongue and either a bit of honeycomb or a drop of sweet oil
+- **Casting Time:** action
+- **Duration:** 12 hours
+- **Range:** 30 feet
+- **Tags:** verbal, material, concentration
+- **Material Components:** a snake's tongue and either a bit of honeycomb or a drop of sweet oil
 
 ---
 

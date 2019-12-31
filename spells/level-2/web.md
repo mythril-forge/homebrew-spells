@@ -1,22 +1,14 @@
 # Web
-
 - [x] Homebrew
 
 ***2nd-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 60 feet
-
-**Shape:** cube
-
-**Length:** 20 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a bit of spiderweb
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 60 feet
+- **Shape:** cube
+- **Length:** 20 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a bit of spiderweb
 
 ---
 

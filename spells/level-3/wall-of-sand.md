@@ -1,26 +1,16 @@
 # Wall of Sand
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 90 feet
-
-**Shape:** wall
-
-**Width:** 10 feet
-
-**Height:** 20 feet
-
-**Length:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a handful of sand
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 90 feet
+- **Shape:** wall
+- **Width:** 10 feet
+- **Height:** 20 feet
+- **Length:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a handful of sand
 
 ---
 

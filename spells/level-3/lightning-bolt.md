@@ -1,24 +1,15 @@
 # Lightning Bolt
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** line
-
-**Width:** 15 feet
-
-**Length:** 120 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a bit of fur and a rod of amber, crystal, or glass
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** line
+- **Width:** 15 feet
+- **Length:** 120 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a bit of fur and a rod of amber, crystal, or glass
 
 ---
 

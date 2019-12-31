@@ -1,16 +1,11 @@
 # Puppet
-
 - [x] Homebrew
 
 ***2nd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** somatic
 
 ---
 

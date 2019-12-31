@@ -1,22 +1,14 @@
 # Cone of Cold
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** cone
-
-**Radius:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a small crystal or glass cone
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** cone
+- **Radius:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a small crystal or glass cone
 
 ---
 

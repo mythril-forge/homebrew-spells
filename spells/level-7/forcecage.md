@@ -1,22 +1,14 @@
 # Forcecage
-
 - [ ] Homebrew
 
 ***7th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 100 feet
-
-**Shape:** cube
-
-**Length:** 20 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** ruby dust worth 1,500 gp
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 100 feet
+- **Shape:** cube
+- **Length:** 20 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** ruby dust worth 1,500 gp
 
 ---
 

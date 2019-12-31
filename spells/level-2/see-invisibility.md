@@ -1,18 +1,12 @@
 # See Invisibility
-
 - [x] Homebrew
 
 ***2nd-level divination***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a pinch of Talc and a small sprinkling of powdered silver
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** verbal, somatic, material
+- **Material Components:** a pinch of Talc and a small sprinkling of powdered silver
 
 ---
 

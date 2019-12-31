@@ -1,16 +1,11 @@
 # Power Word Heal
-
 - [ ] Homebrew
 
 ***9th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

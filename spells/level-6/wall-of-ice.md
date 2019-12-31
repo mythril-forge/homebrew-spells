@@ -1,26 +1,16 @@
 # Wall of Ice
-
 - [ ] Homebrew
 
 ***6th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 120 feet
-
-**Shape:** wall
-
-**Height:** 10 feet
-
-**Length:** 100 feet
-
-**Width:** 1 foot
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a small piece of quartz
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 120 feet
+- **Shape:** wall
+- **Height:** 10 feet
+- **Length:** 100 feet
+- **Width:** 1 foot
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a small piece of quartz
 
 ---
 

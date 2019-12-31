@@ -1,18 +1,12 @@
 # Infallible Relay
-
 - [x] Homebrew
 
 ***1st-level divination***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** unlimited
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a phone or similar communications device, which needn't be functional
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** unlimited
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a phone or similar communications device, which needn't be functional
 
 ---
 

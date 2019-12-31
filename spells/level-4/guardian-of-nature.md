@@ -1,16 +1,11 @@
 # Guardian of Nature
-
 - [ ] Homebrew
 
 ***4th-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 1 minute
-
-**Range:** self
-
-**Tags:** verbal, concentration
+- **Casting Time:** bonus action
+- **Duration:** 1 minute
+- **Range:** self
+- **Tags:** verbal, concentration
 
 ---
 

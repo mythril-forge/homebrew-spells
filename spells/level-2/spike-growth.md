@@ -1,22 +1,14 @@
 # Spike Growth
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 120 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** seven sharp thorns or seven small twigs, each sharpened to a point
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 120 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** seven sharp thorns or seven small twigs, each sharpened to a point
 
 ---
 

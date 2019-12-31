@@ -1,18 +1,12 @@
 # Banishment
-
 - [ ] Homebrew
 
 ***4th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** an item distasteful to the target
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** an item distasteful to the target
 
 ---
 

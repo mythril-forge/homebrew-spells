@@ -1,16 +1,11 @@
 # Expeditious Retreat
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 15 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** bonus action
+- **Duration:** 15 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, concentration
 
 ---
 

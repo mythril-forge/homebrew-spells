@@ -1,20 +1,13 @@
 # Zone of Truth
-
 - [x] Homebrew
 
 ***2nd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 60 feet
-
-**Shape:** sphere
-
-**Radius:** 15 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 60 feet
+- **Shape:** sphere
+- **Radius:** 15 feet
+- **Tags:** verbal, somatic
 
 ---
 

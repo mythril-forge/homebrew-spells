@@ -1,18 +1,12 @@
 # Friends
-
 - [x] Homebrew
 
 ***0th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** somatic, material, concentration
-
-**Material Components:** a small amount of makeup
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** somatic, material, concentration
+- **Material Components:** a small amount of makeup
 
 ---
 

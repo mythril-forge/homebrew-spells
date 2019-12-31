@@ -1,18 +1,12 @@
 # Heat Metal
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a piece of iron and a flame
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a piece of iron and a flame
 
 ---
 

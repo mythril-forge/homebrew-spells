@@ -1,18 +1,12 @@
 # Resistance
-
 - [x] Homebrew
 
 ***0th-level divination***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a miniature shield or cloak
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a miniature shield or cloak
 
 ---
 

@@ -1,18 +1,12 @@
 # Magic Stone
-
 - [x] Homebrew
 
 ***0th-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** three stones
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** three stones
 
 ---
 

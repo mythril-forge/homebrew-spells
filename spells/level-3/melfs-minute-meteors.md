@@ -1,24 +1,15 @@
 # Melf's Minute Meteors
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** 15 minutes
-
-**Range:** 120 feet
-
-**Instances:** 6
-
-**Shape:** sphere
-
-**Radius:** 5 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** niter, sulfur, and pine tar formed into a bead
+- **Casting Time:** bonus action
+- **Duration:** 15 minutes
+- **Range:** 120 feet
+- **Instances:** 6
+- **Shape:** sphere
+- **Radius:** 5 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** niter, sulfur, and pine tar formed into a bead
 
 ---
 

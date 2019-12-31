@@ -1,18 +1,12 @@
 # Prestidigitation
-
 - [x] Homebrew
 
 ***0th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a wooden wand or stick
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a wooden wand or stick
 
 ---
 

@@ -1,18 +1,12 @@
 # Tongues
-
 - [x] Homebrew
 
 ***3rd-level divination***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, material
-
-**Material Components:** a small clay model of a ziggurat
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, material
+- **Material Components:** a small clay model of a ziggurat
 
 ---
 

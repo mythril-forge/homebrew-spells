@@ -1,18 +1,12 @@
 # Polymorph
-
 - [ ] Homebrew
 
 ***4th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a caterpillar cocoon
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a caterpillar cocoon
 
 ---
 

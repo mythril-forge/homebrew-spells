@@ -1,16 +1,11 @@
 # Mirage Arcane
-
 - [ ] Homebrew
 
 ***7th-level illusion***
-
-**Casting Time:** 10 minutes
-
-**Duration:** 10 days
-
-**Range:** unlimited
-
-**Tags:** verbal, somatic
+- **Casting Time:** 10 minutes
+- **Duration:** 10 days
+- **Range:** unlimited
+- **Tags:** verbal, somatic
 
 ---
 

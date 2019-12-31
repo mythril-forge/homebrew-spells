@@ -1,20 +1,13 @@
 # Fog Cloud
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 120 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 120 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

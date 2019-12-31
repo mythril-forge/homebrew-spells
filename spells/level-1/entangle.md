@@ -1,20 +1,13 @@
 # Entangle
-
 - [x] Homebrew
 
 ***1st-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 90 feet
-
-**Shape:** cube
-
-**Length:** 30 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 90 feet
+- **Shape:** cube
+- **Length:** 30 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

@@ -1,18 +1,12 @@
 # Resurrection
-
 - [ ] Homebrew
 
 ***7th-level necromancy***
-
-**Casting Time:** 1 hour
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a diamond worth at least 1,000 gp, which the spell consumes
+- **Casting Time:** 1 hour
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a diamond worth at least 1,000 gp, which the spell consumes
 
 ---
 

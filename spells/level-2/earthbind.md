@@ -1,16 +1,11 @@
 # Earthbind
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 600 feet
-
-**Tags:** verbal, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 600 feet
+- **Tags:** verbal, concentration
 
 ---
 

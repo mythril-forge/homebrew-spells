@@ -1,20 +1,13 @@
 # Control Winds
-
 - [ ] Homebrew
 
 ***5th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 300 feet
-
-**Shape:** cube
-
-**Length:** 100 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 300 feet
+- **Shape:** cube
+- **Length:** 100 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

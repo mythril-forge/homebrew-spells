@@ -1,16 +1,11 @@
 # Planar Ally
-
 - [ ] Homebrew
 
 ***6th-level conjuration***
-
-**Casting Time:** 10 minutes
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** 10 minutes
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** verbal, somatic
 
 ---
 

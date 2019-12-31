@@ -1,16 +1,11 @@
 # Blade Ward
-
 - [x] Homebrew
 
 ***0th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, concentration
 
 ---
 

@@ -1,16 +1,11 @@
 # Mental Prison
-
 - [ ] Homebrew
 
 ***6th-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 60 feet
-
-**Tags:** somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 60 feet
+- **Tags:** somatic, concentration
 
 ---
 

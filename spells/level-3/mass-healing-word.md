@@ -1,18 +1,12 @@
 # Mass Healing Word
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Instances:** 6
-
-**Tags:** verbal
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Instances:** 6
+- **Tags:** verbal
 
 ---
 

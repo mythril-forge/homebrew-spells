@@ -1,18 +1,12 @@
 # Simulacrum
-
 - [ ] Homebrew
 
 ***7th-level illusion***
-
-**Casting Time:** 12 hours
-
-**Duration:** indefinate
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell
+- **Casting Time:** 12 hours
+- **Duration:** indefinate
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell
 
 ---
 

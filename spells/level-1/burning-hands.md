@@ -1,22 +1,14 @@
 # Burning Hands
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** cone
-
-**Radius:** 15 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** garlic oil or melted wax
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** cone
+- **Radius:** 15 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** garlic oil or melted wax
 
 ---
 

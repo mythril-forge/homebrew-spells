@@ -1,18 +1,12 @@
 # Tasha's Hideous Laughter
-
 - [x] Homebrew
 
 ***1st-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** tiny tarts and a feather that is waved in the air
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** tiny tarts and a feather that is waved in the air
 
 ---
 

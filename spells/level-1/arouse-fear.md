@@ -1,16 +1,11 @@
 # Arouse Fear
-
 - [x] Homebrew
 
 ***1st-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Tags:** verbal, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Tags:** verbal, concentration
 
 ---
 

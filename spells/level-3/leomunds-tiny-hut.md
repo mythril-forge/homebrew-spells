@@ -1,22 +1,14 @@
 # Leomund's Tiny Hut
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** 5 minutes
-
-**Duration:** 12 hours
-
-**Range:** self
-
-**Shape:** sphere
-
-**Radius:** 10 feet
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a small crystal bead
+- **Casting Time:** 5 minutes
+- **Duration:** 12 hours
+- **Range:** self
+- **Shape:** sphere
+- **Radius:** 10 feet
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a small crystal bead
 
 ---
 

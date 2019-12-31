@@ -1,20 +1,13 @@
 # Silence
-
 - [x] Homebrew
 
 ***2nd-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 120 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, concentration, ritual
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 120 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, concentration, ritual
 
 ---
 

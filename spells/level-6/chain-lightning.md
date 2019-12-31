@@ -1,20 +1,13 @@
 # Chain Lightning
-
 - [ ] Homebrew
 
 ***6th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 150 feet
-
-**Instances:** 4
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 150 feet
+- **Instances:** 4
+- **Tags:** verbal, somatic, material
+- **Material Components:** a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins
 
 ---
 

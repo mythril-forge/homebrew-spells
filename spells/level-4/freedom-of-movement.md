@@ -1,18 +1,12 @@
 # Freedom of Movement
-
 - [ ] Homebrew
 
 ***4th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a leather strap, bound around the arm or a similar appendage
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a leather strap, bound around the arm or a similar appendage
 
 ---
 

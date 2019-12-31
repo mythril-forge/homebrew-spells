@@ -1,18 +1,12 @@
 # Melf's Acid Needle
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** powdered rhubarb leaf and an adder's stomach
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** powdered rhubarb leaf and an adder's stomach
 
 ---
 

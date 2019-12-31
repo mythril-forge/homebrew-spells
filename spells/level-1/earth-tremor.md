@@ -1,22 +1,14 @@
 # Earth Tremor
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** line
-
-**Length:** 30 feet
-
-**Width:** 15 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** line
+- **Length:** 30 feet
+- **Width:** 15 feet
+- **Tags:** verbal, somatic
 
 ---
 

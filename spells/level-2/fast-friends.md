@@ -1,16 +1,11 @@
 # Fast Friends
-
 - [x] Homebrew
 
 ***2nd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 30 feet
-
-**Tags:** verbal, concentration
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 30 feet
+- **Tags:** verbal, concentration
 
 ---
 

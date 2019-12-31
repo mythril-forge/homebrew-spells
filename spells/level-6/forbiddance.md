@@ -1,18 +1,12 @@
 # Forbiddance
-
 - [ ] Homebrew
 
 ***6th-level abjuration***
-
-**Casting Time:** 10 minutes
-
-**Duration:** 1 day
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp
+- **Casting Time:** 10 minutes
+- **Duration:** 1 day
+- **Range:** touch
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp
 
 ---
 

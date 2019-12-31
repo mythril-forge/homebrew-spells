@@ -1,18 +1,12 @@
 # Arcane Lock
-
 - [x] Homebrew
 
 ***2nd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** indefinate
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** gold dust worth at least 50 sp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** indefinate
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** gold dust worth at least 50 sp, which the spell consumes
 
 ---
 

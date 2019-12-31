@@ -1,22 +1,14 @@
 # Dust Devil
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Shape:** sphere
-
-**Radius:** 2½ feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a pinch of dust
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Shape:** sphere
+- **Radius:** 2½ feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a pinch of dust
 
 ---
 

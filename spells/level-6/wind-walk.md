@@ -1,20 +1,13 @@
 # Wind Walk
-
 - [ ] Homebrew
 
 ***6th-level transmutation***
-
-**Casting Time:** 1 minute
-
-**Duration:** 8 hours
-
-**Range:** 30 feet
-
-**Instances:** 10
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** fire and holy water
+- **Casting Time:** 1 minute
+- **Duration:** 8 hours
+- **Range:** 30 feet
+- **Instances:** 10
+- **Tags:** verbal, somatic, material
+- **Material Components:** fire and holy water
 
 ---
 

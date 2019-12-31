@@ -1,22 +1,14 @@
 # Call Lightning
-
 - [x] Homebrew
 
 ***3rd-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 120 feet
-
-**Shape:** cylinder
-
-**Radius:** 60 feet
-
-**Height:** 120 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 120 feet
+- **Shape:** cylinder
+- **Radius:** 60 feet
+- **Height:** 120 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

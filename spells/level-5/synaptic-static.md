@@ -1,20 +1,13 @@
 # Synaptic Static
-
 - [ ] Homebrew
 
 ***5th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 120 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 120 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic
 
 ---
 

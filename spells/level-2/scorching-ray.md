@@ -1,18 +1,12 @@
 # Scorching Ray
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 90 feet
-
-**Instances:** 3
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 90 feet
+- **Instances:** 3
+- **Tags:** verbal, somatic
 
 ---
 

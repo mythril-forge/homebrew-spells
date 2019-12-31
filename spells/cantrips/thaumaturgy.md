@@ -1,16 +1,11 @@
 # Thaumaturgy
-
 - [x] Homebrew
 
 ***0th-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Tags:** verbal
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Tags:** verbal
 
 ---
 

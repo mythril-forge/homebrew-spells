@@ -1,20 +1,13 @@
 # Mold Earth
-
 - [x] Homebrew
 
 ***0th-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Shape:** cube
-
-**Length:** 5 feet
-
-**Tags:** somatic
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Shape:** cube
+- **Length:** 5 feet
+- **Tags:** somatic
 
 ---
 

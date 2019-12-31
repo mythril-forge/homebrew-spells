@@ -1,16 +1,11 @@
 # Hellish Rebuke
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** reaction (which you take in response to being damaged by a creature within range that you can see)
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** reaction (which you take in response to being damaged by a creature within range that you can see)
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** verbal, somatic
 
 ---
 

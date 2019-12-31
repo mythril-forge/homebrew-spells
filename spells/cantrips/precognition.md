@@ -1,16 +1,11 @@
 # Precognition
-
 - [x] Homebrew
 
 ***0th-level divination***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Tags:** somatic, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Tags:** somatic, concentration
 
 ---
 

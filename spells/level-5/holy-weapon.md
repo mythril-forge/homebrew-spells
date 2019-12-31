@@ -1,18 +1,12 @@
 # Holy Weapon
-
 - [x] Homebrew
 
 ***5th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a crystal vial containing a mixture of mercury, holy water, diamond dust, and gold dust worth at least 250 gp, which the spell consumes, and a weapon
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a crystal vial containing a mixture of mercury, holy water, diamond dust, and gold dust worth at least 250 gp, which the spell consumes, and a weapon
 
 ---
 

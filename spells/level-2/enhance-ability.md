@@ -1,18 +1,12 @@
 # Enhance Ability
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** fur or a feather from a beast
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** fur or a feather from a beast
 
 ---
 

@@ -1,22 +1,14 @@
 # Mass Cure Wounds
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Shape:** sphere
-
-**Radius:** 30 feet
-
-**Instances:** 6
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Shape:** sphere
+- **Radius:** 30 feet
+- **Instances:** 6
+- **Tags:** verbal, somatic
 
 ---
 

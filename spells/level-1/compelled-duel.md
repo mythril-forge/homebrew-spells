@@ -1,16 +1,11 @@
 # Compelled Duel
-
 - [x] Homebrew
 
 ***1st-level enchantment***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** 120 feet
-
-**Tags:** verbal
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** 120 feet
+- **Tags:** verbal
 
 ---
 

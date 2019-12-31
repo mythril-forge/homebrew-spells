@@ -1,24 +1,15 @@
 # Conjure Volley
-
 - [ ] Homebrew
 
 ***5th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 150 feet
-
-**Shape:** cylinder
-
-**Radius:** 40 feet
-
-**Height:** 20 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** one piece of ammunition or one thrown weapon
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 150 feet
+- **Shape:** cylinder
+- **Radius:** 40 feet
+- **Height:** 20 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** one piece of ammunition or one thrown weapon
 
 ---
 

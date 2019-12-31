@@ -1,20 +1,13 @@
 # Remote Access
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 120 feet
-
-**Shape:** cube
-
-**Length:** 10 feet
-
-**Tags:** verbal, somatic, ritual
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 120 feet
+- **Shape:** cube
+- **Length:** 10 feet
+- **Tags:** verbal, somatic, ritual
 
 ---
 

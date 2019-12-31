@@ -1,18 +1,12 @@
 # Protection from Purity and Corruption
-
 - [x] Homebrew
 
 ***2nd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration, ritual
-
-**Material Components:** a vial of holy water or powdered silver and iron, worth atleast 50 sp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration, ritual
+- **Material Components:** a vial of holy water or powdered silver and iron, worth atleast 50 sp, which the spell consumes
 
 ---
 

@@ -1,18 +1,12 @@
 # Scatter
-
 - [ ] Homebrew
 
 ***6th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Instances:** 5
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Instances:** 5
+- **Tags:** verbal
 
 ---
 

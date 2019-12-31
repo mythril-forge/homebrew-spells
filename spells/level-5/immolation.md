@@ -1,16 +1,11 @@
 # Immolation
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 90 feet
-
-**Tags:** verbal, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 90 feet
+- **Tags:** verbal, concentration
 
 ---
 

@@ -1,22 +1,14 @@
 # Glyph of Warding
-
 - [x] Homebrew
 
 ***3rd-level abjuration***
-
-**Casting Time:** 1 hour
-
-**Duration:** activated
-
-**Range:** touch
-
-**Shape:** cube
-
-**Radius:** 10 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** incense and powdered diamond worth at least 200 sp, which the spell consumes
+- **Casting Time:** 1 hour
+- **Duration:** activated
+- **Range:** touch
+- **Shape:** cube
+- **Radius:** 10 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** incense and powdered diamond worth at least 200 sp, which the spell consumes
 
 ---
 

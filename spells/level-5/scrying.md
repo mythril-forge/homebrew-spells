@@ -1,18 +1,12 @@
 # Scrying
-
 - [ ] Homebrew
 
 ***5th-level divination***
-
-**Casting Time:** 10 minutes
-
-**Duration:** 10 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water
+- **Casting Time:** 10 minutes
+- **Duration:** 10 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water
 
 ---
 

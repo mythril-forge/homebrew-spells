@@ -1,18 +1,12 @@
 # Disintegrate
-
 - [ ] Homebrew
 
 ***6th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a lodestone and a pinch of dust
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a lodestone and a pinch of dust
 
 ---
 

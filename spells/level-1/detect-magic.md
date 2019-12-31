@@ -1,22 +1,14 @@
 # Detect Magic
-
 - [x] Homebrew
 
 ***1st-level divination***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 30 feet
-
-**Tags:** verbal, somatic, material, concentration, ritual
-
-**Material Components:** a two-pronged branch, fork, or wand
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 30 feet
+- **Tags:** verbal, somatic, material, concentration, ritual
+- **Material Components:** a two-pronged branch, fork, or wand
 
 ---
 

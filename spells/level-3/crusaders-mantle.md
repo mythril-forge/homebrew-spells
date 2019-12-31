@@ -1,20 +1,13 @@
 # Crusader's Mantle
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 30 feet
-
-**Tags:** verbal, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 30 feet
+- **Tags:** verbal, concentration
 
 ---
 

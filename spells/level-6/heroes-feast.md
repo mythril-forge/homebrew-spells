@@ -1,20 +1,13 @@
 # Heroes' Feast
-
 - [ ] Homebrew
 
 ***6th-level conjuration***
-
-**Casting Time:** 10 minutes
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Instances:** 12
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes
+- **Casting Time:** 10 minutes
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Instances:** 12
+- **Tags:** verbal, somatic, material
+- **Material Components:** a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes
 
 ---
 

@@ -1,18 +1,12 @@
 # Dispel Evil and Good
-
 - [ ] Homebrew
 
 ***5th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** holy water or powdered silver and iron
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** holy water or powdered silver and iron
 
 ---
 

@@ -1,18 +1,12 @@
 # Arcane Hacking
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** hacking tools
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** hacking tools
 
 ---
 

@@ -1,20 +1,13 @@
 # Plane Shift
-
 - [ ] Homebrew
 
 ***7th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Instances:** 9
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Instances:** 9
+- **Tags:** verbal, somatic, material
+- **Material Components:** a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence
 
 ---
 

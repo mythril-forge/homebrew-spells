@@ -1,18 +1,12 @@
 # Conjure Elemental
-
 - [ ] Homebrew
 
 ***5th-level conjuration***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 hour
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water
+- **Casting Time:** 1 minute
+- **Duration:** 1 hour
+- **Range:** 90 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water
 
 ---
 

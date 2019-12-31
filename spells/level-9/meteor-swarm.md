@@ -1,20 +1,13 @@
 # Meteor Swarm
-
 - [ ] Homebrew
 
 ***9th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 1 mile
-
-**Shape:** sphere
-
-**Radius:** 40 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 1 mile
+- **Shape:** sphere
+- **Radius:** 40 feet
+- **Tags:** verbal, somatic
 
 ---
 

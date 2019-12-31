@@ -1,18 +1,12 @@
 # Create Homunculus
-
 - [ ] Homebrew
 
 ***6th-level transmutation***
-
-**Casting Time:** 1 hour
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** clay, ash, and mandrake root, all of which the spell consumes, and a jewel-encrusted dagger worth at least 1,000 gp
+- **Casting Time:** 1 hour
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** clay, ash, and mandrake root, all of which the spell consumes, and a jewel-encrusted dagger worth at least 1,000 gp
 
 ---
 

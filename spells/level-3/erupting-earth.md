@@ -1,24 +1,15 @@
 # Erupting Earth
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 90 feet
-
-**Shape:** cylinder
-
-**Height:** 60 feet
-
-**Radius:** 15 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a piece of obsidian
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 90 feet
+- **Shape:** cylinder
+- **Height:** 60 feet
+- **Radius:** 15 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a piece of obsidian
 
 ---
 

@@ -1,18 +1,12 @@
 # Galder's Tower
-
 - [x] Homebrew
 
 ***3rd-level conjuration***
-
-**Casting Time:** 15 minutes
-
-**Duration:** 1 day
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a fragment of stone, wood, or other building material
+- **Casting Time:** 15 minutes
+- **Duration:** 1 day
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a fragment of stone, wood, or other building material
 
 ---
 

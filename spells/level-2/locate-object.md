@@ -1,22 +1,14 @@
 # Locate Object
-
 - [x] Homebrew
 
 ***2nd-level divination***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 1 mile
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a forked twig
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 1 mile
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a forked twig
 
 ---
 

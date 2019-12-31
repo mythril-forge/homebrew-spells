@@ -1,22 +1,14 @@
 # Grease
-
 - [x] Homebrew
 
 ***1st-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Shape:** cube
-
-**Length:** 10 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a bit of pork rind or butter
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Shape:** cube
+- **Length:** 10 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a bit of pork rind or butter
 
 ---
 

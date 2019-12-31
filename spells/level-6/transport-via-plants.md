@@ -1,16 +1,11 @@
 # Transport via Plants
-
 - [ ] Homebrew
 
 ***6th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 round
-
-**Range:** 10 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 1 round
+- **Range:** 10 feet
+- **Tags:** verbal, somatic
 
 ---
 

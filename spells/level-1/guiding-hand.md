@@ -1,16 +1,11 @@
 # Guiding Hand
-
 - [x] Homebrew
 
 ***1st-level divination***
-
-**Casting Time:** action
-
-**Duration:** 12 hours
-
-**Range:** 5 feet
-
-**Tags:** verbal, somatic, concentration, ritual
+- **Casting Time:** action
+- **Duration:** 12 hours
+- **Range:** 5 feet
+- **Tags:** verbal, somatic, concentration, ritual
 
 ---
 

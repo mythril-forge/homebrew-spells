@@ -1,18 +1,12 @@
 # Phantasmal Force
-
 - [x] Homebrew
 
 ***2nd-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a bit of fleece
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a bit of fleece
 
 ---
 

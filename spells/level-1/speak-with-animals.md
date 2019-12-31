@@ -1,16 +1,11 @@
 # Speak with Animals
-
 - [x] Homebrew
 
 ***1st-level divination***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, ritual
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, ritual
 
 ---
 

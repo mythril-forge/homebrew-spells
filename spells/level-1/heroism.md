@@ -1,16 +1,11 @@
 # Heroism
-
 - [x] Homebrew
 
 ***1st-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic, concentration
 
 ---
 

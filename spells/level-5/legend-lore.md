@@ -1,18 +1,12 @@
 # Legend Lore
-
 - [ ] Homebrew
 
 ***5th-level divination***
-
-**Casting Time:** 10 minutes
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each
+- **Casting Time:** 10 minutes
+- **Duration:** instantaneous
+- **Range:** self
+- **Tags:** verbal, somatic, material
+- **Material Components:** incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each
 
 ---
 

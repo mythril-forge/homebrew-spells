@@ -1,22 +1,14 @@
 # Incite Greed
-
 - [x] Homebrew
 
 ***3rd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Shape:** sphere
-
-**Radius:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a gem worth at least 50 sp
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Shape:** sphere
+- **Radius:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a gem worth at least 50 sp
 
 ---
 

@@ -1,16 +1,11 @@
 # Lesser Restoration
-
 - [x] Homebrew
 
 ***2nd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

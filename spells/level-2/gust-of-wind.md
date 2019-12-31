@@ -1,24 +1,15 @@
 # Gust of Wind
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Shape:** line
-
-**Width:** 15 feet
-
-**Length:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a legume seed
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Shape:** line
+- **Width:** 15 feet
+- **Length:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a legume seed
 
 ---
 

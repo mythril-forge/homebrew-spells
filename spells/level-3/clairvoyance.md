@@ -1,18 +1,12 @@
 # Clairvoyance
-
 - [x] Homebrew
 
 ***3rd-level divination***
-
-**Casting Time:** 15 minutes
-
-**Duration:** 15 minutes
-
-**Range:** 1 mile
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a focus worth at least 100 sp, such as a jeweled horn, a silver mirror, or a crystal ball
+- **Casting Time:** 15 minutes
+- **Duration:** 15 minutes
+- **Range:** 1 mile
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a focus worth at least 100 sp, such as a jeweled horn, a silver mirror, or a crystal ball
 
 ---
 

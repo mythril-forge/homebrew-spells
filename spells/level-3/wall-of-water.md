@@ -1,26 +1,16 @@
 # Wall of Water
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 60 feet
-
-**Shape:** wall
-
-**Width:** 1 foot
-
-**Height:** 20 feet
-
-**Length:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a splash of water
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 60 feet
+- **Shape:** wall
+- **Width:** 1 foot
+- **Height:** 20 feet
+- **Length:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a splash of water
 
 ---
 

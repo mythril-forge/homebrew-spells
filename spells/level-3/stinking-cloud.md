@@ -1,22 +1,14 @@
 # Stinking Cloud
-
 - [x] Homebrew
 
 ***3rd-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 90 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a rotten egg or several skunk cabbage leaves
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 90 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a rotten egg or several skunk cabbage leaves
 
 ---
 

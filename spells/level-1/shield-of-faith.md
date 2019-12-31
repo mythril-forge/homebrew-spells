@@ -1,18 +1,12 @@
 # Shield of Faith
-
 - [x] Homebrew
 
 ***1st-level abjuration***
-
-**Casting Time:** bonus action
-
-**Duration:** 15 minutes
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a small parchment with a bit of holy text written on it
+- **Casting Time:** bonus action
+- **Duration:** 15 minutes
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a small parchment with a bit of holy text written on it
 
 ---
 

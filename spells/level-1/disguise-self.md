@@ -1,16 +1,11 @@
 # Disguise Self
-
 - [x] Homebrew
 
 ***1st-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** verbal, somatic
 
 ---
 

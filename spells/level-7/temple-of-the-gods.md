@@ -1,18 +1,12 @@
 # Temple of the Gods
-
 - [ ] Homebrew
 
 ***7th-level conjuration***
-
-**Casting Time:** 1 hour
-
-**Duration:** 1 day
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a holy symbol worth at least 5 gp
+- **Casting Time:** 1 hour
+- **Duration:** 1 day
+- **Range:** 120 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a holy symbol worth at least 5 gp
 
 ---
 

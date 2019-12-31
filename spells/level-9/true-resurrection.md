@@ -1,18 +1,12 @@
 # True Resurrection
-
 - [ ] Homebrew
 
 ***9th-level necromancy***
-
-**Casting Time:** 1 hour
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes
+- **Casting Time:** 1 hour
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes
 
 ---
 

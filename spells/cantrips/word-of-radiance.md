@@ -1,22 +1,14 @@
 # Word of Radiance
-
 - [x] Homebrew
 
 ***0th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 10 feet
-
-**Tags:** verbal, material
-
-**Material Components:** a holy symbol
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 10 feet
+- **Tags:** verbal, material
+- **Material Components:** a holy symbol
 
 ---
 

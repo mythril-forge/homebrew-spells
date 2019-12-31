@@ -1,16 +1,11 @@
 # Teleport
-
 - [ ] Homebrew
 
 ***7th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 10 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 10 feet
+- **Tags:** verbal
 
 ---
 

@@ -1,22 +1,14 @@
 # Acid Splash
-
 - [x] Homebrew
 
 ***0th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Shape:** sphere
-
-**Radius:** 5 feet
-
-**Tags:** verbal, somatic
-
-**Material Components:** a splash of water
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Shape:** sphere
+- **Radius:** 5 feet
+- **Tags:** verbal, somatic
+- **Material Components:** a splash of water
 
 ---
 

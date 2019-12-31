@@ -1,16 +1,11 @@
 # Remove Curse
-
 - [x] Homebrew
 
 ***3rd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

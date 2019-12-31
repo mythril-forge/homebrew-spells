@@ -1,18 +1,12 @@
 # Tenser's Transformation
-
 - [ ] Homebrew
 
 ***6th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a few hairs from a bull
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a few hairs from a bull
 
 ---
 

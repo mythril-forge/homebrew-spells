@@ -1,18 +1,12 @@
 # Continual Flame
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** indefinate
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** ruby dust worth 50 sp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** indefinate
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** ruby dust worth 50 sp, which the spell consumes
 
 ---
 

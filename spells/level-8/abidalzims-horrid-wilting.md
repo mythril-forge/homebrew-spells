@@ -1,22 +1,14 @@
 # Abi-Dalzim's Horrid Wilting
-
 - [ ] Homebrew
 
 ***8th-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 150 feet
-
-**Shape:** cube
-
-**Length:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a bit of sponge
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 150 feet
+- **Shape:** cube
+- **Length:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a bit of sponge
 
 ---
 

@@ -1,26 +1,16 @@
 # Wall of Thorns
-
 - [ ] Homebrew
 
 ***6th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 120 feet
-
-**Shape:** wall
-
-**Height:** 20 feet
-
-**Length:** 60 feet
-
-**Width:** 5 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a handful of thorns
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 120 feet
+- **Shape:** wall
+- **Height:** 20 feet
+- **Length:** 60 feet
+- **Width:** 5 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a handful of thorns
 
 ---
 

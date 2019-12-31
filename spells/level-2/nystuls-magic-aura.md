@@ -1,18 +1,12 @@
 # Nystul's Magic Aura
-
 - [x] Homebrew
 
 ***2nd-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 1 day
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a small square of silk
+- **Casting Time:** action
+- **Duration:** 1 day
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a small square of silk
 
 ---
 

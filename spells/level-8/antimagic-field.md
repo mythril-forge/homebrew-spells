@@ -1,22 +1,14 @@
 # Antimagic Field
-
 - [ ] Homebrew
 
 ***8th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Shape:** sphere
-
-**Radius:** 10 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a pinch of powdered iron or iron filings
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Shape:** sphere
+- **Radius:** 10 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a pinch of powdered iron or iron filings
 
 ---
 

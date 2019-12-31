@@ -1,18 +1,12 @@
 # Staggering Smite
-
 - [x] Homebrew
 
 ***4th-level necromancy***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, material, concentration
-
-**Material Components:** a weapon
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, material, concentration
+- **Material Components:** a weapon
 
 ---
 

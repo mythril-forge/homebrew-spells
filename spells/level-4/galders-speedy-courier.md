@@ -1,18 +1,12 @@
 # Galder's Speedy Courier
-
 - [ ] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 10 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** 25 gold pieces, or mineral goods of equivalent value, which the spell consumes
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 10 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** 25 gold pieces, or mineral goods of equivalent value, which the spell consumes
 
 ---
 

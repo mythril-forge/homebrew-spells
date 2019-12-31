@@ -1,18 +1,12 @@
 # Mordenkainen's Faithful Hound
-
 - [ ] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 8 hours
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a tiny silver whistle, a piece of bone, and a thread
+- **Casting Time:** action
+- **Duration:** 8 hours
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a tiny silver whistle, a piece of bone, and a thread
 
 ---
 

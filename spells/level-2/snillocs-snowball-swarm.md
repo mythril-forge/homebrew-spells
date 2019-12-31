@@ -1,22 +1,14 @@
 # Snilloc's Snowball Swarm
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a piece of ice or a small white rock
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a piece of ice or a small white rock
 
 ---
 

@@ -1,18 +1,12 @@
 # Drawmij's Instant Summons
-
 - [ ] Homebrew
 
 ***6th-level conjuration***
-
-**Casting Time:** 1 minute
-
-**Duration:** indefinate
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a sapphire worth 1,000 gp
+- **Casting Time:** 1 minute
+- **Duration:** indefinate
+- **Range:** touch
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a sapphire worth 1,000 gp
 
 ---
 

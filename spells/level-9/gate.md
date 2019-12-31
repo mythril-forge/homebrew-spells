@@ -1,18 +1,12 @@
 # Gate
-
 - [ ] Homebrew
 
 ***9th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a diamond worth at least 5,000 gp
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a diamond worth at least 5,000 gp
 
 ---
 

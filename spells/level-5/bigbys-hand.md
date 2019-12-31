@@ -1,18 +1,12 @@
 # Bigby's Hand
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** an eggshell and a snakeskin glove
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 120 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** an eggshell and a snakeskin glove
 
 ---
 

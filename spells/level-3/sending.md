@@ -1,18 +1,12 @@
 # Sending
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 round
-
-**Range:** unlimited
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a short piece of fine copper wire
+- **Casting Time:** action
+- **Duration:** 1 round
+- **Range:** unlimited
+- **Tags:** verbal, somatic, material
+- **Material Components:** a short piece of fine copper wire
 
 ---
 

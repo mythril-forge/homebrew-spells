@@ -1,20 +1,13 @@
 # Emulate Breathe 
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 30 feet
-
-**Instances:** 4
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a short reed or piece of straw
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 30 feet
+- **Instances:** 4
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a short reed or piece of straw
 
 ---
 

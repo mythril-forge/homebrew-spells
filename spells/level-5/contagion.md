@@ -1,16 +1,11 @@
 # Contagion
-
 - [ ] Homebrew
 
 ***5th-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** 1 week
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 1 week
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

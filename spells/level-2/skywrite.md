@@ -1,16 +1,11 @@
 # Skywrite
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** unlimited
-
-**Tags:** verbal, somatic, concentration, ritual
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** unlimited
+- **Tags:** verbal, somatic, concentration, ritual
 
 ---
 

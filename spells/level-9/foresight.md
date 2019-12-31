@@ -1,18 +1,12 @@
 # Foresight
-
 - [ ] Homebrew
 
 ***9th-level divination***
-
-**Casting Time:** 1 minute
-
-**Duration:** 8 hours
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a hummingbird feather
+- **Casting Time:** 1 minute
+- **Duration:** 8 hours
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a hummingbird feather
 
 ---
 

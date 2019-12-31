@@ -1,22 +1,14 @@
 # Sunburst
-
 - [ ] Homebrew
 
 ***8th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 150 feet
-
-**Shape:** sphere
-
-**Radius:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** fire and a piece of sunstone
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 150 feet
+- **Shape:** sphere
+- **Radius:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** fire and a piece of sunstone
 
 ---
 

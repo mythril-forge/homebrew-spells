@@ -1,16 +1,11 @@
 # Elemental Bane
-
 - [ ] Homebrew
 
 ***4th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 90 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

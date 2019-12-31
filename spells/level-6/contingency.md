@@ -1,18 +1,12 @@
 # Contingency
-
 - [ ] Homebrew
 
 ***6th-level evocation***
-
-**Casting Time:** 10 minutes
-
-**Duration:** 10 days
-
-**Range:** self
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp
+- **Casting Time:** 10 minutes
+- **Duration:** 10 days
+- **Range:** self
+- **Tags:** verbal, somatic, material
+- **Material Components:** a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp
 
 ---
 

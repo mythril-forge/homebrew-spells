@@ -1,22 +1,14 @@
 # Create Water
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Shape:** cube
-
-**Length:** 10 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a drop of water
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Shape:** cube
+- **Length:** 10 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a drop of water
 
 ---
 

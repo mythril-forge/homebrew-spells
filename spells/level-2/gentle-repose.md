@@ -1,18 +1,12 @@
 # Gentle Repose
-
 - [x] Homebrew
 
 ***2nd-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** 2 weeks
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration
+- **Casting Time:** action
+- **Duration:** 2 weeks
+- **Range:** touch
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration
 
 ---
 

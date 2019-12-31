@@ -1,20 +1,13 @@
 # Bane
-
 - [x] Homebrew
 
 ***1st-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Instances:** 5
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a sprinkling of blood
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Instances:** 5
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a sprinkling of blood
 
 ---
 

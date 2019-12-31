@@ -1,18 +1,12 @@
 # Creation
-
 - [ ] Homebrew
 
 ***5th-level illusion***
-
-**Casting Time:** 1 minute
-
-**Duration:** special
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a tiny piece of matter of the same type of the item you plan to create
+- **Casting Time:** 1 minute
+- **Duration:** special
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a tiny piece of matter of the same type of the item you plan to create
 
 ---
 

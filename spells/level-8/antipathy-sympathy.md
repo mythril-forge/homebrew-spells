@@ -1,22 +1,14 @@
 # Antipathy/Sympathy
-
 - [ ] Homebrew
 
 ***8th-level enchantment***
-
-**Casting Time:** 1 hour
-
-**Duration:** 10 days
-
-**Range:** 60 feet
-
-**Shape:** cube
-
-**Length:** 200 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect
+- **Casting Time:** 1 hour
+- **Duration:** 10 days
+- **Range:** 60 feet
+- **Shape:** cube
+- **Length:** 200 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect
 
 ---
 

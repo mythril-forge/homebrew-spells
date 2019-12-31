@@ -1,18 +1,12 @@
 # Enlarge
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a pinch of powdered iron
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a pinch of powdered iron
 
 ---
 

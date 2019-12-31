@@ -1,18 +1,12 @@
 # Conjure Hezrou (UA)
-
 - [ ] Homebrew
 
 ***7th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** food worth at least 100 gp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** food worth at least 100 gp, which the spell consumes
 
 ---
 

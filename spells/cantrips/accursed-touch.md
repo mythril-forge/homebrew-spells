@@ -1,16 +1,11 @@
 # Accursed Touch
-
 - [x] Homebrew
 
 ***0th-level necromancy***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

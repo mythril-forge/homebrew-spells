@@ -1,18 +1,12 @@
 # Imprisonment
-
 - [ ] Homebrew
 
 ***9th-level abjuration***
-
-**Casting Time:** 1 minute
-
-**Duration:** indefinate
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target
+- **Casting Time:** 1 minute
+- **Duration:** indefinate
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target
 
 ---
 

@@ -1,16 +1,11 @@
 # Vicious Mockery
-
 - [x] Homebrew
 
 ***0th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 120 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 120 feet
+- **Tags:** verbal
 
 ---
 

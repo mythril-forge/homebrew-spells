@@ -1,18 +1,12 @@
 # Longstrider
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 12 hours
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a pinch of dirt
+- **Casting Time:** action
+- **Duration:** 12 hours
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a pinch of dirt
 
 ---
 

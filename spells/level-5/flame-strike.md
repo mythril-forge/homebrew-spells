@@ -1,24 +1,15 @@
 # Flame Strike
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Shape:** cylinder
-
-**Radius:** 10 feet
-
-**Height:** 40 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** pinch of sulfur
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Shape:** cylinder
+- **Radius:** 10 feet
+- **Height:** 40 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** pinch of sulfur
 
 ---
 

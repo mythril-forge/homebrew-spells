@@ -1,20 +1,13 @@
 # Pyrotechnics
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Shape:** cube
-
-**Length:** 5 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Shape:** cube
+- **Length:** 5 feet
+- **Tags:** verbal, somatic
 
 ---
 

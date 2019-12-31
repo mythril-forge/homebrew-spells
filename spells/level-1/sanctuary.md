@@ -1,18 +1,12 @@
 # Sanctuary
-
 - [x] Homebrew
 
 ***1st-level abjuration***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a small silver mirror
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a small silver mirror
 
 ---
 

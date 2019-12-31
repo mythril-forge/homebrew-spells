@@ -1,22 +1,14 @@
 # Druid Grove
-
 - [ ] Homebrew
 
 ***6th-level abjuration***
-
-**Casting Time:** 10 minutes
-
-**Duration:** 1 day
-
-**Range:** touch
-
-**Shape:** cube
-
-**Length:** 90 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon
+- **Casting Time:** 10 minutes
+- **Duration:** 1 day
+- **Range:** touch
+- **Shape:** cube
+- **Length:** 90 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon
 
 ---
 

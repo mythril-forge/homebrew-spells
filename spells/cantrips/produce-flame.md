@@ -1,16 +1,11 @@
 # Produce Flame
-
 - [x] Homebrew
 
 ***0th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Tags:** verbal, somatic
 
 ---
 

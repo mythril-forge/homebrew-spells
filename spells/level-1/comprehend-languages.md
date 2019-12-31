@@ -1,18 +1,12 @@
 # Comprehend Languages
-
 - [x] Homebrew
 
 ***1st-level divination***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a pinch of soot and salt
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a pinch of soot and salt
 
 ---
 

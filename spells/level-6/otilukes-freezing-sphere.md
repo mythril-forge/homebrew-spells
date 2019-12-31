@@ -1,22 +1,14 @@
 # Otiluke's Freezing Sphere
-
 - [ ] Homebrew
 
 ***6th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 300 feet
-
-**Shape:** sphere
-
-**Radius:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a small crystal sphere
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 300 feet
+- **Shape:** sphere
+- **Radius:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a small crystal sphere
 
 ---
 

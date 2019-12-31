@@ -1,18 +1,12 @@
 # Darkvision
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 day
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** either a pinch of dried carrot or an agate
+- **Casting Time:** action
+- **Duration:** 1 day
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** either a pinch of dried carrot or an agate
 
 ---
 

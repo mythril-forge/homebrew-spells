@@ -1,18 +1,12 @@
 # Passwall
-
 - [ ] Homebrew
 
 ***5th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a pinch of sesame seeds
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a pinch of sesame seeds
 
 ---
 

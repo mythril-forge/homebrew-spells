@@ -1,18 +1,12 @@
 # Find Steed
-
 - [x] Homebrew
 
 ***2nd-level conjuration***
-
-**Casting Time:** 1 hour
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** 250 sp worth of charcoal, incense, and herbs that must be consumed by a fire in a brass brazier
+- **Casting Time:** 1 hour
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** 250 sp worth of charcoal, incense, and herbs that must be consumed by a fire in a brass brazier
 
 ---
 

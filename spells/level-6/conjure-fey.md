@@ -1,16 +1,11 @@
 # Conjure Fey
-
 - [ ] Homebrew
 
 ***6th-level conjuration***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 hour
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** 1 minute
+- **Duration:** 1 hour
+- **Range:** 90 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

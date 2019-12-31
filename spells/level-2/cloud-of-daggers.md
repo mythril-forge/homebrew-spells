@@ -1,22 +1,14 @@
 # Cloud of Daggers
-
 - [x] Homebrew
 
 ***2nd-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Shape:** cube
-
-**Length:** 10 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a sliver of glass
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Shape:** cube
+- **Length:** 10 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a sliver of glass
 
 ---
 

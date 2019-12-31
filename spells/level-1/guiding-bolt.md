@@ -1,16 +1,11 @@
 # Guiding Bolt
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 round
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 1 round
+- **Range:** 120 feet
+- **Tags:** verbal, somatic
 
 ---
 

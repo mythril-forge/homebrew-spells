@@ -1,18 +1,12 @@
 # Detect Thoughts
-
 - [x] Homebrew
 
 ***2nd-level divination***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a copper piece
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a copper piece
 
 ---
 

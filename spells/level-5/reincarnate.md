@@ -1,18 +1,12 @@
 # Reincarnate
-
 - [ ] Homebrew
 
 ***5th-level transmutation***
-
-**Casting Time:** 1 hour
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** rare oils and unguents worth at least 1,000 gp, which the spell consumes
+- **Casting Time:** 1 hour
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** rare oils and unguents worth at least 1,000 gp, which the spell consumes
 
 ---
 

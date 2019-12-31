@@ -1,18 +1,12 @@
 # Arcane Eye
-
 - [x] Homebrew
 
 ***4th-level divination***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a small cut gem worth at least 15 sp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a small cut gem worth at least 15 sp, which the spell consumes
 
 ---
 

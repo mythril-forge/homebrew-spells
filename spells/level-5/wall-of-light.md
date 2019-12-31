@@ -1,26 +1,16 @@
 # Wall of Light
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 120 feet
-
-**Shape:** wall
-
-**Height:** 10 feet
-
-**Length:** 60 feet
-
-**Width:** 5 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a hand mirror
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 120 feet
+- **Shape:** wall
+- **Height:** 10 feet
+- **Length:** 60 feet
+- **Width:** 5 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a hand mirror
 
 ---
 

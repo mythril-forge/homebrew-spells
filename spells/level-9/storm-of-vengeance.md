@@ -1,22 +1,14 @@
 # Storm of Vengeance
-
 - [ ] Homebrew
 
 ***9th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** unlimited
-
-**Shape:** cylinder
-
-**Radius:** 360 feet
-
-**Height:** 1 mile
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** unlimited
+- **Shape:** cylinder
+- **Radius:** 360 feet
+- **Height:** 1 mile
+- **Tags:** verbal, somatic, concentration
 
 ---
 

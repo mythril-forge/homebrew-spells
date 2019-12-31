@@ -1,16 +1,11 @@
 # Fire Bolt
-
 - [x] Homebrew
 
 ***0th-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** 90 feet
+- **Tags:** verbal, somatic
 
 ---
 

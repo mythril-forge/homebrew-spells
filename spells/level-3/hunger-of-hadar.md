@@ -1,22 +1,14 @@
 # Hunger of Hadar
-
 - [x] Homebrew
 
 ***3rd-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 120 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a pickled octopus tentacle
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 120 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a pickled octopus tentacle
 
 ---
 

@@ -1,16 +1,11 @@
 # Absorb Elements
-
 - [x] Homebrew
 
 ***1st-level abjuration***
-
-**Casting Time:** reaction (which you take when you take acid, cold, fire, force, lightning, or thunder damage)
-
-**Duration:** 1 round
-
-**Range:** self
-
-**Tags:** somatic
+- **Casting Time:** reaction (which you take when you take acid, cold, fire, force, lightning, or thunder damage)
+- **Duration:** 1 round
+- **Range:** self
+- **Tags:** somatic
 
 ---
 

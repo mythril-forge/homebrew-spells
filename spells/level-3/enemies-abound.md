@@ -1,16 +1,11 @@
 # Enemies Abound
-
 - [x] Homebrew
 
 ***3rd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 300 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 300 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

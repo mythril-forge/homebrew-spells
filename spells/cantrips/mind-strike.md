@@ -1,16 +1,11 @@
 # Mind Strike
-
 - [x] Homebrew
 
 ***0th-level psionic***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** somatic
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** somatic
 
 ---
 

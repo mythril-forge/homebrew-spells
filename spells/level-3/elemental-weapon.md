@@ -1,16 +1,11 @@
 # Elemental Weapon
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** bonus action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

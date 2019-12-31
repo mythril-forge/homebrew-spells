@@ -1,18 +1,12 @@
 # Bones of the Earth
-
 - [ ] Homebrew
 
 ***6th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 120 feet
-
-**Instances:** 6
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 120 feet
+- **Instances:** 6
+- **Tags:** verbal, somatic
 
 ---
 

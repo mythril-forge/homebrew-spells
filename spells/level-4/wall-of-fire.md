@@ -1,26 +1,16 @@
 # Wall of Fire
-
 - [ ] Homebrew
 
 ***4th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 120 feet
-
-**Shape:** wall
-
-**Height:** 20 feet
-
-**Length:** 60 feet
-
-**Width:** 1 foot
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a small piece of phosphorus
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 120 feet
+- **Shape:** wall
+- **Height:** 20 feet
+- **Length:** 60 feet
+- **Width:** 1 foot
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a small piece of phosphorus
 
 ---
 

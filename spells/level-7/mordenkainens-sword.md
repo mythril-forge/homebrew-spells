@@ -1,18 +1,12 @@
 # Mordenkainen's Sword
-
 - [x] Homebrew
 
 ***7th-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** 40 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a miniature platinum sword with a grip and pommel of copper and zinc, worth at least 50 gp
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** 40 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a miniature platinum sword with a grip and pommel of copper and zinc, worth at least 50 gp
 
 ---
 

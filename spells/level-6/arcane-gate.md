@@ -1,16 +1,11 @@
 # Arcane Gate
-
 - [ ] Homebrew
 
 ***6th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 500 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 500 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

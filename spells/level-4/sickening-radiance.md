@@ -1,20 +1,13 @@
 # Sickening Radiance
-
 - [ ] Homebrew
 
 ***4th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 120 feet
-
-**Shape:** sphere
-
-**Radius:** 30 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 120 feet
+- **Shape:** sphere
+- **Radius:** 30 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

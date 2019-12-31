@@ -1,16 +1,11 @@
 # Charm Monster
-
 - [ ] Homebrew
 
 ***4th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 30 feet
+- **Tags:** verbal, somatic
 
 ---
 

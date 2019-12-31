@@ -1,18 +1,12 @@
 # Mordenkainen's Magnificent Mansion
-
 - [ ] Homebrew
 
 ***7th-level conjuration***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 day
-
-**Range:** 300 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp
+- **Casting Time:** 1 minute
+- **Duration:** 1 day
+- **Range:** 300 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp
 
 ---
 

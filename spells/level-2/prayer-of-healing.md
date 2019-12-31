@@ -1,18 +1,12 @@
 # Prayer of Healing
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** 15 minutes
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Instances:** 6
-
-**Tags:** verbal
+- **Casting Time:** 15 minutes
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Instances:** 6
+- **Tags:** verbal
 
 ---
 

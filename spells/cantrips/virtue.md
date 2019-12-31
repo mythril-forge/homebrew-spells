@@ -1,16 +1,11 @@
 # Virtue
-
 - [x] Homebrew
 
 ***0th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 round
-
-**Range:** touch
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 round
+- **Range:** touch
+- **Tags:** verbal, somatic, concentration
 
 ---
 

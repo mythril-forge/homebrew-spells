@@ -1,16 +1,11 @@
 # Giant Insect
-
 - [ ] Homebrew
 
 ***4th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

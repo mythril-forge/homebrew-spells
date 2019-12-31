@@ -1,18 +1,12 @@
 # Find Familiar
-
 - [x] Homebrew
 
 ***1st-level conjuration***
-
-**Casting Time:** 1 hour
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** 50 sp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier
+- **Casting Time:** 1 hour
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** 50 sp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier
 
 ---
 

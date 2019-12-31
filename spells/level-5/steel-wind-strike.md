@@ -1,20 +1,13 @@
 # Steel Wind Strike
-
 - [ ] Homebrew
 
 ***5th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Instances:** 5
-
-**Tags:** somatic, material
-
-**Material Components:** a weapon
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Instances:** 5
+- **Tags:** somatic, material
+- **Material Components:** a weapon
 
 ---
 

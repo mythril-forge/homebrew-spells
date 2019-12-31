@@ -1,18 +1,12 @@
 # Maximilian's Earthen Grasp
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a miniature hand sculpted from clay
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a miniature hand sculpted from clay
 
 ---
 

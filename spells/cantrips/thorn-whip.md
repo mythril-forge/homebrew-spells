@@ -1,18 +1,12 @@
 # Thorn Whip
-
 - [x] Homebrew
 
 ***0th-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, material
-
-**Material Components:** the stem of a plant with thorns
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, material
+- **Material Components:** the stem of a plant with thorns
 
 ---
 

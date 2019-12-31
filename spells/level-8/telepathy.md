@@ -1,18 +1,12 @@
 # Telepathy
-
 - [ ] Homebrew
 
 ***8th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 day
-
-**Range:** unlimited
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a pair of linked silver rings
+- **Casting Time:** action
+- **Duration:** 1 day
+- **Range:** unlimited
+- **Tags:** verbal, somatic, material
+- **Material Components:** a pair of linked silver rings
 
 ---
 

@@ -1,22 +1,14 @@
 # Watery Sphere
-
 - [ ] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 90 feet
-
-**Shape:** sphere
-
-**Radius:** 5 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a droplet of water
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 90 feet
+- **Shape:** sphere
+- **Radius:** 5 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a droplet of water
 
 ---
 

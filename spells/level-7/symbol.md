@@ -1,22 +1,14 @@
 # Symbol
-
 - [ ] Homebrew
 
 ***7th-level abjuration***
-
-**Casting Time:** 1 minute
-
-**Duration:** activated
-
-**Range:** touch
-
-**Shape:** sphere
-
-**Radius:** 5 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes
+- **Casting Time:** 1 minute
+- **Duration:** activated
+- **Range:** touch
+- **Shape:** sphere
+- **Radius:** 5 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes
 
 ---
 

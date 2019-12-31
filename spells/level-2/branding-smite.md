@@ -1,18 +1,12 @@
 # Branding Smite
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, material, concentration
-
-**Material Components:** a weapon
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, material, concentration
+- **Material Components:** a weapon
 
 ---
 

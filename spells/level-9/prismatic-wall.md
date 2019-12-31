@@ -1,24 +1,15 @@
 # Prismatic Wall
-
 - [ ] Homebrew
 
 ***9th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 60 feet
-
-**Shape:** wall
-
-**Height:** 30 feet
-
-**Length:** 90 feet
-
-**Width:** 1 inch
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 60 feet
+- **Shape:** wall
+- **Height:** 30 feet
+- **Length:** 90 feet
+- **Width:** 1 inch
+- **Tags:** verbal, somatic
 
 ---
 

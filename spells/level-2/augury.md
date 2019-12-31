@@ -1,18 +1,12 @@
 # Augury
-
 - [x] Homebrew
 
 ***2nd-level divination***
-
-**Casting Time:** 5 minutes
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** specially marked sticks, bones, or similar tokens worth at least 25 sp
+- **Casting Time:** 5 minutes
+- **Duration:** instantaneous
+- **Range:** self
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** specially marked sticks, bones, or similar tokens worth at least 25 sp
 
 ---
 

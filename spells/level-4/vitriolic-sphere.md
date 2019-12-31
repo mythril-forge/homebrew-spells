@@ -1,22 +1,14 @@
 # Vitriolic Sphere
-
 - [ ] Homebrew
 
 ***4th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 150 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a drop of giant slug bile
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 150 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a drop of giant slug bile
 
 ---
 

@@ -1,18 +1,12 @@
 # False Life
-
 - [x] Homebrew
 
 ***1st-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a small amount of alcohol or distilled spirits
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a small amount of alcohol or distilled spirits
 
 ---
 

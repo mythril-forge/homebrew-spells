@@ -1,18 +1,12 @@
 # Pass without Trace
-
 - [x] Homebrew
 
 ***2nd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** ashes from a burned leaf of mistletoe and a sprig of spruce
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** ashes from a burned leaf of mistletoe and a sprig of spruce
 
 ---
 

@@ -1,18 +1,12 @@
 # Message
-
 - [x] Homebrew
 
 ***0th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 round
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a short piece of copper wire
+- **Casting Time:** action
+- **Duration:** 1 round
+- **Range:** 120 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a short piece of copper wire
 
 ---
 

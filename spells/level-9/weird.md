@@ -1,20 +1,13 @@
 # Weird
-
 - [ ] Homebrew
 
 ***9th-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 120 feet
-
-**Shape:** sphere
-
-**Radius:** 30 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 120 feet
+- **Shape:** sphere
+- **Radius:** 30 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

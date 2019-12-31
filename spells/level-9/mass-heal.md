@@ -1,16 +1,11 @@
 # Mass Heal
-
 - [ ] Homebrew
 
 ***9th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** verbal, somatic
 
 ---
 

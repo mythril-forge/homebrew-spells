@@ -1,18 +1,12 @@
 # Barkskin
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a handful of oak bark
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a handful of oak bark
 
 ---
 

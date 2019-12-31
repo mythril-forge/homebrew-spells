@@ -1,16 +1,11 @@
 # Meld into Stone
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 12 hours
-
-**Range:** self
-
-**Tags:** verbal, somatic, ritual
+- **Casting Time:** action
+- **Duration:** 12 hours
+- **Range:** self
+- **Tags:** verbal, somatic, ritual
 
 ---
 

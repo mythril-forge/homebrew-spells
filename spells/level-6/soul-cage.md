@@ -1,18 +1,12 @@
 # Soul Cage
-
 - [ ] Homebrew
 
 ***6th-level necromancy***
-
-**Casting Time:** reaction (which you take when a humanoid you can see within 60 feet of you dies)
-
-**Duration:** 8 hours
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a tiny silver cage worth 100 gp
+- **Casting Time:** reaction (which you take when a humanoid you can see within 60 feet of you dies)
+- **Duration:** 8 hours
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a tiny silver cage worth 100 gp
 
 ---
 

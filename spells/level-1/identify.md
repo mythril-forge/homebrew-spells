@@ -1,18 +1,12 @@
 # Identify
-
 - [x] Homebrew
 
 ***1st-level divination***
-
-**Casting Time:** 5 minutes
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a pearl worth at least 500 sp and an owl feather
+- **Casting Time:** 5 minutes
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a pearl worth at least 500 sp and an owl feather
 
 ---
 

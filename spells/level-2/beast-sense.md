@@ -1,16 +1,11 @@
 # Beast Sense
-
 - [x] Homebrew
 
 ***2nd-level divination***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** somatic, concentration, ritual
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** somatic, concentration, ritual
 
 ---
 

@@ -1,18 +1,12 @@
 # Conjure Demon
-
 - [x] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a vial of blood from a humanoid killed within the past 24 hours
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a vial of blood from a humanoid killed within the past 24 hours
 
 ---
 

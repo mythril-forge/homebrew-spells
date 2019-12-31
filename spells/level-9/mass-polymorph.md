@@ -1,20 +1,13 @@
 # Mass Polymorph
-
 - [ ] Homebrew
 
 ***9th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 120 feet
-
-**Instances:** 10
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a caterpillar cocoon
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 120 feet
+- **Instances:** 10
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a caterpillar cocoon
 
 ---
 

@@ -1,16 +1,11 @@
 # Misty Step
-
 - [x] Homebrew
 
 ***2nd-level conjuration***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Tags:** verbal
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** self
+- **Tags:** verbal
 
 ---
 

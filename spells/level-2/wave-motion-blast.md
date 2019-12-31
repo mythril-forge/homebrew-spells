@@ -1,16 +1,11 @@
 # Wave Motion Blast
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 20 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 20 feet
+- **Tags:** verbal, somatic
 
 ---
 

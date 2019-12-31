@@ -1,22 +1,14 @@
 # Conjure Barrage
-
 - [x] Homebrew
 
 ***3rd-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** cone
-
-**Radius:** 60 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** one piece of ammunition or a thrown weapon, which the spell consumes
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** cone
+- **Radius:** 60 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** one piece of ammunition or a thrown weapon, which the spell consumes
 
 ---
 

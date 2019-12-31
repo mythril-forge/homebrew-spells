@@ -1,24 +1,15 @@
 # Dawn
-
 - [ ] Homebrew
 
 ***5th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 60 feet
-
-**Shape:** cylinder
-
-**Radius:** 30 feet
-
-**Height:** 40 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a sunburst pendant worth at least 100 gp
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 60 feet
+- **Shape:** cylinder
+- **Radius:** 30 feet
+- **Height:** 40 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a sunburst pendant worth at least 100 gp
 
 ---
 

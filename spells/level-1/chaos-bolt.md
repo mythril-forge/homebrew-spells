@@ -1,16 +1,11 @@
 # Chaos Bolt
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Tags:** verbal, somatic
 
 ---
 ## Description

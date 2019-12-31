@@ -1,18 +1,12 @@
 # Magic Missile
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 120 feet
-
-**Instances:** 3
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 120 feet
+- **Instances:** 3
+- **Tags:** verbal, somatic
 
 ---
 

@@ -1,22 +1,14 @@
 # Evard's Black Tentacles
-
 - [ ] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 90 feet
-
-**Shape:** cube
-
-**Length:** 20 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a piece of tentacle from a giant octopus or a giant squid
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 90 feet
+- **Shape:** cube
+- **Length:** 20 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a piece of tentacle from a giant octopus or a giant squid
 
 ---
 

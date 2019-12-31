@@ -1,18 +1,12 @@
 # Zephyr Strike
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 1 round
-
-**Range:** self
-
-**Tags:** verbal, material
-
-**Material Components:** a weapon
+- **Casting Time:** bonus action
+- **Duration:** 1 round
+- **Range:** self
+- **Tags:** verbal, material
+- **Material Components:** a weapon
 
 ---
 

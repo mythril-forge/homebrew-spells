@@ -1,18 +1,12 @@
 # Armor of Agathys
-
 - [x] Homebrew
 
 ***1st-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 12 hours
-
-**Range:** self
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a cup of water
+- **Casting Time:** action
+- **Duration:** 12 hours
+- **Range:** self
+- **Tags:** verbal, somatic, material
+- **Material Components:** a cup of water
 
 ---
 

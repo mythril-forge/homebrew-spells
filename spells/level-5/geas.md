@@ -1,16 +1,11 @@
 # Geas
-
 - [ ] Homebrew
 
 ***5th-level enchantment***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 month
-
-**Range:** 60 feet
-
-**Tags:** verbal
+- **Casting Time:** 1 minute
+- **Duration:** 1 month
+- **Range:** 60 feet
+- **Tags:** verbal
 
 ---
 

@@ -1,22 +1,14 @@
 # Confusion
-
 - [ ] Homebrew
 
 ***4th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 90 feet
-
-**Shape:** sphere
-
-**Radius:** 10 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** three nut shells
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 90 feet
+- **Shape:** sphere
+- **Radius:** 10 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** three nut shells
 
 ---
 

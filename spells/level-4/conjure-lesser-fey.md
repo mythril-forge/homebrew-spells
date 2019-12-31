@@ -1,18 +1,12 @@
 # Conjure Lesser Fey
-
 - [x] Homebrew
 
 ***4th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** one holly berry per creature summoned
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** one holly berry per creature summoned
 
 ---
 

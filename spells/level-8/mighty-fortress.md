@@ -1,18 +1,12 @@
 # Mighty Fortress
-
 - [ ] Homebrew
 
 ***8th-level conjuration***
-
-**Casting Time:** 1 minute
-
-**Duration:** instantaneous
-
-**Range:** 1 mile
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a diamond worth at least 500 gp, which the spell consumes
+- **Casting Time:** 1 minute
+- **Duration:** instantaneous
+- **Range:** 1 mile
+- **Tags:** verbal, somatic, material
+- **Material Components:** a diamond worth at least 500 gp, which the spell consumes
 
 ---
 

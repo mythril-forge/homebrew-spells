@@ -1,16 +1,11 @@
 # Healing Word
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** verbal
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** verbal
 
 ---
 

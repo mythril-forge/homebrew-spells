@@ -1,22 +1,14 @@
 # Control Weather
-
 - [ ] Homebrew
 
 ***8th-level transmutation***
-
-**Casting Time:** 10 minutes
-
-**Duration:** 8 hours
-
-**Range:** self
-
-**Shape:** sphere
-
-**Radius:** 5 miles
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** burning incense and bits of earth and wood mixed in water
+- **Casting Time:** 10 minutes
+- **Duration:** 8 hours
+- **Range:** self
+- **Shape:** sphere
+- **Radius:** 5 miles
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** burning incense and bits of earth and wood mixed in water
 
 ---
 

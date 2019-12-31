@@ -1,16 +1,11 @@
 # Crown of Madness
-
 - [x] Homebrew
 
 ***2nd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 120 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

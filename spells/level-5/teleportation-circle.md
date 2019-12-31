@@ -1,18 +1,12 @@
 # Teleportation Circle
-
 - [ ] Homebrew
 
 ***5th-level conjuration***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 round
-
-**Range:** 10 feet
-
-**Tags:** verbal, material
-
-**Material Components:** rare chalks and inks infused with precious gems worth 50 gp, which the spell consumes
+- **Casting Time:** 1 minute
+- **Duration:** 1 round
+- **Range:** 10 feet
+- **Tags:** verbal, material
+- **Material Components:** rare chalks and inks infused with precious gems worth 50 gp, which the spell consumes
 
 ---
 

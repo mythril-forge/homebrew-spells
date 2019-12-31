@@ -1,16 +1,11 @@
 # Dominate Beast
-
 - [ ] Homebrew
 
 ***4th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

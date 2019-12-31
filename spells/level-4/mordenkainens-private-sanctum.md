@@ -1,18 +1,12 @@
 # Mordenkainen's Private Sanctum
-
 - [ ] Homebrew
 
 ***4th-level abjuration***
-
-**Casting Time:** 10 minutes
-
-**Duration:** 1 day
-
-**Range:** 120 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite
+- **Casting Time:** 10 minutes
+- **Duration:** 1 day
+- **Range:** 120 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite
 
 ---
 

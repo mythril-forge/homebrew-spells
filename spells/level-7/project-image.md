@@ -1,18 +1,12 @@
 # Project Image
-
 - [ ] Homebrew
 
 ***7th-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 1 day
-
-**Range:** 500 miles
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a small replica of you made from materials worth at least 5 gp
+- **Casting Time:** action
+- **Duration:** 1 day
+- **Range:** 500 miles
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a small replica of you made from materials worth at least 5 gp
 
 ---
 

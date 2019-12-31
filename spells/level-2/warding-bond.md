@@ -1,18 +1,12 @@
 # Warding Bond
-
 - [x] Homebrew
 
 ***2nd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a pair of platinum rings worth at least 50 sp each, which you and the target must wear for the duration
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a pair of platinum rings worth at least 50 sp each, which you and the target must wear for the duration
 
 ---
 

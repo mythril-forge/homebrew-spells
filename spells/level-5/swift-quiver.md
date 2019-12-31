@@ -1,18 +1,12 @@
 # Swift Quiver
-
 - [ ] Homebrew
 
 ***5th-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 1 minute
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a quiver containing at least one piece of ammunition
+- **Casting Time:** bonus action
+- **Duration:** 1 minute
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a quiver containing at least one piece of ammunition
 
 ---
 

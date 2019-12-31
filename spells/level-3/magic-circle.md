@@ -1,24 +1,15 @@
 # Magic Circle
-
 - [x] Homebrew
 
 ***3rd-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 30 feet
-
-**Shape:** cylinder
-
-**Radius:** 20 feet
-
-**Height:** 60 feet
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a pound of salt, and powdered iron/silver or a volume of holy water worth at least 100 sp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 30 feet
+- **Shape:** cylinder
+- **Radius:** 20 feet
+- **Height:** 60 feet
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a pound of salt, and powdered iron/silver or a volume of holy water worth at least 100 sp, which the spell consumes
 
 ---
 

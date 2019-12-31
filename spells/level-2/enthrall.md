@@ -1,16 +1,11 @@
 # Enthrall
-
 - [x] Homebrew
 
 ***2nd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Tags:** verbal, somatic
 
 ---
 

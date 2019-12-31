@@ -1,20 +1,13 @@
 # Conjure Bonfire
-
 - [x] Homebrew
 
 ***0th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Shape:** cube
-
-**Length:** 5 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Shape:** cube
+- **Length:** 5 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

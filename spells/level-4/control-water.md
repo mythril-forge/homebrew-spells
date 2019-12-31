@@ -1,18 +1,12 @@
 # Control Water
-
 - [ ] Homebrew
 
 ***4th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 300 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a drop of water and a pinch of dust
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 300 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a drop of water and a pinch of dust
 
 ---
 

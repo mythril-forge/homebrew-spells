@@ -1,16 +1,11 @@
 # Word of Recall
-
 - [ ] Homebrew
 
 ***6th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 5 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 5 feet
+- **Tags:** verbal
 
 ---
 

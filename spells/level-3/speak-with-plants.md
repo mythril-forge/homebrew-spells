@@ -1,20 +1,13 @@
 # Speak with Plants
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 30 feet
-
-**Shape:** sphere
-
-**Radius:** 30 feet
-
-**Tags:** verbal, somatic, ritual
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 30 feet
+- **Shape:** sphere
+- **Radius:** 30 feet
+- **Tags:** verbal, somatic, ritual
 
 ---
 

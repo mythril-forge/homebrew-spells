@@ -1,20 +1,13 @@
 # Distort Value
-
 - [x] Homebrew
 
 ***1st-level illusion***
-
-**Casting Time:** 5 minutes
-
-**Duration:** 12 hours
-
-**Range:** touch
-
-**Shape:** cube
-
-**Length:** 1 foot
-
-**Tags:** verbal
+- **Casting Time:** 5 minutes
+- **Duration:** 12 hours
+- **Range:** touch
+- **Shape:** cube
+- **Length:** 1 foot
+- **Tags:** verbal
 
 ---
 

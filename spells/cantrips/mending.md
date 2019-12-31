@@ -1,22 +1,14 @@
 # Mending
-
 - [x] Homebrew
 
 ***0th-level transmutation***
-
-**Casting Time:** 5 minutes
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Shape:** cube
-
-**Length:** 1 foot
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** two lodestones
+- **Casting Time:** 5 minutes
+- **Duration:** instantaneous
+- **Range:** touch
+- **Shape:** cube
+- **Length:** 1 foot
+- **Tags:** verbal, somatic, material
+- **Material Components:** two lodestones
 
 ---
 

@@ -1,18 +1,12 @@
 # Negative Energy Flood
-
 - [ ] Homebrew
 
 ***5th-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Tags:** verbal, material
-
-**Material Components:** a broken bone and a square of black silk
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Tags:** verbal, material
+- **Material Components:** a broken bone and a square of black silk
 
 ---
 

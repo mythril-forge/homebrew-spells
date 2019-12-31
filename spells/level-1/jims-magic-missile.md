@@ -1,20 +1,13 @@
 # Jim's Magic Missile
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 120 feet
-
-**Instances:** 3
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** 5 sp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 120 feet
+- **Instances:** 3
+- **Tags:** verbal, somatic, material
+- **Material Components:** 5 sp, which the spell consumes
 
 ---
 

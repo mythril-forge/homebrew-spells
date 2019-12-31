@@ -1,16 +1,11 @@
 # Investiture of Flame
-
 - [ ] Homebrew
 
 ***6th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, concentration
 
 ---
 

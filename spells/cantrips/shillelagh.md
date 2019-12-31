@@ -1,18 +1,12 @@
 # Shillelagh
-
 - [x] Homebrew
 
 ***0th-level transmutation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, material
-
-**Material Components:**  a wooden branch, club, or staff worth at least 20 cp, a mistletoe, and a shamrock leaf
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, material
+- **Material Components:**  a wooden branch, club, or staff worth at least 20 cp, a mistletoe, and a shamrock leaf
 
 ---
 

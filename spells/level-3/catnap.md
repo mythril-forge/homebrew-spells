@@ -1,24 +1,15 @@
 # Catnap
-
 - [x] Homebrew
 
 ***3rd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 30 feet
-
-**Instances:** 6
-
-**Tags:** somatic, material
-
-**Material Components:** a pinch of sand
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 30 feet
+- **Instances:** 6
+- **Tags:** somatic, material
+- **Material Components:** a pinch of sand
 
 ---
 

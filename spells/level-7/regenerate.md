@@ -1,18 +1,12 @@
 # Regenerate
-
 - [ ] Homebrew
 
 ***7th-level transmutation***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a prayer wheel and holy water
+- **Casting Time:** 1 minute
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a prayer wheel and holy water
 
 ---
 

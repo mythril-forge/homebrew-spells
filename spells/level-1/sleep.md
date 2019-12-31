@@ -1,22 +1,14 @@
 # Sleep
-
 - [x] Homebrew
 
 ***1st-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 90 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a pinch of fine sand, rose petals, or a cricket
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 90 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a pinch of fine sand, rose petals, or a cricket
 
 ---
 

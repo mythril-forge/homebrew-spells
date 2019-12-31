@@ -1,16 +1,11 @@
 # Ray of Frost
-
 - [x] Homebrew
 
 ***0th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 90 feet
+- **Tags:** verbal, somatic
 
 ---
 

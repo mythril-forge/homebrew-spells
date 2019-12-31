@@ -1,20 +1,13 @@
 # Rary's Telepathic Bond
-
 - [ ] Homebrew
 
 ***5th-level divination***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 30 feet
-
-**Instances:** 8
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** pieces of eggshell from two different kinds of creatures
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 30 feet
+- **Instances:** 8
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** pieces of eggshell from two different kinds of creatures
 
 ---
 

@@ -1,18 +1,12 @@
 # Feeblemind
-
 - [ ] Homebrew
 
 ***8th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 150 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a handful of clay, crystal, glass, or mineral spheres
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 150 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a handful of clay, crystal, glass, or mineral spheres
 
 ---
 

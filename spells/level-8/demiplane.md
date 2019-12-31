@@ -1,16 +1,11 @@
 # Demiplane
-
 - [ ] Homebrew
 
 ***8th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 60 feet
-
-**Tags:** somatic
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 60 feet
+- **Tags:** somatic
 
 ---
 

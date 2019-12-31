@@ -1,24 +1,15 @@
 # Aganazzar's Scorcher
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** line
-
-**Width:** 5 feet
-
-**Length:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a red dragon's scale
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** line
+- **Width:** 5 feet
+- **Length:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a red dragon's scale
 
 ---
 

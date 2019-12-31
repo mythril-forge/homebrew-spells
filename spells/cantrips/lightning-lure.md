@@ -1,16 +1,11 @@
 # Lightning Lure
-
 - [x] Homebrew
 
 ***0th-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, somatic
 
 ---
 

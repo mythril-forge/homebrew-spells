@@ -1,22 +1,14 @@
 # Catapult
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Shape:** line
-
-**Length:** 60 feet
-
-**Width:** 5 feet
-
-**Tags:** somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Shape:** line
+- **Length:** 60 feet
+- **Width:** 5 feet
+- **Tags:** somatic
 
 ---
 

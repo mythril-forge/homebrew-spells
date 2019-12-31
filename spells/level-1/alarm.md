@@ -1,22 +1,14 @@
 # Alarm
-
 - [x] Homebrew
 
 ***1st-level abjuration***
-
-**Casting Time:** 5 minutes
-
-**Duration:** 12 hours
-
-**Range:** 30 feet
-
-**Shape:** cube
-
-**Length:** 20 feet
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a tiny bell and a piece of fine silver wire
+- **Casting Time:** 5 minutes
+- **Duration:** 12 hours
+- **Range:** 30 feet
+- **Shape:** cube
+- **Length:** 20 feet
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a tiny bell and a piece of fine silver wire
 
 ---
 

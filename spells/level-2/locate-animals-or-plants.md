@@ -1,22 +1,14 @@
 # Locate Animals or Plants
-
 - [x] Homebrew
 
 ***2nd-level divination***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 1 mile
-
-**Tags:** verbal, somatic, material, concentration, ritual
-
-**Material Components:** a bit of fur from a bloodhound
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 1 mile
+- **Tags:** verbal, somatic, material, concentration, ritual
+- **Material Components:** a bit of fur from a bloodhound
 
 ---
 

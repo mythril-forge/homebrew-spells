@@ -1,22 +1,14 @@
 # Earthquake
-
 - [ ] Homebrew
 
 ***8th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 500 feet
-
-**Shape:** sphere
-
-**Radius:** 100 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a pinch of dirt, a piece of rock, and a lump of clay
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 500 feet
+- **Shape:** sphere
+- **Radius:** 100 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a pinch of dirt, a piece of rock, and a lump of clay
 
 ---
 

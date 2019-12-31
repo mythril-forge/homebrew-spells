@@ -1,18 +1,12 @@
 # Create Undead
-
 - [ ] Homebrew
 
 ***6th-level necromancy***
-
-**Casting Time:** 1 minute
-
-**Duration:** instantaneous
-
-**Range:** 10 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse
+- **Casting Time:** 1 minute
+- **Duration:** instantaneous
+- **Range:** 10 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse
 
 ---
 

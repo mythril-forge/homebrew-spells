@@ -1,18 +1,12 @@
 # Animate Dead
-
 - [x] Homebrew
 
 ***3rd-level necromancy***
-
-**Casting Time:** 5 minutes
-
-**Duration:** instantaneous
-
-**Range:** 10 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a drop of blood, a piece of flesh, and a pinch of bone dust
+- **Casting Time:** 5 minutes
+- **Duration:** instantaneous
+- **Range:** 10 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a drop of blood, a piece of flesh, and a pinch of bone dust
 
 ---
 

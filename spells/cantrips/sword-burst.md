@@ -1,20 +1,13 @@
 # Sword Burst
-
 - [x] Homebrew
 
 ***0th-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 10 feet
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 10 feet
+- **Tags:** verbal
 
 ---
 

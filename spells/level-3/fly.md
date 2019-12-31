@@ -1,18 +1,12 @@
 # Fly
-
 - [x] Homebrew
 
 ***3rd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a wing feather from any bird
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a wing feather from any bird
 
 ---
 

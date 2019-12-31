@@ -1,22 +1,14 @@
 # Move Earth
-
 - [ ] Homebrew
 
 ***6th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 2 hours
-
-**Range:** 120 feet
-
-**Shape:** cube
-
-**Length:** 40 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** an iron blade and a small bag containing a mixture of soils&mdash;clay, loam, and sand
+- **Casting Time:** action
+- **Duration:** 2 hours
+- **Range:** 120 feet
+- **Shape:** cube
+- **Length:** 40 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** an iron blade and a small bag containing a mixture of soils&mdash;clay, loam, and sand
 
 ---
 

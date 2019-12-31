@@ -1,18 +1,12 @@
 # Dream
-
 - [ ] Homebrew
 
 ***5th-level illusion***
-
-**Casting Time:** 1 minute
-
-**Duration:** 8 hours
-
-**Range:** special
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird
+- **Casting Time:** 1 minute
+- **Duration:** 8 hours
+- **Range:** special
+- **Tags:** verbal, somatic, material
+- **Material Components:** a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird
 
 ---
 

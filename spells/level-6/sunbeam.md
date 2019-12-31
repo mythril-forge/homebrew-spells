@@ -1,24 +1,15 @@
 # Sunbeam
-
 - [ ] Homebrew
 
 ***6th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** self
-
-**Shape:** line
-
-**Length:** 60 feet
-
-**Width:** 5 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a magnifying glass
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** self
+- **Shape:** line
+- **Length:** 60 feet
+- **Width:** 5 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a magnifying glass
 
 ---
 

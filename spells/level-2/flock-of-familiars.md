@@ -1,18 +1,12 @@
 # Flock of Familiars
-
 - [x] Homebrew
 
 ***2nd-level conjuration***
-
-**Casting Time:** 5 minutes
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** 50 sp worth of charcoal, incense, and herbs that must be consumed by an open fire that is *large* or larger
+- **Casting Time:** 5 minutes
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** 50 sp worth of charcoal, incense, and herbs that must be consumed by an open fire that is *large* or larger
 
 ---
 

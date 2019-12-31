@@ -1,18 +1,12 @@
 # Feign Death
-
 - [x] Homebrew
 
 ***3rd-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** a pinch of graveyard dirt
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** a pinch of graveyard dirt
 
 ---
 

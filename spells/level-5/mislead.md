@@ -1,16 +1,11 @@
 # Mislead
-
 - [ ] Homebrew
 
 ***5th-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** somatic, concentration
 
 ---
 

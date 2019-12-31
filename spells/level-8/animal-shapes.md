@@ -1,16 +1,11 @@
 # Animal Shapes
-
 - [ ] Homebrew
 
 ***8th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 day
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 day
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

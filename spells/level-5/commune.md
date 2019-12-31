@@ -1,18 +1,12 @@
 # Commune
-
 - [ ] Homebrew
 
 ***5th-level divination***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 minute
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** incense and a vial of holy or unholy water
+- **Casting Time:** 1 minute
+- **Duration:** 1 minute
+- **Range:** self
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** incense and a vial of holy or unholy water
 
 ---
 

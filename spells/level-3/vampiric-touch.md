@@ -1,16 +1,11 @@
 # Vampiric Touch
-
 - [x] Homebrew
 
 ***3rd-level necromancy***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, somatic, concentration
 
 ---
 

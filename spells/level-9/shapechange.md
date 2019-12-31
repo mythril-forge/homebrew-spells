@@ -1,18 +1,12 @@
 # Shapechange
-
 - [ ] Homebrew
 
 ***9th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell
 
 ---
 

@@ -1,20 +1,13 @@
 # Prismatic Spray
-
 - [ ] Homebrew
 
 ***7th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** cone
-
-**Radius:** 60 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** cone
+- **Radius:** 60 feet
+- **Tags:** verbal, somatic
 
 ---
 

@@ -1,26 +1,16 @@
 # Wind Wall
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 120 feet
-
-**Shape:** wall
-
-**Width:** 1 foot
-
-**Height:** 60 feet
-
-**Length:** 60 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a tiny fan and a feather of exotic origin
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 120 feet
+- **Shape:** wall
+- **Width:** 1 foot
+- **Height:** 60 feet
+- **Length:** 60 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a tiny fan and a feather of exotic origin
 
 ---
 

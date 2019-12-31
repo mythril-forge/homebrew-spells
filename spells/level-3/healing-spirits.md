@@ -1,22 +1,14 @@
 # Healing Spirits
-
 - [x] Homebrew
 
 ***3rd-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 15 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a momento from nature
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 15 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a momento from nature
 
 ---
 

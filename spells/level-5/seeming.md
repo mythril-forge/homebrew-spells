@@ -1,16 +1,11 @@
 # Seeming
-
 - [ ] Homebrew
 
 ***5th-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 8 hours
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 8 hours
+- **Range:** 30 feet
+- **Tags:** verbal, somatic
 
 ---
 

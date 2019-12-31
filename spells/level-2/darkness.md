@@ -1,22 +1,14 @@
 # Darkness
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 60 feet
-
-**Shape:** sphere
-
-**Radius:** 15 feet
-
-**Tags:** verbal, material, concentration
-
-**Material Components:** bat fur and a drop of pitch or piece of coal
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 60 feet
+- **Shape:** sphere
+- **Radius:** 15 feet
+- **Tags:** verbal, material, concentration
+- **Material Components:** bat fur and a drop of pitch or piece of coal
 
 ---
 

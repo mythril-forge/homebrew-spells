@@ -1,18 +1,12 @@
 # Jim's Glowing Coin
-
 - [x] Homebrew
 
 ***2nd-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Tags:** somatic, material
-
-**Material Components:** 1 gp
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Tags:** somatic, material
+- **Material Components:** 1 gp
 
 ---
 

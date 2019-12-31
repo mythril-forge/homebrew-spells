@@ -1,18 +1,12 @@
 # Mage Armor
-
 - [x] Homebrew
 
 ***1st-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 12 hours
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a piece of cured leather
+- **Casting Time:** action
+- **Duration:** 12 hours
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a piece of cured leather
 
 ---
 

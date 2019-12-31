@@ -1,22 +1,14 @@
 # Minor Illusion
-
 - [x] Homebrew
 
 ***0th-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 30 feet
-
-**Shape:** cube
-
-**Length:** 5 feet
-
-**Tags:** somatic, material
-
-**Material Components:** a bit of fleece
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 30 feet
+- **Shape:** cube
+- **Length:** 5 feet
+- **Tags:** somatic, material
+- **Material Components:** a bit of fleece
 
 ---
 

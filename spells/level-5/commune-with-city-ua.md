@@ -1,16 +1,11 @@
 # Commune with City (UA)
-
 - [ ] Homebrew
 
 ***5th-level divination***
-
-**Casting Time:** 1 minute
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Tags:** verbal, somatic, ritual
+- **Casting Time:** 1 minute
+- **Duration:** instantaneous
+- **Range:** self
+- **Tags:** verbal, somatic, ritual
 
 ---
 

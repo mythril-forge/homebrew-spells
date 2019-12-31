@@ -1,18 +1,12 @@
 # Stoneskin
-
 - [ ] Homebrew
 
 ***4th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** diamond dust worth 100 gp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** diamond dust worth 100 gp, which the spell consumes
 
 ---
 

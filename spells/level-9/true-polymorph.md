@@ -1,18 +1,12 @@
 # True Polymorph
-
 - [ ] Homebrew
 
 ***9th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a drop of mercury, a dollop of gum arabic, and a wisp of smoke
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a drop of mercury, a dollop of gum arabic, and a wisp of smoke
 
 ---
 

@@ -1,22 +1,14 @@
 # Shatter
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 60 feet
-
-**Shape:** sphere
-
-**Radius:** 10 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a chip of mica
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 60 feet
+- **Shape:** sphere
+- **Radius:** 10 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a chip of mica
 
 ---
 

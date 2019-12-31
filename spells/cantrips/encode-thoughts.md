@@ -1,16 +1,11 @@
 # Encode Thoughts
-
 - [x] Homebrew
 
 ***0th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 day
-
-**Range:** self
-
-**Tags:** somatic
+- **Casting Time:** action
+- **Duration:** 1 day
+- **Range:** self
+- **Tags:** somatic
 
 ---
 

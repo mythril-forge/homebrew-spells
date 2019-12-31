@@ -1,24 +1,15 @@
 # Summon Storm
-
 - [x] Homebrew
 
 ***3rd-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 120 feet
-
-**Shape:** cylinder
-
-**Radius:** 60 feet
-
-**Height:** 120 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a pinch of dust and a few drops of water
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 120 feet
+- **Shape:** cylinder
+- **Radius:** 60 feet
+- **Height:** 120 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a pinch of dust and a few drops of water
 
 ---
 

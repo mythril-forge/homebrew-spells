@@ -1,16 +1,11 @@
 # Enter Mindscape
-
 - [x] Homebrew
 
 ***1st-level psionic***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** ritual, concentration
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** ritual, concentration
 
 ---
 

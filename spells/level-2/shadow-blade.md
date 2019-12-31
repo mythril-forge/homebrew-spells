@@ -1,16 +1,11 @@
 # Shadow Blade
-
 - [x] Homebrew
 
 ***2nd-level illusion***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Tags:** verbal, somatic
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Tags:** verbal, somatic
 
 ---
 

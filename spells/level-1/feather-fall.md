@@ -1,20 +1,13 @@
 # Feather Fall
-
 - [x] Homebrew
 
 ***1st-level transmutation***
-
-**Casting Time:** reaction (which you take when you or a creature within 60 feet of you falls)
-
-**Duration:** 5 minutes
-
-**Range:** 60 feet
-
-**Instances:** 6
-
-**Tags:** verbal, material
-
-**Material Components:** a small feather or a piece of down
+- **Casting Time:** reaction (which you take when you or a creature within 60 feet of you falls)
+- **Duration:** 5 minutes
+- **Range:** 60 feet
+- **Instances:** 6
+- **Tags:** verbal, material
+- **Material Components:** a small feather or a piece of down
 
 ---
 

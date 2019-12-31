@@ -1,16 +1,11 @@
 # Mind Blank
-
 - [ ] Homebrew
 
 ***8th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 day
-
-**Range:** touch
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** 1 day
+- **Range:** touch
+- **Tags:** verbal, somatic
 
 ---
 

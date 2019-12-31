@@ -1,18 +1,12 @@
 # Magic Jar
-
 - [ ] Homebrew
 
 ***6th-level necromancy***
-
-**Casting Time:** 1 minute
-
-**Duration:** indefinate
-
-**Range:** self
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp
+- **Casting Time:** 1 minute
+- **Duration:** indefinate
+- **Range:** self
+- **Tags:** verbal, somatic, material
+- **Material Components:** a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp
 
 ---
 

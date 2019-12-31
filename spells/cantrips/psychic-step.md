@@ -1,14 +1,10 @@
 # Psychic Step
-
 - [x] Homebrew
 
 ***0th-level psionic***
-
-**Casting Time:** action
-
-**Duration:** 1 turn
-
-**Range:** self
+- **Casting Time:** action
+- **Duration:** 1 turn
+- **Range:** self
 
 ---
 

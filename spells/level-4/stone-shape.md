@@ -1,18 +1,12 @@
 # Stone Shape
-
 - [ ] Homebrew
 
 ***4th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** soft clay, which must be worked into roughly the desired shape of the stone object
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** soft clay, which must be worked into roughly the desired shape of the stone object
 
 ---
 

@@ -1,16 +1,11 @@
 # Eyebite
-
 - [ ] Homebrew
 
 ***6th-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** self
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** self
+- **Tags:** verbal, somatic, concentration
 
 ---
 

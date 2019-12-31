@@ -1,20 +1,13 @@
 # Mass Suggestion
-
 - [ ] Homebrew
 
 ***6th-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 day
-
-**Range:** 60 feet
-
-**Instances:** 12
-
-**Tags:** verbal, material
-
-**Material Components:** a snake's tongue and either a bit of honeycomb or a drop of sweet oil
+- **Casting Time:** action
+- **Duration:** 1 day
+- **Range:** 60 feet
+- **Instances:** 12
+- **Tags:** verbal, material
+- **Material Components:** a snake's tongue and either a bit of honeycomb or a drop of sweet oil
 
 ---
 

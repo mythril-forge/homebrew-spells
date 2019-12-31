@@ -1,26 +1,16 @@
 # Tidal Wave
-
 - [x] Homebrew
 
 ***3rd-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 120 feet
-
-**Shape:** wall
-
-**Width:** 10 feet
-
-**Height:** 10 feet
-
-**Length:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a drop of water
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 120 feet
+- **Shape:** wall
+- **Width:** 10 feet
+- **Height:** 10 feet
+- **Length:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a drop of water
 
 ---
 

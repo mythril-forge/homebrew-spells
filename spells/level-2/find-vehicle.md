@@ -1,18 +1,12 @@
 # Find Vehicle
-
 - [x] Homebrew
 
 ***2nd-level conjuration***
-
-**Casting Time:** 1 hour
-
-**Duration:** 12 hours
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** 100 gallons of water, three sponges, and soap worth atleast 2 sp, which the spell consumes, and a vehicle that you own worth at least 500 sp
+- **Casting Time:** 1 hour
+- **Duration:** 12 hours
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** 100 gallons of water, three sponges, and soap worth atleast 2 sp, which the spell consumes, and a vehicle that you own worth at least 500 sp
 
 ---
 

@@ -1,20 +1,13 @@
 # Antilife Shell
-
 - [ ] Homebrew
 
 ***5th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** self
-
-**Shape:** sphere
-
-**Radius:** 10 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** self
+- **Shape:** sphere
+- **Radius:** 10 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

@@ -1,18 +1,12 @@
 # Rope Trick
-
 - [x] Homebrew
 
 ***2nd-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** powdered corn extract and a twisted loop of parchment
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** powdered corn extract and a twisted loop of parchment
 
 ---
 

@@ -1,18 +1,12 @@
 # Shadow of Moil
-
 - [ ] Homebrew
 
 ***4th-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** an undead eyeball encased in a gem worth at least 150 gp
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** self
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** an undead eyeball encased in a gem worth at least 150 gp
 
 ---
 

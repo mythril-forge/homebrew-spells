@@ -1,18 +1,12 @@
 # Motivational Speech
-
 - [x] Homebrew
 
 ***3rd-level enchantment***
-
-**Casting Time:** 5 minutes
-
-**Duration:** 1 hour
-
-**Range:** 60 feet
-
-**Instances:** 6
-
-**Tags:** verbal
+- **Casting Time:** 5 minutes
+- **Duration:** 1 hour
+- **Range:** 60 feet
+- **Instances:** 6
+- **Tags:** verbal
 
 ---
 

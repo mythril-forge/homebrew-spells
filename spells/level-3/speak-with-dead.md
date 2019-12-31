@@ -1,18 +1,12 @@
 # Speak with Dead
-
 - [x] Homebrew
 
 ***3rd-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** 10 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** burning incense
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** 10 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** burning incense
 
 ---
 

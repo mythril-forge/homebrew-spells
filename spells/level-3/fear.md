@@ -1,22 +1,14 @@
 # Fear
-
 - [x] Homebrew
 
 ***3rd-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Shape:** cone
-
-**Radius:** 30 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a white feather or the heart of a hen
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Shape:** cone
+- **Radius:** 30 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a white feather or the heart of a hen
 
 ---
 

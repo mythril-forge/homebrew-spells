@@ -1,22 +1,14 @@
 # Maddening Darkness
-
 - [ ] Homebrew
 
 ***8th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** 150 feet
-
-**Shape:** sphere
-
-**Radius:** 60 feet
-
-**Tags:** verbal, material, concentration
-
-**Material Components:** a drop of pitch mixed with a drop of mercury
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** 150 feet
+- **Shape:** sphere
+- **Radius:** 60 feet
+- **Tags:** verbal, material, concentration
+- **Material Components:** a drop of pitch mixed with a drop of mercury
 
 ---
 

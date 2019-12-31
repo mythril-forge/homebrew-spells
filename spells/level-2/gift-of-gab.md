@@ -1,16 +1,11 @@
 # Gift of Gab
-
 - [x] Homebrew
 
 ***2nd-level enchantment***
-
-**Casting Time:** reaction (which you take when you speak something you regret)
-
-**Duration:** instantaneous
-
-**Range:** indefinate
-
-**Tags:** verbal, somatic
+- **Casting Time:** reaction (which you take when you speak something you regret)
+- **Duration:** instantaneous
+- **Range:** indefinate
+- **Tags:** verbal, somatic
 
 ---
 

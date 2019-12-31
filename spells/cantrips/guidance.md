@@ -1,18 +1,12 @@
 # Guidance
-
 - [x] Homebrew
 
 ***0th-level divination***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a pendant of an eye or hand
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a pendant of an eye or hand
 
 ---
 

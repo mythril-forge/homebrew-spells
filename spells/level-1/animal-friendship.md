@@ -1,18 +1,12 @@
 # Animal Friendship
-
 - [x] Homebrew
 
 ***1st-level enchantment***
-
-**Casting Time:** action
-
-**Duration:** 1 day
-
-**Range:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a morsel of food
+- **Casting Time:** action
+- **Duration:** 1 day
+- **Range:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a morsel of food
 
 ---
 

@@ -1,16 +1,11 @@
 # Time Stop
-
 - [ ] Homebrew
 
 ***9th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Tags:** verbal
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Tags:** verbal
 
 ---
 

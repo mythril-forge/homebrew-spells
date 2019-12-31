@@ -1,18 +1,12 @@
 # Divination
-
 - [x] Homebrew
 
 ***4th-level divination***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Tags:** verbal, somatic, material, ritual
-
-**Material Components:** incense and a sacrificial offering appropriate to your religion, together worth at least 25 sp, which the spell consumes
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Tags:** verbal, somatic, material, ritual
+- **Material Components:** incense and a sacrificial offering appropriate to your religion, together worth at least 25 sp, which the spell consumes
 
 ---
 

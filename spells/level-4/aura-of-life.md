@@ -1,20 +1,13 @@
 # Aura of Life
-
 - [ ] Homebrew
 
 ***4th-level abjuration***
-
-**Casting Time:** action
-
-**Duration:** 10 minutes
-
-**Range:** self
-
-**Shape:** sphere
-
-**Radius:** 30 feet
-
-**Tags:** verbal, concentration
+- **Casting Time:** action
+- **Duration:** 10 minutes
+- **Range:** self
+- **Shape:** sphere
+- **Radius:** 30 feet
+- **Tags:** verbal, concentration
 
 ---
 

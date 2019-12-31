@@ -1,18 +1,12 @@
 # Clone
-
 - [ ] Homebrew
 
 ***8th-level necromancy***
-
-**Casting Time:** 1 hour
-
-**Duration:** instantaneous
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a *medium* creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water
+- **Casting Time:** 1 hour
+- **Duration:** instantaneous
+- **Range:** touch
+- **Tags:** verbal, somatic, material
+- **Material Components:** a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a *medium* creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water
 
 ---
 

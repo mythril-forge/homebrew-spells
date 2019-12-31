@@ -1,18 +1,12 @@
 # Infernal Calling
-
 - [ ] Homebrew
 
 ***5th-level conjuration***
-
-**Casting Time:** 1 minute
-
-**Duration:** 1 hour
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a ruby worth at least 999 gp
+- **Casting Time:** 1 minute
+- **Duration:** 1 hour
+- **Range:** 90 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a ruby worth at least 999 gp
 
 ---
 

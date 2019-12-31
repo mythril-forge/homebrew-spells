@@ -1,22 +1,14 @@
 # Guards and Wards
-
 - [ ] Homebrew
 
 ***6th-level abjuration***
-
-**Casting Time:** 10 minutes
-
-**Duration:** 1 day
-
-**Range:** touch
-
-**Shape:** cube
-
-**Length:** 50 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp
+- **Casting Time:** 10 minutes
+- **Duration:** 1 day
+- **Range:** touch
+- **Shape:** cube
+- **Length:** 50 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp
 
 ---
 

@@ -1,20 +1,13 @@
 # Invisibility to Cameras
-
 - [x] Homebrew
 
 ***3rd-level illusion***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** 10 feet
-
-**Instances:** 4
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a scrap of black paper
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** 10 feet
+- **Instances:** 4
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a scrap of black paper
 
 ---
 

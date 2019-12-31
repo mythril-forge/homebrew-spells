@@ -1,20 +1,13 @@
 # Arms of Hadar
-
 - [x] Homebrew
 
 ***1st-level conjuration***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** self
-
-**Shape:** aura
-
-**Radius:** 10 feet
-
-**Tags:** verbal, somatic
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** self
+- **Shape:** aura
+- **Radius:** 10 feet
+- **Tags:** verbal, somatic
 
 ---
 

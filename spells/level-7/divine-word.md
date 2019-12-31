@@ -1,16 +1,11 @@
 # Divine Word
-
 - [ ] Homebrew
 
 ***7th-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** instantaneous
-
-**Range:** 30 feet
-
-**Tags:** verbal
+- **Casting Time:** bonus action
+- **Duration:** instantaneous
+- **Range:** 30 feet
+- **Tags:** verbal
 
 ---
 

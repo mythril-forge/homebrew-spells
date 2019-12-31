@@ -1,22 +1,14 @@
 # Fireball
-
 - [x] Homebrew
 
 ***3rd-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 180 feet
-
-**Shape:** sphere
-
-**Radius:** 20 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a tiny ball of bat guano and sulfur
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 180 feet
+- **Shape:** sphere
+- **Radius:** 20 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a tiny ball of bat guano and sulfur
 
 ---
 

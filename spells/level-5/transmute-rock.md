@@ -1,22 +1,14 @@
 # Transmute Rock
-
 - [ ] Homebrew
 
 ***5th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** indefinate
-
-**Range:** 120 feet
-
-**Shape:** cube
-
-**Length:** 40 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** clay and water
+- **Casting Time:** action
+- **Duration:** indefinate
+- **Range:** 120 feet
+- **Shape:** cube
+- **Length:** 40 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** clay and water
 
 ---
 

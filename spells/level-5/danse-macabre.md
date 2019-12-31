@@ -1,16 +1,11 @@
 # Danse Macabre
-
 - [ ] Homebrew
 
 ***5th-level necromancy***
-
-**Casting Time:** action
-
-**Duration:** 1 hour
-
-**Range:** 60 feet
-
-**Tags:** verbal, somatic, concentration
+- **Casting Time:** action
+- **Duration:** 1 hour
+- **Range:** 60 feet
+- **Tags:** verbal, somatic, concentration
 
 ---
 

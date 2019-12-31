@@ -1,24 +1,15 @@
 # Ice Storm
-
 - [x] Homebrew
 
 ***4th-level evocation***
-
-**Casting Time:** action
-
-**Duration:** 5 minutes
-
-**Range:** self
-
-**Shape:** cylinder
-
-**Radius:** 90 feet
-
-**Height:** 30 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a bit of cotton in a glass vial
+- **Casting Time:** action
+- **Duration:** 5 minutes
+- **Range:** self
+- **Shape:** cylinder
+- **Radius:** 90 feet
+- **Height:** 30 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a bit of cotton in a glass vial
 
 ---
 

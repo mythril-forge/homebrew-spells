@@ -1,24 +1,15 @@
 # Reverse Gravity
-
 - [ ] Homebrew
 
 ***7th-level transmutation***
-
-**Casting Time:** action
-
-**Duration:** 1 minute
-
-**Range:** 100 feet
-
-**Shape:** cylinder
-
-**Radius:** 50 feet
-
-**Height:** 100 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a lodestone and iron filings
+- **Casting Time:** action
+- **Duration:** 1 minute
+- **Range:** 100 feet
+- **Shape:** cylinder
+- **Radius:** 50 feet
+- **Height:** 100 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a lodestone and iron filings
 
 ---
 

@@ -1,18 +1,12 @@
 # Beast Bond
-
 - [x] Homebrew
 
 ***1st-level divination***
-
-**Casting Time:** action
-
-**Duration:** 15 minutes
-
-**Range:** touch
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a bit of fur and cloth tied together, and a drop of your blood
+- **Casting Time:** action
+- **Duration:** 15 minutes
+- **Range:** touch
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a bit of fur and cloth tied together, and a drop of your blood
 
 ---
 

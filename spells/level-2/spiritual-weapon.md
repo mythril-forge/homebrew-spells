@@ -1,18 +1,12 @@
 # Spiritual Weapon
-
 - [x] Homebrew
 
 ***2nd-level evocation***
-
-**Casting Time:** bonus action
-
-**Duration:** 5 minutes
-
-**Range:** 20 feet
-
-**Tags:** verbal, somatic, material, concentration
-
-**Material Components:** a miniature replica of a weapon, worth at least 50 sp
+- **Casting Time:** bonus action
+- **Duration:** 5 minutes
+- **Range:** 20 feet
+- **Tags:** verbal, somatic, material, concentration
+- **Material Components:** a miniature replica of a weapon, worth at least 50 sp
 
 ---
 

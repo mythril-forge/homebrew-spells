@@ -1,18 +1,12 @@
 # Chromatic Orb
-
 - [x] Homebrew
 
 ***1st-level evocation***
-
-**Casting Time:** action
-
-**Duration:** instantaneous
-
-**Range:** 90 feet
-
-**Tags:** verbal, somatic, material
-
-**Material Components:** a diamond worth at least 300 sp
+- **Casting Time:** action
+- **Duration:** instantaneous
+- **Range:** 90 feet
+- **Tags:** verbal, somatic, material
+- **Material Components:** a diamond worth at least 300 sp
 
 ---
 
