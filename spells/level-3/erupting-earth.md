@@ -25,6 +25,5 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 ---
 
-**Sources:** XGE, page 155
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** XGE, page 155
+- **Quality Assurance:** :sparkles: modified but not perfected

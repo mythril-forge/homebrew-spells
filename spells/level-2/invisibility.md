@@ -20,6 +20,5 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ---
 
-**Sources:** PHB, page 254
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 254
+- **Quality Assurance:** :star: personal pass

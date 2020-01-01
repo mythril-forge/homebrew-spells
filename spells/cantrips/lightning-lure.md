@@ -23,6 +23,5 @@ The whip disappears once the spell ends.
 
 ---
 
-**Sources:** SCAG, page 143
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** SCAG, page 143
+- **Quality Assurance:** :star2: consistency pass

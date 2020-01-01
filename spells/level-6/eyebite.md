@@ -30,4 +30,4 @@ If it succeeds, the effect ends.
 
 ---
 
-**Sources:** PHB, page 238
+- **Sources:** PHB, page 238

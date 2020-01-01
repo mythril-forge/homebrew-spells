@@ -23,6 +23,5 @@ Those creatures then remember that you actually said the words you speak as the 
 
 ---
 
-**Sources:** AI, page 76
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** AI, page 76
+- **Quality Assurance:** :x: relatively unchanged

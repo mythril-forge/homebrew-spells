@@ -20,4 +20,4 @@ If the quiver leaves your possession, the spell ends.
 
 ---
 
-**Sources:** PHB, page 279
+- **Sources:** PHB, page 279

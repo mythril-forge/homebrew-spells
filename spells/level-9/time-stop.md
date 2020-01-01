@@ -18,4 +18,4 @@ In addition, the spell ends if you move to a place more than 1,000 feet from the
 
 ---
 
-**Sources:** PHB, page 283
+- **Sources:** PHB, page 283

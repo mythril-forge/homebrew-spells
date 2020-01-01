@@ -25,8 +25,6 @@ The DM makes this roll in secret.
 
 ---
 
-**Sources:** PHB, page 215
-
-**Quality Assurance:** :star: personal pass
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 215
+- **Quality Assurance:** :star: personal pass
+- **Quality Assurance:** :x: relatively unchanged

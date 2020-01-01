@@ -16,4 +16,4 @@ Until the spell ends, the target has resistance to nonmagical bludgeoning, pierc
 
 ---
 
-**Sources:** PHB, page 278
+- **Sources:** PHB, page 278

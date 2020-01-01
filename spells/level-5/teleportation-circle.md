@@ -26,4 +26,4 @@ You need not use the circle to teleport when you cast the spell in this way.
 
 ---
 
-**Sources:** PHB, page 282
+- **Sources:** PHB, page 282

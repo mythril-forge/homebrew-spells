@@ -23,6 +23,5 @@ The quarterstaff reverts to its original form once the spell ends.
 
 ---
 
-**Sources:** PHB, page 275
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 275
+- **Quality Assurance:** :star2: consistency pass

@@ -30,6 +30,5 @@ These effects are normally quite brief, but can last longer (at the DM's discret
 
 ---
 
-**Sources:** PHB, page 282
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 282
+- **Quality Assurance:** :star2: consistency pass

@@ -23,4 +23,4 @@ If you choose, plant life in the area is unaffected by this spell.
 
 ---
 
-**Sources:** PHB, page 242
+- **Sources:** PHB, page 242

@@ -41,6 +41,5 @@ At the end of this spell's casting, roll an Intelligence Ability Check to determ
 
 ---
 
-**Sources:** UA-SS, page 3
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** UA-SS, page 3
+- **Quality Assurance:** :sparkles: coming along

@@ -27,4 +27,4 @@ If a creature discerns the illusion for what it is, the creature can see through
 
 ---
 
-**Sources:** XGE, page 157
+- **Sources:** XGE, page 157

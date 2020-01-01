@@ -24,6 +24,5 @@ The shortsword disappears once the spell ends.
 
 ---
 
-**Sources:** XGE, page 164
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** XGE, page 164
+- **Quality Assurance:** :sparkles: coming along

@@ -31,4 +31,4 @@ Arrows, bolts, and other ordinary projectiles launched at targets behind the wal
 
 ---
 
-**Sources:** PHB, page 288
+- **Sources:** PHB, page 288

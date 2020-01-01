@@ -26,4 +26,4 @@ Immediately after the spell ends, you must succeed on a DC 15 Constitution Savin
 
 ---
 
-**Sources:** XGE, page 168
+- **Sources:** XGE, page 168

@@ -28,6 +28,5 @@ When you cast this spell using a spell slot of 4th level or higher, the extra da
 
 ---
 
-**Sources:** PHB, page 219
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 219
+- **Quality Assurance:** :star: personal pass

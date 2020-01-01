@@ -33,4 +33,4 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 ---
 
-**Sources:** PHB, page 236
+- **Sources:** PHB, page 236

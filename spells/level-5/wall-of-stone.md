@@ -41,4 +41,4 @@ Otherwise, the wall disappears when the spell ends.
 
 ---
 
-**Sources:** PHB, page 287
+- **Sources:** PHB, page 287

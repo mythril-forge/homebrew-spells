@@ -20,4 +20,4 @@ The spell ends if you use an action to dismiss it or if the steed takes any dama
 
 ---
 
-**Sources:** PHB, page 265
+- **Sources:** PHB, page 265

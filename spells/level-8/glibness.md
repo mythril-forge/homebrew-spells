@@ -15,4 +15,4 @@ Additionally, no matter what you say, magic that would determine if you are tell
 
 ---
 
-**Sources:** PHB, page 245
+- **Sources:** PHB, page 245

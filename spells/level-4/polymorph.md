@@ -32,4 +32,4 @@ The creature can't activate, use, wield, or otherwise benefit from any of its eq
 
 ---
 
-**Sources:** PHB, page 266
+- **Sources:** PHB, page 266

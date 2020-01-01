@@ -59,4 +59,4 @@ Affected creatures can communicate with any other creature in the area, even if 
 
 ---
 
-**Sources:** PHB, page 249
+- **Sources:** PHB, page 249

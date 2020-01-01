@@ -21,4 +21,4 @@ On a successful save, the spell ends.
 
 ---
 
-**Sources:** PHB, page 264
+- **Sources:** PHB, page 264

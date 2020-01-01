@@ -17,6 +17,5 @@ A continual flame can be covered or hidden but not smothered or quenched.
 
 ---
 
-**Sources:** PHB, page 227
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 227
+- **Quality Assurance:** :x: relatively unchanged

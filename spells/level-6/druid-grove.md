@@ -56,4 +56,4 @@ To a creature immune to this effect, the winds are a fragrant, gentle breeze, an
 
 ---
 
-**Sources:** XGE, page 154
+- **Sources:** XGE, page 154

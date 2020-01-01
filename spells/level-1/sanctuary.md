@@ -21,6 +21,5 @@ The spell also ends early if the creature takes any other action that is deemed 
 
 ---
 
-**Sources:** PHB, page 272
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 272
+- **Quality Assurance:** :star: personal pass

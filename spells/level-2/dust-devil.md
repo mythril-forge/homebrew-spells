@@ -28,6 +28,5 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 
 ---
 
-**Sources:** XGE, page 154
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** XGE, page 154
+- **Quality Assurance:** :sparkles: coming along

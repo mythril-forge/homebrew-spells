@@ -24,6 +24,5 @@ If the target is still aloft when the spell ends, it floats slowly to the ground
 
 ---
 
-**Sources:** PHB, page 255
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 255
+- **Quality Assurance:** :star: personal pass

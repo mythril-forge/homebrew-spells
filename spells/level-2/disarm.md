@@ -20,6 +20,5 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ---
 
-**Sources:** noltron000
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** noltron000
+- **Quality Assurance:** :sparkles: coming along

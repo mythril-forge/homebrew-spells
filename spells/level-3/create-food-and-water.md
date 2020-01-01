@@ -16,4 +16,4 @@ The water is clean and pure.
 
 ---
 
-**Sources:** PHB, page 229
+- **Sources:** PHB, page 229

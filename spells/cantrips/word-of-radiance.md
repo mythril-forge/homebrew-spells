@@ -21,8 +21,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 ---
 
-**Sources:** XGE, page 171; UA-SS, page 3
-
-**References:** word of radiance, hand of radiance
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** XGE, page 171; UA-SS, page 3
+- **References:** word of radiance, hand of radiance
+- **Quality Assurance:** :star2: consistency pass

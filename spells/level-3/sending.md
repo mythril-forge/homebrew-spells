@@ -20,4 +20,4 @@ You can send the message across any distance and even to other planes of existen
 
 ---
 
-**Sources:** PHB, page 274
+- **Sources:** PHB, page 274

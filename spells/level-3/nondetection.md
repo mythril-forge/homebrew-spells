@@ -19,4 +19,4 @@ The target can't be targeted by any divination magic or perceived through magica
 
 ---
 
-**Sources:** PHB, page 263
+- **Sources:** PHB, page 263

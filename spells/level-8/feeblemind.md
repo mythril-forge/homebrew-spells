@@ -25,4 +25,4 @@ The spell can also be ended by [*greater restoration*](./greater-restoration), [
 
 ---
 
-**Sources:** PHB, page 239
+- **Sources:** PHB, page 239

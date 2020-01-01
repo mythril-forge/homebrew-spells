@@ -41,4 +41,4 @@ On a failed save, it takes `2d6` bludgeoning or cold damage (whichever does more
 
 ---
 
-**Sources:** PHB, page 276
+- **Sources:** PHB, page 276

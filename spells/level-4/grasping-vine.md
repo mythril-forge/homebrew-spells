@@ -18,4 +18,4 @@ Until the spell ends, you can direct the vine to lash out at the same creature o
 
 ---
 
-**Sources:** PHB, page 246
+- **Sources:** PHB, page 246

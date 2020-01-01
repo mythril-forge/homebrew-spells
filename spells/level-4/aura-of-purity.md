@@ -18,4 +18,4 @@ Each nonhostile creature in the aura (including you) can't become diseased, has 
 
 ---
 
-**Sources:** PHB, page 216
+- **Sources:** PHB, page 216

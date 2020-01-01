@@ -19,4 +19,4 @@ In addition, whenever a creature within 10 feet of you hits you with an attack, 
 
 ---
 
-**Sources:** XGE, page 164
+- **Sources:** XGE, page 164

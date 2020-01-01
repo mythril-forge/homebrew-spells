@@ -30,6 +30,5 @@ You must count the distances that you teleport as a part of your movement.
 
 ---
 
-**Sources:** XGE, page 166
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** XGE, page 166
+- **Quality Assurance:** :star: personal pass

@@ -33,4 +33,4 @@ Each of the creatures must come from a different corpse or pile of bones.
 
 ---
 
-**Sources:** PHB, page 212
+- **Sources:** PHB, page 212

@@ -28,4 +28,4 @@ All plants in a half-mile radius centered on a point within range become enriche
 
 ---
 
-**Sources:** PHB, page 266
+- **Sources:** PHB, page 266

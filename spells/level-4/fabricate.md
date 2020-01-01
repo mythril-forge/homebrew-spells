@@ -23,4 +23,4 @@ You also can't use it to create items that ordinarily require a high degree of c
 
 ---
 
-**Sources:** PHB, page 239
+- **Sources:** PHB, page 239

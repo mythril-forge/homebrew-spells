@@ -24,4 +24,4 @@ If a one-word answer would be misleading, the DM might instead offer a short phr
 
 ---
 
-**Sources:** PHB, page 226
+- **Sources:** PHB, page 226

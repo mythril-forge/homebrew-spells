@@ -19,6 +19,5 @@ Anyone examining the object can ascertain its true value with a successful Intel
 
 ---
 
-**Sources:** AI, page 75
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** AI, page 75
+- **Quality Assurance:** :star: personal pass

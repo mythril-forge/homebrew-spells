@@ -30,6 +30,5 @@ When you cast this spell using a spell slot of 2nd level or higher, roll an addi
 
 ---
 
-**Sources:** PHB, page 239
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 239
+- **Quality Assurance:** :star: personal pass

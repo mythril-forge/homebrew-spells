@@ -33,6 +33,6 @@ When you cast this spell using a spell slot of 5th level or higher, the radius o
 
 ---
 
-**Sources:** PHB, page 224
+- **Sources:** PHB, page 224
 
 <!-- QA Pass: Very Poor 👎 -->

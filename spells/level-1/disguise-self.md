@@ -23,6 +23,5 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 ---
 
-**Sources:** PHB, page 233
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 233
+- **Quality Assurance:** :star: personal pass

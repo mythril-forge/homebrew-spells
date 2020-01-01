@@ -19,6 +19,5 @@ While distracted, a creature has disadvantage on Wisdom Ability Checks and initi
 
 ---
 
-**Sources:** AI, page 76
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** AI, page 76
+- **Quality Assurance:** :x: relatively unchanged

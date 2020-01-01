@@ -19,4 +19,4 @@ If the target is diseased or **poisoned** when you cast the spell, or becomes di
 
 ---
 
-**Sources:** PHB, page 240
+- **Sources:** PHB, page 240

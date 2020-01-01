@@ -34,6 +34,5 @@ The target perceives the damage as a type appropriate to the illusion.
 
 ---
 
-**Sources:** PHB, page 264
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 264
+- **Quality Assurance:** :x: relatively unchanged

@@ -27,4 +27,4 @@ When you cast this spell using a spell slot of 9th level, the spell lasts until 
 
 ---
 
-**Sources:** PHB, page 244
+- **Sources:** PHB, page 244

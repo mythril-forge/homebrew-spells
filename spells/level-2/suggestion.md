@@ -30,7 +30,5 @@ If you or any of your companions damage the target, the spell ends.
 ---
 
 **Subraces:** tiefling (fierna)
-
-**Sources:** PHB, page 279
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 279
+- **Quality Assurance:** :x: relatively unchanged

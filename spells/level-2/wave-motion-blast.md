@@ -16,6 +16,5 @@ On a hit, you deal `1d48` force damage.
 
 ---
 
-**Sources:** noltron000
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** noltron000
+- **Quality Assurance:** :sparkles: coming along

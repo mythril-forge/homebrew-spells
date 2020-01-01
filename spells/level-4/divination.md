@@ -23,4 +23,4 @@ The DM makes this roll in secret.
 
 ---
 
-**Sources:** PHB, page 234
+- **Sources:** PHB, page 234

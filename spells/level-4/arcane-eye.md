@@ -26,6 +26,6 @@ The orb has intricate designs on it akin to an eyeball.
 
 ---
 
-**Sources:** PHB, page 214
+- **Sources:** PHB, page 214
 
 <!-- QA Pass: Very Poor 👎 -->

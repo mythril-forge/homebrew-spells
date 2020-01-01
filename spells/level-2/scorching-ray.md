@@ -22,6 +22,5 @@ When you cast this spell using a spell slot of 3rd level or higher, you create o
 
 ---
 
-**Sources:** PHB, page 273
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 273
+- **Quality Assurance:** :star: personal pass

@@ -18,4 +18,4 @@ The object you create can have up to two hinges and a latch, but finer mechanica
 
 ---
 
-**Sources:** PHB, page 278
+- **Sources:** PHB, page 278

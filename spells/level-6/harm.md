@@ -19,4 +19,4 @@ Any effect that removes a disease allows a creature's hit point maximum to retur
 
 ---
 
-**Sources:** PHB, page 249
+- **Sources:** PHB, page 249

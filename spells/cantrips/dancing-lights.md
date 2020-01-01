@@ -22,6 +22,5 @@ You can dismiss the magic on any number of lights at any time (no action require
 
 ---
 
-**Sources:** PHB, page 230
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 230
+- **Quality Assurance:** :star2: consistency pass

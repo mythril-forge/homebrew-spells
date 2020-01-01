@@ -35,6 +35,5 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 ---
 
-**Sources:** PHB, page 231
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 231
+- **Quality Assurance:** :sparkles: coming along

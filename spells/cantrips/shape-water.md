@@ -27,6 +27,5 @@ You can direct the water to create one of the following effects:
 
 ---
 
-**Sources:** XGE, page 164
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** XGE, page 164
+- **Quality Assurance:** :star2: consistency pass

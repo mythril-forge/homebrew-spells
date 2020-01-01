@@ -52,4 +52,4 @@ If you create a spell glyph, you can store any spell of up to the same level as 
 
 ---
 
-**Sources:** PHB, page 245
+- **Sources:** PHB, page 245

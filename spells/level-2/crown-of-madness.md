@@ -27,6 +27,5 @@ On a success, the spell ends.
 
 ---
 
-**Sources:** PHB, page 229
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 229
+- **Quality Assurance:** :sparkles: coming along

@@ -21,4 +21,4 @@ The attacker takes `2d8` damage from the type you chose.
 
 ---
 
-**Sources:** PHB, page 242
+- **Sources:** PHB, page 242

@@ -14,6 +14,5 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 ---
 
-**Sources:** PHB, page 260
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 260
+- **Quality Assurance:** :star: personal pass

@@ -27,6 +27,5 @@ When you cast this spell using a spell slot of 3rd level or higher, the spirits 
 
 ---
 
-**Sources:** XGE, page 157
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** XGE, page 157
+- **Quality Assurance:** :sparkles: modified but not perfected

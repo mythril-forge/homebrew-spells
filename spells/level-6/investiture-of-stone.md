@@ -20,4 +20,4 @@ Until the spell ends, bits of rock spread across your body, and you gain the fol
 
 ---
 
-**Sources:** XGE, page 159
+- **Sources:** XGE, page 159

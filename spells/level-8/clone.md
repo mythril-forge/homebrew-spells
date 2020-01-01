@@ -21,4 +21,4 @@ The original creature's physical remains, if they still exist, become inert and 
 
 ---
 
-**Sources:** PHB, page 222
+- **Sources:** PHB, page 222

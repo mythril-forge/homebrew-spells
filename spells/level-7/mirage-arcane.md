@@ -25,4 +25,4 @@ Creatures with truesight can see through the illusion to the terrain's true form
 
 ---
 
-**Sources:** PHB, page 260
+- **Sources:** PHB, page 260

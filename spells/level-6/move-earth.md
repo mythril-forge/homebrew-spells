@@ -33,4 +33,4 @@ The moved earth carries any plants along with it.
 
 ---
 
-**Sources:** PHB, page 263
+- **Sources:** PHB, page 263

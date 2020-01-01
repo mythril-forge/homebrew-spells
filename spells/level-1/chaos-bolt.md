@@ -31,6 +31,5 @@ A creature can be targeted only once by each casting of this spell.
 
 ---
 
-**Sources:** XGE, page 151; UA-SS, page 2
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** XGE, page 151; UA-SS, page 2
+- **Quality Assurance:** :star: personal pass

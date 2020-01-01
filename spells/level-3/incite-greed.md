@@ -24,4 +24,4 @@ Otherwise the spell lasts for the duration, or until gem is found.
 
 ---
 
-**Sources:** AI, page 76
+- **Sources:** AI, page 76

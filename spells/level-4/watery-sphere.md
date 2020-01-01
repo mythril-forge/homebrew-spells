@@ -37,4 +37,4 @@ The water then vanishes.
 
 ---
 
-**Sources:** XGE, page 170
+- **Sources:** XGE, page 170

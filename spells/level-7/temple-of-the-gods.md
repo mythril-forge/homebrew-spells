@@ -43,4 +43,4 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 ---
 
-**Sources:** XGE, page 167
+- **Sources:** XGE, page 167

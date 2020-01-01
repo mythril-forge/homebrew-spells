@@ -16,4 +16,4 @@ For the duration, any creature can step into the target plant and exit from the 
 
 ---
 
-**Sources:** PHB, page 283
+- **Sources:** PHB, page 283

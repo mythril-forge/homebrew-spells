@@ -39,4 +39,4 @@ When you do, the sensor appears at that location and doesn't move.
 
 ---
 
-**Sources:** PHB, page 273
+- **Sources:** PHB, page 273

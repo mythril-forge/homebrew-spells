@@ -25,4 +25,4 @@ At the end of the duration, affected objects and creatures fall back down.
 
 ---
 
-**Sources:** PHB, page 272
+- **Sources:** PHB, page 272

@@ -20,4 +20,4 @@ You can reduce the target's **exhaustion** level by one, or end one of the follo
 
 ---
 
-**Sources:** PHB, page 246
+- **Sources:** PHB, page 246

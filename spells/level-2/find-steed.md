@@ -50,6 +50,5 @@ If the spell requires an Attack Roll, you use your attack modifier for the roll.
 
 ---
 
-**Sources:** PHB, page 240
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 240
+- **Quality Assurance:** :sparkles: coming along

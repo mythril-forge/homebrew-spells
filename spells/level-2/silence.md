@@ -18,6 +18,5 @@ Casting a spell that includes a verbal component is impossible there.
 
 ---
 
-**Sources:** PHB, page 275
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 275
+- **Quality Assurance:** :x: relatively unchanged

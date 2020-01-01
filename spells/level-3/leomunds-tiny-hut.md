@@ -29,6 +29,5 @@ You can use a bonus action to change its appearance, allowing or disallowing cre
 
 ---
 
-**Sources:** PHB, page 255
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 255
+- **Quality Assurance:** :sparkles: modified but not perfected

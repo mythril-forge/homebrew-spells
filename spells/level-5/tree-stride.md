@@ -22,4 +22,4 @@ You must end each turn outside a tree.
 
 ---
 
-**Sources:** PHB, page 283
+- **Sources:** PHB, page 283

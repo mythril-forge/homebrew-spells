@@ -25,4 +25,4 @@ On a successful save, the spell ends.
 
 ---
 
-**Sources:** XGE, page 155
+- **Sources:** XGE, page 155

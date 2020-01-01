@@ -22,6 +22,5 @@ When you cast the spell, a loud knock, audible from as far away as a mile, emana
 
 ---
 
-**Sources:** PHB, page 254
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 254
+- **Quality Assurance:** :x: relatively unchanged

@@ -27,4 +27,4 @@ If you cast forbiddance every day for 30 days in the same location, the spell la
 
 ---
 
-**Sources:** PHB, page 243
+- **Sources:** PHB, page 243

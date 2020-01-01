@@ -23,4 +23,4 @@ When you cast this spell using a spell slot of 5th level or higher, you are able
 
 ---
 
-**Sources:** UA-MM, page 8
+- **Sources:** UA-MM, page 8

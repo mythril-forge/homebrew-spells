@@ -19,4 +19,4 @@ While you are traveling there, whenever you are presented with a choice of paths
 
 ---
 
-**Sources:** PHB, page 240
+- **Sources:** PHB, page 240

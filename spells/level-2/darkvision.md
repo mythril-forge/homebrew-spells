@@ -16,6 +16,5 @@ For the duration, that creature has darkvision.
 
 ---
 
-**Sources:** PHB, page 230
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 230
+- **Quality Assurance:** :sparkles: coming along

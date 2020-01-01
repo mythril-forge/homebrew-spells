@@ -22,6 +22,5 @@ Creatures that aren't there can't perceive you or interact with you, unless they
 
 ---
 
-**Sources:** PHB, page 219
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 219
+- **Quality Assurance:** :sparkles: modified but not perfected

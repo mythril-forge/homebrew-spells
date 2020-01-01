@@ -30,4 +30,4 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 ---
 
-**Sources:** XGE, page 157
+- **Sources:** XGE, page 157

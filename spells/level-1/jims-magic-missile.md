@@ -34,6 +34,5 @@ When you cast this spell using a spell slot of 2nd level or higher, the spell cr
 
 ---
 
-**Sources:** AI, page 76
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** AI, page 76
+- **Quality Assurance:** :star: personal pass

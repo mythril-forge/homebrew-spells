@@ -28,4 +28,4 @@ This light is sunlight.
 
 ---
 
-**Sources:** PHB, page 279
+- **Sources:** PHB, page 279

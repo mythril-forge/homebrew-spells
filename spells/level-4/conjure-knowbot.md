@@ -26,6 +26,6 @@ Additionally, your telepathic bond with the knowbot is effective out to a range 
 
 ---
 
-**Sources:** UA-MM, page 5
+- **Sources:** UA-MM, page 5
 
 <!-- QA Pass: Very Poor 👎 -->

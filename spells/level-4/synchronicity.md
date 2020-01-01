@@ -22,4 +22,4 @@ In the event that two or more creatures under the effect of synchronicity are at
 
 ---
 
-**Sources:** UA-MM, page 8
+- **Sources:** UA-MM, page 8

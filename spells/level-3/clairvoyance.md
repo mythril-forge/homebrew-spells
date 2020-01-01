@@ -22,6 +22,5 @@ A creature that can see the sensor (such as a creature benefiting from [*see inv
 
 ---
 
-**Sources:** PHB, page 222
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 222
+- **Quality Assurance:** :sparkles: modified but not perfected

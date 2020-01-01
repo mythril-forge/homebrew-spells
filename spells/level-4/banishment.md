@@ -27,4 +27,4 @@ When you cast this spell using a spell slot of 5th level or higher, you can targ
 
 ---
 
-**Sources:** PHB, page 217
+- **Sources:** PHB, page 217

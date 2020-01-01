@@ -18,4 +18,4 @@ A humanoid killed by this spell rises at the start of your next turn as a zombie
 
 ---
 
-**Sources:** PHB, page 241
+- **Sources:** PHB, page 241

@@ -25,6 +25,5 @@ If you move more than 120 feet from the disk (typically because it can't move ar
 
 ---
 
-**Sources:** PHB, page 282
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 282
+- **Quality Assurance:** :star: personal pass

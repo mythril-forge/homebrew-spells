@@ -24,6 +24,5 @@ Whenever this spell ends, you can immediately cast it again using the same weapo
 
 ---
 
-**Sources:** PHB, page 282
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 282
+- **Quality Assurance:** :star: personal pass

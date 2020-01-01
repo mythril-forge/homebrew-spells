@@ -16,4 +16,4 @@ Moreover, when the target speaks, any creature that knows at least one language 
 
 ---
 
-**Sources:** PHB, page 283
+- **Sources:** PHB, page 283

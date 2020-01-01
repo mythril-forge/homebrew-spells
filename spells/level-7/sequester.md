@@ -23,4 +23,4 @@ Examples include "after 1,000 years" or "when the tarrasque awakens." This spell
 
 ---
 
-**Sources:** PHB, page 274
+- **Sources:** PHB, page 274

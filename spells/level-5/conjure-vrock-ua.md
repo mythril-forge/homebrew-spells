@@ -32,4 +32,4 @@ The summoned vrock cannot cross the circle or target anyone in it while the spel
 
 ---
 
-**Sources:** UA-TOBM, page 3
+- **Sources:** UA-TOBM, page 3

@@ -20,6 +20,5 @@ The extra damage increases by `1d8` if the target is an undead or fiend.
 
 ---
 
-**Sources:** XGE, page 157
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** XGE, page 157
+- **Quality Assurance:** :sparkles: modified but not perfected

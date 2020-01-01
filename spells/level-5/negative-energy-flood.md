@@ -23,4 +23,4 @@ The target gains half the total as temporary hit points.
 
 ---
 
-**Sources:** XGE, page 163
+- **Sources:** XGE, page 163

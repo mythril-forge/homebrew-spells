@@ -36,6 +36,5 @@ The servant can't attack, cast spells, activate magic items, or carry more than 
 
 ---
 
-**Sources:** PHB, page 284
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 284
+- **Quality Assurance:** :star: personal pass

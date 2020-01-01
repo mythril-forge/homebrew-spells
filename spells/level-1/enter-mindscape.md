@@ -17,6 +17,5 @@ You can end this spell at any time (no action required).
 
 ---
 
-**Sources:** STREAM
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** STREAM
+- **Quality Assurance:** :star: personal pass

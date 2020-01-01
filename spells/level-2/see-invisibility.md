@@ -16,6 +16,5 @@ Ethereal creatures and objects appear ghostly and translucent.
 
 ---
 
-**Sources:** PHB, page 274
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 274
+- **Quality Assurance:** :x: relatively unchanged

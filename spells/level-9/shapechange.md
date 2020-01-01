@@ -40,4 +40,4 @@ During this spell's duration, you can use your action to assume a different form
 
 ---
 
-**Sources:** PHB, page 274
+- **Sources:** PHB, page 274

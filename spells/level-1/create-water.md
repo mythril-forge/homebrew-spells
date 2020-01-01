@@ -24,7 +24,5 @@ Each cube can create up to 50 gallons of liquid water.
 ---
 
 **Subraces:** genasi (water)
-
-**Sources:** PHB, page 229
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 229
+- **Quality Assurance:** :star: personal pass

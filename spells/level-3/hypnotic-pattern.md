@@ -24,4 +24,4 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 ---
 
-**Sources:** PHB, page 252
+- **Sources:** PHB, page 252

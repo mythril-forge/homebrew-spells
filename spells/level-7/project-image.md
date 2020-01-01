@@ -29,4 +29,4 @@ If a creature discerns the illusion for what it is, the creature can see through
 
 ---
 
-**Sources:** PHB, page 270
+- **Sources:** PHB, page 270

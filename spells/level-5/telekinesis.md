@@ -35,4 +35,4 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ---
 
-**Sources:** PHB, page 280
+- **Sources:** PHB, page 280

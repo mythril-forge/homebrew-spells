@@ -38,4 +38,4 @@ If you are returned to your body prematurely, your companions remain in their as
 
 ---
 
-**Sources:** PHB, page 215
+- **Sources:** PHB, page 215

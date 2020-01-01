@@ -16,6 +16,5 @@ On a failed save, it takes `1d4` psychic damage and has disadvantage on all Atta
 
 ---
 
-**Sources:** PHB, page 285
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 285
+- **Quality Assurance:** :star2: consistency pass

@@ -18,8 +18,6 @@ If this spell ends on your turn, its effects linger until the end of your turn.
 
 ---
 
-**Sources:** PHB, page 284
-
-**References:** true strike
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 284
+- **References:** true strike
+- **Quality Assurance:** :star2: consistency pass

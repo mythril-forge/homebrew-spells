@@ -26,6 +26,5 @@ When you cast this spell using a spell slot of 3rd level or higher, you conjure 
 
 ---
 
-**Sources:** LLK, page 57
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** LLK, page 57
+- **Quality Assurance:** :sparkles: coming along

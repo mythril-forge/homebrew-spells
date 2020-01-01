@@ -42,6 +42,5 @@ When you cast this spell using a spell slot of 2nd level or higher, the maximum 
 
 ---
 
-**Sources:** XGE, page 150
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** XGE, page 150
+- **Quality Assurance:** :star: personal pass

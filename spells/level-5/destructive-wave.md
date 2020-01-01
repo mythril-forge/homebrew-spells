@@ -18,4 +18,4 @@ A creature that succeeds on its Saving Throw takes half as much damage and isn't
 
 ---
 
-**Sources:** PHB, page 231
+- **Sources:** PHB, page 231

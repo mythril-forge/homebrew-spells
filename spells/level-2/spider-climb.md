@@ -17,7 +17,5 @@ The target also gains a climbing speed equal to its walking speed.
 ---
 
 **Subraces:** tiefling (abyssal)
-
-**Sources:** PHB, page 277
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 277
+- **Quality Assurance:** :x: relatively unchanged

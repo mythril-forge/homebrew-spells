@@ -24,4 +24,4 @@ A creature who discerns the illusion for what it is, sees it as a vague image su
 
 ---
 
-**Sources:** PHB, page 249
+- **Sources:** PHB, page 249

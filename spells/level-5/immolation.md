@@ -23,4 +23,4 @@ If damage from this spell kills a target, the target is turned to ash.
 
 ---
 
-**Sources:** XGE, page 158
+- **Sources:** XGE, page 158

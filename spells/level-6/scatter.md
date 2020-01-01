@@ -18,4 +18,4 @@ That space must be on the ground or on a floor.
 
 ---
 
-**Sources:** XGE, page 164
+- **Sources:** XGE, page 164

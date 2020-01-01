@@ -16,4 +16,4 @@ Otherwise, the spell has no effect.
 
 ---
 
-**Sources:** PHB, page 266
+- **Sources:** PHB, page 266

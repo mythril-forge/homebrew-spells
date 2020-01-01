@@ -30,8 +30,6 @@ When you cast this spell using a spell slot of 3rd level or higher, the number o
 
 ---
 
-**Sources:** XGE, page 156
-
-**References:** flame arrows
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** XGE, page 156
+- **References:** flame arrows
+- **Quality Assurance:** :sparkles: coming along

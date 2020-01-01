@@ -19,6 +19,5 @@ When you cast this spell using a spell slot of 3rd level or higher, the healing 
 
 ---
 
-**Sources:** PHB, page 267
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 267
+- **Quality Assurance:** :sparkles: coming along

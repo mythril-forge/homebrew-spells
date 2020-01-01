@@ -22,6 +22,5 @@ Such creatures can be evasive in its answers as long as it remains within the bo
 
 ---
 
-**Sources:** PHB, page 289
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 289
+- **Quality Assurance:** :x: relatively unchanged

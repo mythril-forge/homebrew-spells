@@ -17,4 +17,4 @@ This spell can't return to life a creature that has died of old age, nor can it 
 
 ---
 
-**Sources:** PHB, page 272
+- **Sources:** PHB, page 272

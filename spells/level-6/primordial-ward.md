@@ -17,4 +17,4 @@ If you do so, the resistances end, and you have the immunity until the end of yo
 
 ---
 
-**Sources:** XGE, page 163
+- **Sources:** XGE, page 163

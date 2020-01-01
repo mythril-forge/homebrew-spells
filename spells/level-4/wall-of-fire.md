@@ -31,6 +31,6 @@ When you cast this spell using a spell slot of 5th level or higher, the damage i
 
 ---
 
-**Sources:** PHB, page 285
+- **Sources:** PHB, page 285
 
 <!-- QA Pass: Very Poor 👎 -->

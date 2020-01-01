@@ -30,4 +30,4 @@ When you cast this spell using a spell slot of 7th level or higher, you can crea
 
 ---
 
-**Sources:** XGE, page 150
+- **Sources:** XGE, page 150

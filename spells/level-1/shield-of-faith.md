@@ -16,6 +16,5 @@ The target also gains a Damage Reduction (DR) of `2` for the duration.
 
 ---
 
-**Sources:** PHB, page 275
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 275
+- **Quality Assurance:** :star: personal pass

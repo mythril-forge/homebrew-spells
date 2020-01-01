@@ -31,4 +31,4 @@ The wall also extends into the Ethereal Plane, blocking ethereal travel through 
 
 ---
 
-**Sources:** PHB, page 285
+- **Sources:** PHB, page 285

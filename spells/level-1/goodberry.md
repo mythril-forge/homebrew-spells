@@ -20,6 +20,5 @@ The berries lose their potency quickly, and rot if they have not been consumed w
 
 ---
 
-**Sources:** PHB, page 246
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 246
+- **Quality Assurance:** :star2: consistency pass

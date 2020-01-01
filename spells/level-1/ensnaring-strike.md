@@ -31,6 +31,5 @@ If you cast this spell using a spell slot of 2nd level or higher, both the initi
 
 ---
 
-**Sources:** PHB, page 237
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 237
+- **Quality Assurance:** :star: personal pass

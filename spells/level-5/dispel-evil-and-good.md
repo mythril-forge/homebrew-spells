@@ -28,4 +28,4 @@ If they aren't on their home plane, undead are sent to the Shadowfell, and fey a
 
 ---
 
-**Sources:** PHB, page 233
+- **Sources:** PHB, page 233

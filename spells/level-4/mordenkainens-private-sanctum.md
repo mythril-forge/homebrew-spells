@@ -31,4 +31,4 @@ Thus you could protect a cube that can be up to 200 feet on one side by using a 
 
 ---
 
-**Sources:** PHB, page 262
+- **Sources:** PHB, page 262

@@ -21,4 +21,4 @@ Until the spell ends, wind whirls around you, and you gain the following benefit
 
 ---
 
-**Sources:** XGE, page 160
+- **Sources:** XGE, page 160

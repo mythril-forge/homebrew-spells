@@ -30,6 +30,5 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 
 ---
 
-**Sources:** PHB, page 260
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 260
+- **Quality Assurance:** :star: personal pass

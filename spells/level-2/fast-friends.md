@@ -24,6 +24,5 @@ When the spell ends, the creature knows it was **charmed** by you.
 
 ---
 
-**Sources:** AI, page 75
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** AI, page 75
+- **Quality Assurance:** :x: relatively unchanged

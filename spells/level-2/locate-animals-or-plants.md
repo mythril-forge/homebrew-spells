@@ -24,6 +24,5 @@ This spell can't locate anything if any thickness of lead, even a thin sheet, bl
 
 ---
 
-**Sources:** PHB, page 256
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 256
+- **Quality Assurance:** :x: relatively unchanged

@@ -23,4 +23,4 @@ These benefits last for 24 hours.
 
 ---
 
-**Sources:** PHB, page 250
+- **Sources:** PHB, page 250

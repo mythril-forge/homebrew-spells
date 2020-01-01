@@ -19,4 +19,4 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 ---
 
-**Sources:** PHB, page 264
+- **Sources:** PHB, page 264

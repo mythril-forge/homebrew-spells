@@ -24,4 +24,4 @@ On a hit, it deals `4d8` piercing damage.
 
 ---
 
-**Sources:** PHB, page 261
+- **Sources:** PHB, page 261

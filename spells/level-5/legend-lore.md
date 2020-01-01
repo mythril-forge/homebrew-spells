@@ -23,4 +23,4 @@ Only a true Child of Stone, lover and beloved of Moradin, may awaken the true po
 
 ---
 
-**Sources:** PHB, page 254
+- **Sources:** PHB, page 254

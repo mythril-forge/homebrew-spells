@@ -18,6 +18,5 @@ In addition, the target gains a damage threshold of `5`, and has resistance to n
 
 ---
 
-**Sources:** PHB, page 217
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 217
+- **Quality Assurance:** :sparkles: coming along

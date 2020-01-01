@@ -25,4 +25,4 @@ When you cast this spell using a spell slot of 8th level or higher, the number o
 
 ---
 
-**Sources:** XGE, page 152
+- **Sources:** XGE, page 152

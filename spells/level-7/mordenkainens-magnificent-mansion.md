@@ -35,4 +35,4 @@ When the spell ends, any creatures inside the extradimensional space are expelle
 
 ---
 
-**Sources:** PHB, page 261
+- **Sources:** PHB, page 261

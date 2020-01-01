@@ -25,4 +25,4 @@ On a successful save, the creature takes half as much damage.
 
 ---
 
-**Sources:** PHB, page 218
+- **Sources:** PHB, page 218

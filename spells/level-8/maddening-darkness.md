@@ -23,4 +23,4 @@ Whenever a creature starts its turn in the sphere, it must make a Wisdom Saving 
 
 ---
 
-**Sources:** XGE, page 160
+- **Sources:** XGE, page 160

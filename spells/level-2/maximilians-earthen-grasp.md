@@ -28,6 +28,5 @@ The hand releases a **restrained** target if you do either.
 
 ---
 
-**Sources:** XGE, page 161
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** XGE, page 161
+- **Quality Assurance:** :x: relatively unchanged

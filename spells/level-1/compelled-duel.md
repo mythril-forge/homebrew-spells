@@ -27,6 +27,5 @@ This spell's casting fails if it is cast by or on a creature who is already affe
 
 ---
 
-**Sources:** PHB, page 224
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 224
+- **Quality Assurance:** :star: personal pass

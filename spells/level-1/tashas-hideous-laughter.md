@@ -21,6 +21,5 @@ On a success, the spell ends.
 
 ---
 
-**Sources:** PHB, page 280
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 280
+- **Quality Assurance:** :star: personal pass

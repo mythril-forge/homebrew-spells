@@ -48,8 +48,6 @@ If a creature discerns the illusion for what it is, the illusion becomes faint t
 
 ---
 
-**Sources:** PHB, page 276
-
-**References:** Silent Image
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 276
+- **References:** Silent Image
+- **Quality Assurance:** :sparkles: modified but not perfected

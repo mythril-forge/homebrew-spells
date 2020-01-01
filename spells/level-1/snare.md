@@ -31,6 +31,5 @@ On a successful check, the **restrained** effect ends on the target.
 
 ---
 
-**Sources:** XGE, page 165; UA-SS, page 4
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** XGE, page 165; UA-SS, page 4
+- **Quality Assurance:** :star: personal pass

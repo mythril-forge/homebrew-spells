@@ -24,6 +24,6 @@ On a success, it frees itself.
 
 ---
 
-**Sources:** PHB, page 238
+- **Sources:** PHB, page 238
 
 <!-- QA Pass: Very Poor 👎 -->

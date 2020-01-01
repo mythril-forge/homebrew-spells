@@ -21,4 +21,4 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 ---
 
-**Sources:** PHB, page 258
+- **Sources:** PHB, page 258

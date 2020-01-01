@@ -17,4 +17,4 @@ An attacker is immune to this effect if it doesn't rely on sight, as with blinds
 
 ---
 
-**Sources:** PHB, page 219
+- **Sources:** PHB, page 219

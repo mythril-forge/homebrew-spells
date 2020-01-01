@@ -29,6 +29,5 @@ You choose a creature type and other spells and magical effects treat the target
 
 ---
 
-**Sources:** PHB, page 263
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 263
+- **Quality Assurance:** :x: relatively unchanged

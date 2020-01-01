@@ -66,8 +66,6 @@ When you cast this spell using a spell slot of 7th level or higher, the spell la
 
 ---
 
-**Sources:** PHB, page 258
-
-**References:** Major Image
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 258
+- **References:** Major Image
+- **Quality Assurance:** :sparkles: modified but not perfected

@@ -23,4 +23,4 @@ On a successful save, the spell ends for that creature.
 
 ---
 
-**Sources:** PHB, page 239
+- **Sources:** PHB, page 239

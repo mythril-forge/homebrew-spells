@@ -15,6 +15,5 @@ Then, each **prone** creature within range can immediately stand up without expe
 
 ---
 
-**Sources:** UA-SS, page 4
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** UA-SS, page 4
+- **Quality Assurance:** :star: personal pass

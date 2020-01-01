@@ -32,4 +32,4 @@ When you cast this spell using a 9th-level spell slot, you can animate or reasse
 
 ---
 
-**Sources:** PHB, page 229
+- **Sources:** PHB, page 229

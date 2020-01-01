@@ -40,4 +40,4 @@ It retains the capabilities it had in its original form, except it exchanges its
 
 ---
 
-**Sources:** PHB, page 271
+- **Sources:** PHB, page 271

@@ -22,6 +22,6 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 
 ---
 
-**Sources:** PHB, page 256
+- **Sources:** PHB, page 256
 
 <!-- QA Pass: Very Poor 👎 -->

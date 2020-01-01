@@ -49,4 +49,4 @@ The creature's statistics become those of the object, and the creature has no me
 
 ---
 
-**Sources:** PHB, page 283
+- **Sources:** PHB, page 283

@@ -44,4 +44,4 @@ Finally, there is a 33 percent chance that you are unable to cast wish ever agai
 
 ---
 
-**Sources:** PHB, page 288
+- **Sources:** PHB, page 288

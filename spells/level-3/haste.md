@@ -30,6 +30,5 @@ When the spell ends, an affected creature becomes **stunned** until the end of i
 
 ---
 
-**Sources:** PHB, page 250
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 250
+- **Quality Assurance:** :sparkles: modified but not perfected

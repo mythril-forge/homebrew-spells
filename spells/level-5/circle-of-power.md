@@ -19,4 +19,4 @@ Additionally, when an affected creature succeeds on a Saving Throw made against 
 
 ---
 
-**Sources:** PHB, page 221
+- **Sources:** PHB, page 221

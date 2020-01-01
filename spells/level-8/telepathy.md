@@ -20,4 +20,4 @@ The spell enables a creature with an Intelligence Score of at least 1 to underst
 
 ---
 
-**Sources:** PHB, page 281
+- **Sources:** PHB, page 281

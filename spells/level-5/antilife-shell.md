@@ -22,4 +22,4 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 ---
 
-**Sources:** PHB, page 213
+- **Sources:** PHB, page 213

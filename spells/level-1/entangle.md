@@ -26,6 +26,5 @@ When the spell ends, the conjured plants retract into the earth and root themsel
 
 ---
 
-**Sources:** PHB, page 238
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 238
+- **Quality Assurance:** :star: personal pass

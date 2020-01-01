@@ -16,6 +16,5 @@ If you end your turn on such a surface, you immediately fall.
 
 ---
 
-**Sources:** STREAM
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** STREAM
+- **Quality Assurance:** :star: personal pass

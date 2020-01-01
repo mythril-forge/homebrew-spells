@@ -33,4 +33,4 @@ This spell can't be dispelled by [*dispel magic*](./dispel-magic).
 
 ---
 
-**Sources:** PHB, page 243
+- **Sources:** PHB, page 243

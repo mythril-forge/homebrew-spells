@@ -39,6 +39,5 @@ You can't fly in this way if you are wearing medium or heavy armor.
 
 ---
 
-**Sources:** PHB, page 211
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 211
+- **Quality Assurance:** :sparkles: coming along

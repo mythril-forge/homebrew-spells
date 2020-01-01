@@ -44,4 +44,4 @@ Finally, gusts of strong wind (ranging from 20 to 50 miles per hour) automatical
 
 ---
 
-**Sources:** PHB, page 279
+- **Sources:** PHB, page 279

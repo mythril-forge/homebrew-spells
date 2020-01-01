@@ -34,4 +34,4 @@ When you cast this spell using a spell slot of 7th level or higher, the damage t
 
 ---
 
-**Sources:** PHB, page 285
+- **Sources:** PHB, page 285

@@ -26,8 +26,6 @@ If you let go of the weapon, its charm dissipates, and the spell ends.
 
 ---
 
-**Sources:** SCAG, page 143
-
-**References:** green-flame blade
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** SCAG, page 143
+- **References:** green-flame blade
+- **Quality Assurance:** :star2: consistency pass

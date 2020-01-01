@@ -27,6 +27,5 @@ Otherwise, your bonus to the Intelligence Saving Throw increases by 1 for each s
 
 ---
 
-**Sources:** PHB, page 271
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 271
+- **Quality Assurance:** :sparkles: modified but not perfected

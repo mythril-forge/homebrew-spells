@@ -19,6 +19,5 @@ The spell then ends.
 
 ---
 
-**Sources:** PHB, page 248
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 248
+- **Quality Assurance:** :star2: consistency pass

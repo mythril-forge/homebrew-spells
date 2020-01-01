@@ -22,4 +22,4 @@ Until the spell ends, ice rimes your body, and you gain the following benefits:
 
 ---
 
-**Sources:** XGE, page 159
+- **Sources:** XGE, page 159

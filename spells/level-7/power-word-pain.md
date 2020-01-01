@@ -24,4 +24,4 @@ On a successful save, the pain ends.
 
 ---
 
-**Sources:** XGE, page 163
+- **Sources:** XGE, page 163

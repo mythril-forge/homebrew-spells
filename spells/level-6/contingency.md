@@ -26,4 +26,4 @@ Also, contingency ends on you if its material component is ever not on your pers
 
 ---
 
-**Sources:** PHB, page 227
+- **Sources:** PHB, page 227

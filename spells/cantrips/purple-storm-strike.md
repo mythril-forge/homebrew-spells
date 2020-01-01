@@ -23,8 +23,7 @@ If you let go of the weapon, its charm dissipates, and the spell ends.
 
 ---
 
-**Sources:** SCAG, page 142
+- **Sources:** SCAG, page 142
 
 **Referenced Spells:** booming blade
-
-**Quality Assurance:** :star2: consistency pass
+- **Quality Assurance:** :star2: consistency pass

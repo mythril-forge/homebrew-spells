@@ -28,4 +28,4 @@ Until you finish a long rest, you can't cast spells again, and you have disadvan
 
 ---
 
-**Sources:** PHB, page 272
+- **Sources:** PHB, page 272

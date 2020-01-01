@@ -18,4 +18,4 @@ This spell has no effect on undead or constructs.
 
 ---
 
-**Sources:** PHB, page 266
+- **Sources:** PHB, page 266

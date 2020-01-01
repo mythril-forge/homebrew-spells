@@ -21,4 +21,4 @@ Until the spell ends, you gain the following benefits:
 
 ---
 
-**Sources:** XGE, page 159
+- **Sources:** XGE, page 159

@@ -22,6 +22,6 @@ A target isn't compelled to move into an obviously deadly hazard, such as a fire
 
 ---
 
-**Sources:** PHB, page 224
+- **Sources:** PHB, page 224
 
 <!-- QA Pass: Very Poor 👎 -->

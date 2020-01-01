@@ -38,4 +38,4 @@ When you cast this spell using a spell slot of 5th level or higher, both the blu
 
 ---
 
-**Sources:** PHB, page 252
+- **Sources:** PHB, page 252

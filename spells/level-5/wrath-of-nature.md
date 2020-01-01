@@ -33,4 +33,4 @@ On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succ
 
 ---
 
-**Sources:** XGE, page 171
+- **Sources:** XGE, page 171

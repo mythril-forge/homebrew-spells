@@ -23,6 +23,5 @@ The scimitar disappears once the spell ends.
 
 ---
 
-**Sources:** PHB, page 242
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 242
+- **Quality Assurance:** :sparkles: coming along

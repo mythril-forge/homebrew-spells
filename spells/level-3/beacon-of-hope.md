@@ -18,6 +18,5 @@ Additionally, when an affected creature rolls a Saving Throw to end an effect ca
 
 ---
 
-**Sources:** PHB, page 217
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 217
+- **Quality Assurance:** :sparkles: coming along

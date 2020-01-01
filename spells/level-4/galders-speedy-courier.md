@@ -31,4 +31,4 @@ When you cast this spell using an 8th-level spell slot, you can send the chest t
 
 ---
 
-**Sources:** LLK, page 57
+- **Sources:** LLK, page 57

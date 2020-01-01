@@ -15,4 +15,4 @@ The spell even foils [*wish*](./wish) spells and spells or effects of similar po
 
 ---
 
-**Sources:** PHB, page 259
+- **Sources:** PHB, page 259

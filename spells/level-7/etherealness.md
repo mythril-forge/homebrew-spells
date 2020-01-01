@@ -32,4 +32,4 @@ The creatures must be within 10 feet of you when you cast the spell.
 
 ---
 
-**Sources:** PHB, page 238
+- **Sources:** PHB, page 238

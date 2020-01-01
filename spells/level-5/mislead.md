@@ -21,4 +21,4 @@ While you are using its senses, you are **blinded** and **deafened** in regard t
 
 ---
 
-**Sources:** PHB, page 260
+- **Sources:** PHB, page 260

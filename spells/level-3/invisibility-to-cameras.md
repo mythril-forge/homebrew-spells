@@ -18,4 +18,4 @@ The targets remain visible to vision.
 
 ---
 
-**Sources:** UA-MM, page 7
+- **Sources:** UA-MM, page 7

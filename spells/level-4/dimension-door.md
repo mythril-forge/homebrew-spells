@@ -22,4 +22,4 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 ---
 
-**Sources:** PHB, page 233
+- **Sources:** PHB, page 233

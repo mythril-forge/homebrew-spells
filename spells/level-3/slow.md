@@ -36,6 +36,5 @@ When the spell ends, an affected creature gets an additional action on its next 
 
 ---
 
-**Sources:** PHB, page 277
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 277
+- **Quality Assurance:** :sparkles: modified but not perfected

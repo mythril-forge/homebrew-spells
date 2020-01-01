@@ -20,4 +20,4 @@ If you have the severed part and hold it to the stump, the spell instantaneously
 
 ---
 
-**Sources:** PHB, page 271
+- **Sources:** PHB, page 271

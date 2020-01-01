@@ -25,4 +25,4 @@ For example, you could determine the location of powerful undead in the area, th
 
 ---
 
-**Sources:** UA-MM, page 5
+- **Sources:** UA-MM, page 5

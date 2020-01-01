@@ -29,4 +29,4 @@ It might leave, attack you, or help you.
 
 ---
 
-**Sources:** PHB, page 244
+- **Sources:** PHB, page 244

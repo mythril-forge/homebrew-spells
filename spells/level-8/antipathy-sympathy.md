@@ -42,4 +42,4 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 ---
 
-**Sources:** PHB, page 214
+- **Sources:** PHB, page 214

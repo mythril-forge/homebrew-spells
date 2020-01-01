@@ -24,4 +24,4 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 ---
 
-**Sources:** PHB, page 235
+- **Sources:** PHB, page 235

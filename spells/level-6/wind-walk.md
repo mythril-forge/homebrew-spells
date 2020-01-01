@@ -23,4 +23,4 @@ If it can't land after 1 minute, the creature falls the remaining distance.
 
 ---
 
-**Sources:** PHB, page 288
+- **Sources:** PHB, page 288

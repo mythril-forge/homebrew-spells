@@ -26,6 +26,5 @@ Any creature that ends its turn in the area takes `2d6` acid damage as the thick
 
 ---
 
-**Sources:** PHB, page 251
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 251
+- **Quality Assurance:** :sparkles: modified but not perfected

@@ -16,4 +16,4 @@ For the duration, the creature has truesight, notices secret doors hidden by mag
 
 ---
 
-**Sources:** PHB, page 284
+- **Sources:** PHB, page 284

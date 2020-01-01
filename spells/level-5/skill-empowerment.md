@@ -17,4 +17,4 @@ You must choose a skill in which the target is proficient and that isn't already
 
 ---
 
-**Sources:** XGE, page 165
+- **Sources:** XGE, page 165

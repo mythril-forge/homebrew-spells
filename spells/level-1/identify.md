@@ -21,6 +21,5 @@ This spell doesn't reveal any curses afflicting or imbued within the target.
 
 ---
 
-**Sources:** PHB, page 252
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 252
+- **Quality Assurance:** :star: personal pass

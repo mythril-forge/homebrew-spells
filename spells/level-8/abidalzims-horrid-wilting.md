@@ -22,4 +22,4 @@ Nonmagical plants in the area that aren't creatures, such as trees and shrubs, w
 
 ---
 
-**Sources:** XGE, page 150
+- **Sources:** XGE, page 150

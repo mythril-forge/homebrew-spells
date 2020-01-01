@@ -16,4 +16,4 @@ While the spell remains active, no electronic device within range can be started
 
 ---
 
-**Sources:** UA-MM, page 8
+- **Sources:** UA-MM, page 8

@@ -27,4 +27,4 @@ On a failed save, the creature takes `4d6` bludgeoning damage, and takes half da
 
 ---
 
-**Sources:** XGE, page 170
+- **Sources:** XGE, page 170

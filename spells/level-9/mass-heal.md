@@ -17,4 +17,4 @@ This spell has no effect on undead or constructs.
 
 ---
 
-**Sources:** PHB, page 258
+- **Sources:** PHB, page 258

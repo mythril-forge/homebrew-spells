@@ -27,6 +27,5 @@ The beast rolls its own initiative, however it can choose to take its turn direc
 
 ---
 
-**Sources:** XGE, page 150
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** XGE, page 150
+- **Quality Assurance:** :star: personal pass

@@ -19,4 +19,4 @@ If you attempt to cast the spell in this manner in an area that isn't dedicated 
 
 ---
 
-**Sources:** PHB, page 289
+- **Sources:** PHB, page 289

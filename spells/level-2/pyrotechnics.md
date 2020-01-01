@@ -32,6 +32,5 @@ The smoke persists for 5 minutes or until a strong wind disperses it.
 
 ---
 
-**Sources:** XGE, page 163
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** XGE, page 163
+- **Quality Assurance:** :sparkles: coming along

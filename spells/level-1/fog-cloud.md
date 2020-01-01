@@ -21,6 +21,5 @@ When you cast this spell using a spell slot of 2nd level or higher, the radius o
 
 ---
 
-**Sources:** PHB, page 243
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 243
+- **Quality Assurance:** :star: personal pass

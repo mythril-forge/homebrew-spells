@@ -35,4 +35,4 @@ When you cast this spell using a spell slot of 4th level or higher, the radius o
 
 ---
 
-**Sources:** UA-MM, page 7
+- **Sources:** UA-MM, page 7

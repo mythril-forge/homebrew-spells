@@ -16,6 +16,5 @@ On a hit, the target takes `2d10` necrotic damage, and you regain hit points equ
 
 ---
 
-**Sources:** PHB, page 285
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 285
+- **Quality Assurance:** :sparkles: modified but not perfected

@@ -23,6 +23,5 @@ It also can't handle complex tasks that would require an Ability Check.
 
 ---
 
-**Sources:** PHB, page 256
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 256
+- **Quality Assurance:** :star2: consistency pass

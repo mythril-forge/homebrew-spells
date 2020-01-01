@@ -27,4 +27,4 @@ If you cast this spell again, any currently active duplicates you created with t
 
 ---
 
-**Sources:** PHB, page 276
+- **Sources:** PHB, page 276

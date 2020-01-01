@@ -20,6 +20,5 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 ---
 
-**Sources:** SCAG, page 143
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** SCAG, page 143
+- **Quality Assurance:** :star2: consistency pass

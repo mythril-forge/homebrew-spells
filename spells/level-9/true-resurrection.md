@@ -23,4 +23,4 @@ The creature then appears in an unoccupied space you choose within 10 feet of yo
 
 ---
 
-**Sources:** PHB, page 284
+- **Sources:** PHB, page 284

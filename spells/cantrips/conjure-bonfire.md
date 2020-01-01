@@ -26,8 +26,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 ---
 
-**Sources:** XGE, page 152
-
-**References:** create bonfire
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** XGE, page 152
+- **References:** create bonfire
+- **Quality Assurance:** :star2: consistency pass

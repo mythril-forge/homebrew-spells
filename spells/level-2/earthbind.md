@@ -16,6 +16,5 @@ The target must succeed on a Strength Saving Throw, or its flying speed (if any)
 
 ---
 
-**Sources:** XGE, page 154
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** XGE, page 154
+- **Quality Assurance:** :star: personal pass

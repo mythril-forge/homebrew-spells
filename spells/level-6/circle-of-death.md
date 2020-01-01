@@ -22,4 +22,4 @@ When you cast this spell using a spell slot of 7th level or higher, the damage i
 
 ---
 
-**Sources:** PHB, page 221
+- **Sources:** PHB, page 221

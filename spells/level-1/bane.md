@@ -23,6 +23,5 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 ---
 
-**Sources:** PHB, page 216
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 216
+- **Quality Assurance:** :star2: consistency pass

@@ -20,4 +20,4 @@ When you cast this spell using a spell slot of 7th level or higher, the amount o
 
 ---
 
-**Sources:** PHB, page 250
+- **Sources:** PHB, page 250

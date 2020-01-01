@@ -25,8 +25,6 @@ Make a separate Attack Roll for each beam.
 
 ---
 
-**Sources:** PHB, page 271; XGE, page 156
-
-**References:** ray of frost, frostbite
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 271; XGE, page 156
+- **References:** ray of frost, frostbite
+- **Quality Assurance:** :star2: consistency pass

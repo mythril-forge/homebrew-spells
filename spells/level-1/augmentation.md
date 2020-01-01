@@ -21,8 +21,6 @@ Whenever this spell ends, you can immediately cast it again using the same weapo
 
 ---
 
-**Sources:** UA-AR, page 10
-
-**References:** arcane weapon
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** UA-AR, page 10
+- **References:** arcane weapon
+- **Quality Assurance:** :star: personal pass

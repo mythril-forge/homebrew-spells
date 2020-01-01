@@ -19,4 +19,4 @@ In addition, a nonhostile, living creature regains 1 hit point when it starts it
 
 ---
 
-**Sources:** PHB, page 216
+- **Sources:** PHB, page 216

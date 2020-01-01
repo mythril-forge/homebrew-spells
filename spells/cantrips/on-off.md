@@ -18,6 +18,5 @@ Any device that requires a software-based shutdown sequence to activate or deact
 
 ---
 
-**Sources:** UA-MM, page 7
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** UA-MM, page 7
+- **Quality Assurance:** :star2: consistency pass

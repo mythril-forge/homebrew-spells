@@ -34,4 +34,4 @@ A creature that moves out of the area falls to the ground.
 
 ---
 
-**Sources:** PHB, page 284
+- **Sources:** PHB, page 284

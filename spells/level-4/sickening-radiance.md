@@ -21,4 +21,4 @@ The light and any levels of **exhaustion** caused by this spell go away when the
 
 ---
 
-**Sources:** XGE, page 164
+- **Sources:** XGE, page 164

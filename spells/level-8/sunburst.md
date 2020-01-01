@@ -26,4 +26,4 @@ This spell dispels any darkness in its area that was created by a spell.
 
 ---
 
-**Sources:** PHB, page 279
+- **Sources:** PHB, page 279

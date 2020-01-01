@@ -23,4 +23,4 @@ When the **charmed** condition ends, the awakened creature chooses whether to re
 
 ---
 
-**Sources:** PHB, page 216
+- **Sources:** PHB, page 216

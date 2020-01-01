@@ -34,4 +34,4 @@ It has the following affects:
 
 ---
 
-**Sources:** XGE, page 170
+- **Sources:** XGE, page 170

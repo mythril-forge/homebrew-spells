@@ -30,4 +30,4 @@ This spell can cause the plants created by the [*entangle*](../level-1/entangle.
 
 ---
 
-**Sources:** PHB, page 277
+- **Sources:** PHB, page 277

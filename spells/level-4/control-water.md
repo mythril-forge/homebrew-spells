@@ -53,6 +53,6 @@ The first time each turn that an object enters the vortex, the object takes `2d8
 
 ---
 
-**Sources:** PHB, page 227
+- **Sources:** PHB, page 227
 
 <!-- QA Pass: Very Poor 👎 -->

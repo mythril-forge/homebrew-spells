@@ -48,4 +48,4 @@ In addition, whenever the creature takes damage, it is **stunned** until the end
 
 ---
 
-**Sources:** PHB, page 227
+- **Sources:** PHB, page 227

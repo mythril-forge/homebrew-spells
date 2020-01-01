@@ -32,6 +32,5 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 
 ---
 
-**Sources:** PHB, page 261
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 261
+- **Quality Assurance:** :x: relatively unchanged

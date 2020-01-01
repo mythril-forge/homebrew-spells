@@ -25,6 +25,5 @@ When the spell ends, the creature becomes hostile again, unless the DM rules oth
 
 ---
 
-**Sources:** PHB, page 221
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 221
+- **Quality Assurance:** :x: relatively unchanged

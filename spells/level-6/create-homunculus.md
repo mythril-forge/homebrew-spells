@@ -27,4 +27,4 @@ If you cast this spell while your homunculus lives, the spell fails.
 
 ---
 
-**Sources:** XGE, page 152
+- **Sources:** XGE, page 152

@@ -21,4 +21,4 @@ When you cast this spell using a spell slot of 3rd level or higher, a target's h
 
 ---
 
-**Sources:** PHB, page 211
+- **Sources:** PHB, page 211

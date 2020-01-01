@@ -15,4 +15,4 @@ Anything the target is wearing or carrying is **invisible** as long as it is on 
 
 ---
 
-**Sources:** PHB, page 246
+- **Sources:** PHB, page 246

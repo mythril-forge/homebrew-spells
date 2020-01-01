@@ -19,6 +19,5 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 ---
 
-**Sources:** PHB, page 224
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 224
+- **Quality Assurance:** :star: personal pass

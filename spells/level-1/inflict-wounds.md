@@ -18,6 +18,5 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Sources:** PHB, page 253
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 253
+- **Quality Assurance:** :star: personal pass

@@ -39,4 +39,4 @@ A creature that can see the sensor (such as one using [*see invisibility*](./see
 
 ---
 
-**Sources:** XGE, page 165
+- **Sources:** XGE, page 165

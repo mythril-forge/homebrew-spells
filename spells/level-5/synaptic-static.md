@@ -23,4 +23,4 @@ The target can make an Intelligence Saving Throw at the end of each of its turns
 
 ---
 
-**Sources:** XGE, page 167
+- **Sources:** XGE, page 167

@@ -16,6 +16,5 @@ You might be able to persuade a beast to perform a small favor for you (at the D
 
 ---
 
-**Sources:** PHB, page 277
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 277
+- **Quality Assurance:** :star: personal pass

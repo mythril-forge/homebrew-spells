@@ -23,4 +23,4 @@ Thus, the corpse can't learn new information, doesn't comprehend anything that h
 
 ---
 
-**Sources:** PHB, page 277
+- **Sources:** PHB, page 277

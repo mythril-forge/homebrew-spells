@@ -38,4 +38,4 @@ When you cast this spell using a spell slot of 6th level or higher, the challeng
 
 ---
 
-**Sources:** XGE, page 158
+- **Sources:** XGE, page 158

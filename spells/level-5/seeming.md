@@ -29,4 +29,4 @@ If it succeeds, it becomes aware that the target is disguised.
 
 ---
 
-**Sources:** PHB, page 274
+- **Sources:** PHB, page 274

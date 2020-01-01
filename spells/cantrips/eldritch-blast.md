@@ -24,6 +24,5 @@ Make a separate Attack Roll for each beam.
 
 ---
 
-**Sources:** PHB, page 237
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 237
+- **Quality Assurance:** :star2: consistency pass

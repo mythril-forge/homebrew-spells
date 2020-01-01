@@ -27,4 +27,4 @@ Every time the target finishes a long rest, the penalty is reduced by 1 until it
 
 ---
 
-**Sources:** PHB, page 270
+- **Sources:** PHB, page 270

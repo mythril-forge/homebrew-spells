@@ -20,4 +20,4 @@ The communication is possible over any distance, though it can't extend to other
 
 ---
 
-**Sources:** PHB, page 270
+- **Sources:** PHB, page 270

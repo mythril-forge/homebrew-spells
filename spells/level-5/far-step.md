@@ -15,4 +15,4 @@ On each of your turns before the spell ends, you can use a bonus action to telep
 
 ---
 
-**Sources:** XGE, page 155
+- **Sources:** XGE, page 155

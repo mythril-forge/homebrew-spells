@@ -24,4 +24,4 @@ On your turn, you can rotate the rings as a bonus action so that the active side
 
 ---
 
-**Sources:** PHB, page 214
+- **Sources:** PHB, page 214

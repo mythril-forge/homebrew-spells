@@ -19,4 +19,4 @@ Until the spell ends, that area is difficult terrain, and any creature that star
 
 ---
 
-**Sources:** XGE, page 160
+- **Sources:** XGE, page 160

@@ -25,4 +25,4 @@ A strong wind (at least 20 miles per hour) disperses the cloud.
 
 ---
 
-**Sources:** PHB, page 278
+- **Sources:** PHB, page 278

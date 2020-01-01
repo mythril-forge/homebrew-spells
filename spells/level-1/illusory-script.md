@@ -23,6 +23,5 @@ A creature with truesight can read the hidden message.
 
 ---
 
-**Sources:** PHB, page 252
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 252
+- **Quality Assurance:** :star: personal pass

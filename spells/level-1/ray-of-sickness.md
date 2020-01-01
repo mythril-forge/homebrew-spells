@@ -23,6 +23,5 @@ Make a separate Attack Roll for each beam.
 
 ---
 
-**Sources:** PHB, page 271
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 271
+- **Quality Assurance:** :star: personal pass

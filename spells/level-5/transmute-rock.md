@@ -37,4 +37,4 @@ The rock has AC 15 and 25 hit points, and it is immune to poison and psychic dam
 
 ---
 
-**Sources:** XGE, page 169
+- **Sources:** XGE, page 169

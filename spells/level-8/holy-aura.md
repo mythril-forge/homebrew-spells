@@ -20,4 +20,4 @@ The attacker must succeed on a Constitution Saving Throw or be **blinded** until
 
 ---
 
-**Sources:** PHB, page 251
+- **Sources:** PHB, page 251

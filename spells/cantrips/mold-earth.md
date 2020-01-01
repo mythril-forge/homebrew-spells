@@ -28,6 +28,5 @@ You can sculpt the earth to create one of the following effects:
 
 ---
 
-**Sources:** XGE, page 162
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** XGE, page 162
+- **Quality Assurance:** :star2: consistency pass

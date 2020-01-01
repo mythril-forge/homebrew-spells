@@ -30,4 +30,4 @@ When you cast this spell with a 9th-level spell slot, the duration is concentrat
 
 ---
 
-**Sources:** PHB, page 235
+- **Sources:** PHB, page 235

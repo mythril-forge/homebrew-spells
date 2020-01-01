@@ -26,6 +26,6 @@ A [*disintegrate*](./disintegrate) spell targeting the globe destroys it without
 
 ---
 
-**Sources:** PHB, page 264
+- **Sources:** PHB, page 264
 
 <!-- QA Pass: Very Poor 👎 -->

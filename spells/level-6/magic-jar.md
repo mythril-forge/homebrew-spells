@@ -42,4 +42,4 @@ When the spell ends, the container is destroyed.
 
 ---
 
-**Sources:** PHB, page 257
+- **Sources:** PHB, page 257

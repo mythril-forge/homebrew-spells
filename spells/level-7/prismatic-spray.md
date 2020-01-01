@@ -52,4 +52,4 @@ Roll twice more, rerolling any 8.
 
 ---
 
-**Sources:** PHB, page 267
+- **Sources:** PHB, page 267

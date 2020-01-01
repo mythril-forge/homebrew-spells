@@ -52,4 +52,4 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 ---
 
-**Sources:** PHB, page 248
+- **Sources:** PHB, page 248

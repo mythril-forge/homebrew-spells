@@ -29,4 +29,4 @@ When you cast this spell using a spell slot of 6th level or higher, the damage i
 
 ---
 
-**Sources:** PHB, page 222
+- **Sources:** PHB, page 222

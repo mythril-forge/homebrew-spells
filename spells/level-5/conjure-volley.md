@@ -22,4 +22,4 @@ The damage type is the same as that of the ammunition or weapon.
 
 ---
 
-**Sources:** PHB, page 226
+- **Sources:** PHB, page 226

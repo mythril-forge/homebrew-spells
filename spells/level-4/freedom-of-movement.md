@@ -19,4 +19,4 @@ Finally, being underwater imposes no penalties on the target's movement or attac
 
 ---
 
-**Sources:** PHB, page 244
+- **Sources:** PHB, page 244

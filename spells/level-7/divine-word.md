@@ -23,4 +23,4 @@ Regardless of its current hit points, a celestial, an elemental, a fey, or a fie
 
 ---
 
-**Sources:** PHB, page 234
+- **Sources:** PHB, page 234

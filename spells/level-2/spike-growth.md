@@ -22,6 +22,5 @@ Any creature that can't see the area at the time the spell is cast must make a W
 
 ---
 
-**Sources:** PHB, page 277
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 277
+- **Quality Assurance:** :x: relatively unchanged

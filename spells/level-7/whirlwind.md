@@ -30,4 +30,4 @@ If successful, the creature is no longer **restrained** by the whirlwind and is 
 
 ---
 
-**Sources:** XGE, page 171
+- **Sources:** XGE, page 171

@@ -23,4 +23,4 @@ For example, if you transform a bee, its giant version might have the same stati
 
 ---
 
-**Sources:** PHB, page 245
+- **Sources:** PHB, page 245

@@ -29,4 +29,4 @@ Whenever the mount disappears, it leaves behind any objects it was wearing or ca
 
 ---
 
-**Sources:** XGE, page 156
+- **Sources:** XGE, page 156

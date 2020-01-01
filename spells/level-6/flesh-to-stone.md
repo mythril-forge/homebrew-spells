@@ -27,4 +27,4 @@ If you maintain your concentration on this spell for the entire possible duratio
 
 ---
 
-**Sources:** PHB, page 243
+- **Sources:** PHB, page 243

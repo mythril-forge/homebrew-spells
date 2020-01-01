@@ -16,6 +16,5 @@ You also gain a Damage Threshold (DT) of `5` for the duration, including against
 
 ---
 
-**Sources:** PHB, page 275
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 275
+- **Quality Assurance:** :star: personal pass

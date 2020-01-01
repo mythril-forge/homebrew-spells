@@ -18,8 +18,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 ---
 
-**Sources:** XGE, page 156; XGE, page 169; UA-SS, page 4
-
-**References:** frostbite, toll the dead, toll the dead
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** XGE, page 156; XGE, page 169; UA-SS, page 4
+- **References:** frostbite, toll the dead, toll the dead
+- **Quality Assurance:** :star2: consistency pass

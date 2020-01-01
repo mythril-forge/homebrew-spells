@@ -26,8 +26,6 @@ If you cast this spell using a spell slot of 2nd level or higher, the damage inc
 
 ---
 
-**Sources:** PHB, page 249
-
-**References:** hail of thorns
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 249
+- **References:** hail of thorns
+- **Quality Assurance:** :star: personal pass

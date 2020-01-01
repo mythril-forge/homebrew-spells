@@ -36,4 +36,4 @@ When a creature in the cube makes a vertical jump, the creature can jump up to 1
 
 ---
 
-**Sources:** XGE, page 152
+- **Sources:** XGE, page 152

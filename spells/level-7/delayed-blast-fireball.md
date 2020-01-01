@@ -33,4 +33,4 @@ When you cast this spell using a spell slot of 8th level or higher, the base dam
 
 ---
 
-**Sources:** PHB, page 230
+- **Sources:** PHB, page 230

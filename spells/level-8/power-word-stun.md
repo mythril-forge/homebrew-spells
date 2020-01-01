@@ -19,4 +19,4 @@ On a successful save, this stunning effect ends.
 
 ---
 
-**Sources:** PHB, page 267
+- **Sources:** PHB, page 267

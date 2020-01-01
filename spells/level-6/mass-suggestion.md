@@ -35,4 +35,4 @@ When you use a 9th-level spell slot, the duration is a year and a day.
 
 ---
 
-**Sources:** PHB, page 258
+- **Sources:** PHB, page 258

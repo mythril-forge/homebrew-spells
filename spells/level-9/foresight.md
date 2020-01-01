@@ -19,4 +19,4 @@ This spell immediately ends if you cast it again before its duration ends.
 
 ---
 
-**Sources:** PHB, page 244
+- **Sources:** PHB, page 244

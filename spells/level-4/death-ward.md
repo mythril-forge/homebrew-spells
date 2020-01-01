@@ -18,4 +18,4 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 ---
 
-**Sources:** PHB, page 230
+- **Sources:** PHB, page 230

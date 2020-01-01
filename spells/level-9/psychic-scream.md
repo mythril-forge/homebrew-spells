@@ -24,4 +24,4 @@ On a successful save, the stunning effect ends.
 
 ---
 
-**Sources:** XGE, page 163
+- **Sources:** XGE, page 163

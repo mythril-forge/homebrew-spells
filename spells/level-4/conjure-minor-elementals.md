@@ -31,4 +31,4 @@ When you cast this spell using certain higher-level spell slots, you choose one 
 
 ---
 
-**Sources:** PHB, page 226
+- **Sources:** PHB, page 226

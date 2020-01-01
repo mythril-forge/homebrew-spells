@@ -25,4 +25,4 @@ If expelled, you fall **prone** in an unoccupied space closest to the point wher
 
 ---
 
-**Sources:** PHB, page 259
+- **Sources:** PHB, page 259

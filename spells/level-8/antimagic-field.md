@@ -54,4 +54,4 @@ Likewise, the spheres created by different [*antimagic field*](./antimagic-field
 
 ---
 
-**Sources:** PHB, page 213
+- **Sources:** PHB, page 213

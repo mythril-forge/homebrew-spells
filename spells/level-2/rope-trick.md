@@ -25,6 +25,5 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 ---
 
-**Sources:** PHB, page 272
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 272
+- **Quality Assurance:** :sparkles: coming along

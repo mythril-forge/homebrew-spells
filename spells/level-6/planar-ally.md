@@ -39,4 +39,4 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 
 ---
 
-**Sources:** PHB, page 265
+- **Sources:** PHB, page 265

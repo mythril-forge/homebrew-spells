@@ -23,4 +23,4 @@ The creatures must be within 30 feet of each other when you target them.
 
 ---
 
-**Sources:** PHB, page 251
+- **Sources:** PHB, page 251

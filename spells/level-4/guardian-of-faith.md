@@ -19,4 +19,4 @@ The guardian vanishes when it has dealt a total of 60 damage.
 
 ---
 
-**Sources:** PHB, page 246
+- **Sources:** PHB, page 246

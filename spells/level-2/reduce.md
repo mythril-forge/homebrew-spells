@@ -37,7 +37,5 @@ If there isn't enough room for the target to increase its size when this spell e
 ---
 
 **Subraces:** dwarf (duergar)
-
-**Sources:** PHB, page 237
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 237
+- **Quality Assurance:** :sparkles: coming along

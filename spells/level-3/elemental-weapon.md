@@ -21,6 +21,5 @@ When you cast this spell using a spell slot of 4th level or higher, the extra da
 
 ---
 
-**Sources:** PHB, page 237
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 237
+- **Quality Assurance:** :sparkles: modified but not perfected

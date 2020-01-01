@@ -60,4 +60,4 @@ If you cast the spell again using the same component, the target of the first ca
 
 ---
 
-**Sources:** PHB, page 252
+- **Sources:** PHB, page 252

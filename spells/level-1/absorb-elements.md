@@ -17,6 +17,5 @@ These temporary hit points last until the start of your next turn.
 
 ---
 
-**Sources:** XGE, page 150
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** XGE, page 150
+- **Quality Assurance:** :star: personal pass

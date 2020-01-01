@@ -19,6 +19,5 @@ You don't learn the location of a trap, but you do learn the general nature of t
 
 ---
 
-**Sources:** PHB, page 241
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 241
+- **Quality Assurance:** :x: relatively unchanged

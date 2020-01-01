@@ -19,4 +19,4 @@ This spell ends once you use its healing properties twelve times.
 
 ---
 
-**Sources:** PHB, page 216
+- **Sources:** PHB, page 216

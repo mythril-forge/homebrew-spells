@@ -21,6 +21,5 @@ Another creature might seek retribution in other ways, depending on the nature o
 
 ---
 
-**Sources:** PHB, page 244
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** PHB, page 244
+- **Quality Assurance:** :star2: consistency pass

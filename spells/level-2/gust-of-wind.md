@@ -29,6 +29,5 @@ It causes protected flames, such as those of lanterns, to dance wildly and has a
 
 ---
 
-**Sources:** PHB, page 248
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 248
+- **Quality Assurance:** :star: personal pass

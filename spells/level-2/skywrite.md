@@ -17,6 +17,5 @@ A strong wind can disperse the clouds and end the spell early.
 
 ---
 
-**Sources:** XGE, page 165
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** XGE, page 165
+- **Quality Assurance:** :x: relatively unchanged

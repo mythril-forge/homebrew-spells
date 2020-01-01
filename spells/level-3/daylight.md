@@ -24,4 +24,4 @@ A creature can repeat the Saving Throw at the end of each of its turns, ending t
 
 ---
 
-**Sources:** PHB, page 230
+- **Sources:** PHB, page 230

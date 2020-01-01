@@ -26,4 +26,4 @@ The target can't attack or cast spells.
 
 ---
 
-**Sources:** PHB, page 244
+- **Sources:** PHB, page 244

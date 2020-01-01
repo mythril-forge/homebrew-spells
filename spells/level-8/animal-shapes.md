@@ -28,4 +28,4 @@ The target can't activate, wield, or otherwise benefit from any of its equipment
 
 ---
 
-**Sources:** PHB, page 212
+- **Sources:** PHB, page 212

@@ -32,4 +32,4 @@ When you use a spell slot of 7th level or higher, the duration is concentration,
 
 ---
 
-**Sources:** PHB, page 234
+- **Sources:** PHB, page 234

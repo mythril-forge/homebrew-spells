@@ -24,4 +24,4 @@ The water then spreads out across the ground in all directions, extinguishing un
 
 ---
 
-**Sources:** XGE, page 168
+- **Sources:** XGE, page 168

@@ -28,4 +28,4 @@ When you cast this spell using a spell slot of a higher level, the duration incr
 
 ---
 
-**Sources:** PHB, page 265
+- **Sources:** PHB, page 265

@@ -58,6 +58,5 @@ When your familiar drops to 0 hit points, the animal dies, and your companion sp
 
 ---
 
-**Sources:** PHB, page 240
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 240
+- **Quality Assurance:** :star: personal pass

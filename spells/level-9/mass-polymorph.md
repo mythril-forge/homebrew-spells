@@ -33,4 +33,4 @@ The target can't activate, use, wield, or otherwise benefit from any of its equi
 
 ---
 
-**Sources:** XGE, page 160
+- **Sources:** XGE, page 160

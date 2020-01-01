@@ -21,6 +21,5 @@ It also ends if the spell is cast again on either of the connected creatures.
 
 ---
 
-**Sources:** PHB, page 287
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 287
+- **Quality Assurance:** :sparkles: coming along

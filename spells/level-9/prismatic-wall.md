@@ -72,4 +72,4 @@ If it fails that save, the creature is transported to another plane of the DM's 
 
 ---
 
-**Sources:** PHB, page 267
+- **Sources:** PHB, page 267

@@ -25,6 +25,5 @@ For example, you could instruct the mouth to speak when any creature moves withi
 
 ---
 
-**Sources:** PHB, page 257
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** PHB, page 257
+- **Quality Assurance:** :x: relatively unchanged

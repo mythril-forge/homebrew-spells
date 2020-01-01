@@ -20,4 +20,4 @@ Additionally, if you know the nature and contents of a demiplane created by a ca
 
 ---
 
-**Sources:** PHB, page 231
+- **Sources:** PHB, page 231

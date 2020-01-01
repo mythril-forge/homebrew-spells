@@ -19,4 +19,4 @@ When you cast this spell using a spell slot of 4th level or higher, the healing 
 
 ---
 
-**Sources:** PHB, page 258
+- **Sources:** PHB, page 258

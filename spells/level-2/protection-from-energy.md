@@ -19,6 +19,5 @@ When you cast this spell using a spell slot of 4th level or higher, you can targ
 
 ---
 
-**Sources:** PHB, page 270
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** PHB, page 270
+- **Quality Assurance:** :sparkles: coming along

@@ -18,8 +18,6 @@ When you cast this spell using a spell slot of 1st level or higher, the damage i
 
 ---
 
-**Sources:** UA-SW, page 4; STREAM
-
-**References:** mind sliver, mind strike
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** UA-SW, page 4; STREAM
+- **References:** mind sliver, mind strike
+- **Quality Assurance:** :star: personal pass

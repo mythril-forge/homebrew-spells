@@ -21,4 +21,4 @@ If the target is moved out of the illusion, makes a Melee Attack through it, or 
 
 ---
 
-**Sources:** XGE, page 161
+- **Sources:** XGE, page 161

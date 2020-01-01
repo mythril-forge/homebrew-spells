@@ -25,4 +25,4 @@ If the spell ends and the larger chest is on the Ethereal Plane, it is irretriev
 
 ---
 
-**Sources:** PHB, page 254
+- **Sources:** PHB, page 254

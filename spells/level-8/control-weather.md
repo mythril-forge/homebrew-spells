@@ -53,4 +53,4 @@ When changing the wind, you can change its direction.
 
 ---
 
-**Sources:** PHB, page 228
+- **Sources:** PHB, page 228

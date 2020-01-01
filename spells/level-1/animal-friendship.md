@@ -24,6 +24,5 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ---
 
-**Sources:** PHB, page 212
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 212
+- **Quality Assurance:** :star: personal pass

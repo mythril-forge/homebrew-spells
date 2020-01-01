@@ -29,6 +29,5 @@ The wind has the following effects:
 
 ---
 
-**Sources:** XGE, page 170
-
-**Quality Assurance:** :sparkles: coming along
+- **Sources:** XGE, page 170
+- **Quality Assurance:** :sparkles: coming along

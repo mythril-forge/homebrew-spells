@@ -44,4 +44,4 @@ On a successful save, the creature takes half as much damage and doesn't fall **
 
 ---
 
-**Sources:** PHB, page 236
+- **Sources:** PHB, page 236

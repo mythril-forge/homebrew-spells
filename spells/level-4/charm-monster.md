@@ -22,4 +22,4 @@ The creatures must be within 30 feet of each other when you target them.
 
 ---
 
-**Sources:** XGE, page 151
+- **Sources:** XGE, page 151

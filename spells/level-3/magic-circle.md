@@ -32,6 +32,5 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 ---
 
-**Sources:** PHB, page 256
-
-**Quality Assurance:** :sparkles: modified but not perfected
+- **Sources:** PHB, page 256
+- **Quality Assurance:** :sparkles: modified but not perfected

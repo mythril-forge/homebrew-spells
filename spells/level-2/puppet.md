@@ -17,6 +17,5 @@ This spell has no effect on a humanoid that is immune to being **charmed**.
 
 ---
 
-**Sources:** UA-SS, page 3
-
-**Quality Assurance:** :x: relatively unchanged
+- **Sources:** UA-SS, page 3
+- **Quality Assurance:** :x: relatively unchanged

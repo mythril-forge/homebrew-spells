@@ -23,4 +23,4 @@ When you cast this spell using a spell slot of 6th level or higher, the fire dam
 
 ---
 
-**Sources:** PHB, page 242
+- **Sources:** PHB, page 242

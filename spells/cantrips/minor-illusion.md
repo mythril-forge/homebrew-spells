@@ -46,6 +46,5 @@ You decide what flavors the illusion evokes.
 
 ---
 
-**Sources:** PHB, page 260
-
-**Quality Assurance:** :star: personal pass
+- **Sources:** PHB, page 260
+- **Quality Assurance:** :star: personal pass

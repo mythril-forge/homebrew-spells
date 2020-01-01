@@ -17,6 +17,5 @@ This spell has no effect on undead or constructs.
 
 ---
 
-**Sources:** UA-SS, page 5
-
-**Quality Assurance:** :star2: consistency pass
+- **Sources:** UA-SS, page 5
+- **Quality Assurance:** :star2: consistency pass

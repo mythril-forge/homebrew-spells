@@ -26,4 +26,4 @@ When you cast this spell using a spell slot of 4th level or higher, the number o
 
 ---
 
-**Sources:** XGE, page 161
+- **Sources:** XGE, page 161
