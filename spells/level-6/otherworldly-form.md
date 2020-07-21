@@ -24,4 +24,4 @@ Uttering an incantation, you draw on the magic of the Lower Planes or Upper Plan
 
 ---
 - **Spell Lists:** Cleric, Sorcerer, Warlock, Wizard
-- **Sources:** (UA 2020)[https://media.wizards.com/2020/dnd/downloads/UA2020-SpellsTattoos.pdf]
+- **Sources:** [UA 2020](https://media.wizards.com/2020/dnd/downloads/UA2020-SpellsTattoos.pdf)
