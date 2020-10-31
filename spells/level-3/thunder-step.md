@@ -4,7 +4,7 @@
 ***3rd-level conjuration***
 - **Casting Time:** action
 - **Duration:** instantaneous
-- **Range:** touch
+- **Range:** 60 feet
 - **Instances:** 2
 - **Shape:** aura
 - **Radius:** 10 feet
